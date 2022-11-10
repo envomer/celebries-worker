@@ -35,9 +35,52 @@ type User struct {
 	DeletedAt     gorm.DeletedAt `gorm:"index" json:"-"`
 }
 
+// TMDB Movie
+type Movie struct {
+	ID uint `gorm:"primarykey" json:"id" json:"id,omitempty"`
+}
+
+type Genre struct {
+	ID     uint   `gorm:"primarykey" json:"id" json:"id,omitempty"`
+	TmdbID int    `json:"tmdb_id,omitempty"`
+	Name   string `json:"name,omitempty"`
+}
+
+type MovieGenre struct {
+	MovieID uint `gorm:"index" json:"movie_id,omitempty"`
+	GenreID uint `gorm:"index" json:"genre_id,omitempty"`
+}
+
+type MovieCast struct {
+	ID        uint   `gorm:"primarykey" json:"id" json:"id,omitempty"`
+	MovieID   uint   `gorm:"index" json:"movie_id,omitempty"`
+	Character string `json:"character,omitempty"`
+	Order     int    `json:"order,omitempty"`
+	// Person    *Person `gorm:"foreignKey:PersonID" json:"person,omitempty"`
+	PersonID uint `gorm:"index" json:"person_id,omitempty"`
+}
+
+type Person struct {
+	ID                 uint    `gorm:"primarykey" json:"id" json:"id,omitempty"`
+	TmdbID             int     `gorm:"index,unique" json:"tmdb_id,omitempty"`
+	Name               string  `json:"name,omitempty"`
+	Birthday           string  `json:"birthday,omitempty"`
+	Deathday           string  `json:"deathday,omitempty"`
+	PlaceOfBirth       string  `json:"place_of_birth,omitempty"`
+	ProfilePath        string  `json:"profile_path,omitempty"`
+	Adult              bool    `json:"adult,omitempty"`
+	KnownForDepartment string  `json:"known_for_department,omitempty"`
+	Popularity         float32 `json:"popularity"`
+}
+
 func Migrate() {
 	err := db.Db().AutoMigrate(
-		User{},
+		//User{},
+		//Movie{},
+		//Genre{},
+		//MovieGenre{},
+		//MovieCast{},
+		Person{},
 	)
 
 	if err != nil {

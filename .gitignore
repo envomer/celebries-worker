@@ -8,7 +8,6 @@ resources/tiles-new/*
 resources/tiles-new-*/*
 .DS_Store
 .idea
-db.db
 tmp
 manifest.json
 log.log
@@ -36,7 +35,6 @@ vendor
 cert.cert
 cert.key
 
-db.*.db
 
 database/db.sqlite
 
