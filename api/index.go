@@ -8,6 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"os/exec"
 )
 
 //go:embed db.db
@@ -16,6 +17,15 @@ var content embed.FS
 var log = logger.WebLog
 
 func Handler(w http.ResponseWriter, r *http.Request) {
+
+	//exec ls -lah
+	cmd := exec.Command("ls", "-lah")
+	out, err := cmd.Output()
+	if err != nil {
+		log.Error("Failed to execute command: %s", err)
+	}
+
+	fmt.Fprintf(w, string(out))
 
 	fmt.Fprintf(w, "<h1>Hello from Go!</h1>")
 
