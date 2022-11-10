@@ -1,6 +1,6 @@
 module any-days.com/celebs
 
-go 1.19
+go 1.18
 
 require (
 	github.com/evolidev/evoli v0.0.0-20221027183530-89dfdfc831a7
