@@ -1,0 +1,51 @@
+tiles
+resources/input/*\ copy*.jpeg
+resources/input copy/*
+resources/output
+resources/uploads
+resources/tiles-old
+resources/tiles-new/*
+resources/tiles-new-*/*
+.DS_Store
+.idea
+db.db
+tmp
+manifest.json
+log.log
+cron.log
+.fleet
+
+
+# Serverless directories
+.serverless
+
+# golang output binary directory
+bin
+
+# golang vendor (dependencies) directory
+vendor
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.env
+
+cert.cert
+cert.key
+
+db.*.db
+
+database/db.sqlite
+
+# Test binary, build with `go test -c`
+*.test
+tests/db.db
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Binaries
+tenmillion
