@@ -4,10 +4,14 @@ import (
 	"any-days.com/celebs/db"
 	"any-days.com/celebs/logger"
 	"any-days.com/celebs/model"
+	"embed"
 	"encoding/json"
 	"fmt"
 	"net/http"
 )
+
+//go:embed db.db
+var content embed.FS
 
 var log = logger.WebLog
 
