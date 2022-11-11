@@ -32,7 +32,7 @@ func mainConsole(c *evoli.Application) {
 	cli.AddCommand("info", "Serve webserver", info)
 	cli.AddCommand("db:migrate", "Migrate DB", migrate)
 
-	cli.AddCommand("people:fetch {--page=1}", "Fetch people from TMDB", fetchPeople)
+	cli.AddCommand("people:fetch {--page} {--limit}", "Fetch people from TMDB", fetchPeople)
 }
 
 func info(c *console.ParsedCommand) {
@@ -57,8 +57,9 @@ func fetchPeople(c *console.ParsedCommand) {
 	appLog.Debug("Fetch people...")
 
 	page := c.GetOptionWithDefault("page", "1").Integer()
+	limit := c.GetOptionWithDefault("limit", "1000").Integer()
 
-	tmdb.FetchPeople(page)
+	tmdb.FetchPeople(page, limit)
 
 	appLog.Debug("Took %s", start.ElapsedColored())
 }
