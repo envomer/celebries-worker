@@ -87,7 +87,8 @@ func SavePage(page int, response *tmdb.PersonPopular, err error) {
 		//}
 
 		person := &model.Person{
-			TmdbID:      int(p.ID),
+			//TmdbID:      int(p.ID),
+			ID:          uint(p.ID),
 			Name:        p.Name,
 			ProfilePath: p.ProfilePath,
 			Popularity:  p.Popularity,

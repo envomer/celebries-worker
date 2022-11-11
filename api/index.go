@@ -1,43 +1,73 @@
 package main
 
 import (
-	"any-days.com/celebs/db"
 	"any-days.com/celebs/logger"
-	"any-days.com/celebs/model"
-	"embed"
 	"encoding/json"
-	"fmt"
+	"github.com/evolidev/evoli/framework/filesystem"
+	"math/rand"
 	"net/http"
-	"os/exec"
 )
 
-//go:embed db.db
-var content embed.FS
+////go:embed db.db
+//var content embed.FS
 
 var log = logger.WebLog
 
+//func main() {
+//	http.HandleFunc("/", Handler)
+//	http.ListenAndServe(":8080", nil)
+//}
+
 func Handler(w http.ResponseWriter, r *http.Request) {
-
-	//exec ls -lah
-	cmd := exec.Command("ls", "-lah")
-	out, err := cmd.Output()
-	if err != nil {
-		log.Error("Failed to execute command: %s", err)
-	}
-
-	fmt.Fprintf(w, string(out))
-
-	fmt.Fprintf(w, "<h1>Hello from Go!</h1>")
-
 	GetRandomPeople(w, r)
 }
 
 func GetRandomPeople(w http.ResponseWriter, r *http.Request) {
-
-	var people []*model.Person
-	db.Db().Order("RANDOM()").Limit(10).Find(&people)
+	people := GetRandomPeopleMap(25, []int{})
 
 	toJson(w, people)
+}
+
+func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
+	if limit > 100 {
+		limit = 100
+	}
+
+	data := filesystem.Read("people.json")
+
+	people := make([]map[string]any, 0)
+	err := json.Unmarshal([]byte(data), &people)
+	if err != nil {
+		log.Error("Failed to unmarshal json: %s", err)
+	}
+
+	// randomize
+	for i := range people {
+		j := rand.Intn(i + 1)
+		people[i], people[j] = people[j], people[i]
+	}
+
+	excludeIds := make(map[int]bool)
+	for _, id := range exclude {
+		excludeIds[id] = true
+	}
+
+	filtered := []map[string]any{}
+	for i := 0; i < len(people); i++ {
+		id := int(people[i]["tmdb_id"].(float64))
+
+		if _, ok := excludeIds[id]; ok {
+			continue
+		}
+
+		if len(filtered) >= limit {
+			break
+		}
+
+		filtered = append(filtered, people[i])
+	}
+
+	return filtered
 }
 
 func toJson(w http.ResponseWriter, data interface{}) {
