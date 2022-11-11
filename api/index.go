@@ -2,14 +2,14 @@ package handler
 
 import (
 	"any-days.com/celebs/logger"
+	"embed"
 	"encoding/json"
-	"github.com/evolidev/evoli/framework/filesystem"
 	"math/rand"
 	"net/http"
 )
 
-////go:embed db.db
-//var content embed.FS
+//go:embed people.json
+var content embed.FS
 
 var log = logger.WebLog
 
@@ -35,19 +35,14 @@ func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
 
 	filePath := "people.json"
 
-	if !filesystem.Exists(filePath) {
-		filePath = "api/people.json"
-	}
-
-	if !filesystem.Exists(filePath) {
-		log.Error("File %s not found", filePath)
+	data, err := content.ReadFile(filePath)
+	if err != nil {
+		log.Error("Failed to read file: %s", err)
 		return nil
 	}
 
-	data := filesystem.Read(filePath)
-
 	people := make([]map[string]any, 0)
-	err := json.Unmarshal([]byte(data), &people)
+	err = json.Unmarshal([]byte(data), &people)
 	if err != nil {
 		log.Error("Failed to unmarshal json: %s", err)
 	}
