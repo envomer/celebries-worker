@@ -33,7 +33,13 @@ func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
 		limit = 100
 	}
 
-	data := filesystem.Read("people.json")
+	filePath := "people.json"
+	if !filesystem.Exists(filePath) {
+		log.Error("File %s not found", filePath)
+		return nil
+	}
+
+	data := filesystem.Read(filePath)
 
 	people := make([]map[string]any, 0)
 	err := json.Unmarshal([]byte(data), &people)
