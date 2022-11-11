@@ -7,6 +7,8 @@ import (
 	"fmt"
 	tmdb "github.com/cyruzin/golang-tmdb"
 	"github.com/evolidev/evoli/framework/filesystem"
+	"os"
+	"path/filepath"
 	"time"
 )
 
@@ -116,5 +118,28 @@ func SavePage(page int, response *tmdb.PersonPopular, err error) {
 }
 
 func FusePeople() {
+	// people
+	people := []map[string]any{}
+	// get all the files within data folder
+	filepath.Walk("data", func(path string, info os.FileInfo, err error) error {
+		if info.IsDir() {
+			return nil
+		}
 
+		data := filesystem.Read(path)
+		var p []map[string]any
+		json.Unmarshal([]byte(data), &p)
+		people = append(people, p...)
+
+		return nil
+	})
+
+	// save to people.json
+	jsonData, err := json.Marshal(people)
+	if err != nil {
+		log.Error("Failed to marshal people: %s", err)
+		return
+	}
+
+	filesystem.Write("api/people.json", string(jsonData))
 }
