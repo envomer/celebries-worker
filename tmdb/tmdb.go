@@ -7,6 +7,7 @@ import (
 	"fmt"
 	tmdb "github.com/cyruzin/golang-tmdb"
 	"github.com/evolidev/evoli/framework/filesystem"
+	"time"
 )
 
 const ApiKey = "9298b7e03f223cc27836c6d8e23fd5e0"
@@ -32,17 +33,36 @@ func FetchPeople(page, limit int) {
 	log.Debug("Fetch people from TMDB (page: %d)", page)
 	client := GetClient()
 
-	for i := page; i <= limit; i++ {
+	i := 1
+	totalPages := 500
+	for i <= limit {
+		log.Debug("Fetch page %d out of %d", i, totalPages)
 		response, err := client.GetPersonPopular(map[string]string{
-			"page": "1",
+			"page": fmt.Sprintf("%d", i),
 		})
 
 		if err != nil {
-			panic(err)
+			log.Error("Failed to fetch page %d: %s", i, err)
+			time.Sleep(5 * time.Second)
+			log.Debug("Retry page %d", i)
+			continue
 		}
 
-		log.Debug("Total pages: %d", response.TotalPages)
-		SavePage(page, response, err)
+		totalPages = int(response.TotalPages)
+		SavePage(i, response, err)
+
+		if i >= int(response.TotalPages) {
+			log.Debug("No more pages")
+			break
+		}
+
+		// sleep every 4 pages
+		if i%10 == 0 {
+			log.Debug("Sleeping for 2 seconds...")
+			time.Sleep(2 * time.Second)
+		}
+
+		i++
 	}
 
 	// get all tmdb ids from db
@@ -80,7 +100,7 @@ func SavePage(page int, response *tmdb.PersonPopular, err error) {
 		//	continue
 		//}
 
-		log.Debug("Person saved: %s (%d)", p.Name, p.ID)
+		//log.Debug("Person saved: %s (%d)", p.Name, p.ID)
 	}
 
 	jsonData, err := json.Marshal(actors)
@@ -88,7 +108,13 @@ func SavePage(page int, response *tmdb.PersonPopular, err error) {
 		panic(err)
 	}
 
+	// file id with 3 digits
+	fileId := fmt.Sprintf("%03d", page)
 	// save to page-1.json
-	file := fmt.Sprintf("data/page-%d.json", page)
+	file := fmt.Sprintf("data/page-%s.json", fileId)
 	filesystem.Write(file, string(jsonData))
+}
+
+func FusePeople() {
+
 }

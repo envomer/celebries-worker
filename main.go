@@ -33,6 +33,7 @@ func mainConsole(c *evoli.Application) {
 	cli.AddCommand("db:migrate", "Migrate DB", migrate)
 
 	cli.AddCommand("people:fetch {--page} {--limit}", "Fetch people from TMDB", fetchPeople)
+	cli.AddCommand("people:fuse", "Fuse people", fusePeople)
 }
 
 func info(c *console.ParsedCommand) {
@@ -60,6 +61,15 @@ func fetchPeople(c *console.ParsedCommand) {
 	limit := c.GetOptionWithDefault("limit", "1000").Integer()
 
 	tmdb.FetchPeople(page, limit)
+
+	appLog.Debug("Took %s", start.ElapsedColored())
+}
+
+func fusePeople(c *console.ParsedCommand) {
+	start := use.TimeRecord()
+	appLog.Debug("Fuse people...")
+
+	tmdb.FusePeople()
 
 	appLog.Debug("Took %s", start.ElapsedColored())
 }
