@@ -4,6 +4,8 @@ import (
 	"any-days.com/celebs/logger"
 	"embed"
 	"encoding/json"
+	"github.com/evolidev/evoli/framework/use"
+	"io"
 	"math/rand"
 	"net/http"
 )
@@ -19,11 +21,21 @@ var log = logger.WebLog
 //}
 
 func Handler(w http.ResponseWriter, r *http.Request) {
-	GetRandomPeople(w, r)
+	var exclude []int
+
+	body, err := io.ReadAll(r.Body)
+	if err != nil {
+		log.Error("Failed to read request body: %s", err)
+		return
+	}
+
+	use.JsonDecodeStruct(string(body), &exclude)
+
+	GetRandomPeople(w, r, exclude)
 }
 
-func GetRandomPeople(w http.ResponseWriter, r *http.Request) {
-	people := GetRandomPeopleMap(25, []int{})
+func GetRandomPeople(w http.ResponseWriter, r *http.Request, exclude []int) {
+	people := GetRandomPeopleMap(25, exclude)
 
 	toJson(w, people)
 }
@@ -60,7 +72,7 @@ func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
 
 	filtered := []map[string]any{}
 	for i := 0; i < len(people); i++ {
-		id := int(people[i]["tmdb_id"].(float64))
+		id := int(people[i]["id"].(float64))
 
 		if _, ok := excludeIds[id]; ok {
 			continue
