@@ -34,6 +34,11 @@ func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
 	}
 
 	filePath := "people.json"
+
+	if !filesystem.Exists(filePath) {
+		filePath = "api/people.json"
+	}
+
 	if !filesystem.Exists(filePath) {
 		log.Error("File %s not found", filePath)
 		return nil
