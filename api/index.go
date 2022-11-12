@@ -20,7 +20,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 	url := r.URL.Path
 
 	// handle request
-	if url == "/popular" {
+	if url == "/api/popular" {
 		popular(w, r)
 	} else {
 		w.WriteHeader(http.StatusNotFound)
