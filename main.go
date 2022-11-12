@@ -34,6 +34,7 @@ func mainConsole(c *evoli.Application) {
 
 	cli.AddCommand("people:fetch {--page} {--limit}", "Fetch people from TMDB", fetchPeople)
 	cli.AddCommand("people:fuse", "Fuse people", fusePeople)
+	cli.AddCommand("people:download-all", "Download all people from TMDB", downloadAllPeople)
 }
 
 func info(c *console.ParsedCommand) {
@@ -70,6 +71,15 @@ func fusePeople(c *console.ParsedCommand) {
 	appLog.Debug("Fuse people...")
 
 	tmdb.FusePeople()
+
+	appLog.Debug("Took %s", start.ElapsedColored())
+}
+
+func downloadAllPeople(c *console.ParsedCommand) {
+	start := use.TimeRecord()
+	appLog.Debug("Download all people...")
+
+	tmdb.DownloadAllPeople()
 
 	appLog.Debug("Took %s", start.ElapsedColored())
 }

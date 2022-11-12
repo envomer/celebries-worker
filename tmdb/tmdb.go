@@ -144,3 +144,13 @@ func FusePeople() {
 
 	filesystem.Write("api/people.json", string(jsonData))
 }
+
+func DownloadAllPeople() {
+	base := "https://files.tmdb.org/p/exports/person_ids_%02d_%02d_%04d.json.gz"
+	currentDay := time.Now().Day() - 1
+	currentMonth := time.Now().Month()
+	currentYear := time.Now().Year()
+	url := fmt.Sprintf(base, currentDay, currentMonth, currentYear)
+
+	log.Debug("Downloading people from %s", url)
+}

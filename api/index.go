@@ -15,12 +15,19 @@ var content embed.FS
 
 var log = logger.WebLog
 
-//func main() {
-//	http.HandleFunc("/", Handler)
-//	http.ListenAndServe(":8080", nil)
-//}
-
 func Handler(w http.ResponseWriter, r *http.Request) {
+	// read request url
+	url := r.URL.Path
+
+	// handle request
+	if url == "/popular" {
+		popular(w, r)
+	} else {
+		w.WriteHeader(http.StatusNotFound)
+	}
+}
+
+func popular(w http.ResponseWriter, r *http.Request) {
 	var exclude []int
 
 	body, err := io.ReadAll(r.Body)
@@ -70,7 +77,7 @@ func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
 		excludeIds[id] = true
 	}
 
-	filtered := []map[string]any{}
+	var filtered []map[string]any
 	for i := 0; i < len(people); i++ {
 		id := int(people[i]["id"].(float64))
 
