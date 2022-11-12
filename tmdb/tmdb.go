@@ -2,11 +2,10 @@ package tmdb
 
 import (
 	"any-days.com/celebs/logger"
-	"any-days.com/celebs/model"
 	"encoding/json"
 	"fmt"
-	tmdb "github.com/cyruzin/golang-tmdb"
 	"github.com/evolidev/evoli/framework/filesystem"
+	"net/http"
 	"os"
 	"path/filepath"
 	"time"
@@ -14,34 +13,32 @@ import (
 
 const ApiKey = "9298b7e03f223cc27836c6d8e23fd5e0"
 
-var _client *tmdb.Client
 var log = logger.AppLog
 
-func GetClient() *tmdb.Client {
-	if _client != nil {
-		return _client
-	}
+type Person struct {
+	ID                 int     `json:"id"`
+	Name               string  `json:"name"`
+	ProfilePath        string  `json:"profile_path"`
+	Popularity         float64 `json:"popularity"`
+	Adult              bool    `json:"adult"`
+	KnownForDepartment string  `json:"known_for_department"`
+}
 
-	c, err := tmdb.Init(ApiKey)
-	if err != nil {
-		panic(err)
-	}
-
-	_client = c
-	return _client
+type PeopleResponse struct {
+	Page         int       `json:"page"`
+	TotalResults int       `json:"total_results"`
+	TotalPages   int       `json:"total_pages"`
+	Results      []*Person `json:"results"`
 }
 
 func FetchPeople(page, limit int) {
 	log.Debug("Fetch people from TMDB (page: %d)", page)
-	client := GetClient()
 
 	i := 1
 	totalPages := 500
 	for i <= limit {
 		log.Debug("Fetch page %d out of %d", i, totalPages)
-		response, err := client.GetPersonPopular(map[string]string{
-			"page": fmt.Sprintf("%d", i),
-		})
+		response, err := GetPopularPeople(i)
 
 		if err != nil {
 			log.Error("Failed to fetch page %d: %s", i, err)
@@ -78,35 +75,26 @@ func FetchPeople(page, limit int) {
 
 }
 
-func SavePage(page int, response *tmdb.PersonPopular, err error) {
-	actors := []*model.Person{}
-	for _, p := range response.Results {
-		//if _, ok := ids[int(p.ID)]; ok {
-		//	log.Debug("Person already exists: %s (%d)", p.Name, p.ID)
-		//	continue
-		//}
-
-		person := &model.Person{
-			//TmdbID:      int(p.ID),
-			ID:          uint(p.ID),
-			Name:        p.Name,
-			ProfilePath: p.ProfilePath,
-			Popularity:  p.Popularity,
-			Adult:       p.Adult,
-		}
-
-		actors = append(actors, person)
-
-		//result := db.Db().Save(person)
-		//if result.Error != nil {
-		//	log.Error("Failed to save person %s (%d): %s", p.Name, p.ID, result.Error)
-		//	continue
-		//}
-
-		//log.Debug("Person saved: %s (%d)", p.Name, p.ID)
+func GetPopularPeople(page int) (*PeopleResponse, error) {
+	url := fmt.Sprintf("https://api.themoviedb.org/3/person/popular?api_key=%s&language=en-US&page=%d", ApiKey, page)
+	response, err := http.Get(url)
+	if err != nil {
+		return nil, err
 	}
 
-	jsonData, err := json.Marshal(actors)
+	defer response.Body.Close()
+
+	var data *PeopleResponse
+	err = json.NewDecoder(response.Body).Decode(&data)
+	if err != nil {
+		return nil, err
+	}
+
+	return data, nil
+}
+
+func SavePage(page int, response *PeopleResponse, err error) {
+	jsonData, err := json.Marshal(response.Results)
 	if err != nil {
 		panic(err)
 	}
