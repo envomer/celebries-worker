@@ -5,7 +5,9 @@ import (
 	"embed"
 	"encoding/json"
 	"github.com/evolidev/evoli/framework/use"
+	"github.com/spf13/cast"
 	"io"
+	"math"
 	"math/rand"
 	"net/http"
 )
@@ -36,18 +38,19 @@ func popular(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	limit := cast.ToInt(r.URL.Query().Get("limit"))
+	if limit == 0 || limit > 100 {
+		limit = 100
+	}
+
 	use.JsonDecodeStruct(string(body), &exclude)
 
-	GetRandomPeople(w, r, exclude)
-}
-
-func GetRandomPeople(w http.ResponseWriter, r *http.Request, exclude []int) {
-	people := GetRandomPeopleMap(25, exclude)
+	people := GetRandomPeopleMap(limit, exclude)
 
 	toJson(w, people)
 }
 
-func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
+func GetRandomPeopleMap(limit int, exclude []int) map[string]any {
 	if limit > 100 {
 		limit = 100
 	}
@@ -92,7 +95,13 @@ func GetRandomPeopleMap(limit int, exclude []int) []map[string]any {
 		filtered = append(filtered, people[i])
 	}
 
-	return filtered
+	totalResults := len(people) - len(exclude)
+	return map[string]any{
+		"results":       filtered,
+		"total_results": totalResults,
+		"page":          1,
+		"total_pages":   math.Ceil(float64(totalResults / limit)),
+	}
 }
 
 func toJson(w http.ResponseWriter, data interface{}) {
