@@ -16,14 +16,14 @@ var content embed.FS
 var log = logger.WebLog
 
 func Handler(w http.ResponseWriter, r *http.Request) {
-	// read request url
-	url := r.URL.Path
+	// get param page from url
+	page := r.URL.Query().Get("page")
 
 	// handle request
-	if url == "/api/popular" {
+	if page == "popular" {
 		popular(w, r)
 	} else {
-		w.WriteHeader(http.StatusNotFound)
+		http.NotFound(w, r)
 	}
 }
 
