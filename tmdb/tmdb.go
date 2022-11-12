@@ -108,7 +108,7 @@ func SavePage(page int, response *PeopleResponse, err error) {
 
 func FusePeople() {
 	// people
-	people := []map[string]any{}
+	var people []*Person
 	// get all the files within data folder
 	filepath.Walk("data", func(path string, info os.FileInfo, err error) error {
 		if info.IsDir() {
@@ -116,9 +116,9 @@ func FusePeople() {
 		}
 
 		data := filesystem.Read(path)
-		var p []map[string]any
+		var p *PeopleResponse
 		json.Unmarshal([]byte(data), &p)
-		people = append(people, p...)
+		people = append(people, p.Results...)
 
 		return nil
 	})
