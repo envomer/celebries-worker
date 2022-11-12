@@ -61,15 +61,15 @@ type MovieCast struct {
 }
 
 type Person struct {
-	ID                 uint    `gorm:"primarykey" json:"id" json:"id,omitempty"`
-	TmdbID             int     `gorm:"index,unique" json:"tmdb_id,omitempty"`
-	Name               string  `json:"name,omitempty"`
-	Birthday           string  `json:"birthday,omitempty"`
-	Deathday           string  `json:"deathday,omitempty"`
-	PlaceOfBirth       string  `json:"place_of_birth,omitempty"`
-	ProfilePath        string  `json:"profile_path,omitempty"`
-	Adult              bool    `json:"adult,omitempty"`
-	KnownForDepartment string  `json:"known_for_department,omitempty"`
+	ID                 uint    `gorm:"primarykey" json:"id" json:"id"`
+	TmdbID             int     `gorm:"index,unique" json:"tmdb_id"`
+	Name               string  `json:"name"`
+	Birthday           string  `json:"birthday"`
+	Deathday           string  `json:"deathday"`
+	PlaceOfBirth       string  `json:"place_of_birth"`
+	ProfilePath        string  `json:"profile_path"`
+	Adult              bool    `json:"adult"`
+	KnownForDepartment string  `json:"known_for_department"`
 	Popularity         float32 `json:"popularity"`
 }
 
