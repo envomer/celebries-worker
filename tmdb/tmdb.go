@@ -94,15 +94,15 @@ func GetPopularPeople(page int) (*PeopleResponse, error) {
 }
 
 func SavePage(page int, response *PeopleResponse, err error) {
-	jsonData, err := json.Marshal(response.Results)
+	jsonData, err := json.MarshalIndent(response, "", "  ")
 	if err != nil {
 		panic(err)
 	}
 
 	// file id with 3 digits
 	fileId := fmt.Sprintf("%03d", page)
-	// save to page-1.json
 	file := fmt.Sprintf("data/page-%s.json", fileId)
+
 	filesystem.Write(file, string(jsonData))
 }
 
