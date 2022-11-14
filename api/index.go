@@ -30,7 +30,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func popular(w http.ResponseWriter, r *http.Request) {
-	var exclude []int
+	var exclude []string
 
 	body, err := io.ReadAll(r.Body)
 	if err != nil {
@@ -50,7 +50,7 @@ func popular(w http.ResponseWriter, r *http.Request) {
 	toJson(w, people)
 }
 
-func GetRandomPeopleMap(limit int, exclude []int) map[string]any {
+func GetRandomPeopleMap(limit int, exclude []string) map[string]any {
 	if limit > 100 {
 		limit = 100
 	}
@@ -77,7 +77,7 @@ func GetRandomPeopleMap(limit int, exclude []int) map[string]any {
 
 	excludeIds := make(map[int]bool)
 	for _, id := range exclude {
-		excludeIds[id] = true
+		excludeIds[cast.ToInt(id)] = true
 	}
 
 	var filtered []map[string]any

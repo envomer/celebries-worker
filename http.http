@@ -1,0 +1,10 @@
+// Send post request to localhost:8080
+POST http://localhost:8080/?page=popular
+
+Content-Type: application/json
+
+{
+  "exclude": ["1280334"]
+}
+
+// Send post request to localhost:8080 with body

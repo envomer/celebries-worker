@@ -1,6 +1,7 @@
 package main
 
 import (
+	//"any-days.com/celebs/api"
 	"any-days.com/celebs/db"
 	"any-days.com/celebs/logger"
 	"any-days.com/celebs/model"
@@ -8,6 +9,8 @@ import (
 	"github.com/evolidev/evoli"
 	"github.com/evolidev/evoli/framework/console"
 	"github.com/evolidev/evoli/framework/use"
+	"github.com/julienschmidt/httprouter"
+	"net/http"
 )
 
 var appLog = logger.AppLog
@@ -42,7 +45,16 @@ func info(c *console.ParsedCommand) {
 }
 
 func webServer(c *console.ParsedCommand) {
+	server := httprouter.Router{}
 
+	server.POST("/", func(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
+		//api.Handler(w, r)
+
+	})
+
+	port := c.GetOptionWithDefault("port", "8080").String()
+
+	panic(http.ListenAndServe(":"+port, &server))
 }
 
 func migrate(c *console.ParsedCommand) {
