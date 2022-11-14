@@ -10,6 +10,7 @@ import (
 	"math"
 	"math/rand"
 	"net/http"
+	"strings"
 )
 
 //go:embed people.json
@@ -30,7 +31,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func popular(w http.ResponseWriter, r *http.Request) {
-	var exclude []string
+	var exclude string
 
 	body, err := io.ReadAll(r.Body)
 	if err != nil {
@@ -45,7 +46,10 @@ func popular(w http.ResponseWriter, r *http.Request) {
 
 	use.JsonDecodeStruct(string(body), &exclude)
 
-	people := GetRandomPeopleMap(limit, exclude)
+	// explode exclude string
+	excludeString := strings.Split(exclude, ",")
+
+	people := GetRandomPeopleMap(limit, excludeString)
 
 	toJson(w, people)
 }
