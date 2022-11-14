@@ -31,7 +31,9 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func popular(w http.ResponseWriter, r *http.Request) {
-	var exclude string
+	var request struct {
+		Exclude string `json:"exclude"`
+	}
 
 	body, err := io.ReadAll(r.Body)
 	if err != nil {
@@ -44,10 +46,10 @@ func popular(w http.ResponseWriter, r *http.Request) {
 		limit = 100
 	}
 
-	use.JsonDecodeStruct(string(body), &exclude)
+	use.JsonDecodeStruct(string(body), &request)
 
 	// explode exclude string
-	excludeString := strings.Split(exclude, ",")
+	excludeString := strings.Split(request.Exclude, ",")
 
 	people := GetRandomPeopleMap(limit, excludeString)
 
