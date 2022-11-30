@@ -8,7 +8,6 @@ import (
 	"github.com/spf13/cast"
 	"io"
 	"math"
-	"math/rand"
 	"net/http"
 	"strings"
 )
@@ -76,10 +75,10 @@ func GetRandomPeopleMap(limit int, exclude []string) map[string]any {
 	}
 
 	// randomize
-	for i := range people {
-		j := rand.Intn(i + 1)
-		people[i], people[j] = people[j], people[i]
-	}
+	//for i := range people {
+	//	j := rand.Intn(i + 1)
+	//	people[i], people[j] = people[j], people[i]
+	//}
 
 	excludeIds := make(map[int]bool)
 	for _, id := range exclude {
