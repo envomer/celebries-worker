@@ -124,7 +124,7 @@ func FusePeople() {
 	})
 
 	// save to people.json
-	jsonData, err := json.Marshal(people)
+	jsonData, err := json.MarshalIndent(people, "", "  ")
 	if err != nil {
 		log.Error("Failed to marshal people: %s", err)
 		return
