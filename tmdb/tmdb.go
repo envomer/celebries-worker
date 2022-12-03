@@ -111,6 +111,8 @@ func FusePeople() {
 	var people []*Person
 	var exludedIds = map[int]bool{
 		1907997: true,
+		2948828: true,
+		2710789: true,
 	}
 	// get all the files within data folder
 	filepath.Walk("data", func(path string, info os.FileInfo, err error) error {
