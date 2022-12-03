@@ -113,6 +113,13 @@ func FusePeople() {
 		1907997: true,
 		2948828: true,
 		2710789: true,
+		2590519: true,
+		2472212: true,
+		1468490: true,
+		1708576: true,
+		3030333: true,
+		2349944: true,
+		3371806: true,
 	}
 	// get all the files within data folder
 	filepath.Walk("data", func(path string, info os.FileInfo, err error) error {
