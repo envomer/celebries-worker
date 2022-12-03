@@ -109,6 +109,9 @@ func SavePage(page int, response *PeopleResponse, err error) {
 func FusePeople() {
 	// people
 	var people []*Person
+	var exludedIds = map[int]bool{
+		1907997: true,
+	}
 	// get all the files within data folder
 	filepath.Walk("data", func(path string, info os.FileInfo, err error) error {
 		if info.IsDir() {
@@ -118,7 +121,16 @@ func FusePeople() {
 		data := filesystem.Read(path)
 		var p *PeopleResponse
 		json.Unmarshal([]byte(data), &p)
-		people = append(people, p.Results...)
+
+		// add people to the list
+		for _, person := range p.Results {
+			if _, ok := exludedIds[person.ID]; ok {
+				continue
+			}
+			people = append(people, person)
+		}
+
+		//people = append(people, p.Results...)
 
 		return nil
 	})
