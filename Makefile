@@ -13,4 +13,4 @@ update:
 	git add data/*.json
 	git add api/*.json
 	git commit -m "Update data"
-	git push
+	git push origin main
