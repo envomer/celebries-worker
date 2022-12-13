@@ -7,3 +7,10 @@ fuse:
 build:
 	make fetch
 	make fuse
+
+update:
+	make build
+	git add data/*.json
+	git add api/*.json
+	git commit -m "Update data"
+	git push
