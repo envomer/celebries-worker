@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1875833,
+      "name": "Nancy Jewel McDonie",
+      "profile_path": "/pA6593FTZhNUgGPdNxBoLcNlCxn.jpg",
+      "popularity": 14.204,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 11318,
       "name": "Holland Taylor",
       "profile_path": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg",
-      "popularity": 14.204,
+      "popularity": 11.061,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 7404,
       "name": "Sarah Silverman",
       "profile_path": "/vgNBorEu5VDpjy9WmxWeH0Yoo37.jpg",
-      "popularity": 14.186,
+      "popularity": 15.056,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 77234,
       "name": "Priyanka Chopra Jonas",
       "profile_path": "/stEZxIVAWFlrifbWkeULsD4LHnf.jpg",
-      "popularity": 14.182,
+      "popularity": 19.055,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 190895,
       "name": "Sarah Gadon",
       "profile_path": "/lNTuaaBaSxBHYcezJUGuH4lxq9w.jpg",
-      "popularity": 14.181,
+      "popularity": 19.853,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 18025,
       "name": "Ben Miller",
       "profile_path": "/ij5nhtBWhCaOl4IEn8XhOYAGqB1.jpg",
-      "popularity": 14.181,
+      "popularity": 15.854,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 4385,
       "name": "Sergio Leone",
       "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
-      "popularity": 14.176,
+      "popularity": 19.846,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +63,7 @@
       "id": 55470,
       "name": "Dominic Cooper",
       "profile_path": "/bz2nzQ1lDiu62R0e4GOncuq1hIk.jpg",
-      "popularity": 14.172,
+      "popularity": 14.252,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 74289,
       "name": "Amanda Righetti",
       "profile_path": "/glAhErOplmToSjCf5QB8mjAnuXt.jpg",
-      "popularity": 14.171,
+      "popularity": 14.651,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1896,
       "name": "Don Cheadle",
       "profile_path": "/bynmDXiegMDjttb6x7I3ye2bCO1.jpg",
-      "popularity": 14.171,
+      "popularity": 13.051,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 206,
       "name": "Jim Carrey",
       "profile_path": "/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg",
-      "popularity": 14.165,
+      "popularity": 19.831,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 25872,
       "name": "Laura Harris",
       "profile_path": "/f6Rsq2C9k87loUH6ZuM0zWGuIQo.jpg",
-      "popularity": 14.163,
+      "popularity": 19.828,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 29512,
       "name": "Gerald McRaney",
       "profile_path": "/wT7WK9T3ZS3tQTbzPzH9RR1m6NR.jpg",
-      "popularity": 14.162,
+      "popularity": 19.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 90498,
       "name": "Devon Bostick",
       "profile_path": "/lFzX6PUk4021NK5gRWQa30UdEqZ.jpg",
-      "popularity": 14.157,
+      "popularity": 16.647,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 59017,
       "name": "Jurnee Smollett",
       "profile_path": "/ohvV70Ar4rlL5I3WzxQGtRjpsgS.jpg",
-      "popularity": 14.157,
+      "popularity": 18.647,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 27397,
       "name": "Anton Lesser",
       "profile_path": "/rKDn8ZHuIxl4Z3LLbUxvHdCOk0U.jpg",
-      "popularity": 14.154,
+      "popularity": 19.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 7036,
       "name": "Eric Stoltz",
       "profile_path": "/p9ZBOGVpIFgtywjgHqRkJsZEG18.jpg",
-      "popularity": 14.153,
+      "popularity": 13.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 937348,
       "name": "İbrahim Çelikkol",
       "profile_path": "/fNeSyjRkUsujLsBNvcBnUYX97Qw.jpg",
-      "popularity": 14.151,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 52605,
-      "name": "Eva Longoria",
-      "profile_path": "/ywz9n9lVkxUklJKUHDQxENAVOek.jpg",
-      "popularity": 14.147,
+      "popularity": 17.845,
       "adult": false,
       "known_for_department": "Acting"
     }

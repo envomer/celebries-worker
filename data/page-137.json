@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 19426,
+      "name": "Jackie Coogan",
+      "profile_path": "/l9wiXgf7kLiuxgArVVeOqgPYHrm.jpg",
+      "popularity": 13.057,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 88496,
+      "name": "Charlie Ray",
+      "profile_path": "/z1CwJ823pIHO9UQihGmWi6v7w4j.jpg",
+      "popularity": 16.125,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 61114,
       "name": "Kate Walsh",
       "profile_path": "/z2o4tml3ClbrcJ2ZYtqdtYJcsEY.jpg",
-      "popularity": 11.512,
+      "popularity": 15.454,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 35690,
       "name": "Shawn Wayans",
       "profile_path": "/Cat25uXhB680QLmvg9Tu16W563.jpg",
-      "popularity": 11.512,
+      "popularity": 15.454,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 781,
       "name": "Paul Reiser",
       "profile_path": "/v3e5TClep4ugMdU4qSRiKbvLr3B.jpg",
-      "popularity": 11.51,
+      "popularity": 16.114,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 51936,
       "name": "Lindy Booth",
       "profile_path": "/5vT2mIIGTM7XQx4utAyRjW1aRPW.jpg",
-      "popularity": 11.503,
+      "popularity": 11.451,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 2482,
       "name": "David O'Hara",
       "profile_path": "/uxKK3U61hSpJuw0YdGmkiAoPSVz.jpg",
-      "popularity": 11.497,
+      "popularity": 11.849,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 54865,
       "name": "Jeff Kober",
       "profile_path": "/rSHfqqDdNCBbia04NqxIB2U19wM.jpg",
-      "popularity": 11.494,
+      "popularity": 12.248,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 892734,
       "name": "Tiera Skovbye",
       "profile_path": "/pn3KpYr1qfSz4Gcl52lMB1lWsDH.jpg",
-      "popularity": 11.493,
+      "popularity": 15.448,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 25934,
       "name": "David Boreanaz",
       "profile_path": "/oO619MACIfz7YoPiIGXYOfamhOE.jpg",
-      "popularity": 11.491,
+      "popularity": 16.087,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 151263,
       "name": "T.J. Thyne",
       "profile_path": "/wzPGaDjzimfGjIpRg6NjN9eqJxL.jpg",
-      "popularity": 11.486,
+      "popularity": 11.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 34489,
       "name": "Eric Balfour",
       "profile_path": "/tqlyRVgkNYIePcunx4johOOxY8h.jpg",
-      "popularity": 11.481,
+      "popularity": 16.073,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 1248374,
       "name": "Takuya Eguchi",
       "profile_path": "/1quDVJq7x5mZMvZaIXeypQlDaRN.jpg",
-      "popularity": 11.48,
+      "popularity": 16.072,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 37203,
       "name": "Jason Beghe",
       "profile_path": "/hrTwOPWek7nkPJgFhh6inFu7vSS.jpg",
-      "popularity": 11.48,
+      "popularity": 11.844,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 17236,
       "name": "A.J. Cook",
       "profile_path": "/tvEjGDQVuu7jiOvWXwEU6tEE7NW.jpg",
-      "popularity": 11.477,
+      "popularity": 8.243,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 93031,
       "name": "Ryan McPartlin",
       "profile_path": "/v0vKYfoSVLBEGBZ2ldjm3cHJwf3.jpg",
-      "popularity": 11.476,
+      "popularity": 12.243,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 212,
       "name": "David Cross",
       "profile_path": "/psU22y9yP3uheVc4LWeHjLkeqEM.jpg",
-      "popularity": 11.476,
+      "popularity": 14.243,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 3361,
       "name": "George Sanders",
       "profile_path": "/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg",
-      "popularity": 11.475,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 39762,
-      "name": "Stefanie Powers",
-      "profile_path": "/oiTlbv7QC5qaF1BYTY6Qaij5rtq.jpg",
-      "popularity": 11.474,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1167956,
-      "name": "Kozue Tanaka",
-      "profile_path": "/zSgeEKCkHwFRkcD3k0UbRtUKfhN.jpg",
-      "popularity": 11.473,
+      "popularity": 16.065,
       "adult": false,
       "known_for_department": "Acting"
     }

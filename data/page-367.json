@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 11278,
+      "name": "Rupert Graves",
+      "profile_path": "/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg",
+      "popularity": 9.374,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1183237,
       "name": "Tan Kai",
       "profile_path": "/hVwVrNZmaEgdzsnrNqvJKqpxmdg.jpg",
-      "popularity": 6.695,
+      "popularity": 6.009,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 116315,
       "name": "Kari Wahlgren",
       "profile_path": "/9phhl0oubAKt8D50xLGAb81KPSb.jpg",
-      "popularity": 6.695,
+      "popularity": 9.373,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 7866,
       "name": "Robert Pastorelli",
       "profile_path": "/pXQSrVeE4hTIzQvH5eZ1PNTRuK0.jpg",
-      "popularity": 6.695,
+      "popularity": 9.373,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 169041,
       "name": "Claire Coffee",
       "profile_path": "/bSErhsBBnJnMI5UGPB8psGY4S9d.jpg",
-      "popularity": 6.694,
+      "popularity": 9.208,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 227430,
       "name": "Jin Se-yeon",
       "profile_path": "/tKeeLzPt47OkccfvbUxNwhNYbTW.jpg",
-      "popularity": 6.693,
+      "popularity": 9.37,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 180884,
       "name": "Rena Marlette Lesnar",
       "profile_path": "/wrqNL4O3n40ZaXyesB7ieVbMlDD.jpg",
-      "popularity": 6.692,
+      "popularity": 8.008,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 46929,
       "name": "Ivonne Coll",
       "profile_path": "/7cyzeWeX8zD4IwAUDfyE9BK8woY.jpg",
-      "popularity": 6.69,
+      "popularity": 9.366,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 33613,
       "name": "Sheryl Lee Ralph",
       "profile_path": "/6LlHj35zCnUVNaunPamsHvjQsB5.jpg",
-      "popularity": 6.688,
+      "popularity": 6.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1182590,
       "name": "Yukino Kishii",
       "profile_path": "/pCTnQZvzHpKCATa7QtDQu0xaY58.jpg",
-      "popularity": 6.686,
+      "popularity": 9.36,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 83489,
       "name": "Dicky Cheung Wai-Kin",
       "profile_path": "/b2a2h0Xz4pDk7B0WDFADvzc5S1g.jpg",
-      "popularity": 6.686,
+      "popularity": 8.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 15374,
       "name": "Leon Rippy",
       "profile_path": "/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg",
-      "popularity": 6.686,
+      "popularity": 9.36,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 936431,
       "name": "William Feng",
       "profile_path": "/9JDAchlzu5XMV4mkmdG7ERRgTQ7.jpg",
-      "popularity": 6.685,
+      "popularity": 5.206,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 190961,
       "name": "Patrick Garrow",
       "profile_path": "/gWu8E3zYnwBVa5zTZzQP3JO1uLI.jpg",
-      "popularity": 6.685,
+      "popularity": 6.406,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 66745,
       "name": "Emma Caulfield",
       "profile_path": "/tYQURD5pl4iGHjyA2yVwmmhaoPt.jpg",
-      "popularity": 6.685,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2381047,
-      "name": "Kim Hyun-mok",
-      "profile_path": "/jyB7cCJoVMPSU6hGxaMq7I0NBg2.jpg",
-      "popularity": 6.684,
+      "popularity": 6.006,
       "adult": false,
       "known_for_department": "Acting"
     }

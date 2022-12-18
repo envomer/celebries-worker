@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 57399,
+      "name": "Lesley-Anne Down",
+      "profile_path": "/wOVUqUYVzlXNeLnMD55EKYO9xVP.jpg",
+      "popularity": 12.493,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1284,
+      "name": "Noah Taylor",
+      "profile_path": "/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg",
+      "popularity": 10.093,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 80018,
       "name": "Rachel Skarsten",
       "profile_path": "/bgeqmHfkeFYMXaqr6ReSfN1TWOG.jpg",
-      "popularity": 10.97,
+      "popularity": 11.691,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 3491,
       "name": "Thomas Kretschmann",
       "profile_path": "/7M0P39a3CVA22dJyv5YQEkTThU7.jpg",
-      "popularity": 10.968,
+      "popularity": 15.355,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 52603,
       "name": "Alfonso Freeman",
       "profile_path": "/9H4wX5clEpFfD3SG2JPoGH3LIgV.jpg",
-      "popularity": 10.966,
+      "popularity": 15.352,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 921,
       "name": "Brigitte Nielsen",
       "profile_path": "/svkVYs5baeEs0m6YmhJwfoLl4aD.jpg",
-      "popularity": 10.966,
+      "popularity": 6.58,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 33355,
       "name": "Steve Bacic",
       "profile_path": "/aGEGpzzXuggaLCU0wTaVHbBdYYu.jpg",
-      "popularity": 10.963,
+      "popularity": 9.289,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 725,
       "name": "Jerry Orbach",
       "profile_path": "/36Bsh8VKClXn6diVnEbDLgniBF4.jpg",
-      "popularity": 10.963,
+      "popularity": 15.348,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 144160,
       "name": "Sean Bridgers",
       "profile_path": "/lG8vV5g49RML5WkaN6Mb3GnLgge.jpg",
-      "popularity": 10.958,
+      "popularity": 10.887,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 482044,
       "name": "Beth Behrs",
       "profile_path": "/weC4dku688I1aExh6UgQQUePcMr.jpg",
-      "popularity": 10.957,
+      "popularity": 9.687,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 32823,
       "name": "Gedeon Burkhard",
       "profile_path": "/oC2C7AEh5WUa7XShz7SMpuNwheP.jpg",
-      "popularity": 10.955,
+      "popularity": 11.287,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 34,
       "name": "Mykelti Williamson",
       "profile_path": "/8TnU8lT8uJp97vKi5AluaQFuTZI.jpg",
-      "popularity": 10.95,
+      "popularity": 15.33,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 57578,
       "name": "MyAnna Buring",
       "profile_path": "/boC5LKewKpz8zhtUmPScHfkSAlV.jpg",
-      "popularity": 10.948,
+      "popularity": 13.684,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 39125,
       "name": "Will Sasso",
       "profile_path": "/4F8p9Dg32WJl12ras7CzQzLFy2i.jpg",
-      "popularity": 10.941,
+      "popularity": 14.882,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 20376,
       "name": "Sarah Roemer",
       "profile_path": "/ktO3mPeLl8x5Vfrv9fQMYjeZ16Y.jpg",
-      "popularity": 10.941,
+      "popularity": 14.082,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 19163,
       "name": "Virginie Ledoyen",
       "profile_path": "/qhLgShLBmsIjOUyn7SPysA0Gogt.jpg",
-      "popularity": 10.94,
+      "popularity": 7.282,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 15655,
       "name": "Kim Darby",
       "profile_path": "/D8PCEhMTbXQVsBDFFJTC5FPmFk.jpg",
-      "popularity": 10.94,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 145245,
-      "name": "Caitlin Stasey",
-      "profile_path": "/8Cxs1enzkEsvIlfBaiuadsNTX8J.jpg",
-      "popularity": 10.938,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 24590,
-      "name": "Dominique Sanda",
-      "profile_path": "/7pgdyP7WDMLIzrlffs8fK5370IX.jpg",
-      "popularity": 10.934,
+      "popularity": 11.282,
       "adult": false,
       "known_for_department": "Acting"
     }

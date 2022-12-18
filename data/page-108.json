@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1214717,
+      "name": "James Hyde",
+      "profile_path": "/yXVBAL5h339cnSkjlZykS2Qsc9v.jpg",
+      "popularity": 8.682,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 4165,
       "name": "John Wayne",
       "profile_path": "/3fae5yOPtzgOboC0A9vmkvobnns.jpg",
-      "popularity": 12.935,
+      "popularity": 18.109,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 146750,
       "name": "George MacKay",
       "profile_path": "/80IQRdk9FIfkVJQB54Y7rZjNyDj.jpg",
-      "popularity": 12.933,
+      "popularity": 13.48,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 118616,
       "name": "Robert Sheehan",
       "profile_path": "/2rum1TvJyB13RMERueiH1MrBmjZ.jpg",
-      "popularity": 12.932,
+      "popularity": 14.68,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1181361,
       "name": "Luke Mitchell",
       "profile_path": "/7LFvkcJn2NqHu4pi2oLYfGqFJyz.jpg",
-      "popularity": 12.929,
+      "popularity": 12.279,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 11064,
       "name": "David Strathairn",
       "profile_path": "/fhkvTcrCDPTAclTnE7sqQS1NZKq.jpg",
-      "popularity": 12.925,
+      "popularity": 17.878,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 53122,
       "name": "Fran Drescher",
       "profile_path": "/kQzvZ4ksLunfs3QZQtzRhzLJPBY.jpg",
-      "popularity": 12.923,
+      "popularity": 13.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 204679,
       "name": "Emily Wickersham",
       "profile_path": "/oWxiSZFx4QO1VQZQFtLqzWKyiAK.jpg",
-      "popularity": 12.918,
+      "popularity": 14.275,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 10699,
       "name": "Samantha Bond",
       "profile_path": "/apo13y77RnKUWTjY1FsW1DcQdkY.jpg",
-      "popularity": 12.918,
+      "popularity": 17.875,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 2048,
       "name": "Gary Busey",
       "profile_path": "/rlWeUWouDHa82PAINfhYLz0e90W.jpg",
-      "popularity": 12.918,
+      "popularity": 13.075,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 936970,
       "name": "Julia Garner",
       "profile_path": "/ud1RXbvW70J89iqeic7no8olxvb.jpg",
-      "popularity": 12.915,
+      "popularity": 15.875,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 17773,
       "name": "Gabrielle Union",
       "profile_path": "/eUZdWvl4KShH6GBkNG5X6bJbniF.jpg",
-      "popularity": 12.915,
+      "popularity": 12.675,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1030513,
       "name": "Jack Quaid",
       "profile_path": "/nI6ULvUIxxajya5DeTxcCdV3cal.jpg",
-      "popularity": 12.914,
+      "popularity": 8.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 12949,
       "name": "Priscilla Presley",
       "profile_path": "/AkHLzziAPK1NVI5lfELYt6u0kRP.jpg",
-      "popularity": 12.902,
+      "popularity": 16.271,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 34759,
       "name": "Sterling Holloway",
       "profile_path": "/qZt4J4yj645Ted9C38DzwQiQZYc.jpg",
-      "popularity": 12.901,
+      "popularity": 18.061,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 54645,
       "name": "Nia Vardalos",
       "profile_path": "/mHRTesN4HdyR89cXHoEtT9k8pIq.jpg",
-      "popularity": 12.9,
+      "popularity": 18.06,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 50234,
       "name": "Donna Mills",
       "profile_path": "/9GbcmJlKxGM8OJFsg4FCVkEsxRd.jpg",
-      "popularity": 12.899,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 59153,
-      "name": "Robin Givens",
-      "profile_path": "/iF7JVhxEcDqXEVBKNdSK9Bfwz6W.jpg",
-      "popularity": 12.897,
+      "popularity": 18.059,
       "adult": false,
       "known_for_department": "Acting"
     }

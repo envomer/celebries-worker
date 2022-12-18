@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 23915,
+      "name": "Pat Morita",
+      "profile_path": "/urxkD8FV5ajhjiFTyVQlbECGyRI.jpg",
+      "popularity": 13.416,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 19299,
       "name": "Eamonn Walker",
       "profile_path": "/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg",
-      "popularity": 14.052,
+      "popularity": 11.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 119783,
       "name": "Joseph Mawle",
       "profile_path": "/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg",
-      "popularity": 14.031,
+      "popularity": 17.809,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 63764,
       "name": "Gustaf Skarsgård",
       "profile_path": "/oH2XSFil6ZHNg9HWur1ymwTLRX3.jpg",
-      "popularity": 14.019,
+      "popularity": 17.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 23458,
       "name": "Charlie Cox",
       "profile_path": "/jBHDZ8MA4I7krNQx4IfqdfPfleD.jpg",
-      "popularity": 14.017,
+      "popularity": 13.405,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 55084,
       "name": "Sean Faris",
       "profile_path": "/pYzNCtRlFXOpJRB3sZe6GWBTYDN.jpg",
-      "popularity": 14.014,
+      "popularity": 14.604,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 59219,
       "name": "Kyle Gallner",
       "profile_path": "/v7wfYXfakHyeNudiATORtlQ6mny.jpg",
-      "popularity": 14.011,
+      "popularity": 19.003,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 53184,
       "name": "Rick Gonzalez",
       "profile_path": "/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg",
-      "popularity": 14.011,
+      "popularity": 19.003,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 4800,
       "name": "Gena Rowlands",
       "profile_path": "/7Hda4UFbmpufKnk48KpBuH7j05j.jpg",
-      "popularity": 14.009,
+      "popularity": 13.003,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 99241,
       "name": "Jamie-Lynn Sigler",
       "profile_path": "/gzlpJeYY1ByXOGb6mksEzuvetTN.jpg",
-      "popularity": 14.008,
+      "popularity": 12.602,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 147590,
       "name": "Debora Caprioglio",
       "profile_path": "/6LphVHv5z7EnsaaqbWfABsVwhHG.jpg",
-      "popularity": 14.007,
+      "popularity": 19.61,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 70456,
       "name": "Emily Browning",
       "profile_path": "/silK3Pdugbf1YOtIdXev1eZxzvF.jpg",
-      "popularity": 13.996,
+      "popularity": 18.199,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 176823,
       "name": "Spencer Grammer",
       "profile_path": "/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg",
-      "popularity": 13.995,
+      "popularity": 14.599,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1581,
       "name": "Mary McDonnell",
       "profile_path": "/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg",
-      "popularity": 13.992,
+      "popularity": 18.998,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 84214,
       "name": "Taylor Lautner",
       "profile_path": "/Abkz13gHDBDpqrPl2P51zUheVeE.jpg",
-      "popularity": 13.986,
+      "popularity": 19.58,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 53117,
       "name": "Dustin Milligan",
       "profile_path": "/v1OtMBknzIUPXd0sQU6P0LA57V7.jpg",
-      "popularity": 13.978,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3197,
-      "name": "Tom Sizemore",
-      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg",
-      "popularity": 13.978,
+      "popularity": 12.993,
       "adult": false,
       "known_for_department": "Acting"
     }

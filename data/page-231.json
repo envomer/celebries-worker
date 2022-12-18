@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1215404,
+      "name": "Kara Zediker",
+      "profile_path": "/1uZ9V3DQzZivXYdmfFrRtV9fe9l.jpg",
+      "popularity": 7.434,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 8924,
       "name": "Frank Langella",
       "profile_path": "/vO2NQUrG2qDtQVWK2IalrFKUYcj.jpg",
-      "popularity": 8.779,
+      "popularity": 12.291,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 22461,
       "name": "Vincent Gallo",
       "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg",
-      "popularity": 8.776,
+      "popularity": 10.233,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,15 +31,15 @@
       "id": 53929,
       "name": "Haylie Duff",
       "profile_path": "/lhT6id12TbfNT44R0giYbad22bJ.jpg",
-      "popularity": 8.775,
+      "popularity": 6.233,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 562314,
       "name": "Slavitza Jovan",
-      "profile_path": "/uWuMKKVe8xfg57ElWqDNGeq5nZq.jpg",
-      "popularity": 8.774,
+      "profile_path": "/tdCiz0qgYkucQJAqGAoySdGrua6.jpg",
+      "popularity": 8.632,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 7497,
       "name": "Holt McCallany",
       "profile_path": "/a5ax2ICLrV6l0T74OSFvzssCQyQ.jpg",
-      "popularity": 8.771,
+      "popularity": 12.231,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1179651,
       "name": "Lin-Manuel Miranda",
       "profile_path": "/r0wFwPa041pZ1QM66yJWuQXCkqx.jpg",
-      "popularity": 8.77,
+      "popularity": 7.031,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 173239,
       "name": "Marta Martin",
       "profile_path": "/22x8KBz9jkDitbMhmtqcx1lBvby.jpg",
-      "popularity": 8.77,
+      "popularity": 6.631,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 27552,
       "name": "David Eigenberg",
       "profile_path": "/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg",
-      "popularity": 8.767,
+      "popularity": 12.274,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 80579,
       "name": "Robert Z'Dar",
       "profile_path": "/vi3i8INa2xvcOK9A3ujykMkMlQi.jpg",
-      "popularity": 8.765,
+      "popularity": 10.23,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 44810,
       "name": "Cassandra Peterson",
       "profile_path": "/ykrDhr0lBHjVLjxvclbpvHaEi5L.jpg",
-      "popularity": 8.765,
+      "popularity": 12.23,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 84205,
       "name": "Kara Hui",
       "profile_path": "/6OV9kM62Y7M7EswtkpCThs0QAxg.jpg",
-      "popularity": 8.764,
+      "popularity": 5.429,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1326202,
       "name": "Dina Shihabi",
       "profile_path": "/dSqhzoAb58J15NRxg5WMGWqJmVa.jpg",
-      "popularity": 8.763,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 13253,
-      "name": "Kyoko Fukada",
-      "profile_path": "/qip0npPSxHyKG5xCiX9fkg3eSXa.jpg",
       "popularity": 8.763,
       "adult": false,
       "known_for_department": "Acting"

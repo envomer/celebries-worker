@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1878952,
+      "name": "Song Kang",
+      "profile_path": "/dMUXkMfkTEw3qrJisk0mQCQxmBI.jpg",
+      "popularity": 14.644,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 3027,
       "name": "Stephen King",
       "profile_path": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg",
-      "popularity": 14.64,
+      "popularity": 20.496,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -15,7 +23,7 @@
       "id": 15576,
       "name": "Matthew Macfadyen",
       "profile_path": "/2FF3Yjxd7DYR4EIJL6s2GpKDMkJ.jpg",
-      "popularity": 14.636,
+      "popularity": 14.791,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 59313,
       "name": "Erin Karpluk",
       "profile_path": "/jibU5x89Al5XgqMmQH2sTOtHErk.jpg",
-      "popularity": 14.634,
+      "popularity": 11.99,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 10606,
       "name": "Anne Baxter",
       "profile_path": "/mUMKB7ZGzHJ38LpDWnA4VheIGBB.jpg",
-      "popularity": 14.617,
+      "popularity": 17.585,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 56675,
       "name": "Anson Mount",
       "profile_path": "/qU6GGvUqwFMbfK2Bk7Gg7dK1KD6.jpg",
-      "popularity": 14.615,
+      "popularity": 13.185,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 3380,
       "name": "Bette Davis",
       "profile_path": "/h8JJeSEB7jc6Ce33Lh7XDQfXaVr.jpg",
-      "popularity": 14.61,
+      "popularity": 17.183,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 109432,
       "name": "Li Bingbing",
       "profile_path": "/7LWUwPHK7nkB4ohESqFLSjsCPU1.jpg",
-      "popularity": 14.599,
+      "popularity": 17.18,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 36042,
       "name": "Rachel Ward",
       "profile_path": "/8jksGCUaR1MgWSo2nqxY7SCSyYj.jpg",
-      "popularity": 14.599,
+      "popularity": 19.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 23789,
       "name": "Sebastian Roché",
       "profile_path": "/cP3RxXiMeMyhhNpacoXZskbcNKa.jpg",
-      "popularity": 14.599,
+      "popularity": 13.58,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 8289,
       "name": "Billy Crudup",
       "profile_path": "/pYblSarjmmIUggmOafanD2yk0Zj.jpg",
-      "popularity": 14.597,
+      "popularity": 14.379,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 38666,
       "name": "Tania Raymonde",
       "profile_path": "/rqzi5xaXbgfxZXNbsJVCDsSXPKx.jpg",
-      "popularity": 14.591,
+      "popularity": 20.427,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 510,
       "name": "Tim Burton",
       "profile_path": "/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg",
-      "popularity": 14.581,
+      "popularity": 20.413,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -111,7 +119,7 @@
       "id": 1225783,
       "name": "Lindsey Shaw",
       "profile_path": "/xje8DmPkniNjL7IKQVZE19UUOTt.jpg",
-      "popularity": 14.568,
+      "popularity": 20.395,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 10860,
       "name": "Jessica Biel",
       "profile_path": "/3txkpzteYNW12vpREFpagSrWe6d.jpg",
-      "popularity": 14.556,
+      "popularity": 15.567,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 21798,
       "name": "Johnny Messner",
       "profile_path": "/1TL83UaGFeBg0Se3h9r066VcHjo.jpg",
-      "popularity": 14.554,
+      "popularity": 10.766,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 109151,
       "name": "Jaime Ray Newman",
       "profile_path": "/2NZqIILL9BW8fSveWDGBDLoMYN8.jpg",
-      "popularity": 14.553,
+      "popularity": 15.166,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 28906,
       "name": "Richard Chamberlain",
       "profile_path": "/hdnR3Nd49rFNpPUFF2lQyetBypo.jpg",
-      "popularity": 14.55,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 25002,
-      "name": "Lee Byung-hun",
-      "profile_path": "/pY4pwYO8qwtzvuzpzRczDACDiVA.jpg",
-      "popularity": 14.549,
+      "popularity": 20.37,
       "adult": false,
       "known_for_department": "Acting"
     }

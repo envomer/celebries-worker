@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 3026,
+      "name": "Rob Reiner",
+      "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg",
+      "popularity": 13.779,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
+      "id": 1218928,
+      "name": "Erica Cerra",
+      "profile_path": "/crbst9frQuWVRxILtvbsLL9ZAEv.jpg",
+      "popularity": 13.777,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 29685,
       "name": "Kurt Fuller",
       "profile_path": "/kV02XLACLFd1YYQdSOgqy6lFmQ3.jpg",
-      "popularity": 9.84,
+      "popularity": 13.776,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 55463,
       "name": "Jessica Stroup",
       "profile_path": "/qKpYNOim2YqAMEvJpgzzf9PlMir.jpg",
-      "popularity": 9.835,
+      "popularity": 10.951,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 7908,
       "name": "Frank Oz",
       "profile_path": "/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg",
-      "popularity": 9.834,
+      "popularity": 5.9,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 69489,
       "name": "Jasmine Trinca",
       "profile_path": "/bnaL4BhkiCaVK6AIEYAB0YVpBIw.jpg",
-      "popularity": 9.832,
+      "popularity": 13.765,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 18923,
       "name": "Miles Millar",
       "profile_path": "/isLcN8MJ3ARpmTwoGtqRQsVwJqx.jpg",
-      "popularity": 9.832,
+      "popularity": 7.75,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -55,7 +71,7 @@
       "id": 121566,
       "name": "Sharon Lawrence",
       "profile_path": "/bLu3mjAJKDq8WE3QfspIvInKGVu.jpg",
-      "popularity": 9.831,
+      "popularity": 13.763,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 20879,
       "name": "Kate Burton",
       "profile_path": "/rHnt0gTvarr492I1ZIYg8VNBdPn.jpg",
-      "popularity": 9.831,
+      "popularity": 9.749,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 78197,
       "name": "Elisabeth Harnois",
       "profile_path": "/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg",
-      "popularity": 9.824,
+      "popularity": 10.547,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 131273,
       "name": "Melissa Sue Anderson",
       "profile_path": "/vy4xBjjnAO4rGK9gxzY7gHW08LY.jpg",
-      "popularity": 9.822,
+      "popularity": 12.147,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 42250,
       "name": "Nikki Fritz",
       "profile_path": "/8chZkKqKKBUfzTqOaeZc2qYsnXy.jpg",
-      "popularity": 9.821,
+      "popularity": 13.746,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 984,
       "name": "Nicholas Rowe",
       "profile_path": "/mAR7cSZO9V9v0fFlDxiKDfvHlkQ.jpg",
-      "popularity": 9.819,
+      "popularity": 9.746,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 3064,
       "name": "Peter Mullan",
       "profile_path": "/7Y6oHcv719kfYxpWcYAE7wXzE7C.jpg",
-      "popularity": 9.817,
+      "popularity": 13.744,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 136347,
       "name": "Jessica McNamee",
       "profile_path": "/aAfaMEEqD8syHv5bLi5B3sccrM2.jpg",
-      "popularity": 9.816,
+      "popularity": 10.145,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 51036,
       "name": "Louis Ferreira",
       "profile_path": "/7xUTd7N6XbB3uWvob12qpmGzPzA.jpg",
-      "popularity": 9.813,
+      "popularity": 10.944,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 53975,
       "name": "Deepika Padukone",
       "profile_path": "/kBGmOExBHwbVZDmGegGx3qZWw89.jpg",
-      "popularity": 9.811,
+      "popularity": 9.343,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 43814,
       "name": "Nathalie Delon",
       "profile_path": "/oEdNxKieZufHnH8VmPIzm6QaRNC.jpg",
-      "popularity": 9.811,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2188232,
-      "name": "Lisann Valentin",
-      "profile_path": "/518LRQA9xYpobWNsR5A1Ea13EUU.jpg",
-      "popularity": 9.81,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1475808,
-      "name": "Maddie Phillips",
-      "profile_path": "/uuQBuEdkhgDSJ2wnE5N4tyryl4t.jpg",
-      "popularity": 9.81,
+      "popularity": 7.343,
       "adult": false,
       "known_for_department": "Acting"
     }

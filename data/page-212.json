@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 120689,
+      "name": "Yuriko Yoshitaka",
+      "profile_path": "/Zqd3qjiVAfNtBcMAAUNPtvYDV8.jpg",
+      "popularity": 12.894,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 99461,
+      "name": "Cedric Hardwicke",
+      "profile_path": "/4nKaHppmOSS958pXNuGiYQYT6b0.jpg",
+      "popularity": 11.563,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 19899,
       "name": "Dennis Storhøi",
       "profile_path": "/oKIPuT0L0jiXfqXIBRzpqrojsPv.jpg",
-      "popularity": 9.209,
+      "popularity": 12.893,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 17678,
       "name": "Rudy Youngblood",
       "profile_path": "/64HlxkHjgZ8oBxyosonWnSw2e9k.jpg",
-      "popularity": 9.208,
+      "popularity": 7.162,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 238609,
       "name": "Maya Stojan",
       "profile_path": "/nxHQa6syD3xqjnnlKNwOie6zp5G.jpg",
-      "popularity": 9.206,
+      "popularity": 9.162,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1187106,
       "name": "Amber Stevens West",
       "profile_path": "/qETv9tHhB28ErtioBQWw7HaS352.jpg",
-      "popularity": 9.205,
+      "popularity": 12.362,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 1221085,
       "name": "Jessica Sula",
       "profile_path": "/rP0MExBh1CnsaO4HhOIog8ju7S7.jpg",
-      "popularity": 9.204,
+      "popularity": 12.886,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 1165384,
       "name": "Gaia Weiss",
       "profile_path": "/oGOA33Sj0i8WlVUGO6fE0jg0ZgV.jpg",
-      "popularity": 9.204,
+      "popularity": 12.761,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 6859,
       "name": "Mía Maestro",
       "profile_path": "/qRbV2yIrviokWENK7yhzNGGiWrr.jpg",
-      "popularity": 9.204,
+      "popularity": 5.961,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 99854,
       "name": "John LaMotta",
       "profile_path": "/bBWjpmT920RgHx8wmPWMK4KaD0E.jpg",
-      "popularity": 9.202,
+      "popularity": 6.761,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 7907,
       "name": "John Ratzenberger",
       "profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
-      "popularity": 9.202,
+      "popularity": 11.961,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 90060,
       "name": "Pilou Asbæk",
       "profile_path": "/dslpTvB0HkPq1EYtzO0XiTiU7HL.jpg",
-      "popularity": 9.201,
+      "popularity": 12.881,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 154689,
       "name": "Bradley James",
       "profile_path": "/djYjl9kE2VPSO3qLnC8Jo3aD8d2.jpg",
-      "popularity": 9.2,
+      "popularity": 8.76,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 992869,
       "name": "Ayane Sakura",
       "profile_path": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
-      "popularity": 9.199,
+      "popularity": 12.879,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 912632,
       "name": "Jella Haase",
       "profile_path": "/uOfKMmIY0AruxUeeroESXTT9C74.jpg",
-      "popularity": 9.198,
+      "popularity": 9.959,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 208539,
       "name": "Anna Hopkins",
       "profile_path": "/uL44Lc0ql6y3bmuGz9r7NvhBSKR.jpg",
-      "popularity": 9.197,
+      "popularity": 10.359,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 225039,
       "name": "Shunya Shiraishi",
       "profile_path": "/m2KYJ6DLItCvLjN8PAcPmqVfC29.jpg",
-      "popularity": 9.195,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2098560,
-      "name": "Katsamonnat Namwirote",
-      "profile_path": "/19agT0l3D0KaHuehYlSlq9nIk9P.jpg",
-      "popularity": 9.192,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 132312,
-      "name": "Brianne Howey",
-      "profile_path": "/5TMOHWjWoK5xhzIgQkIGzpQ3cM7.jpg",
-      "popularity": 9.192,
+      "popularity": 7.159,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 39762,
+      "name": "Stefanie Powers",
+      "profile_path": "/oiTlbv7QC5qaF1BYTY6Qaij5rtq.jpg",
+      "popularity": 12.242,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1167956,
+      "name": "Kozue Tanaka",
+      "profile_path": "/zSgeEKCkHwFRkcD3k0UbRtUKfhN.jpg",
+      "popularity": 10.642,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 20766,
       "name": "Richard E. Grant",
       "profile_path": "/pIwiAEX7LiOgnV7KehM3OVmuG1f.jpg",
-      "popularity": 11.473,
+      "popularity": 9.842,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 30710,
       "name": "JJ Feild",
       "profile_path": "/8YIIH6ebWmIhWWJC3RGe16Z1biK.jpg",
-      "popularity": 11.471,
+      "popularity": 15.041,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 78311,
       "name": "Steve Valentine",
       "profile_path": "/sH1oZYtiiG9c5NNfnn5ZH8GkIpB.jpg",
-      "popularity": 11.47,
+      "popularity": 12.641,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 148992,
       "name": "Austin Abrams",
       "profile_path": "/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg",
-      "popularity": 11.462,
+      "popularity": 14.239,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 38280,
       "name": "Tang Wei",
       "profile_path": "/pXBCiu7mVEnrnDpIRc5cyyg1wPK.jpg",
-      "popularity": 11.46,
+      "popularity": 13.838,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 12248,
       "name": "Alec Guinness",
       "profile_path": "/gplGgl6XERpvYdluiwY8GlxSdpi.jpg",
-      "popularity": 11.458,
+      "popularity": 13.037,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 8975,
       "name": "Sam Waterston",
       "profile_path": "/vNe4lHhXqOd5fF8oQ125KNQCfK3.jpg",
-      "popularity": 11.458,
+      "popularity": 12.237,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 45589,
       "name": "Dakota Blue Richards",
       "profile_path": "/qi8YwJb9IdApRiRJFNavwnGgfBU.jpg",
-      "popularity": 11.452,
+      "popularity": 15.436,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 16841,
       "name": "Brett Cullen",
       "profile_path": "/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg",
-      "popularity": 11.446,
+      "popularity": 11.034,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 169141,
       "name": "Maria Holvoe",
       "profile_path": "/qLEsrR7J8tQrzgyy6iYYAHiuFES.jpg",
-      "popularity": 11.445,
+      "popularity": 6.867,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 212208,
       "name": "Taylor Swift",
       "profile_path": "/896fxTO6ScX7l3ZeXLQmGcIRcyG.jpg",
-      "popularity": 11.441,
+      "popularity": 7.432,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 87295,
       "name": "Richard Grieco",
       "profile_path": "/pYImBN56amgiIaR2EMUbcUi9CxC.jpg",
-      "popularity": 11.431,
+      "popularity": 9.429,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 10680,
       "name": "Talisa Soto",
       "profile_path": "/tpEGbGgASne8m1iHzncuxdSLIkX.jpg",
-      "popularity": 11.431,
+      "popularity": 15.829,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 67221,
       "name": "Sharla Cheung",
       "profile_path": "/mHu0edLezIp5gPYzPX7w4d2Iw15.jpg",
-      "popularity": 11.428,
+      "popularity": 8.228,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 11519,
       "name": "Larry Hankin",
       "profile_path": "/iWJFD0BkfS57rLFQVn3UrsrEvAV.jpg",
-      "popularity": 11.423,
+      "popularity": 14.227,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 26495,
       "name": "Jean Louisa Kelly",
       "profile_path": "/hUaXI2x27HNIKc4WXcnvNkl4wF9.jpg",
-      "popularity": 11.418,
+      "popularity": 15.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 25503,
       "name": "Mandy Patinkin",
       "profile_path": "/ykKV39t79fm6I88m8CjZFu0oBDU.jpg",
-      "popularity": 11.416,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2004086,
-      "name": "Tomori Kusunoki",
-      "profile_path": "/t5aBzyYiJZDE6DWeTcGMrcQpiI5.jpg",
-      "popularity": 11.415,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 13784,
-      "name": "Burt Lancaster",
-      "profile_path": "/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg",
-      "popularity": 11.414,
+      "popularity": 15.982,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1337805,
+      "name": "Sibylla Deen",
+      "profile_path": "/v6q1PNmlQCC2JcB0iDgcXXt0TH0.jpg",
+      "popularity": 5.629,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 57371,
       "name": "Jeff Cohen",
       "profile_path": "/iuD0UN3cdRc9ZSnmebeJUy14lde.jpg",
-      "popularity": 5.629,
+      "popularity": 6.489,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 226353,
       "name": "Tommaso Ragno",
       "profile_path": "/c10NBK7Ot2L6C4kz9exy9Su5jKh.jpg",
-      "popularity": 5.628,
+      "popularity": 4.488,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 109284,
       "name": "Anita Wall",
       "profile_path": "/kIXZcdOF1wV5YsKC5Lxq0dBX2xq.jpg",
-      "popularity": 5.628,
+      "popularity": 3.377,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 12438,
       "name": "Bob Balaban",
       "profile_path": "/tLUlpF9EDxxRh6nM8AZ5BsPKc2B.jpg",
-      "popularity": 5.628,
+      "popularity": 6.488,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1895,
       "name": "Carl Reiner",
       "profile_path": "/A3jdRMl5zkaw8gUqM7PDl9KrPZW.jpg",
-      "popularity": 5.628,
+      "popularity": 6.088,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1240339,
       "name": "Kouhei Takeda",
       "profile_path": "/uMBUcnD7yrWUMbbI8dK8TauOVDZ.jpg",
-      "popularity": 5.627,
+      "popularity": 5.288,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 69576,
       "name": "Lisa Ryder",
       "profile_path": "/xw3GcIk3jDK4ZzzYHeog400mc6S.jpg",
-      "popularity": 5.627,
+      "popularity": 7.688,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 47984,
       "name": "Melanie B",
       "profile_path": "/y3C5u4enbi5n3GInsf1EN5tO9xy.jpg",
-      "popularity": 5.626,
+      "popularity": 7.876,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1213279,
       "name": "Ryan Corr",
       "profile_path": "/2Zac3FD5d2nwrcr3lyzwQvDLgYV.jpg",
-      "popularity": 5.625,
+      "popularity": 7.875,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 65928,
       "name": "J.D. Williams",
       "profile_path": "/xkvqaI7rOFehLIiJTA3laJpYVO9.jpg",
-      "popularity": 5.625,
+      "popularity": 6.888,
       "adult": false,
       "known_for_department": "Acting"
-    },
-    {
-      "id": 5133,
-      "name": "Bo Welch",
-      "profile_path": "/lYSuKR7b8aNYnZmzVQh4CPk5YMe.jpg",
-      "popularity": 5.625,
-      "adult": false,
-      "known_for_department": "Art"
     }
   ]
 }

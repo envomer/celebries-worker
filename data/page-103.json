@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1252017,
+      "name": "Jung So-min",
+      "profile_path": "/t6uw4DyZ82Tvw9fXVeYznjxk5Rj.jpg",
+      "popularity": 12.399,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 10966,
+      "name": "J.K. Rowling",
+      "profile_path": "/8VDx3K8NBGJDEWr4KdsGsuT8wuj.jpg",
+      "popularity": 11.197,
+      "adult": false,
+      "known_for_department": "Writing"
+    },
+    {
       "id": 79127,
       "name": "Claudia Harrison",
       "profile_path": "/dSK2BBupETZYcsO0DfP2OD1AMnT.jpg",
-      "popularity": 13.308,
+      "popularity": 13.592,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 21180,
       "name": "Justin Bartha",
       "profile_path": "/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg",
-      "popularity": 13.303,
+      "popularity": 15.591,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 4885,
       "name": "Emmanuelle Béart",
       "profile_path": "/imQFccO9AZtzjeyqkHh9YMtGKOC.jpg",
-      "popularity": 13.3,
+      "popularity": 15.59,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 7133,
       "name": "Max Casella",
       "profile_path": "/3IdkJnQIoSwPkF0FN5YYEsQsG0P.jpg",
-      "popularity": 13.293,
+      "popularity": 10.788,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 18975,
       "name": "Wilmer Valderrama",
       "profile_path": "/ApA03vxxobrGauXmQ3LpGM5EKjD.jpg",
-      "popularity": 13.292,
+      "popularity": 14.388,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 30315,
       "name": "Richard Armitage",
       "profile_path": "/lRWWodfrOd5SaLnFrz7UryFhasI.jpg",
-      "popularity": 13.291,
+      "popularity": 17.987,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 590545,
       "name": "Aditi Sharma",
       "profile_path": "/qZ1aIBGOjrYcgyWn3Ec72maBYHM.jpg",
-      "popularity": 13.29,
+      "popularity": 7.987,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 5049,
       "name": "John Hurt",
       "profile_path": "/wGDGhBOggA8I2ktgc1QoHABEF0m.jpg",
-      "popularity": 13.29,
+      "popularity": 18.606,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 4027,
       "name": "Frank Darabont",
       "profile_path": "/nvOqAQhKtXdHtczgqanoCfltsxJ.jpg",
-      "popularity": 13.282,
+      "popularity": 18.595,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -79,7 +95,7 @@
       "id": 6588,
       "name": "Isabella Rossellini",
       "profile_path": "/A5eDCMHhXuCRqfwCXAkrkYR8Edz.jpg",
-      "popularity": 13.281,
+      "popularity": 16.384,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 11367,
       "name": "Bradley Whitford",
       "profile_path": "/oeDv2qZWTxELLaNtOIoeG72leNY.jpg",
-      "popularity": 13.278,
+      "popularity": 18.589,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 10692,
       "name": "Michael Pitt",
       "profile_path": "/fWR4Z1xk1ZMUMMnMeRADVh1s3DW.jpg",
-      "popularity": 13.272,
+      "popularity": 11.982,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 4430,
       "name": "Sharon Stone",
       "profile_path": "/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg",
-      "popularity": 13.272,
+      "popularity": 18.581,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 4756,
       "name": "Matthew Broderick",
       "profile_path": "/8jO89WNvQRTFUrgXuIGOiTRwbYg.jpg",
-      "popularity": 13.27,
+      "popularity": 16.781,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 6449,
       "name": "Warren Beatty",
       "profile_path": "/4IDilrr21iRKv75QOwNKJPC3WgW.jpg",
-      "popularity": 13.268,
+      "popularity": 9.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 129104,
       "name": "Melissa Benoist",
       "profile_path": "/1F0fCPNhb5W0WyFe8Tszfbx1DEp.jpg",
-      "popularity": 13.261,
+      "popularity": 13.178,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 57599,
       "name": "Seann William Scott",
       "profile_path": "/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg",
-      "popularity": 13.258,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 6832,
-      "name": "Melissa Leo",
-      "profile_path": "/tKNTvhmuO7FZMYYgRrZB6k8FT5K.jpg",
-      "popularity": 13.258,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 56679,
-      "name": "Edwin Hodge",
-      "profile_path": "/wbwevwzat2iy42QilcRRXshAkLv.jpg",
-      "popularity": 13.252,
+      "popularity": 14.377,
       "adult": false,
       "known_for_department": "Acting"
     }

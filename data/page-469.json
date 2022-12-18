@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2151547,
+      "name": "Seina Nakata",
+      "profile_path": "/1xtLqzIm2K07Pwcp2XyiYh82czG.jpg",
+      "popularity": 5.793,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1240427,
       "name": "Lucian Msamati",
       "profile_path": "/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg",
-      "popularity": 5.793,
+      "popularity": 8.11,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 60252,
       "name": "Cheri Oteri",
       "profile_path": "/A56szuLpt2yttvnHB49KNUZmD4b.jpg",
-      "popularity": 5.793,
+      "popularity": 4.138,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 53720,
       "name": "Timothy Webber",
       "profile_path": "/Av0mtgZ9DeopXP9NQjzd8q9ZPd6.jpg",
-      "popularity": 5.793,
+      "popularity": 8.11,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 26857,
       "name": "Philip Martin Brown",
       "profile_path": "/dhgv8B6eyfUiDbrfGpWRdl8XnUP.jpg",
-      "popularity": 5.793,
+      "popularity": 8.11,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 653,
       "name": "Ronald Lacey",
       "profile_path": "/mHWfZjEevMaIqjcyrrnFKFRUHV6.jpg",
-      "popularity": 5.792,
+      "popularity": 8.109,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 185831,
       "name": "Jason Hughes",
       "profile_path": "/s22a4k057Zj9Q37RVd5B0MykNdv.jpg",
-      "popularity": 5.79,
+      "popularity": 8.106,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 10207,
       "name": "William Hope",
       "profile_path": "/blKMEeCftWVBPI2hqvzycmdE9nS.jpg",
-      "popularity": 5.79,
+      "popularity": 5.337,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 997303,
       "name": "Autumn Dial",
       "profile_path": "/djX1INtuXyqkSjmS5ouw3YEdgNo.jpg",
-      "popularity": 5.789,
+      "popularity": 4.937,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 119917,
       "name": "Adam Long",
       "profile_path": "/JrLCaTiJSOdSheB0q7VmgR8jyd.jpg",
-      "popularity": 5.789,
+      "popularity": 4.937,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 65036,
       "name": "Tiffany Taubman",
       "profile_path": "/jILHcY1tuhA6aQZRqh8F37jzi6l.jpg",
-      "popularity": 5.789,
+      "popularity": 5.737,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 154341,
       "name": "Lark Voorhies",
       "profile_path": "/geQXkLmtrzqeY7SUtsyBBdAebDb.jpg",
-      "popularity": 5.788,
+      "popularity": 4.536,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 151363,
       "name": "Kate Hodge",
       "profile_path": "/y6gFNTm0g8QurrvG7luCew1Ne2o.jpg",
-      "popularity": 5.788,
+      "popularity": 4.936,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 147336,
       "name": "Gaby Espino",
       "profile_path": "/z9KOQ0blQTwiobqwDEVl9hRnnHD.jpg",
-      "popularity": 5.788,
+      "popularity": 7.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 77164,
       "name": "Ryan Robbins",
       "profile_path": "/kZrq5a760JU1kHuxQ7Q8YCgsOr6.jpg",
-      "popularity": 5.788,
+      "popularity": 5.736,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 21563,
       "name": "Corin Nemec",
       "profile_path": "/vndALqWdbdM4IMMU6CTmOCMjzEA.jpg",
-      "popularity": 5.788,
+      "popularity": 8.103,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 82508,
       "name": "Kiyoshi Kobayashi",
       "profile_path": "/xuaKE1xvHHU4gq2bYVlPQ4rEwQV.jpg",
-      "popularity": 5.787,
+      "popularity": 7.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1119506,
       "name": "Izumi Shima",
       "profile_path": "/8tEJ689F51bE6BeB7KOdBPDPtpO.jpg",
-      "popularity": 5.786,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 75131,
-      "name": "Nash Edgerton",
-      "profile_path": "/4APzupXhj00RkLJyjzYTkvk47Dw.jpg",
-      "popularity": 5.786,
+      "popularity": 5.336,
       "adult": false,
       "known_for_department": "Acting"
     }

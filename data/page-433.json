@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1325271,
+      "name": "Riri Kuribayashi",
+      "profile_path": "/NyZsglLkg7Fqe2I8S2V6ajMl4n.jpg",
+      "popularity": 6.084,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 64062,
       "name": "Traci Lind",
       "profile_path": "/1dfw0VqxTHtHUA4A05KcxVDkPIO.jpg",
-      "popularity": 6.084,
+      "popularity": 8.225,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 16867,
       "name": "Luis Tosar",
       "profile_path": "/7ZTdhzUCpG9jhsKJeTJbGn36v5F.jpg",
-      "popularity": 6.084,
+      "popularity": 8.518,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 9072,
       "name": "Margaret Hamilton",
       "profile_path": "/pgqeaMfj1i8FTVcM4gvIQxgzHDB.jpg",
-      "popularity": 6.084,
+      "popularity": 5.025,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 141495,
       "name": "Lindsey McKeon",
       "profile_path": "/8Yvhn2Bnp9Zlh9MwXPmbyfBdRGv.jpg",
-      "popularity": 6.083,
+      "popularity": 5.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 109410,
       "name": "Joanne Woodward",
       "profile_path": "/vUwRHy2UTY3fS4JyoBlq04vpQo9.jpg",
-      "popularity": 6.083,
+      "popularity": 8.516,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 36480,
       "name": "Phyllis Davis",
       "profile_path": "/4eKwUoWSPW4PuMwIXwKWjNtnCcj.jpg",
-      "popularity": 6.083,
+      "popularity": 5.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 147404,
       "name": "Charlie Weber",
       "profile_path": "/eL97dIonrg3Iq7ENBBmYolp9kGl.jpg",
-      "popularity": 6.082,
+      "popularity": 5.025,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 65728,
       "name": "Scott Michael Campbell",
       "profile_path": "/ekZ99T05PkbmR9ZpROvMUpwGDzP.jpg",
-      "popularity": 6.082,
+      "popularity": 6.625,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 73845,
       "name": "Abigail Cruttenden",
       "profile_path": "/gLLLwCtZv5Kjst7N4ErsWuaOeh7.jpg",
-      "popularity": 6.08,
+      "popularity": 8.512,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 4138,
       "name": "Craig Sheffer",
       "profile_path": "/w8wAAyXDifuxZDgvuL8U0fuLsLG.jpg",
-      "popularity": 6.08,
+      "popularity": 8.512,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 381663,
       "name": "Marc Ruchmann",
       "profile_path": "/jj3Wn3B6zncjBEkjYjH4ZyqTvMC.jpg",
-      "popularity": 6.079,
+      "popularity": 8.511,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 220756,
       "name": "Dan Benson",
       "profile_path": "/8xlNfp4eS4jbTqA3yk1ve4T4DG6.jpg",
-      "popularity": 6.079,
+      "popularity": 4.624,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 12470,
       "name": "Paulyn Sun",
       "profile_path": "/4jQXsptwbZAhunpuV4MLWosFxHG.jpg",
-      "popularity": 6.079,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1201,
-      "name": "Garry Marshall",
-      "profile_path": "/ergjvb7J3UnbBnX1f7GvFVZSaci.jpg",
-      "popularity": 6.079,
+      "popularity": 8.511,
       "adult": false,
       "known_for_department": "Acting"
     }

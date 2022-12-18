@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 106104,
+      "name": "Russell Wade",
+      "profile_path": "/2eW7JYcTxmVQ8TT0ATKbbTwNus3.jpg",
+      "popularity": 5.028,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 25711,
       "name": "Kevin Cooney",
       "profile_path": "/iPhJ6276RTcdpyeuhi6U6y1p8Ci.jpg",
-      "popularity": 6.094,
+      "popularity": 6.228,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1414,
       "name": "Goro Miyazaki",
       "profile_path": "/44FdzDvvVhhiPT3xJXRLnfVgFbs.jpg",
-      "popularity": 6.091,
+      "popularity": 8.527,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -31,7 +39,7 @@
       "id": 124750,
       "name": "Dana Gaier",
       "profile_path": "/oZD7cXIHfdeTdFpc16UNptf99WS.jpg",
-      "popularity": 6.09,
+      "popularity": 7.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 41670,
       "name": "Rebecca Miller",
       "profile_path": "/s0jjPvcX4i8yd7IiBuvnrJ7FbT3.jpg",
-      "popularity": 6.09,
+      "popularity": 3.654,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 32291,
       "name": "Sandra Taylor",
       "profile_path": "/8NHNTDoOEkL0JaTrN9uq6T6J3Fk.jpg",
-      "popularity": 6.09,
+      "popularity": 4.627,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 20418,
       "name": "Jan Sterling",
       "profile_path": "/5Yj3076Th4mz2SJ4ScnKvulruxr.jpg",
-      "popularity": 6.09,
+      "popularity": 7.027,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 234548,
       "name": "Daniel Webber",
       "profile_path": "/ldOZipwbPQP7AXoQTQHXQymwu9q.jpg",
-      "popularity": 6.089,
+      "popularity": 3.653,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 198855,
       "name": "Masam Holden",
       "profile_path": "/nUElFXbNjyMuzysvD4jc5zngcO8.jpg",
-      "popularity": 6.089,
+      "popularity": 4.627,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 171411,
       "name": "Yelba Osorio",
       "profile_path": "/mmvLWjW7eKVzUdVubrs5t8OwsiL.jpg",
-      "popularity": 6.089,
+      "popularity": 8.525,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 74487,
       "name": "David Pasquesi",
       "profile_path": "/oQplec891LMv0wndTtKh1bIS11Z.jpg",
-      "popularity": 6.089,
+      "popularity": 5.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 18978,
       "name": "David Faustino",
       "profile_path": "/dNqoFIPkusGDUjjIAX0jmtQV47v.jpg",
-      "popularity": 6.089,
+      "popularity": 7.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1252995,
       "name": "Saki Fujita",
       "profile_path": "/pTHZZTerlaIHXOJkIzodMr1cfH0.jpg",
-      "popularity": 6.088,
+      "popularity": 8.226,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 935235,
       "name": "Marwan Kenzari",
       "profile_path": "/66903sgNtyzHN0Mi3D88UYgbH86.jpg",
-      "popularity": 6.088,
+      "popularity": 5.426,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1179243,
       "name": "Rila Fukushima",
       "profile_path": "/raklPPc6AZcDnNrjmJu60FHxI2F.jpg",
-      "popularity": 6.087,
+      "popularity": 8.522,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 169725,
       "name": "Alaina Huffman",
       "profile_path": "/vqco0oYOBTHekppjsn88cFrIuKm.jpg",
-      "popularity": 6.087,
+      "popularity": 5.426,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -152,14 +160,6 @@
       "name": "Srinidhi Shetty",
       "profile_path": "/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg",
       "popularity": 6.085,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1325271,
-      "name": "Riri Kuribayashi",
-      "profile_path": "/NyZsglLkg7Fqe2I8S2V6ajMl4n.jpg",
-      "popularity": 6.084,
       "adult": false,
       "known_for_department": "Acting"
     }

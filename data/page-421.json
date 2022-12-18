@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 83987,
+      "name": "Beverly Garland",
+      "profile_path": "/tDeQON5mwWgoQtIESVSy8uBBZln.jpg",
+      "popularity": 3.709,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 58737,
       "name": "Jack McBrayer",
       "profile_path": "/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg",
-      "popularity": 6.181,
+      "popularity": 8.653,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 4963,
       "name": "Woody Strode",
       "profile_path": "/bQODvxboGerJXrl7ypgM5UqjhZt.jpg",
-      "popularity": 6.181,
+      "popularity": 5.454,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 221019,
       "name": "Daniela Ruah",
       "profile_path": "/9JFaU3gJrHrIuzBnbhX3CZzP6gt.jpg",
-      "popularity": 6.178,
+      "popularity": 7.453,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 2321,
       "name": "Jessica Amlee",
       "profile_path": "/7tZQEkbaCHV8BSdT3rvChySzyMx.jpg",
-      "popularity": 6.178,
+      "popularity": 7.453,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 583034,
       "name": "Luise Heyer",
       "profile_path": "/ffPzIu201oXjT1R0RCW4loZaxQA.jpg",
-      "popularity": 6.177,
+      "popularity": 6.253,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 34902,
       "name": "Jane Horrocks",
       "profile_path": "/phYKQdBZgRwMT8w6ZEhvGc8zgvB.jpg",
-      "popularity": 6.177,
+      "popularity": 4.653,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 13401,
       "name": "Peter Mark Richman",
       "profile_path": "/4sRK2iHXPNTkFANNPLn9hHlG0n5.jpg",
-      "popularity": 6.177,
+      "popularity": 5.053,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1211946,
       "name": "P.J. Byrne",
       "profile_path": "/sKqr3A3LjLYlRCXJGJI8rjpdMOs.jpg",
-      "popularity": 6.176,
+      "popularity": 3.853,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 240169,
       "name": "Lily Li Li-Li",
       "profile_path": "/85kJkwgqnzsY9n5bpBAKp3C3MRf.jpg",
-      "popularity": 6.175,
+      "popularity": 8.645,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 205772,
       "name": "Wrenn Schmidt",
       "profile_path": "/inW0aDzK6G7Uin529nEsocCgl8Q.jpg",
-      "popularity": 6.175,
+      "popularity": 6.653,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 172790,
       "name": "Anna-Louise Plowman",
       "profile_path": "/awagJhvfkNYItu6Giv5wWn8tCfW.jpg",
-      "popularity": 6.175,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 65261,
-      "name": "Angelica Lee",
-      "profile_path": "/xTOOAEE8JYQuS7yd9RkTVKKnyP2.jpg",
-      "popularity": 6.175,
+      "popularity": 3.853,
       "adult": false,
       "known_for_department": "Acting"
     }

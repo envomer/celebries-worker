@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1217003,
+      "name": "Dana Barron",
+      "profile_path": "/z6HwYRN4h9CpjjyyM3rBc4KYN6D.jpg",
+      "popularity": 17.165,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 6198,
+      "name": "Vondie Curtis-Hall",
+      "profile_path": "/eJbwjnUB3VGGioAtQTmiYI4k7lH.jpg",
+      "popularity": 17.164,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 378,
       "name": "Jonathan Pryce",
       "profile_path": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg",
-      "popularity": 12.254,
+      "popularity": 17.156,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 80757,
       "name": "Mike Tyson",
       "profile_path": "/pFbI6qiqb7GJLj6nedE7h8b3X6y.jpg",
-      "popularity": 12.253,
+      "popularity": 9.276,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 992808,
       "name": "Rosabell Laurenti Sellers",
       "profile_path": "/54jpEVJpRi74YR019n3XytOF4lb.jpg",
-      "popularity": 12.249,
+      "popularity": 16.475,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 52415,
       "name": "Michael Cudlitz",
       "profile_path": "/sbXRz07BE5ZNVyQsJJgrW8cZN9m.jpg",
-      "popularity": 12.249,
+      "popularity": 11.275,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 19866,
       "name": "Guillaume Canet",
       "profile_path": "/yxerAhXValEezb1EuV9XWc9L8KC.jpg",
-      "popularity": 12.249,
+      "popularity": 11.675,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 6463,
       "name": "Dub Taylor",
       "profile_path": "/zvDrMTKXkFsLQ0j3fCj6UfNVNhK.jpg",
-      "popularity": 12.248,
+      "popularity": 9.274,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 59750,
       "name": "Nikki DeLoach",
       "profile_path": "/dGL9llK6Q0rBrMJecmP36bZjdDp.jpg",
-      "popularity": 12.242,
+      "popularity": 17.139,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 2636,
       "name": "Alfred Hitchcock",
       "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
-      "popularity": 12.239,
+      "popularity": 17.135,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -103,7 +119,7 @@
       "id": 21132,
       "name": "Abraham Benrubi",
       "profile_path": "/d5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg",
-      "popularity": 12.223,
+      "popularity": 11.667,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 723,
       "name": "Patrick Swayze",
       "profile_path": "/cjOI4kvoLIec0ZnqXibjSTDfq3y.jpg",
-      "popularity": 12.223,
+      "popularity": 17.112,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 43903,
       "name": "Carly Pope",
       "profile_path": "/mydviAWOyI2uZNs4rpeoVyPHiKU.jpg",
-      "popularity": 12.222,
+      "popularity": 10.067,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 1670,
       "name": "Daniel Mays",
       "profile_path": "/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg",
-      "popularity": 12.22,
+      "popularity": 15.266,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 84457,
       "name": "Marisol Nichols",
       "profile_path": "/9vSFX3NqyjhKLT6EBVwuzrt9eDS.jpg",
-      "popularity": 12.219,
+      "popularity": 11.266,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 1166,
       "name": "Harris Yulin",
       "profile_path": "/rKEWwNwhaE4AsubDGoLu6pDIxZy.jpg",
-      "popularity": 12.219,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 14408,
-      "name": "Matthew Perry",
-      "profile_path": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
-      "popularity": 12.211,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 10993,
-      "name": "Tom Felton",
-      "profile_path": "/4fO0PjiBbNFEnYLPe55xUUP7Wgf.jpg",
-      "popularity": 12.211,
+      "popularity": 13.266,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 32225,
+      "name": "Lindsay Crouse",
+      "profile_path": "/p9xfNphbZNvSfqxGA4za87VKuQI.jpg",
+      "popularity": 13.067,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 130977,
+      "name": "Joanne Froggatt",
+      "profile_path": "/eL6B9OTjeRALm5uUfMmy74Wu9Sr.jpg",
+      "popularity": 10.667,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 43442,
       "name": "Kerr Smith",
       "profile_path": "/2XHffxdkDVhaETNi6ajSntQ40du.jpg",
-      "popularity": 11.556,
+      "popularity": 10.267,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 1042728,
       "name": "Úrsula Corberó",
       "profile_path": "/wfy2YBmaGkH5kl60y3P03tTAMMc.jpg",
-      "popularity": 11.55,
+      "popularity": 16.17,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 234982,
       "name": "Bella Heathcote",
       "profile_path": "/cVPZLFNJ1SCHCnmOi2Jmms9I0TV.jpg",
-      "popularity": 11.549,
+      "popularity": 15.465,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 15234,
       "name": "David Arquette",
       "profile_path": "/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg",
-      "popularity": 11.547,
+      "popularity": 8.264,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 588175,
       "name": "Lars Ranthe",
       "profile_path": "/ecuI4UDB9TXorw7CB7H0WhbhsKA.jpg",
-      "popularity": 11.546,
+      "popularity": 10.664,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 54676,
       "name": "Jannis Niewöhner",
       "profile_path": "/eXlBu639DiyltQQL48VaKrYIWDz.jpg",
-      "popularity": 11.54,
+      "popularity": 15.862,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 1737,
       "name": "David Patrick Kelly",
       "profile_path": "/dPAqT9CuCgvMxEZQqtQPWEQwmIe.jpg",
-      "popularity": 11.539,
+      "popularity": 16.155,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 1177942,
       "name": "Kento Yamazaki",
       "profile_path": "/wKVMmoQrE4ZWPMy1nGXIDZ8CmZb.jpg",
-      "popularity": 11.535,
+      "popularity": 16.149,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 122851,
       "name": "Elsie Fisher",
       "profile_path": "/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg",
-      "popularity": 11.533,
+      "popularity": 12.66,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,14 +111,14 @@
       "id": 11398,
       "name": "Cary-Hiroyuki Tagawa",
       "profile_path": "/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg",
-      "popularity": 11.533,
+      "popularity": 9.86,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 2135958,
       "name": "Hazal Subaşı",
-      "profile_path": "/aU15yG8Jay5zAPATRlfwRXVw5kA.jpg",
+      "profile_path": "/9V41gB8Fsd6OL66VlwBQ6vv0ckO.jpg",
       "popularity": 11.53,
       "adult": false,
       "known_for_department": "Acting"
@@ -111,7 +127,7 @@
       "id": 5676,
       "name": "Marcello Mastroianni",
       "profile_path": "/6SZruohSSQNvG3Urgo73KGLSbJ.jpg",
-      "popularity": 11.53,
+      "popularity": 11.459,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 60899,
       "name": "Chace Crawford",
       "profile_path": "/lZiIfkUmZoG1q6qKn79lVl9yaJn.jpg",
-      "popularity": 11.529,
+      "popularity": 14.259,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 2692,
       "name": "Robert Sean Leonard",
       "profile_path": "/jXehZM0AWLJ2OIz4o0jFtHEzcMI.jpg",
-      "popularity": 11.526,
+      "popularity": 16.136,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 6730,
       "name": "Sacha Baron Cohen",
       "profile_path": "/8J2LxfW3owPTc9OzbBoUbADFOBb.jpg",
-      "popularity": 11.525,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 19426,
-      "name": "Jackie Coogan",
-      "profile_path": "/l9wiXgf7kLiuxgArVVeOqgPYHrm.jpg",
-      "popularity": 11.522,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 88496,
-      "name": "Charlie Ray",
-      "profile_path": "/z1CwJ823pIHO9UQihGmWi6v7w4j.jpg",
-      "popularity": 11.518,
+      "popularity": 15.858,
       "adult": false,
       "known_for_department": "Acting"
     }

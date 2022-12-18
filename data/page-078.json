@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2233,
+      "name": "Bridget Fonda",
+      "profile_path": "/k8ct3vqrs0TOATaDCe0gcu5K0Dz.jpg",
+      "popularity": 16.599,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 6213,
       "name": "Jamie Kennedy",
       "profile_path": "/shm7XMZF9bfliTDahcjqplhMkMD.jpg",
-      "popularity": 15.325,
+      "popularity": 21.455,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 57171,
       "name": "Jesse Metcalfe",
       "profile_path": "/atp5FK0tBemYNYQfSPnI2egR7rX.jpg",
-      "popularity": 15.322,
+      "popularity": 18.597,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 9340,
       "name": "Lana Wachowski",
       "profile_path": "/5KNV7YBSPTBUAIXGfIcPmbhho9w.jpg",
-      "popularity": 15.317,
+      "popularity": 17.795,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -31,7 +39,7 @@
       "id": 50304,
       "name": "James Arness",
       "profile_path": "/hLz1Lo6sfoLfFVlwnOSKMS2c1gY.jpg",
-      "popularity": 15.311,
+      "popularity": 10.193,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 6553,
       "name": "Isabelle Adjani",
       "profile_path": "/78hf5dChs9YmqXTKQ8zj1oLqc21.jpg",
-      "popularity": 15.31,
+      "popularity": 20.193,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 2714,
       "name": "Lance Henriksen",
       "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg",
-      "popularity": 15.305,
+      "popularity": 21.427,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 88699,
       "name": "Steven R. McQueen",
       "profile_path": "/y07CdWjGxsDU5qiukWpSEFDZT91.jpg",
-      "popularity": 15.301,
+      "popularity": 14.59,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 20277,
       "name": "David Suchet",
       "profile_path": "/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg",
-      "popularity": 15.3,
+      "popularity": 10.59,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 203096,
       "name": "Alona Tal",
       "profile_path": "/kYRu965Jt11NWWbJ9XtSUOhTkUx.jpg",
-      "popularity": 15.298,
+      "popularity": 13.789,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1902,
       "name": "Dianne Wiest",
       "profile_path": "/axqtFLgJNNz0N9i443USHCOvrmY.jpg",
-      "popularity": 15.287,
+      "popularity": 9.172,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 496470,
       "name": "Jake Lacy",
       "profile_path": "/sAF2ISBdNFMtbanjPyPwqriq3XM.jpg",
-      "popularity": 15.273,
+      "popularity": 19.782,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 75037,
       "name": "Laura Bailey",
       "profile_path": "/y2szEyFy7VFAzdQjMwN3fLwEDn.jpg",
-      "popularity": 15.264,
+      "popularity": 11.779,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 59263,
       "name": "Diora Baird",
       "profile_path": "/8xNfIVNDumyxqGJw71DleJ5YugK.jpg",
-      "popularity": 15.264,
+      "popularity": 20.179,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 36422,
       "name": "Luke Wilson",
       "profile_path": "/uKvkiZfgs80VNsU83fG28KG3TLz.jpg",
-      "popularity": 15.263,
+      "popularity": 21.368,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 572043,
       "name": "Yang Mi",
       "profile_path": "/t3tu8aiA1P7vhWqrlWZCzSuq6RS.jpg",
-      "popularity": 15.256,
+      "popularity": 15.777,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1534,
       "name": "Chris Elliott",
       "profile_path": "/t8sdwz8iV7dQWQlYb2rPMKepT8h.jpg",
-      "popularity": 15.252,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 227,
-      "name": "William Hurt",
-      "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg",
-      "popularity": 15.247,
+      "popularity": 20.176,
       "adult": false,
       "known_for_department": "Acting"
     }

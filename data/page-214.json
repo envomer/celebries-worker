@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 75041,
+      "name": "Cameron Boyce",
+      "profile_path": "/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg",
+      "popularity": 5.952,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 366,
+      "name": "James Mangold",
+      "profile_path": "/pk0GDjn99crNwR4qgCCEokDYd71.jpg",
+      "popularity": 12.844,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
       "id": 1339629,
       "name": "Stephanie Hyam",
       "profile_path": "/ajX4eKfpvg1fGa3d6fHJtspZp9D.jpg",
@@ -15,7 +31,7 @@
       "id": 1023483,
       "name": "Phoebe Waller-Bridge",
       "profile_path": "/lKMjGRKF4JqbQAoJ5aNs8cNUBFQ.jpg",
-      "popularity": 9.167,
+      "popularity": 12.834,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 141801,
       "name": "Paige Tamada",
       "profile_path": "",
-      "popularity": 9.167,
+      "popularity": 8.75,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 19901,
       "name": "Clive Russell",
       "profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg",
-      "popularity": 9.167,
+      "popularity": 12.834,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 14947,
       "name": "Susan George",
       "profile_path": "/4B9LBCfwni5Q7lZbx68qJfQqW2B.jpg",
-      "popularity": 9.167,
+      "popularity": 9.55,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 37939,
       "name": "Yum Jung-ah",
       "profile_path": "/5qIkgP0VcfF0YhO3bixzBtA1jH2.jpg",
-      "popularity": 9.166,
+      "popularity": 12.832,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 1120,
       "name": "Lennie James",
       "profile_path": "/hfZrdEkBHxYYbMoGHAaVomlgMi.jpg",
-      "popularity": 9.166,
+      "popularity": 12.832,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 19189,
       "name": "Elizabeth Berkley",
       "profile_path": "/gYz3ZeNWPI7aP21eB2OWrILE1KM.jpg",
-      "popularity": 9.164,
+      "popularity": 10.349,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 10461,
       "name": "Caroline Munro",
       "profile_path": "/CroSsO59Xc1ZddNDxRIH2qaj2I.jpg",
-      "popularity": 9.162,
+      "popularity": 6.749,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 18056,
       "name": "Kōji Yakusho",
       "profile_path": "/skhlURAPRENT0PK6V5wD7jmh74S.jpg",
-      "popularity": 9.159,
+      "popularity": 10.748,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 10698,
       "name": "Tchéky Karyo",
       "profile_path": "/jrtGiLYaALwDZgF39Hlgb8O1XZ1.jpg",
-      "popularity": 9.159,
+      "popularity": 6.348,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 168877,
       "name": "Finn Wittrock",
       "profile_path": "/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg",
-      "popularity": 9.156,
+      "popularity": 9.147,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 67676,
       "name": "Kenneth More",
       "profile_path": "/sN8z4fBdpVrWl8Ly1Qf7An6t6wQ.jpg",
-      "popularity": 9.156,
+      "popularity": 7.947,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 26975,
       "name": "Steve Talley",
       "profile_path": "/bY9OTcMxmJokUNmMLCUAFlppWb1.jpg",
-      "popularity": 9.156,
+      "popularity": 12.818,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 100528,
       "name": "Allison Dunbar",
       "profile_path": "/6qm1GYfxBoFqtct7fkytCkV7FOo.jpg",
-      "popularity": 9.152,
+      "popularity": 7.146,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 582601,
       "name": "Özge Özpirinçci",
       "profile_path": "/ja1znbkNGF5RBT2KKc0b7Wiv1ND.jpg",
-      "popularity": 9.15,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 210695,
-      "name": "Jesse Williams",
-      "profile_path": "/hygNTzn3Ml92ear4ltTPYo5Pp2G.jpg",
-      "popularity": 9.15,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 139493,
-      "name": "Park Sung-woong",
-      "profile_path": "/5ox3fL2MquwvfTZUyF8RPFvt6jo.jpg",
-      "popularity": 9.15,
+      "popularity": 8.345,
       "adult": false,
       "known_for_department": "Acting"
     }

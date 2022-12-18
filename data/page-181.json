@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2208,
+      "name": "Kathryn Morris",
+      "profile_path": "/yRgAOZ0pdvKhIGmKBbrHLLUkS2Z.jpg",
+      "popularity": 9.413,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1102453,
+      "name": "Ryan Cooper",
+      "profile_path": "/mcwDwDirh8YzkMvWKZNZttMQ3fp.jpg",
+      "popularity": 9.013,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1146738,
       "name": "Neslihan Yeldan",
       "profile_path": "/ooA8zBqzm2QSvcal7s1SN06PyyR.jpg",
-      "popularity": 10.039,
+      "popularity": 7.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 1288047,
       "name": "Alice Isaaz",
       "profile_path": "/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg",
-      "popularity": 10.032,
+      "popularity": 9.81,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 239975,
       "name": "Jay Manalo",
       "profile_path": "/3DrWIJmaKDwOP5kOIZRsNwd2yok.jpg",
-      "popularity": 10.031,
+      "popularity": 12.209,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 1012982,
       "name": "Amy Lindsay",
       "profile_path": "/qkpyO9yWNpfuDkglZudxBuKJgZl.jpg",
-      "popularity": 10.025,
+      "popularity": 7.408,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 42376,
       "name": "Zahn McClarnon",
       "profile_path": "/eOJO2LmKUcd9QQMDKjBy6nIzHhF.jpg",
-      "popularity": 10.025,
+      "popularity": 14.035,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 5729,
       "name": "Kim Novak",
       "profile_path": "/wQYlkzNBJkvFAY3R0FQZfwLhTDx.jpg",
-      "popularity": 10.02,
+      "popularity": 6.606,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 1215836,
       "name": "Kyle Bornheimer",
       "profile_path": "/79KUwXqB2FdKqxsAMppkJ8Aa78e.jpg",
-      "popularity": 10.018,
+      "popularity": 7.405,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 99,
       "name": "Amanda Plummer",
       "profile_path": "/joHGUtEmXzJkH6ogEliiUKT9MNa.jpg",
-      "popularity": 10.018,
+      "popularity": 12.205,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 10279,
       "name": "Adolf Hitler",
       "profile_path": "/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg",
-      "popularity": 10.017,
+      "popularity": 13.405,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 42905,
       "name": "Bill Kelly",
       "profile_path": "/5aa3F5vFv5yQe10pL2snCUrBIpt.jpg",
-      "popularity": 10.014,
+      "popularity": 9.804,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 2076,
       "name": "David Warner",
       "profile_path": "/sJ5NyKkTmFGyiTrpCnZ1v0DSnQG.jpg",
-      "popularity": 10.014,
+      "popularity": 13.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 5892,
       "name": "David Hewlett",
       "profile_path": "/hUcYyssAPCqnZ4GjolhOWXHTWSa.jpg",
-      "popularity": 10.013,
+      "popularity": 14.018,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 5251,
       "name": "Jack Warden",
       "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg",
-      "popularity": 10.013,
+      "popularity": 14.018,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 107791,
       "name": "Kelly Stables",
       "profile_path": "/1JaUl2kYhCCsLJYBNcdZkw4T0pE.jpg",
-      "popularity": 10.007,
+      "popularity": 6.602,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 54472,
       "name": "Martin McDonagh",
       "profile_path": "/pyDaAVKa8akTLHXzeTyF8oGymXN.jpg",
-      "popularity": 10.002,
+      "popularity": 14.003,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -143,23 +159,7 @@
       "id": 93236,
       "name": "David Dencik",
       "profile_path": "/2BPsGhw8lGhe6HNs1aLu4Q1XeVn.jpg",
-      "popularity": 10.001,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 5170,
-      "name": "Mike Starr",
-      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg",
-      "popularity": 10.001,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 236695,
-      "name": "John Boyega",
-      "profile_path": "/Aso09k70hwBmO9pqMNUespCx0m2.jpg",
-      "popularity": 10,
+      "popularity": 14.001,
       "adult": false,
       "known_for_department": "Acting"
     }

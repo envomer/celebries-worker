@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1632658,
+      "name": "Filip Geljo",
+      "profile_path": "/iO0DSb4G6oIv1ar5d5fegO6oyKu.jpg",
+      "popularity": 10.785,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 32683,
+      "name": "Sidse Babett Knudsen",
+      "profile_path": "/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg",
+      "popularity": 12.836,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 69574,
       "name": "Lexa Doig",
       "profile_path": "/2YMhgkGtfyJW96RzyDsoy5o3apf.jpg",
-      "popularity": 10.784,
+      "popularity": 13.235,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 102137,
       "name": "Katja Herbers",
       "profile_path": "/hGpfEsOtnF9o3KWRhpNZ0G3CqmT.jpg",
-      "popularity": 10.783,
+      "popularity": 10.435,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 150440,
       "name": "Gülçin Santırcıoğlu",
       "profile_path": "/sw7n4eL1V9zBIK5Hf1J89poewDA.jpg",
-      "popularity": 10.782,
+      "popularity": 9.235,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 2959,
       "name": "Kayvan Novak",
       "profile_path": "/2cJuw1nGFHyJTMj8YIh91cvErSm.jpg",
-      "popularity": 10.779,
+      "popularity": 15.091,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 46772,
       "name": "Marc Blucas",
       "profile_path": "/mk0YeUWkMsFKzJ8wFHsEXuGd2KK.jpg",
-      "popularity": 10.773,
+      "popularity": 15.082,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 230120,
       "name": "Mirei Kiritani",
       "profile_path": "/ohwjHKGA9g4YSAemFMIzF7DX23g.jpg",
-      "popularity": 10.772,
+      "popularity": 7.232,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 79793,
       "name": "Margo Harshman",
       "profile_path": "/2nZT1PonBTbegBalyH4swcsesJI.jpg",
-      "popularity": 10.772,
+      "popularity": 14.832,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 56830,
       "name": "Brigitte Lin",
       "profile_path": "/8Nq6F8bPy1HUHl4HkNIF0YGW1xD.jpg",
-      "popularity": 10.772,
+      "popularity": 12.032,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 23931,
       "name": "Mira Sorvino",
       "profile_path": "/nThgMCWdMpNgjGmHQrKMUAYKoQa.jpg",
-      "popularity": 10.772,
+      "popularity": 15.081,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 69399,
       "name": "Alexandra Holden",
       "profile_path": "/iyEimHNN11NgF1n6dX08wk5BqxB.jpg",
-      "popularity": 10.77,
+      "popularity": 11.231,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 27632,
       "name": "Ben Daniels",
       "profile_path": "/mJZCLpaK9C8a037j0PHSAzCjVAM.jpg",
-      "popularity": 10.77,
+      "popularity": 15.078,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 934289,
       "name": "Kiernan Shipka",
       "profile_path": "/aZeL5x1QfJ9LVpXfpTzyQilJTjN.jpg",
-      "popularity": 10.768,
+      "popularity": 13.23,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 585494,
       "name": "Jannik Schümann",
       "profile_path": "/qKh7JAht5TkX6O8anAxDWEHzuh2.jpg",
-      "popularity": 10.767,
+      "popularity": 9.63,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 7879,
       "name": "John Lasseter",
       "profile_path": "/gAVAZZHBa1v3gTcsWcBUwiHcyA0.jpg",
-      "popularity": 10.765,
+      "popularity": 15.071,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -143,23 +159,7 @@
       "id": 71403,
       "name": "Rob Riggle",
       "profile_path": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg",
-      "popularity": 10.763,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2242726,
-      "name": "Michele Rosiello",
-      "profile_path": "/qfUTAhrVVAFIGz7qDzLCqaTwfkq.jpg",
-      "popularity": 10.761,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 33336,
-      "name": "Gina Holden",
-      "profile_path": "/oBzSVgTkQen3Q1EGDo7ycrBTDEn.jpg",
-      "popularity": 10.761,
+      "popularity": 8.429,
       "adult": false,
       "known_for_department": "Acting"
     }

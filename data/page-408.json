@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 3121957,
+      "name": "Candy Loving",
+      "profile_path": "/kFccPNPddWXpnnVGkxo1CNKWfeg.jpg",
+      "popularity": 6.289,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2084465,
       "name": "Ren Jialun",
       "profile_path": "/jNsnYJOpwbYrPYyw8YOeNBYObal.jpg",
@@ -15,7 +23,7 @@
       "id": 64210,
       "name": "Maïwenn",
       "profile_path": "/hvfXWYcXipNEciDnNTI4vbuTPvM.jpg",
-      "popularity": 6.289,
+      "popularity": 8.805,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 16309,
       "name": "Marianne Koch",
       "profile_path": "/igJ6zFGJ1AsOEH00OW6ftpMStEu.jpg",
-      "popularity": 6.288,
+      "popularity": 7.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 572724,
       "name": "Christian Martyn",
       "profile_path": "/kTwixMOquzSkPnElRj91X0Kkij4.jpg",
-      "popularity": 6.286,
+      "popularity": 5.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1029251,
       "name": "Rin Asuka",
       "profile_path": "/mFiaudQwymV6BsSN0RyawLQ14UV.jpg",
-      "popularity": 6.285,
+      "popularity": 7.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 62717,
       "name": "Rekha Sharma",
       "profile_path": "/3qLo8UbKs26n7g1oyKHckNH1IvU.jpg",
-      "popularity": 6.285,
+      "popularity": 8.799,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 70439,
       "name": "Patrick Tse Yin",
       "profile_path": "/5neIbXmuvtdQIygHu6D2wighYwW.jpg",
-      "popularity": 6.284,
+      "popularity": 8.798,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 16119,
       "name": "Charles Napier",
       "profile_path": "/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg",
-      "popularity": 6.284,
+      "popularity": 3.77,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 8271,
       "name": "Mark Knopfler",
       "profile_path": "/1s2Q4Z6UoPOF6hcUbuzGldvGkgn.jpg",
-      "popularity": 6.283,
+      "popularity": 8.796,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1044952,
       "name": "Kris Van Damme",
       "profile_path": "/4465DC6Fz3RUtOGwD2E4xidFr8z.jpg",
-      "popularity": 6.282,
+      "popularity": 8.795,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 53676,
       "name": "Atul Kulkarni",
       "profile_path": "/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
-      "popularity": 6.281,
+      "popularity": 8.793,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 65167,
       "name": "Scott Cooper",
       "profile_path": "/zuT4LxFrGq2fCHYD8R6441OmRym.jpg",
-      "popularity": 6.28,
+      "popularity": 6.684,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -135,7 +143,7 @@
       "id": 23920,
       "name": "Chad McQueen",
       "profile_path": "/wHU54LIBJwxjnNvmc6sofdiy8Bi.jpg",
-      "popularity": 6.279,
+      "popularity": 7.884,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 172388,
       "name": "Meredith Eaton",
       "profile_path": "/agxaT28ahH8LbyFi7GM8pxociIs.jpg",
-      "popularity": 6.278,
+      "popularity": 6.283,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 18181,
       "name": "David Keith",
       "profile_path": "/ayfqRXPc3GFUXIMQ4bkrIe1B6hs.jpg",
-      "popularity": 6.278,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3926,
-      "name": "Albert Finney",
-      "profile_path": "/2sERwXPq1EMoplrRgAs8DUmyzgF.jpg",
-      "popularity": 6.278,
+      "popularity": 5.483,
       "adult": false,
       "known_for_department": "Acting"
     }

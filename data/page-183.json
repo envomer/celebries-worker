@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1425019,
+      "name": "Laia Costa",
+      "profile_path": "/i1L1tb5a8bdea4Zx0mAj260Fpde.jpg",
+      "popularity": 9.968,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 52801,
+      "name": "Patrick Fischler",
+      "profile_path": "/z5et9sdI57E9VRYbCbivqbDt523.jpg",
+      "popularity": 9.39,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1423269,
       "name": "Anikha Surendran",
       "profile_path": "/unw5AO67lKGndi365OnvGxx3IkD.jpg",
@@ -23,7 +39,7 @@
       "id": 12967,
       "name": "Swoosie Kurtz",
       "profile_path": "/sISOxpV6zn3EfC5uKVsX7s9xLBf.jpg",
-      "popularity": 9.954,
+      "popularity": 8.586,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 550549,
       "name": "John Macmillan",
       "profile_path": "/o9Jtr3vLCF3ZNPaQ7oMM4oLtmLh.jpg",
-      "popularity": 9.953,
+      "popularity": 6.186,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 43778,
       "name": "Navi Rawat",
       "profile_path": "/bXCNzMxlDuuiuxKxzFx85MojRwW.jpg",
-      "popularity": 9.953,
+      "popularity": 9.786,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 71158,
       "name": "Lars Mikkelsen",
       "profile_path": "/uUBFJk4IB4EsY63f69dP3im6FkE.jpg",
-      "popularity": 9.95,
+      "popularity": 7.785,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 18354,
       "name": "Bridget Moynahan",
       "profile_path": "/5y5CRPu9aw5Wx3EwyX1A2RpuLQP.jpg",
-      "popularity": 9.945,
+      "popularity": 13.923,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 73525,
       "name": "Michelle Ryan",
       "profile_path": "/ku4bB0mkNqIxrq9inHMurh81ZHg.jpg",
-      "popularity": 9.94,
+      "popularity": 9.382,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 35091,
       "name": "Scott Grimes",
       "profile_path": "/7LOWBMiRsSVm8iLj3mklQc6v7Jy.jpg",
-      "popularity": 9.94,
+      "popularity": 13.916,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 544797,
       "name": "Chin Siu-ho",
       "profile_path": "/6Xs2S8kF3pwDLXDmik02BwEmeCR.jpg",
-      "popularity": 9.933,
+      "popularity": 13.906,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 937120,
       "name": "Nigel Cooke",
       "profile_path": "/4yzKv9naE8Ufstf1bi6P6rvNaw2.jpg",
-      "popularity": 9.923,
+      "popularity": 5.954,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 60719,
       "name": "Hiro Kanagawa",
       "profile_path": "/dyWOPJmZTfy3r3R5eDY2d7yf8Ze.jpg",
-      "popularity": 9.921,
+      "popularity": 13.889,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 9212,
       "name": "Jennifer Taylor",
       "profile_path": "/5rNxbcLeRA6s6K9DOqVP3msXuwN.jpg",
-      "popularity": 9.921,
+      "popularity": 8.176,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 51930,
       "name": "Wade Williams",
       "profile_path": "/aCbu0BrVJMRCaZn24XGqqEO2Rcf.jpg",
-      "popularity": 9.92,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 42722,
-      "name": "Michael T. Weiss",
-      "profile_path": "/blubry0tJA9kqEkwYl1b7VUgRlM.jpg",
-      "popularity": 9.92,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 37696,
-      "name": "Colin Lawrence",
-      "profile_path": "/aFAfFIKB10Kem86i5KbAfdUByLK.jpg",
-      "popularity": 9.919,
+      "popularity": 11.776,
       "adult": false,
       "known_for_department": "Acting"
     }

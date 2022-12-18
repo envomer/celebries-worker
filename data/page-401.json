@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 19257,
+      "name": "Janet Jones",
+      "profile_path": "/5EAjtmNjmbAjw5PWWzfxgaXqEka.jpg",
+      "popularity": 7.508,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1231402,
       "name": "Mark Bonnar",
       "profile_path": "/qDcyLhGFfdIhQD3wGAM7fmAf53n.jpg",
-      "popularity": 6.359,
+      "popularity": 6.308,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1011160,
       "name": "Maud Jurez",
       "profile_path": "/xW1Tn9m6vMCfqOiHin6yezfJx8o.jpg",
-      "popularity": 6.355,
+      "popularity": 8.897,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 121718,
       "name": "Bill Camp",
       "profile_path": "/yZFata0EVr7TbIAz8vZFyiDKDts.jpg",
-      "popularity": 6.355,
+      "popularity": 8.897,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 25655,
       "name": "Zoe Telford",
       "profile_path": "/3oFNtRDlyUURPukWLSgkyc5rFk6.jpg",
-      "popularity": 6.355,
+      "popularity": 8.897,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1230459,
       "name": "Burgess Abernethy",
       "profile_path": "/8tEilnZyEMsuGEF9afIxnAGnPsP.jpg",
-      "popularity": 6.354,
+      "popularity": 8.896,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 9207,
       "name": "Theresa Russell",
       "profile_path": "/ybCrVitTjAIaoX8LcsYPJ1pwt1G.jpg",
-      "popularity": 6.353,
+      "popularity": 5.506,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 543193,
       "name": "Vanessa Williams",
       "profile_path": "/6kS1LCWPRQLdi4Ks5mKte9zQWsN.jpg",
-      "popularity": 6.352,
+      "popularity": 7.506,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1216163,
       "name": "Kaylee DeFer",
       "profile_path": "/scGIyqmQC3A1mlWSYGd2STIqMLK.jpg",
-      "popularity": 6.351,
+      "popularity": 4.305,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 172833,
       "name": "Michael Karl Richards",
       "profile_path": "/pwINnTUgLABTm6veRrkFptPGj9n.jpg",
-      "popularity": 6.35,
+      "popularity": 5.105,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 64457,
       "name": "Perry King",
       "profile_path": "/dRMGfGssBcqnX29udF0hTsIfEe1.jpg",
-      "popularity": 6.35,
+      "popularity": 3.81,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 31514,
       "name": "Peter Jacobson",
       "profile_path": "/pGi9CnzEG4cLa2viUP89yvlPCyR.jpg",
-      "popularity": 6.35,
+      "popularity": 8.89,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 43372,
       "name": "Stacy Edwards",
       "profile_path": "/vTvcn83poPsGhdUVGNCARBmqgzU.jpg",
-      "popularity": 6.349,
+      "popularity": 5.505,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 57968,
       "name": "Mark Miller",
       "profile_path": "/ik6zHS5iVJWZdevqhgqsjmTavcr.jpg",
-      "popularity": 6.348,
+      "popularity": 8.887,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 131006,
       "name": "Sam Trammell",
       "profile_path": "/4xBWETAFhlpBVOb9xp6MjovpCjd.jpg",
-      "popularity": 6.347,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1303873,
-      "name": "Jenna Kanell",
-      "profile_path": "/dzx7LYrEX5TnxSau43AZMYm5Mub.jpg",
-      "popularity": 6.346,
+      "popularity": 3.904,
       "adult": false,
       "known_for_department": "Acting"
     }

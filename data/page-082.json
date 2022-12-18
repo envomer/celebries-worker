@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1454610,
+      "name": "Paige Spara",
+      "profile_path": "/dUKq7IxIHEdkqJ25qaq2vDUMAg6.jpg",
+      "popularity": 14.941,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 22090,
       "name": "Barbara Eden",
       "profile_path": "/wFTdqWI7RDAbOlcejwHwKUOn4mr.jpg",
-      "popularity": 14.931,
+      "popularity": 8.959,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 51663,
       "name": "Sean Gunn",
       "profile_path": "/jXCNsh2c7vKWhWgpSGEdgFSLjxm.jpg",
-      "popularity": 14.924,
+      "popularity": 13.277,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 14060,
       "name": "Robert Vaughn",
       "profile_path": "/dr6dNvKEStZDJRLnByWg6fWAfoj.jpg",
-      "popularity": 14.916,
+      "popularity": 12.075,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 18023,
       "name": "Robert Carlyle",
       "profile_path": "/yOdTewlmmvxqDaKbWJ7eAk0ULCf.jpg",
-      "popularity": 14.914,
+      "popularity": 15.274,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 82785,
       "name": "Emily Osment",
       "profile_path": "/dRIesWlHpmeTMZcZXEgWD64EifU.jpg",
-      "popularity": 14.913,
+      "popularity": 17.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1161,
       "name": "Mary Elizabeth Mastrantonio",
       "profile_path": "/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg",
-      "popularity": 14.913,
+      "popularity": 20.878,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 21429,
       "name": "Sam Page",
       "profile_path": "/4eDEFtOhXFcELjAHKHJhVB6fLcc.jpg",
-      "popularity": 14.909,
+      "popularity": 11.273,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 765,
       "name": "Hiam Abbass",
       "profile_path": "/hkzC5aJKTiuCchBpybaHDVngYZW.jpg",
-      "popularity": 14.904,
+      "popularity": 13.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 38561,
       "name": "Kelly Brook",
       "profile_path": "/nQViqXs3FkBcKz9ILIzLBmrDaDk.jpg",
-      "popularity": 14.897,
+      "popularity": 15.269,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1053797,
       "name": "Jamilla Obispo",
       "profile_path": "/buEZ1JRw08o8sM1uH7tBV5UNENT.jpg",
-      "popularity": 14.892,
+      "popularity": 14.868,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,15 +111,15 @@
       "id": 234933,
       "name": "Katie Leung",
       "profile_path": "/ahnrv2ih7f7mqjDjbkiv1v728Ga.jpg",
-      "popularity": 14.878,
+      "popularity": 15.263,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 4111,
       "name": "Ingrid Bergman",
-      "profile_path": "/ApHTsis9FEm5ZpwD2CjMN3swsB9.jpg",
-      "popularity": 14.878,
+      "profile_path": "/ncKMKRkK5JpCZ2c4A5e9erN8w0j.jpg",
+      "popularity": 20.829,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 144344,
       "name": "Emily Cox",
       "profile_path": "/iypZYnKcR3MGtKOkwD9KDlVnRCl.jpg",
-      "popularity": 14.877,
+      "popularity": 15.263,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 76855,
       "name": "Tony Dalton",
       "profile_path": "/w9kvFf9IvuwkmTlDGVOAznScQDn.jpg",
-      "popularity": 14.869,
+      "popularity": 12.461,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 146245,
       "name": "Kim Hye-soo",
       "profile_path": "/mTC57xEYJluTvygkIVmfYW2SfJU.jpg",
-      "popularity": 14.853,
+      "popularity": 13.656,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 51800,
       "name": "Teryl Rothery",
       "profile_path": "/16rUSnTH56cKatjd6kjEYEfU4cA.jpg",
-      "popularity": 14.841,
+      "popularity": 20.777,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 20495,
       "name": "Jeff Fahey",
       "profile_path": "/zRu1ZmM7ekKwKbmXn3U0VjD8Wyd.jpg",
-      "popularity": 14.837,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 71198,
-      "name": "Christian Kane",
-      "profile_path": "/bHQDqGBW2yCEsHlNMkmJpQA9lDr.jpg",
-      "popularity": 14.833,
+      "popularity": 14.851,
       "adult": false,
       "known_for_department": "Acting"
     }

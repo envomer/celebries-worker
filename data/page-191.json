@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1660452,
+      "name": "Betty Gabriel",
+      "profile_path": "/n67i3H3VM5quDQfcS591EbotPby.jpg",
+      "popularity": 9.747,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 39113,
+      "name": "Christine Elise",
+      "profile_path": "/hFx6YxrQAPYGFNnFnAQoM4Obqz1.jpg",
+      "popularity": 8.124,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 28781,
       "name": "Christian Clavier",
       "profile_path": "/9WsvKjheeizXCcZrFjZCrCoItqO.jpg",
-      "popularity": 9.746,
+      "popularity": 13.644,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 14701,
       "name": "Carroll Baker",
       "profile_path": "/fjInIWr1AfNN5uanAs5kW5AqOcB.jpg",
-      "popularity": 9.745,
+      "popularity": 10.124,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 89838,
       "name": "Leo Penn",
       "profile_path": "/efb6SAVE9jBrHaBxAWMMRiMr1CG.jpg",
-      "popularity": 9.744,
+      "popularity": 6.923,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -39,7 +55,7 @@
       "id": 556475,
       "name": "Türkan Şoray",
       "profile_path": "/wUAijeqo04wtxAOdoX2whnuRH1b.jpg",
-      "popularity": 9.743,
+      "popularity": 10.523,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,15 @@
       "id": 87384,
       "name": "Chyna",
       "profile_path": "/lEClFawi9DXjJr71jc3WMGWmlVz.jpg",
-      "popularity": 9.743,
+      "popularity": 10.923,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 3783386,
+      "name": "Karoline Viktoria Sletteng Garvang",
+      "profile_path": "/lR5WUJ0wMPTJd0XwZxRnsPu0MHI.jpg",
+      "popularity": 9.741,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +79,7 @@
       "id": 1017294,
       "name": "Tom Hopper",
       "profile_path": "/qS8F31xn6ZoNBTOvcXZfWewgma2.jpg",
-      "popularity": 9.739,
+      "popularity": 13.635,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +87,7 @@
       "id": 1168097,
       "name": "Manuel Garcia-Rulfo",
       "profile_path": "/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg",
-      "popularity": 9.737,
+      "popularity": 13.632,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +111,7 @@
       "id": 4521,
       "name": "Burt Young",
       "profile_path": "/po3D7HKkMhoNkBMcIKpxjWzjoF.jpg",
-      "popularity": 9.733,
+      "popularity": 13.626,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +119,7 @@
       "id": 39481,
       "name": "Jordana Spiro",
       "profile_path": "/lYWTKhlMG9B2gEoCOCABqeRMbx3.jpg",
-      "popularity": 9.731,
+      "popularity": 10.919,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +127,7 @@
       "id": 90749,
       "name": "Andrew Shue",
       "profile_path": "/xNoBZktOInbk4Rfv8R1vUz3Uyzj.jpg",
-      "popularity": 9.729,
+      "popularity": 12.519,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +135,7 @@
       "id": 8776,
       "name": "Claudia Gerini",
       "profile_path": "/QFBen9LPrKuSr9awe0Go3gl6sG.jpg",
-      "popularity": 9.727,
+      "popularity": 10.118,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +143,7 @@
       "id": 122756,
       "name": "Dulé Hill",
       "profile_path": "/fPJ8lIx6WwBgO2AhnHQSeiZiAUy.jpg",
-      "popularity": 9.724,
+      "popularity": 12.917,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,31 +159,7 @@
       "id": 12139,
       "name": "Lolita Davidovich",
       "profile_path": "/cDpuHwPkWkLy8LSBXKIn5Gx3JUF.jpg",
-      "popularity": 9.722,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2174283,
-      "name": "Sin-Yi Yip",
-      "profile_path": "/7w24Hzl7tCKFXv4VYc6PNwQvTPW.jpg",
-      "popularity": 9.72,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1355149,
-      "name": "Rebecca Dalton",
-      "profile_path": "/vMCqMdQlHNanhrSKco42xH6FWlP.jpg",
-      "popularity": 9.717,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 120932,
-      "name": "Claire Foy",
-      "profile_path": "/a7ws0h1TQeoC97lBo0unFolNe4q.jpg",
-      "popularity": 9.717,
+      "popularity": 11.317,
       "adult": false,
       "known_for_department": "Acting"
     }

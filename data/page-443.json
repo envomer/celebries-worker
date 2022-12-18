@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 41639,
+      "name": "Netta Garti",
+      "profile_path": "/yAwo4zSpCzMhYiPGxkJBYhnzjRV.jpg",
+      "popularity": 5.8,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 21722,
       "name": "John Billingsley",
       "profile_path": "/uQzAvv4LUt57GBrYzDj5Ao1vhUT.jpg",
-      "popularity": 6.001,
+      "popularity": 8.2,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 1108185,
       "name": "Murathan Muslu",
       "profile_path": "/k0oHhVt3scoV7lRycxsS8YCnu8M.jpg",
-      "popularity": 6,
+      "popularity": 6.2,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 588403,
       "name": "Yutaka Takenouchi",
       "profile_path": "/zmnpwxj1K3W9tLoRUa5ziGNy94D.jpg",
-      "popularity": 5.999,
+      "popularity": 5.8,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 216409,
       "name": "Cory Lee",
       "profile_path": "/fghcWFgEJJOn82tNGUr8vvFQBFi.jpg",
-      "popularity": 5.999,
+      "popularity": 5,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 2411,
       "name": "Clotilde Mollet",
       "profile_path": "/2eR1tpq9zEger1JdANUpehzaSa3.jpg",
-      "popularity": 5.999,
+      "popularity": 8.399,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1084911,
       "name": "Go Ayano",
       "profile_path": "/Ap5IuncBMYnABsvkEtsdoM92VTh.jpg",
-      "popularity": 5.998,
+      "popularity": 5.399,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 567621,
       "name": "Choi Hee-jin",
       "profile_path": "/nDOo1uoshFe16QOTbbMj3Eq2IzG.jpg",
-      "popularity": 5.998,
+      "popularity": 8.397,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 93228,
       "name": "Louis Herthum",
       "profile_path": "/7QarKov7OLIKKv6m152rnEyOnfq.jpg",
-      "popularity": 5.998,
+      "popularity": 8.397,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 77000,
       "name": "Hale Appleman",
       "profile_path": "/yVoVmU3WpeXuIBcXrLxkKslFa71.jpg",
-      "popularity": 5.998,
+      "popularity": 8.397,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 151182,
       "name": "Misaki Kuno",
       "profile_path": "/hVtE4gdKaqofYZmXXtlJs4Q9XTL.jpg",
-      "popularity": 5.997,
+      "popularity": 7.399,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 99196,
       "name": "Eva Robin's",
       "profile_path": "/pRy5gyJRbmRsA2sNhukkWpyn5zh.jpg",
-      "popularity": 5.997,
+      "popularity": 7.799,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1208682,
       "name": "Vikrant Massey",
       "profile_path": "/wXDo3CzK0t9LTQ0C1yxe8aMAR9f.jpg",
-      "popularity": 5.996,
+      "popularity": 3.799,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1182862,
       "name": "Roberta Sparta",
       "profile_path": "/u9qquzbTAzSaNOZ9RfdkgU1WPOs.jpg",
-      "popularity": 5.996,
+      "popularity": 4.199,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 93620,
       "name": "Welker White",
       "profile_path": "/aSkPNk7fIWa0B9HJ2RjwLNBcCiu.jpg",
-      "popularity": 5.996,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 51991,
-      "name": "Michael Stahl-David",
-      "profile_path": "/eHDOcBnXcRD9Ls3APP7qMpzjNFn.jpg",
-      "popularity": 5.996,
+      "popularity": 6.999,
       "adult": false,
       "known_for_department": "Acting"
     }

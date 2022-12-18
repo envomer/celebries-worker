@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 58650,
+      "name": "Raymond Cruz",
+      "profile_path": "/ndhc53yEQeeFn01QoOxtPa6GroU.jpg",
+      "popularity": 16.346,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 19576,
       "name": "Richard Thomas",
       "profile_path": "/yLV41csipJfb7qF135vD4Wu7VQH.jpg",
-      "popularity": 14.465,
+      "popularity": 14.34,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 229932,
       "name": "Golshifteh Farahani",
       "profile_path": "/DuAPmZxZlX25m57pJy16WbIyKM.jpg",
-      "popularity": 14.447,
+      "popularity": 11.934,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 2838,
       "name": "Chloë Sevigny",
       "profile_path": "/eM7KGAMCmZCzYDFV8gaSfknN675.jpg",
-      "popularity": 14.442,
+      "popularity": 20.219,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 8985,
       "name": "Margaret Colin",
       "profile_path": "/tsg9bGtD1mY1FLKIeIFUNeD5jpm.jpg",
-      "popularity": 14.435,
+      "popularity": 19.131,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 20047,
       "name": "Cara Buono",
       "profile_path": "/8nK8PSGTfDr3GtqdgUcWwbSlyJX.jpg",
-      "popularity": 14.427,
+      "popularity": 12.328,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 8977,
       "name": "Craig T. Nelson",
       "profile_path": "/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg",
-      "popularity": 14.427,
+      "popularity": 18.328,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 27772,
       "name": "John Ritter",
       "profile_path": "/qtDUmYHdT6RCs8wp5FmIZMKNelM.jpg",
-      "popularity": 14.424,
+      "popularity": 20.194,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1834,
       "name": "Shirley Henderson",
       "profile_path": "/dxVvLjGNKVMl5lDXXInJ7xWpCvl.jpg",
-      "popularity": 14.424,
+      "popularity": 14.327,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 21721,
       "name": "Dean Cain",
       "profile_path": "/iDlc890m7HutxZXIZREkV6b4Y3H.jpg",
-      "popularity": 14.416,
+      "popularity": 13.525,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 121575,
       "name": "Ashlynn Yennie",
       "profile_path": "/8GIgCCdqxFfSeNEagpvKPBjSWDm.jpg",
-      "popularity": 14.406,
+      "popularity": 16.722,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 42335,
       "name": "Kathleen Wilhoite",
       "profile_path": "/hyqJJRBN2YtxxO2OeuFW94OpSN6.jpg",
-      "popularity": 14.406,
+      "popularity": 20.168,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 12708,
       "name": "Peter Billingsley",
       "profile_path": "/2Aq3fcRbEifBWfOgBIbZdPDcDUW.jpg",
-      "popularity": 14.403,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2628,
-      "name": "Kiefer Sutherland",
-      "profile_path": "/g4HLUHuQ742roPxugGzxeVoKnel.jpg",
-      "popularity": 14.402,
+      "popularity": 20.164,
       "adult": false,
       "known_for_department": "Acting"
     }

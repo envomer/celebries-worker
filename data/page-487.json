@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 90514,
+      "name": "Birgitte Hjort Sørensen",
+      "profile_path": "/uPak0FlCPdsc9B1pw4bBkuaMLXT.jpg",
+      "popularity": 7.935,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1794468,
       "name": "Eleonora Gaggero",
       "profile_path": "/ik3oDwIYc27EN8FmB55XgtTvvpH.jpg",
@@ -15,7 +23,7 @@
       "id": 1217390,
       "name": "Anna Navarro",
       "profile_path": "/r5Nfc5IVEcfcRiKaSVbaxfO4yhU.jpg",
-      "popularity": 5.667,
+      "popularity": 5.7,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 58723,
       "name": "Gilles Marini",
       "profile_path": "/sbe1rtvd0DhLy2MW3FT6SvMsPTe.jpg",
-      "popularity": 5.666,
+      "popularity": 7.932,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 27993,
       "name": "Jeffrey Combs",
       "profile_path": "/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg",
-      "popularity": 5.666,
+      "popularity": 4.1,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 173150,
       "name": "Roma Downey",
       "profile_path": "/nmo93m36akFM33NsPNsVFl3Uiil.jpg",
-      "popularity": 5.665,
+      "popularity": 5.7,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -63,7 +71,7 @@
       "id": 1262570,
       "name": "Hanna Binke",
       "profile_path": "/vA2txSv7ZlsDdXNaVZvzB0G3NSt.jpg",
-      "popularity": 5.664,
+      "popularity": 7.299,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 62553,
       "name": "Samantha Smith",
       "profile_path": "/jHftgejkIz82x2iwQdEDGgLly3c.jpg",
-      "popularity": 5.662,
+      "popularity": 5.299,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 26862,
       "name": "Neil Morrissey",
       "profile_path": "/n6tmVzGXEFoT3TcJ15lYdyxqzFN.jpg",
-      "popularity": 5.662,
+      "popularity": 5.699,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 122822,
       "name": "Yvonne Yung Hung",
       "profile_path": "/d7tO5Z1UdpMfutCdW2zfLfXCOfO.jpg",
-      "popularity": 5.661,
+      "popularity": 7.925,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 209087,
       "name": "Scott MacArthur",
       "profile_path": "/s68qcgeQuYT6XWdHgjvQnDVCMHs.jpg",
-      "popularity": 5.66,
+      "popularity": 4.498,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 41504,
       "name": "Alexis Thorpe",
       "profile_path": "/in2ked6BPzMVZjUG8QWlUT17uxq.jpg",
-      "popularity": 5.66,
+      "popularity": 4.898,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1475,
       "name": "Musetta Vander",
       "profile_path": "/9WaKUcU5JADe64vHnpt6SoONE5I.jpg",
-      "popularity": 5.66,
+      "popularity": 6.898,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 47513,
       "name": "Peter Davison",
       "profile_path": "/v6VPbMj7iTrhE5sBo3g7hoRSofA.jpg",
-      "popularity": 5.659,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 8499,
-      "name": "William Windom",
-      "profile_path": "/jLKGf2gQR4cBDnUWFOsXY2y5Pui.jpg",
-      "popularity": 5.658,
+      "popularity": 5.298,
       "adult": false,
       "known_for_department": "Acting"
     }

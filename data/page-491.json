@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 79033,
+      "name": "Jérémie Elkaïm",
+      "profile_path": "/3jiO7c8wSXRzxvxP7LSs3xVMUXD.jpg",
+      "popularity": 7.89,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 3809,
       "name": "Francesca Neri",
       "profile_path": "/1aDT4mtTdnp6xh60NnjUXI62Poy.jpg",
-      "popularity": 5.636,
+      "popularity": 7.89,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 110902,
       "name": "Ólafur Darri Ólafsson",
       "profile_path": "/qNs7mUyqWFRocJ4X22Zy1fAhL4x.jpg",
-      "popularity": 5.635,
+      "popularity": 4.091,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 59713,
       "name": "Mpho Koaho",
       "profile_path": "/9KkpcpPwA4pcaRf9272LH2b7sDe.jpg",
-      "popularity": 5.635,
+      "popularity": 4.491,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 112560,
       "name": "Quinton Aaron",
       "profile_path": "/AvmNkbRAX1oOecrldWuwvRmDZGw.jpg",
-      "popularity": 5.634,
+      "popularity": 6.89,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 101626,
       "name": "Dan Southworth",
       "profile_path": "/2DKM8LkytmWkiQjhq2QGO8n2P5H.jpg",
-      "popularity": 5.634,
+      "popularity": 7.888,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1056194,
       "name": "Jeff Corbett",
       "profile_path": "/90BXqe89kTCrLNeFxXv99cecP5v.jpg",
-      "popularity": 5.633,
+      "popularity": 5.29,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1072774,
       "name": "Yoko Hikasa",
       "profile_path": "/e6I7r45YZXgvlEVSGR3L14tSl87.jpg",
-      "popularity": 5.632,
+      "popularity": 5.29,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 7172,
       "name": "James Brown",
       "profile_path": "/q9Q3c7HsZEEqrwNIY9yDgsJ74uE.jpg",
-      "popularity": 5.632,
+      "popularity": 7.885,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1018013,
       "name": "Isabell Sollman",
       "profile_path": "/9SiAXhpaNKjceBhcBJaKGlauSiN.jpg",
-      "popularity": 5.631,
+      "popularity": 3.379,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 25616,
       "name": "Edgar Ramírez",
       "profile_path": "/7VZnIAI7Yye0rfs7fPM5wI2CI6N.jpg",
-      "popularity": 5.631,
+      "popularity": 5.689,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 582668,
       "name": "Jeremiah Bitsui",
       "profile_path": "/6jXZZxWgjnLRBKjRT0MKDAiX8kO.jpg",
-      "popularity": 5.63,
+      "popularity": 5.689,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 155423,
       "name": "Tom Verica",
       "profile_path": "/kNh4u2PUzXw3shi3M1tmYvsJu4y.jpg",
-      "popularity": 5.63,
+      "popularity": 6.489,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1475097,
       "name": "Zoé De Grand Maison",
       "profile_path": "/cdDDw50Oz6tLCyUWORQerH3BE1M.jpg",
-      "popularity": 5.629,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1337805,
-      "name": "Sibylla Deen",
-      "profile_path": "/v6q1PNmlQCC2JcB0iDgcXXt0TH0.jpg",
       "popularity": 5.629,
       "adult": false,
       "known_for_department": "Acting"

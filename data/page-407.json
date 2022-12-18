@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 94765,
+      "name": "Diane Brewster",
+      "profile_path": "/t7gRA5LwID5uMkTBRP4hcqGEXYn.jpg",
+      "popularity": 7.889,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 54800,
       "name": "Anna Maria Horsford",
       "profile_path": "/17uU3AETKjxHMRHzEmKPrdnkEoj.jpg",
-      "popularity": 6.297,
+      "popularity": 8.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 23587,
       "name": "Stephanie Leonidas",
       "profile_path": "/b1Cs2UI6FoPM64OZL2XgshIF241.jpg",
-      "popularity": 6.297,
+      "popularity": 6.689,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 53364,
       "name": "India de Beaufort",
       "profile_path": "/a0hOqwM1eBHzhSf1VkLnVXjgL1j.jpg",
-      "popularity": 6.296,
+      "popularity": 8.689,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1004806,
       "name": "Engin Akyürek",
       "profile_path": "/ykHobj9HvKIunrH6xiFCG26c3CJ.jpg",
-      "popularity": 6.294,
+      "popularity": 8.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 217055,
       "name": "Cleopatra Coleman",
       "profile_path": "/vA0KiqXasmcvjafImY4hwoxYe8d.jpg",
-      "popularity": 6.294,
+      "popularity": 5.088,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 106965,
       "name": "Adam J. Harrington",
       "profile_path": "/9oaeu0UVSfg87rJ38fw3JfO3ZTL.jpg",
-      "popularity": 6.294,
+      "popularity": 6.688,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 34735,
       "name": "Loni Anderson",
       "profile_path": "/2IRmMn4u8vKiPm1iDSMXR8Wse45.jpg",
-      "popularity": 6.294,
+      "popularity": 8.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 131772,
       "name": "Amin Joseph",
       "profile_path": "/4amOjOS9wUXoecbYzHJAsaSVAOb.jpg",
-      "popularity": 6.293,
+      "popularity": 6.288,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 96659,
       "name": "Ahn Nae-sang",
       "profile_path": "/xV3sxmoeWodwOIC8EE6GlUvJQzQ.jpg",
-      "popularity": 6.293,
+      "popularity": 5.888,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 22251,
       "name": "Royce D. Applegate",
       "profile_path": "/xjXXd5hC4rcn3VfOlCP4WSrvipO.jpg",
-      "popularity": 6.293,
+      "popularity": 3.776,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 16358,
       "name": "Simon McBurney",
       "profile_path": "/wwN02i4RBoPHDdOKXBV5AhFALdT.jpg",
-      "popularity": 6.293,
+      "popularity": 5.888,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 82663,
       "name": "Shannon Woodward",
       "profile_path": "/4Ef4jkQCtjSRCeispD1hKTj0ZqC.jpg",
-      "popularity": 6.292,
+      "popularity": 8.809,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 10739,
       "name": "Bebe Neuwirth",
       "profile_path": "/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg",
-      "popularity": 6.292,
+      "popularity": 8.809,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 80619,
       "name": "Steve Coulter",
       "profile_path": "/5bK6a5Cfy5DxVoNpzt4nbhUUW85.jpg",
-      "popularity": 6.29,
+      "popularity": 4.287,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 20903,
       "name": "Josh Keaton",
       "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg",
-      "popularity": 6.29,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3121957,
-      "name": "Candy Loving",
-      "profile_path": "/kFccPNPddWXpnnVGkxo1CNKWfeg.jpg",
-      "popularity": 6.289,
+      "popularity": 8.687,
       "adult": false,
       "known_for_department": "Acting"
     }

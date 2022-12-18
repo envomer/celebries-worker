@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1737904,
+      "name": "Seo Jeong-yeon",
+      "profile_path": "/za1tTtSULKsZPN0u1oTs2Iival0.jpg",
+      "popularity": 6.168,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1255432,
       "name": "Buğra Gülsoy",
       "profile_path": "/AntbqCmwieJnPurVkk0QbaNkTce.jpg",
-      "popularity": 6.168,
+      "popularity": 7.05,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 552683,
       "name": "Hochu Otsuka",
       "profile_path": "/ouMRSpccmkS6iOMVkSc4fEOBiN2.jpg",
-      "popularity": 6.168,
+      "popularity": 8.635,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 31079,
       "name": "Aki Maeda",
       "profile_path": "/WLSYOzH7WxyVmW0gx3qJ9fndAu.jpg",
-      "popularity": 6.168,
+      "popularity": 6.25,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 8184,
       "name": "Mary Kate Schellhardt",
       "profile_path": "/soMV16v3JVmkjd7S7S6ohgEGl6b.jpg",
-      "popularity": 6.168,
+      "popularity": 8.635,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1143308,
       "name": "Rakul Preet Singh",
       "profile_path": "/4n4MmOFNyxKc4qMfzyapglvDDlF.jpg",
-      "popularity": 6.167,
+      "popularity": 5.05,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 200999,
       "name": "Nancy Daly",
       "profile_path": "/8bk5wOqmN4l0eFOZ4JnieLgemWP.jpg",
-      "popularity": 6.166,
+      "popularity": 5.45,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 41957,
       "name": "Robert Stephens",
       "profile_path": "/rYfM20itiFCVmxX9NFNX5aICGE0.jpg",
-      "popularity": 6.165,
+      "popularity": 8.631,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 34257,
       "name": "Anthony Stewart Head",
       "profile_path": "/3IKmIaEQFgHtTlUI548eirwIJPP.jpg",
-      "popularity": 6.165,
+      "popularity": 8.631,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1011102,
       "name": "Jesse Lee Soffer",
       "profile_path": "/9UUAzXCwWx8Un6XJ2z1Mh5XyEU6.jpg",
-      "popularity": 6.163,
+      "popularity": 8.628,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 61563,
       "name": "Jackson Hurst",
       "profile_path": "/aizQOKQVc4mD9pyssS5eCf2vuiO.jpg",
-      "popularity": 6.163,
+      "popularity": 4.249,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 14573,
       "name": "Martin Milner",
       "profile_path": "/2sEL4PauMRhLGnOyVwYtw5QP1YL.jpg",
-      "popularity": 6.163,
+      "popularity": 5.449,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1220084,
       "name": "Susannah Doyle",
       "profile_path": "/gMU3ESkffQPQ2knM0OgXrm6gN4J.jpg",
-      "popularity": 6.162,
+      "popularity": 3.849,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 65020,
       "name": "Victoria Rowell",
       "profile_path": "/njRclKcWrRZAVB7TRTy7rsMPzxi.jpg",
-      "popularity": 6.162,
+      "popularity": 8.627,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 16417,
       "name": "Paul Frees",
       "profile_path": "/pACT0LYkEyff7PGt88iqr5u9T7u.jpg",
-      "popularity": 6.161,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 19898,
-      "name": "Vladimir Kulich",
-      "profile_path": "/z6pfLx4kJvqWj501SIxExu6rYFi.jpg",
-      "popularity": 6.16,
+      "popularity": 5.448,
       "adult": false,
       "known_for_department": "Acting"
     }

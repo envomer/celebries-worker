@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 72255,
+      "name": "Céline Sallette",
+      "profile_path": "/owCiadHTGrXilOb1GEWgFnJ8jZ3.jpg",
+      "popularity": 5.873,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 20088,
       "name": "Jolene Purdy",
       "profile_path": "/hq66UInEJuDjS3M4aCqgTFEcIzA.jpg",
-      "popularity": 6.243,
+      "popularity": 8.273,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 40,
       "name": "Orson Welles",
       "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
-      "popularity": 6.242,
+      "popularity": 8.739,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -39,7 +47,7 @@
       "id": 179441,
       "name": "Margot Finley",
       "profile_path": "/gSTqyPHK58MQzyfqfumpG1t8tJ8.jpg",
-      "popularity": 6.241,
+      "popularity": 5.472,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 115457,
       "name": "Eddie Bracken",
       "profile_path": "/iHAR0dzXbYw2pS2WkOmJGOd7QXG.jpg",
-      "popularity": 6.241,
+      "popularity": 7.072,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 84517,
       "name": "Taylor Dooley",
       "profile_path": "/hgQjq3p4MZoB2ogs60GjbcCOjq8.jpg",
-      "popularity": 6.241,
+      "popularity": 4.672,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 70852,
       "name": "Schuyler Fisk",
       "profile_path": "/5nQajFEGYNH8IeVhbWMKdF4lxu8.jpg",
-      "popularity": 6.241,
+      "popularity": 7.072,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 51989,
       "name": "Jessica Lucas",
       "profile_path": "/nYS2J93VapM1GW5UdqMFqCxVMUv.jpg",
-      "popularity": 6.241,
+      "popularity": 8.737,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 564632,
       "name": "Titus Makin Jr.",
       "profile_path": "/etChJvOSamrR5kkm3Y9Pv9StZiX.jpg",
-      "popularity": 6.24,
+      "popularity": 8.736,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 107379,
       "name": "LeBron James",
       "profile_path": "/rmIYKVdYT60zfsqfjNuB71f1y82.jpg",
-      "popularity": 6.24,
+      "popularity": 8.272,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 80457,
       "name": "Han Suk-kyu",
       "profile_path": "/ryuNaLeAVUybnQX6g4urbN7IPBY.jpg",
-      "popularity": 6.24,
+      "popularity": 8.736,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 59882,
       "name": "Paz de la Huerta",
       "profile_path": "/upFVPh2BtDBfAnP11mX2AHfl7GJ.jpg",
-      "popularity": 6.24,
+      "popularity": 7.472,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1220947,
       "name": "Ami Koshimizu",
       "profile_path": "/e5sU0stGjTMtFoj0jjHH7OFUqYC.jpg",
-      "popularity": 6.238,
+      "popularity": 7.871,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 191275,
       "name": "Sebastian Bach",
       "profile_path": "/546hHUsvwCupyh0GK5RpVApY4qN.jpg",
-      "popularity": 6.238,
+      "popularity": 5.471,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 97985,
       "name": "Angelo Rossitto",
       "profile_path": "/rq7EWZ2rHOmA1WIOdOfjRXP9lrK.jpg",
-      "popularity": 6.238,
+      "popularity": 8.733,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 64915,
       "name": "Janet Kidder",
       "profile_path": "/vQaIlXJkAa2H5TOL3MZtAqD6Yks.jpg",
-      "popularity": 6.238,
+      "popularity": 5.471,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 57997,
       "name": "Malcolm Goodwin",
       "profile_path": "/h2AVP07OdXOsX3ERNwpsQuvrUEB.jpg",
-      "popularity": 6.238,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 23706,
-      "name": "Eve Gordon",
-      "profile_path": "/iQVDcTPEGijnAVveBUqcxlOjMYB.jpg",
-      "popularity": 6.238,
+      "popularity": 8.733,
       "adult": false,
       "known_for_department": "Acting"
     }

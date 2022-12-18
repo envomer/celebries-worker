@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 965224,
+      "name": "Thomas Robinson",
+      "profile_path": "/1dFBQuO6JPv2hJAuDdA0eYRlp2e.jpg",
+      "popularity": 9.188,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 52477,
       "name": "Zachery Ty Bryan",
       "profile_path": "/tEIfky2Fv8dwy4I3nzqzSy56vPZ.jpg",
-      "popularity": 6.563,
+      "popularity": 9.188,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 581673,
       "name": "Anna Tsukanova-Kott",
       "profile_path": "/pZUBIXX5hrv6ob9xmgN67ajXHDi.jpg",
-      "popularity": 6.562,
+      "popularity": 7.569,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 118515,
       "name": "Noah Mills",
       "profile_path": "/AtEDSThhMptphOMsG5wfQmbMVIl.jpg",
-      "popularity": 6.562,
+      "popularity": 9.169,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1304602,
       "name": "Ahn Seo-hyun",
       "profile_path": "/xy9E6V8nDg5WLp8HxCRPUSdvDMe.jpg",
-      "popularity": 6.56,
+      "popularity": 5.968,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1050328,
       "name": "Brittany Bristow",
       "profile_path": "/e0eJSoJ2ntcCmf3PaTtCa0D8a4H.jpg",
-      "popularity": 6.56,
+      "popularity": 7.168,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 559413,
       "name": "Ai Hashimoto",
       "profile_path": "/2sTNnkzF5e6dogfHEsnD1aU36J4.jpg",
-      "popularity": 6.56,
+      "popularity": 9.184,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1221086,
       "name": "Susan Yeagley",
       "profile_path": "/erDoAfzN7ffRq5ZEIoTXWvJOI8Y.jpg",
-      "popularity": 6.558,
+      "popularity": 5.967,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 210573,
       "name": "Lydia Hearst",
       "profile_path": "/dssUmPsH8DNrqUGJGnQOsUhLiUQ.jpg",
-      "popularity": 6.558,
+      "popularity": 6.767,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 112785,
       "name": "Jung Woong-in",
       "profile_path": "/8chD5NkFYH5glIqBt6zyevoQRhK.jpg",
-      "popularity": 6.558,
+      "popularity": 9.181,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 966753,
       "name": "Caitlin Carmichael",
       "profile_path": "/k0yEVLRkkGChEKcW5R7mAOwS9sa.jpg",
-      "popularity": 6.555,
+      "popularity": 6.767,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 3242,
       "name": "Fay Wray",
       "profile_path": "/dfpwqfEulBX06hOrX56fLhGSWAz.jpg",
-      "popularity": 6.554,
+      "popularity": 9.176,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1224188,
       "name": "Brett Tucker",
       "profile_path": "/6aoB4ZrHMppK0Of3FA3MV2VkpE3.jpg",
-      "popularity": 6.553,
+      "popularity": 5.566,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 61555,
       "name": "Haley Ramm",
       "profile_path": "/AoDl46HMkMWhu8hsUmxu5jU2caN.jpg",
-      "popularity": 6.553,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 41243,
-      "name": "Paul Benedict",
-      "profile_path": "/3N5vbiVkSvtY0SbWhFmndt9jWTZ.jpg",
-      "popularity": 6.553,
+      "popularity": 6.766,
       "adult": false,
       "known_for_department": "Acting"
     }

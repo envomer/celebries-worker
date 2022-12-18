@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1743,
+      "name": "Denise Crosby",
+      "profile_path": "/1Eoo8o3xRGflJ9kHxg1eFVwAwQa.jpg",
+      "popularity": 9.582,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1701993,
+      "name": "Lee Joo-young",
+      "profile_path": "/qItCRSPDO5VvAgueUHNEbg86ZMz.jpg",
+      "popularity": 9.271,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1489211,
       "name": "Simu Liu",
       "profile_path": "/zrJjYjOYzDj7eY9oiHAoz8Yh0yk.jpg",
@@ -15,7 +31,7 @@
       "id": 148112,
       "name": "Kristin Lehman",
       "profile_path": "/solF0MIx48QCtiLeBistP0fpd66.jpg",
-      "popularity": 9.271,
+      "popularity": 8.381,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 12891,
       "name": "Joss Whedon",
       "profile_path": "/mVvpZnKYKSCtkOQixQnOonV5kv3.jpg",
-      "popularity": 9.27,
+      "popularity": 6.381,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -31,7 +47,7 @@
       "id": 932967,
       "name": "Mahershala Ali",
       "profile_path": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg",
-      "popularity": 9.269,
+      "popularity": 12.977,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 19654,
       "name": "Michael Chiklis",
       "profile_path": "/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg",
-      "popularity": 9.269,
+      "popularity": 7.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 125055,
       "name": "Sara Ramirez",
       "profile_path": "/5hi4tZfMQe5Cw236c7eIFYi0D1F.jpg",
-      "popularity": 9.268,
+      "popularity": 8.78,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 5695,
       "name": "Sid Haig",
       "profile_path": "/vl3bpah8selBmSUDtF9irkHyvIO.jpg",
-      "popularity": 9.268,
+      "popularity": 12.975,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 19143,
       "name": "Jason Priestley",
       "profile_path": "/lQvkOOhf59FTD86G96fTRp17VJt.jpg",
-      "popularity": 9.266,
+      "popularity": 6.38,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 2320,
       "name": "Julian Richings",
       "profile_path": "/ia2Xo99pxLX3sxZ0jVcj7eai56l.jpg",
-      "popularity": 9.264,
+      "popularity": 12.97,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 3008,
       "name": "Alan Rosenberg",
       "profile_path": "/fk5nR9aLZBjGA67J5SOK3FWjjWF.jpg",
-      "popularity": 9.263,
+      "popularity": 10.779,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 55710,
       "name": "Adam McKay",
       "profile_path": "/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg",
-      "popularity": 9.261,
+      "popularity": 8.778,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -111,7 +127,7 @@
       "id": 325,
       "name": "Eminem",
       "profile_path": "/4DwawZRFMdc11qfOom2qZ7Wj2QA.jpg",
-      "popularity": 9.26,
+      "popularity": 12.378,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 544988,
       "name": "Vineeth Radhakrishnan",
       "profile_path": "/dvni43nbWY6J6DPh4W6CyE5oiiW.jpg",
-      "popularity": 9.259,
+      "popularity": 11.178,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 38405,
       "name": "John Corbett",
       "profile_path": "/cuCgInCgheBdYaA7xtxbQRHFzIG.jpg",
-      "popularity": 9.257,
+      "popularity": 12.96,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Yana Enzhaeva",
       "profile_path": "/ufyMPwnWmDnUb4f2szbKP6QD9Sq.jpg",
       "popularity": 9.254,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 67704,
-      "name": "Hugh Dillon",
-      "profile_path": "/npY8dF5b1j5pUqt11sDBi89BDTi.jpg",
-      "popularity": 9.251,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 119892,
-      "name": "Lorie Griffin",
-      "profile_path": "/pRwkNIIXPcrke1O76VTe0gUPAAr.jpg",
-      "popularity": 9.249,
       "adult": false,
       "known_for_department": "Acting"
     }

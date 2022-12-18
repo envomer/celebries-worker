@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 106611,
+      "name": "Paul Brinegar",
+      "profile_path": "/6GarNdMHXLKSnt9BAVYa5jtoYi0.jpg",
+      "popularity": 8.582,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 9181,
       "name": "Edward Zwick",
       "profile_path": "/xN7GHXkzCK2y9P16g6n3a7uhNAk.jpg",
-      "popularity": 8.605,
+      "popularity": 6.182,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -23,7 +31,7 @@
       "id": 935720,
       "name": "Madison Lintz",
       "profile_path": "/rr6tpaVVdeYAmZKl509HCizYFwg.jpg",
-      "popularity": 8.602,
+      "popularity": 8.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 61659,
       "name": "Chris Messina",
       "profile_path": "/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg",
-      "popularity": 8.602,
+      "popularity": 12.043,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 210824,
       "name": "Kristen Connolly",
       "profile_path": "/zPXAK1KoQ78lYyBS7nmzbQNVxpl.jpg",
-      "popularity": 8.595,
+      "popularity": 8.179,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 138887,
       "name": "Jack Wagner",
       "profile_path": "/zRoZShStnWymvcm7bQDr35qdck6.jpg",
-      "popularity": 8.595,
+      "popularity": 10.179,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 188024,
       "name": "Vincent Martella",
       "profile_path": "/uRLkxuoDzKQldBCGX4FXXeSjvpQ.jpg",
-      "popularity": 8.593,
+      "popularity": 5.156,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 59177,
       "name": "Michael Rady",
       "profile_path": "/a702olRCFvJNVdrQkBKbeNkaAey.jpg",
-      "popularity": 8.593,
+      "popularity": 12.03,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 20240,
       "name": "Zoë Wanamaker",
       "profile_path": "/keFC6KG1ewLW0ZaP7YkmLVECRrQ.jpg",
-      "popularity": 8.592,
+      "popularity": 6.578,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 156818,
       "name": "Gina Hecht",
       "profile_path": "/o5WcQAj6JGHh4z4UH8qRC1cL8b9.jpg",
-      "popularity": 8.59,
+      "popularity": 7.377,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 154839,
       "name": "Danielle Bisutti",
       "profile_path": "/i1y6emjUb5F7YWRXy7CX3A8kdRB.jpg",
-      "popularity": 8.587,
+      "popularity": 12.022,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1226195,
       "name": "Rob Stewart",
       "profile_path": "/kzCmiU4CgIOHQNCsjWPa3s3qEir.jpg",
-      "popularity": 8.586,
+      "popularity": 12.02,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 19839,
       "name": "David Paymer",
       "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg",
-      "popularity": 8.586,
+      "popularity": 9.776,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 427,
       "name": "Sandra Ellis Lafferty",
       "profile_path": "/qXtkUrpygfb05IWl0hZHkf0VgJZ.jpg",
-      "popularity": 8.586,
+      "popularity": 10.576,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 36322,
       "name": "Valentina Lodovini",
       "profile_path": "/3l2jLSzpHud4mvuTCdHW047exvR.jpg",
-      "popularity": 8.585,
+      "popularity": 9.776,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 232959,
       "name": "Baran bo Odar",
       "profile_path": "/3CfxoYPDPgFZ6jJMBOXCO5zhhEQ.jpg",
-      "popularity": 8.584,
+      "popularity": 7.375,
       "adult": false,
       "known_for_department": "Directing"
-    },
-    {
-      "id": 52259,
-      "name": "Peter Safran",
-      "profile_path": "/fi7kdDDUdNrn5K6vmLkLrLarQQs.jpg",
-      "popularity": 8.584,
-      "adult": false,
-      "known_for_department": "Production"
     }
   ]
 }

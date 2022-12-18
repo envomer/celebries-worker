@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 14108,
+      "name": "Joyce Van Patten",
+      "profile_path": "/vbt3LzgBiQ7UhL5tDwn1wV4ndBd.jpg",
+      "popularity": 4.392,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 74227,
       "name": "Morgan Lily",
       "profile_path": "/bvSuq6yJstBeOSD0DpOtR2Cs8pC.jpg",
-      "popularity": 6.639,
+      "popularity": 9.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 20666,
       "name": "Samy Naceri",
       "profile_path": "/yT3QZbpp6Pd6xJ2FzxESQ7sDudm.jpg",
-      "popularity": 6.639,
+      "popularity": 9.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 8857,
       "name": "Debbie Reynolds",
       "profile_path": "/2jG8pk5fr9ZgCQOH1cLVDWbbwBK.jpg",
-      "popularity": 6.639,
+      "popularity": 9.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 66497,
       "name": "Darby Stanchfield",
       "profile_path": "/dfFTEUxgeBAIM5yWnw5ULZQWjx7.jpg",
-      "popularity": 6.638,
+      "popularity": 9.191,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 40174,
       "name": "Lucille Ball",
       "profile_path": "/xuMtSJyy7gH92LcfKRRlx9vNvKd.jpg",
-      "popularity": 6.638,
+      "popularity": 9.293,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 161912,
       "name": "Suzanne Somers",
       "profile_path": "/aLmeFbD84wGR2X861OU1Q3drXnP.jpg",
-      "popularity": 6.637,
+      "popularity": 4.391,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 123149,
       "name": "Mercedes McNab",
       "profile_path": "/uPlQzMK3940OmdXUQozFIs4Y9U4.jpg",
-      "popularity": 6.637,
+      "popularity": 9.292,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 110887,
       "name": "Jane Wheeler",
       "profile_path": "/Ab3vhCpbY364Ba1bClpUsrJbYfE.jpg",
-      "popularity": 6.637,
+      "popularity": 4.791,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 89860,
       "name": "Aldous Huxley",
       "profile_path": "/cimy7zlaOVoXNTCwcaDnCoUyQ9v.jpg",
-      "popularity": 6.637,
+      "popularity": 5.991,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -79,7 +87,7 @@
       "id": 58189,
       "name": "Justin Lin",
       "profile_path": "/w0ryazdt8iS3GBrjXfv0FIwvUGY.jpg",
-      "popularity": 6.637,
+      "popularity": 5.191,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -87,7 +95,7 @@
       "id": 32357,
       "name": "Nicholas Farrell",
       "profile_path": "/gheuwhycSxpBRhGv7Qbfub2uuB2.jpg",
-      "popularity": 6.637,
+      "popularity": 9.292,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 20588,
       "name": "Vincenzo Amato",
       "profile_path": "/h1cwmBKjFxGgIX4RcPhdcjJGpBa.jpg",
-      "popularity": 6.637,
+      "popularity": 3.982,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1204379,
       "name": "Kevin Guthrie",
       "profile_path": "/uT6ju0dmnA6GjukgRrbfZPUDMnL.jpg",
-      "popularity": 6.635,
+      "popularity": 9.289,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 977543,
       "name": "Carl J. Matusovich",
       "profile_path": "/2HkLgKM58cgp5ysmYPleZiCsRhi.jpg",
-      "popularity": 6.635,
+      "popularity": 9.191,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 56984,
       "name": "Janet Gunn",
       "profile_path": "/t1YdvyPK0zz9OH2z0UfSspjquqZ.jpg",
-      "popularity": 6.635,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1900369,
-      "name": "Michael Gandolfini",
-      "profile_path": "/949lN8eoD3oXx1TmpjzmPQvt2TI.jpg",
-      "popularity": 6.633,
+      "popularity": 7.591,
       "adult": false,
       "known_for_department": "Acting"
     }

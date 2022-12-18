@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1900369,
+      "name": "Michael Gandolfini",
+      "profile_path": "/949lN8eoD3oXx1TmpjzmPQvt2TI.jpg",
+      "popularity": 6.633,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 46773,
       "name": "Parisa Fitz-Henley",
       "profile_path": "/dM1DAi2IzBgq1Qb7o8JcrRa89dY.jpg",
-      "popularity": 6.633,
+      "popularity": 9.286,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 25146,
       "name": "Colin Ferguson",
       "profile_path": "/7SGIkq4AsacsqkrsRo95PJ9TiYI.jpg",
-      "popularity": 6.632,
+      "popularity": 9.285,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 123820,
       "name": "Kim Sang-ho",
       "profile_path": "/t7Spp1HBl9dnb1OgkLvFz9fOidU.jpg",
-      "popularity": 6.63,
+      "popularity": 9.282,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1254579,
       "name": "Sung Joon",
       "profile_path": "/iqOpR3esxVlNPDj3vi2Rf3fWjjU.jpg",
-      "popularity": 6.629,
+      "popularity": 7.989,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 237363,
       "name": "Kento Nagayama",
       "profile_path": "/tSsX1Qhv9J5ldy8Ug1ZIqHhYe6j.jpg",
-      "popularity": 6.628,
+      "popularity": 6.788,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 9066,
       "name": "Judy Garland",
       "profile_path": "/dkhMrLSfnqS3fmxWuXaEMwxN0Tf.jpg",
-      "popularity": 6.628,
+      "popularity": 7.188,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 93219,
       "name": "Jake Short",
       "profile_path": "/xA3N4HbFV4TdtD931LeQQuLJzfI.jpg",
-      "popularity": 6.626,
+      "popularity": 9.276,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 83974,
       "name": "Susan Saint James",
       "profile_path": "/a11j7RDuaaT5sstL7qLjv5Cd148.jpg",
-      "popularity": 6.626,
+      "popularity": 6.388,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 59260,
       "name": "Ann Cusack",
       "profile_path": "/vM2ZwKY3C1NZARrzQB7ch7n638T.jpg",
-      "popularity": 6.626,
+      "popularity": 9.276,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 453588,
       "name": "Melanie Papalia",
       "profile_path": "/vaWzF78QBxphHhLop0tRaLqGx6P.jpg",
-      "popularity": 6.623,
+      "popularity": 5.187,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 74472,
       "name": "Drew Fuller",
       "profile_path": "/8NhujIOiLgzR0XiFkMRXEVtSXse.jpg",
-      "popularity": 6.623,
+      "popularity": 6.787,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 119520,
       "name": "Eric Close",
       "profile_path": "/njJYXuTlmCgI3VVHBFqkqrhiey3.jpg",
-      "popularity": 6.622,
+      "popularity": 9.271,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 111678,
       "name": "Thomas Middleditch",
       "profile_path": "/2c15BQ6DWSiDSBTRjvdsp8X4AAe.jpg",
-      "popularity": 6.622,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 81125,
-      "name": "Denis Ménochet",
-      "profile_path": "/uslRryP2crSUTSvg7nB2cSKdc3L.jpg",
-      "popularity": 6.622,
+      "popularity": 9.271,
       "adult": false,
       "known_for_department": "Acting"
     }

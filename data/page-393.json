@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1318854,
+      "name": "Anu Sinisalo",
+      "profile_path": "/y5w3qp1ub1LlP9t8YWsbjA2vtbz.jpg",
+      "popularity": 7.131,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1178382,
       "name": "Marie Bach Hansen",
       "profile_path": "/1KTyptA7fCfMOUmr5v1QiS1anNX.jpg",
-      "popularity": 6.438,
+      "popularity": 9.013,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 1059598,
       "name": "Alexandria DeBerry",
       "profile_path": "/ts7SJoaHRYDeST8EfteBQ8UugBj.jpg",
-      "popularity": 6.437,
+      "popularity": 9.012,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 71167,
       "name": "Tabitha Lupien",
       "profile_path": "/kvLFOQP9BTuShsenJIwY4Qi0Wb5.jpg",
-      "popularity": 6.437,
+      "popularity": 6.331,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 6046,
       "name": "Roland Emmerich",
       "profile_path": "/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg",
-      "popularity": 6.437,
+      "popularity": 5.931,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -47,7 +55,7 @@
       "id": 934173,
       "name": "David Mazouz",
       "profile_path": "/jc9RQJQTRWi5lrob8DCSt1sW5N0.jpg",
-      "popularity": 6.436,
+      "popularity": 5.531,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 215298,
       "name": "Kate Jenkinson",
       "profile_path": "/gtqc8SAC9hp2kffeD5SwrZHHRU7.jpg",
-      "popularity": 6.436,
+      "popularity": 4.331,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 2958,
       "name": "Diana Scarwid",
       "profile_path": "/15PXzj3LWDHdWmEFmoYIIQ3oiHA.jpg",
-      "popularity": 6.436,
+      "popularity": 5.531,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1203792,
       "name": "Jo Han-chul",
       "profile_path": "/sk0pVWe5wOAX6dVRzPkxMysfVWr.jpg",
-      "popularity": 6.435,
+      "popularity": 9.009,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 225186,
       "name": "Belçim Bilgin",
       "profile_path": "/43eIKc24pCAt47uTVcTlh51ak0x.jpg",
-      "popularity": 6.434,
+      "popularity": 9.008,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 115916,
       "name": "Angela Mao Ying",
       "profile_path": "/1Hr9U3OdecQny9xiRDAhbx256pi.jpg",
-      "popularity": 6.433,
+      "popularity": 9.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 90061,
       "name": "Rosalinde Mynster",
       "profile_path": "/bLp2sQ1Prs075joKXqdFTvG2yOU.jpg",
-      "popularity": 6.433,
+      "popularity": 9.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1121198,
       "name": "Amber Anderson",
       "profile_path": "/Am5h8Ons8tA9qaxf2H4mjcow048.jpg",
-      "popularity": 6.432,
+      "popularity": 9.005,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 18156,
       "name": "Don Ameche",
       "profile_path": "/bcuX5Rx1G6iqiupBuEr6JyEgyhR.jpg",
-      "popularity": 6.432,
+      "popularity": 5.93,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 6069,
       "name": "Austin Nichols",
       "profile_path": "/nhH6CVwgCQOKkz2QLVH4V7Am6zv.jpg",
-      "popularity": 6.432,
+      "popularity": 7.93,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 4496,
       "name": "Nora Dunn",
       "profile_path": "/x9NAUBciKKxDaYRcntc4vKjqilG.jpg",
-      "popularity": 6.43,
+      "popularity": 4.729,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1951961,
       "name": "Yasmin Sabri",
       "profile_path": "/dbGCy3AuKnSPtkAPGHU7Cgz7Wf0.jpg",
-      "popularity": 6.429,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 239258,
-      "name": "Hazal Kaya",
-      "profile_path": "/tiCrfO8qQe74NvP7OeAoF2wXQAO.jpg",
       "popularity": 6.429,
       "adult": false,
       "known_for_department": "Acting"

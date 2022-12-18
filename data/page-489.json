@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 225863,
+      "name": "Zach Callison",
+      "profile_path": "/gGvcqBYFa0WNyx72FOEMfpSFpKS.jpg",
+      "popularity": 6.096,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 101922,
       "name": "Gry Bay",
       "profile_path": "/4KtcmoyNBQ0qsy8tobSVWApYNXl.jpg",
-      "popularity": 5.653,
+      "popularity": 6.496,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 1183958,
       "name": "Claire Rankin",
       "profile_path": "/jtcLiG3YEYJr6WvJpQgmne2U7Lo.jpg",
-      "popularity": 5.652,
+      "popularity": 7.696,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 19440,
       "name": "Warren Berlinger",
       "profile_path": "/nAHq7GQPZgc0BW8kg0EvlcTxmcn.jpg",
-      "popularity": 5.652,
+      "popularity": 4.896,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 11544,
       "name": "Jean Gabin",
       "profile_path": "/pmFuOVTQvYdgmN7cYOuyJHPfMRt.jpg",
-      "popularity": 5.652,
+      "popularity": 7.913,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1218149,
       "name": "Brennan Brown",
       "profile_path": "/ulP8XOTkF1EOfZGiyLXMrpkIZzo.jpg",
-      "popularity": 5.65,
+      "popularity": 5.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 68904,
       "name": "Lee Jae-yong",
       "profile_path": "/fBKIYImrg8F4lWb4481IdncZtwf.jpg",
-      "popularity": 5.649,
+      "popularity": 3.389,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 147119,
       "name": "Vincent Spano",
       "profile_path": "/ani7dv9xRTwgvbRUl6llciyh48K.jpg",
-      "popularity": 5.648,
+      "popularity": 4.494,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 92678,
       "name": "Kim Mi-sook",
       "profile_path": "/cRq8LIJTFsMaiIk54aoCscWHtqA.jpg",
-      "popularity": 5.648,
+      "popularity": 6.894,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 67449,
       "name": "Stanley Baker",
       "profile_path": "/xMQMIccbS111494hB7Q4GQNaD2F.jpg",
-      "popularity": 5.648,
+      "popularity": 6.894,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 21862,
       "name": "Charlene Tilton",
       "profile_path": "/wFiE4xU1mmQ0EWcUoFdV10ZzaR8.jpg",
-      "popularity": 5.648,
+      "popularity": 6.094,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 76941,
       "name": "David Lyons",
       "profile_path": "/6Op16GnrpkS5YcIDF9YV2vgGA5p.jpg",
-      "popularity": 5.647,
+      "popularity": 6.894,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 74651,
       "name": "Josie Maran",
       "profile_path": "/tnkLlB1hQMsk0mgXzmQs7c7p1zV.jpg",
-      "popularity": 5.647,
+      "popularity": 5.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1291450,
       "name": "Lea van Acken",
       "profile_path": "/zZiteVW8rbhOBFT6XwrdhmVtAKX.jpg",
-      "popularity": 5.646,
+      "popularity": 3.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1224149,
       "name": "David Meunier",
       "profile_path": "/cHk0sLgU2J0MDxG3K35cn9Owf7K.jpg",
-      "popularity": 5.645,
+      "popularity": 7.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1218828,
       "name": "Arielle Vandenberg",
       "profile_path": "/zZ7yAehzK0h05rk9qivOMmnHe0w.jpg",
-      "popularity": 5.645,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1128522,
-      "name": "Brittney Alger",
-      "profile_path": "/nNNefo1kSi0aohaw4OOnVxWSP6V.jpg",
-      "popularity": 5.645,
+      "popularity": 4.893,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1791619,
+      "name": "Lia McHugh",
+      "profile_path": "/Kls4aDLM7ASPCJfn0lmMKlU9Xy.jpg",
+      "popularity": 11.871,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1036288,
+      "name": "Abbey Lee",
+      "profile_path": "/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg",
+      "popularity": 10.761,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 5064,
       "name": "Meryl Streep",
       "profile_path": "/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg",
-      "popularity": 11.871,
+      "popularity": 16.619,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 1046143,
       "name": "Caity Lotz",
       "profile_path": "/nagw4Y9EVjCjw2r9BaXa67KjJsi.jpg",
-      "popularity": 11.863,
+      "popularity": 7.559,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 39464,
       "name": "Tamara Taylor",
       "profile_path": "/4hvMoHSki7mZUPxcJXysLEw5Z5I.jpg",
-      "popularity": 11.863,
+      "popularity": 16.608,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 66646,
       "name": "Atticus Shaffer",
       "profile_path": "/uZUZizKPSIiEiqVXh5IwIQBH2VX.jpg",
-      "popularity": 11.862,
+      "popularity": 11.159,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 3464,
       "name": "Julie Dawn Cole",
       "profile_path": "/ajIuAtzX0WmQK4lJNb15oyBExz4.jpg",
-      "popularity": 11.862,
+      "popularity": 10.359,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 10965,
       "name": "Chris Columbus",
       "profile_path": "/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg",
-      "popularity": 11.861,
+      "popularity": 11.158,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -63,7 +79,7 @@
       "id": 566544,
       "name": "Aura Garrido",
       "profile_path": "/195NlsR4hNQtvvZi3eZ19EJCOu7.jpg",
-      "popularity": 11.858,
+      "popularity": 12.757,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 95686,
       "name": "Dylan Sprouse",
       "profile_path": "/do3ZUbJpi8VVsNJuE6PBFT0aXNV.jpg",
-      "popularity": 11.855,
+      "popularity": 16.597,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 49920,
       "name": "Willow Smith",
       "profile_path": "/jBslm1YIOyoC4aXf6t5XhrHxdfl.jpg",
-      "popularity": 11.855,
+      "popularity": 10.757,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 104646,
       "name": "Barbara Niven",
       "profile_path": "/dqLkAlpIMlJsI6tN95kqGHUxtBK.jpg",
-      "popularity": 11.854,
+      "popularity": 11.156,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 205982,
       "name": "Heather Hemmens",
       "profile_path": "/fXyIEjM1D3AAOn3aTtbCQvIC0VQ.jpg",
-      "popularity": 11.849,
+      "popularity": 8.355,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 1049916,
       "name": "Hannah Gross",
       "profile_path": "/2gsQ1btcduamJzvdmDE3XEdnhXl.jpg",
-      "popularity": 11.844,
+      "popularity": 14.753,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 20759,
       "name": "Yancy Butler",
       "profile_path": "/l2CoUcT6rPngVsk9vyrU5F2qhop.jpg",
-      "popularity": 11.844,
+      "popularity": 11.153,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 56542,
       "name": "Addison Timlin",
       "profile_path": "/sPBq9HnhXejrFhgfNdlsFByAQny.jpg",
-      "popularity": 11.842,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1543364,
-      "name": "Diane Morgan",
-      "profile_path": "/3Igu5RqKZePRLBw8Y3aWWlVBnrM.jpg",
-      "popularity": 11.841,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 826,
-      "name": "Fairuza Balk",
-      "profile_path": "/z5KnPiNLkWxBfYu4GRy1iz37bPX.jpg",
-      "popularity": 11.836,
+      "popularity": 14.753,
       "adult": false,
       "known_for_department": "Acting"
     }

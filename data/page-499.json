@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 75601,
+      "name": "Sean Nelson",
+      "profile_path": "/t6D4dQN6jZPsqspDarEGqNF80J1.jpg",
+      "popularity": 4.078,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 26294,
       "name": "Lindsay Frost",
       "profile_path": "/jUnwp3mM3LUrPjHYS1N5v2Kb5PL.jpg",
-      "popularity": 5.593,
+      "popularity": 7.83,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 92326,
       "name": "Constance Marie",
       "profile_path": "/4s5IKXj9gKHwNWjm8o5LgAkBVal.jpg",
-      "popularity": 5.592,
+      "popularity": 7.829,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 67538,
       "name": "Jessica Bowman",
       "profile_path": "/ajobpHgE69twlnyivZT9Wix9obo.jpg",
-      "popularity": 5.592,
+      "popularity": 3.678,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 983929,
       "name": "Laure Calamy",
       "profile_path": "/cZ0vdqqeYXOprXiI6R13p8zH0iO.jpg",
-      "popularity": 5.591,
+      "popularity": 7.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1128538,
       "name": "Paul Essiembre",
       "profile_path": "/cM9uhNoWtNBfjVpmESoL0HJf9UX.jpg",
-      "popularity": 5.59,
+      "popularity": 7.826,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 168577,
       "name": "Nancy Hale",
       "profile_path": "/uYUmqN4whT6m1njEgdcDBucSjpX.jpg",
-      "popularity": 5.59,
+      "popularity": 6.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 130567,
       "name": "Meaghan Jette Martin",
       "profile_path": "/bLHLe75GkincDZz9JjZ2hfGPDIH.jpg",
-      "popularity": 5.59,
+      "popularity": 4.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 93406,
       "name": "Elem Klimov",
       "profile_path": "/vzed7lMJ3ADWm2DnF9C0bSIbiaO.jpg",
-      "popularity": 5.59,
+      "popularity": 7.826,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -103,7 +111,7 @@
       "id": 14253,
       "name": "Slim Pickens",
       "profile_path": "/k4gIlBO0kGjibi8b4cPXIsPTjx0.jpg",
-      "popularity": 5.59,
+      "popularity": 7.277,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 9832,
       "name": "Tyler Mane",
       "profile_path": "/h5knoBWStVv7a0FKPwfKV7f7Ez1.jpg",
-      "popularity": 5.59,
+      "popularity": 7.277,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 829,
       "name": "William Russ",
       "profile_path": "/yRPxz25nks8FQIQGU84fqrkdWqj.jpg",
-      "popularity": 5.59,
+      "popularity": 7.677,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1065716,
       "name": "Harry McEntire",
       "profile_path": "/5lkQ2uoNyTscnT22kCwXj1woRDQ.jpg",
-      "popularity": 5.589,
+      "popularity": 4.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 932979,
       "name": "Fujiko F. Fujio",
       "profile_path": "/gRJZtARGLTh0tU1ZGPuJhrHiHWJ.jpg",
-      "popularity": 5.589,
+      "popularity": 7.277,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -151,15 +159,7 @@
       "id": 508357,
       "name": "Hartley Sawyer",
       "profile_path": "/gcPjPG8AIPnzX6B0Q9kXq3KTfHv.jpg",
-      "popularity": 5.589,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 229400,
-      "name": "Gina Stiebitz",
-      "profile_path": "/frH4Vvnf1GN8Uf2J7xpsGuTXIwd.jpg",
-      "popularity": 5.589,
+      "popularity": 7.825,
       "adult": false,
       "known_for_department": "Acting"
     }

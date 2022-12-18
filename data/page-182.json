@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 5170,
+      "name": "Mike Starr",
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg",
+      "popularity": 14.001,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 236695,
+      "name": "John Boyega",
+      "profile_path": "/Aso09k70hwBmO9pqMNUespCx0m2.jpg",
+      "popularity": 9.8,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 82662,
       "name": "AnnaLynne McCord",
       "profile_path": "/5Qv1YnfslSqq8lRHifP94VbA8jk.jpg",
-      "popularity": 10,
+      "popularity": 7,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 117118,
       "name": "Manami Hashimoto",
       "profile_path": "/aCjXZyLL8ZtH9y1I30ziTD3Y6vu.jpg",
-      "popularity": 9.996,
+      "popularity": 13.994,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 120923,
       "name": "Keiko Kitagawa",
       "profile_path": "/hbFxLjMvFnbdPA81RnJ5F9Pdi91.jpg",
-      "popularity": 9.99,
+      "popularity": 13.986,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1224288,
       "name": "Yui Ishikawa",
       "profile_path": "/7IUIHnRDWZq71EHMdomW3AvInd1.jpg",
-      "popularity": 9.988,
+      "popularity": 13.983,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 16442,
       "name": "Najwa Nimri",
       "profile_path": "/hvLbKkDIT4FqSS8djmW5voNd0O4.jpg",
-      "popularity": 9.986,
+      "popularity": 13.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 38886,
       "name": "Tina Maskell",
       "profile_path": "",
-      "popularity": 9.985,
+      "popularity": 7.396,
       "adult": false,
       "known_for_department": "Crew"
     },
@@ -63,7 +79,7 @@
       "id": 8945,
       "name": "Kevin Kline",
       "profile_path": "/ah6vWQv0mt2cmN9GbQsa6Y3mNYi.jpg",
-      "popularity": 9.985,
+      "popularity": 13.979,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 2454,
       "name": "Matt Clark",
       "profile_path": "/n5TJz5CaTqRXLpAOl0wHJXrPQOk.jpg",
-      "popularity": 9.983,
+      "popularity": 13.976,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 17273,
       "name": "Masi Oka",
       "profile_path": "/g3MrGj3UDduZGCgwUDPRbcbKiG0.jpg",
-      "popularity": 9.977,
+      "popularity": 13.968,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 25911,
       "name": "Cecilia Suárez",
       "profile_path": "/m2lUTpivduEiRwyPIrdg8hcI8zq.jpg",
-      "popularity": 9.976,
+      "popularity": 13.966,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 7256,
       "name": "Lee Tamahori",
       "profile_path": "/lkivtT9U7gLXVnhq5qF9GL3k7NN.jpg",
-      "popularity": 9.972,
+      "popularity": 12.192,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -119,7 +135,7 @@
       "id": 18616,
       "name": "David Morrissey",
       "profile_path": "/n26A1ikHCBoCL6nsVvY1P17XPxK.jpg",
-      "popularity": 9.971,
+      "popularity": 6.991,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 17337,
       "name": "Nathalie Cox",
       "profile_path": "/A5ULB0C1wS52vOZCoPx52SrNsiL.jpg",
-      "popularity": 9.971,
+      "popularity": 12.591,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 89822,
       "name": "Tuppence Middleton",
       "profile_path": "/rYmvH8IqHU1JzGw2FeggoY6QJdI.jpg",
-      "popularity": 9.969,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1425019,
-      "name": "Laia Costa",
-      "profile_path": "/i1L1tb5a8bdea4Zx0mAj260Fpde.jpg",
-      "popularity": 9.968,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 52801,
-      "name": "Patrick Fischler",
-      "profile_path": "/z5et9sdI57E9VRYbCbivqbDt523.jpg",
-      "popularity": 9.965,
+      "popularity": 13.957,
       "adult": false,
       "known_for_department": "Acting"
     }

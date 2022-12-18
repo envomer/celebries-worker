@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2132820,
+      "name": "Yuka Ogura",
+      "profile_path": "/wt8xlSPYzRQDFG5XICm1jJLwbVP.jpg",
+      "popularity": 6.472,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1090811,
       "name": "Karla Crome",
       "profile_path": "/vuiF5OfHLQBaIfXgVKERJKRyPN8.jpg",
-      "popularity": 6.472,
+      "popularity": 5.142,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 64674,
       "name": "Mike Dopud",
       "profile_path": "/qJn6v7auGZjaQhDkIjFqVrAoBIq.jpg",
-      "popularity": 6.472,
+      "popularity": 8.342,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 4095,
       "name": "David Lewis",
       "profile_path": "/6i4FD9BsdDacX4Tma41dBWYVCpw.jpg",
-      "popularity": 6.472,
+      "popularity": 3.942,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 2891,
       "name": "Josef von Sternberg",
       "profile_path": "/tyO2afjDm8CrkPXYanrtiprEcIj.jpg",
-      "popularity": 6.472,
+      "popularity": 5.542,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -47,7 +55,7 @@
       "id": 80592,
       "name": "Sarah Burns",
       "profile_path": "/jiugINKLg7JHTHknwpXTVapZaQD.jpg",
-      "popularity": 6.471,
+      "popularity": 4.341,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 37928,
       "name": "Chung Seo-kyung",
       "profile_path": "/puBGFSws4gSME2OhBUgzbcooOjQ.jpg",
-      "popularity": 6.469,
+      "popularity": 9.057,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -79,7 +87,7 @@
       "id": 138106,
       "name": "Dan Blocker",
       "profile_path": "/jk4QBSh2x8Vuyg9q4VHMj59vKDe.jpg",
-      "popularity": 6.468,
+      "popularity": 7.14,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 6250,
       "name": "Romy Schneider",
       "profile_path": "/lAH90VMs5iU7kGJR3LSkre2Jxhe.jpg",
-      "popularity": 6.468,
+      "popularity": 9.055,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 4790,
       "name": "Martin Ferrero",
       "profile_path": "/exNDaap66dmsfBQkCf7vHGj3TBK.jpg",
-      "popularity": 6.468,
+      "popularity": 9.055,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1299351,
       "name": "Lee Min-ki",
       "profile_path": "/zwtAGZ13e6s7mLdGUsDFHIRHfO8.jpg",
-      "popularity": 6.467,
+      "popularity": 5.54,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 98133,
       "name": "Julie K. Smith",
       "profile_path": "/yEafAWSXREOYt5w7cpBZ6HEg7Je.jpg",
-      "popularity": 6.467,
+      "popularity": 9.054,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 57448,
       "name": "Eric Schweig",
       "profile_path": "/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg",
-      "popularity": 6.467,
+      "popularity": 3.88,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1047327,
       "name": "R. Muthuraman",
       "profile_path": "/n2ZEDLFLgziK71reVk3BCYM1GH4.jpg",
-      "popularity": 6.465,
+      "popularity": 7.14,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 94146,
       "name": "Bart Johnson",
       "profile_path": "/rcV12DG7QbhxT979iyg3YWvD4bq.jpg",
-      "popularity": 6.465,
+      "popularity": 5.14,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 14344,
       "name": "Stuart Wilson",
       "profile_path": "/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg",
-      "popularity": 6.465,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2319,
-      "name": "Maria de Medeiros",
-      "profile_path": "/xDo5mRSKXUZRmcZjUn42ICiyyI8.jpg",
-      "popularity": 6.465,
+      "popularity": 6.34,
       "adult": false,
       "known_for_department": "Acting"
     }

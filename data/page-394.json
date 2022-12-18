@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 239258,
+      "name": "Hazal Kaya",
+      "profile_path": "/tiCrfO8qQe74NvP7OeAoF2wXQAO.jpg",
+      "popularity": 9.001,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 172037,
       "name": "Madeleine Martin",
       "profile_path": "/q1jRDFs569OThv5YdGMLg2akS0J.jpg",
-      "popularity": 6.429,
+      "popularity": 7.129,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 27764,
       "name": "Steven Waddington",
       "profile_path": "/gmlX5NNJI5HoNrK3RUPwBUmUgBW.jpg",
-      "popularity": 6.429,
+      "popularity": 9.001,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 17836,
       "name": "Kim Raver",
       "profile_path": "/o9OYkG0b48125tim78ebyGeC4lO.jpg",
-      "popularity": 6.429,
+      "popularity": 5.129,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 59214,
       "name": "Cas Anvar",
       "profile_path": "/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg",
-      "popularity": 6.426,
+      "popularity": 5.928,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 7727,
       "name": "Phil Tippett",
       "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg",
-      "popularity": 6.426,
+      "popularity": 7.128,
       "adult": false,
       "known_for_department": "Visual Effects"
     },
@@ -63,7 +71,7 @@
       "id": 55789,
       "name": "Tate Taylor",
       "profile_path": "/zJaLbNHLoQMhCAeJhn1J1B0xrup.jpg",
-      "popularity": 6.425,
+      "popularity": 3.927,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -71,7 +79,7 @@
       "id": 12217,
       "name": "Jay Mohr",
       "profile_path": "/eBlRdaQk6y8w7AHKb0YYpe4eEWv.jpg",
-      "popularity": 6.425,
+      "popularity": 8.995,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1048460,
       "name": "Nergis Öztürk",
       "profile_path": "/lUwUIHqz1lWsFLX1DJq1A8Rco5o.jpg",
-      "popularity": 6.423,
+      "popularity": 6.727,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 42362,
       "name": "Eddie Deezen",
       "profile_path": "/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg",
-      "popularity": 6.423,
+      "popularity": 8.992,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1193371,
       "name": "Sean Kaufman",
       "profile_path": "/opwpDD5Xtlcoh1JotqQ1dmBTOVg.jpg",
-      "popularity": 6.422,
+      "popularity": 3.853,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 100633,
       "name": "Lynda Day George",
       "profile_path": "/lO7hQr91sFlG5Lr3YDqLr1GoGoU.jpg",
-      "popularity": 6.422,
+      "popularity": 5.527,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1065297,
       "name": "Kensho Ono",
       "profile_path": "/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg",
-      "popularity": 6.42,
+      "popularity": 8.988,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 76696,
       "name": "Sarah Power",
       "profile_path": "/8VnpMflxnGpqR1jWu4NuUcWdziV.jpg",
-      "popularity": 6.42,
+      "popularity": 6.326,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 19923,
       "name": "Hugh Bonneville",
       "profile_path": "/7JhrWtkyrmrUQnAAwXKZbnY9nYl.jpg",
-      "popularity": 6.42,
+      "popularity": 5.126,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 13869,
       "name": "Morgan Woodward",
       "profile_path": "/pEEksTO7BD8KXjL5AREQgiZfifJ.jpg",
-      "popularity": 6.42,
+      "popularity": 4.326,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 123720,
       "name": "Bing Russell",
       "profile_path": "/9lxAErdRfayY2QS2DSXc4z3cPrd.jpg",
-      "popularity": 6.419,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2633677,
-      "name": "Emilien Vekemans",
-      "profile_path": "/tXTqVu85GYtZi3Y3O9VsxZ3odqu.jpg",
-      "popularity": 6.418,
+      "popularity": 8.987,
       "adult": false,
       "known_for_department": "Acting"
     }

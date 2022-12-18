@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2090,
+      "name": "Kirk Douglas",
+      "profile_path": "/yvunzQgnILw6uNBFMyld5nhkBCX.jpg",
+      "popularity": 13.795,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 74242,
       "name": "Shea Whigham",
       "profile_path": "/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg",
-      "popularity": 12.648,
+      "popularity": 16.594,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 41556,
       "name": "Omari Hardwick",
       "profile_path": "/2kROckfySgXMBa2nsCIDoR9R6gg.jpg",
-      "popularity": 12.639,
+      "popularity": 17.695,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1194878,
       "name": "Neil Ellice",
       "profile_path": "/rDXkFLRNOJiWFqyyynplHjvwWwf.jpg",
-      "popularity": 12.638,
+      "popularity": 12.191,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -31,7 +39,7 @@
       "id": 36819,
       "name": "Hayley Mills",
       "profile_path": "/ktiKpWhBy1O4F9DtB1YxUf3uGA1.jpg",
-      "popularity": 12.634,
+      "popularity": 16.59,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 76070,
       "name": "Mia Wasikowska",
       "profile_path": "/9DjwPFi0aFQKOF6p2OyqH38qKAB.jpg",
-      "popularity": 12.629,
+      "popularity": 14.589,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 35,
       "name": "Sally Field",
       "profile_path": "/3zXeOh2FPzXq6OfagpnpZLF8baw.jpg",
-      "popularity": 12.626,
+      "popularity": 17.676,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 971299,
       "name": "Griffin Gluck",
       "profile_path": "/2QEXwYSoj9kZDrwhHX3EFgELrkM.jpg",
-      "popularity": 12.623,
+      "popularity": 10.187,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 41292,
       "name": "Keri Russell",
       "profile_path": "/u81mC6vZwliDRfnX1DpdGmmex61.jpg",
-      "popularity": 12.62,
+      "popularity": 13.386,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 44649,
       "name": "Violante Placido",
       "profile_path": "/qVs8LdHIU2E5RlSuSr4MK0zyf7B.jpg",
-      "popularity": 12.619,
+      "popularity": 17.667,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 9045,
       "name": "Stephen Baldwin",
       "profile_path": "/34GOuRYIkAcKW8newjrnYeC1QPK.jpg",
-      "popularity": 12.616,
+      "popularity": 17.662,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 138114,
       "name": "Kim Bum",
       "profile_path": "/y45fczoIWymQSeMCqdBiMEEmM3A.jpg",
-      "popularity": 12.615,
+      "popularity": 14.985,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 39188,
       "name": "Edward Woodward",
       "profile_path": "/2MWfWJsjCTeeuIRKhcIxj1vzuR6.jpg",
-      "popularity": 12.607,
+      "popularity": 17.65,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 26042,
       "name": "Jerry Stiller",
       "profile_path": "/eGymLHTpIyxKyBjACsNTpEof6y4.jpg",
-      "popularity": 12.606,
+      "popularity": 17.648,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 47627,
       "name": "Janet McTeer",
       "profile_path": "/qOKAI6aunD4J5MXiwwomAhI3jI2.jpg",
-      "popularity": 12.604,
+      "popularity": 17.646,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 81388,
       "name": "Steve Howey",
       "profile_path": "/7pkqToPpwV6id92cHDwigS77qdv.jpg",
-      "popularity": 12.597,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1781425,
-      "name": "Seo Won",
-      "profile_path": "/rQtUWshSz2no41OXniyNJxSoBhf.jpg",
-      "popularity": 12.594,
+      "popularity": 13.779,
       "adult": false,
       "known_for_department": "Acting"
     }

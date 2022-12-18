@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 6577,
+      "name": "James Whitmore",
+      "profile_path": "/d1nOu22OvPzdwS8euWE0FNHwx8K.jpg",
+      "popularity": 9.201,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1572062,
       "name": "Melisa Şenolsun",
       "profile_path": "/4BWznU63PU7dwdSYBYEobjO1Xb4.jpg",
@@ -23,7 +31,7 @@
       "id": 202061,
       "name": "Diana Terranova",
       "profile_path": "/4a58JlMR900kdtv5mERuFb0l2bD.jpg",
-      "popularity": 6.57,
+      "popularity": 8.371,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 40938,
       "name": "Romane Bohringer",
       "profile_path": "/keVDM0uUbKmo0yOVNrjMuKiH1B2.jpg",
-      "popularity": 6.569,
+      "popularity": 4.771,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 4942,
       "name": "John Diehl",
       "profile_path": "/xM1Jj1dtdJsHuhdAVb2VTG2vhFl.jpg",
-      "popularity": 6.569,
+      "popularity": 9.197,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1097941,
       "name": "Conor Leslie",
       "profile_path": "/tTCVGMMxPGZAcfqnkM5S5cPebem.jpg",
-      "popularity": 6.568,
+      "popularity": 5.57,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 52925,
       "name": "Donna W. Scott",
       "profile_path": "/65ENWORUp7n0cRY1GY8eA5w5JaD.jpg",
-      "popularity": 6.567,
+      "popularity": 5.17,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 75183,
       "name": "Chris Vance",
       "profile_path": "/idgvBGVfmXgWjwCOhRuafImcdoy.jpg",
-      "popularity": 6.566,
+      "popularity": 9.192,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 65683,
       "name": "Alex Vincent",
       "profile_path": "/6TvXvFBMCuNeg9pzzHZy7An1vkR.jpg",
-      "popularity": 6.566,
+      "popularity": 6.37,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 173964,
       "name": "Andrew Leeds",
       "profile_path": "/w9aIFV2E4qIA19wEaarPR3Dxtbu.jpg",
-      "popularity": 6.565,
+      "popularity": 4.77,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 57453,
       "name": "Finn Carter",
       "profile_path": "/fzPKYx7CvTrSffYD9P8AVx3hBHy.jpg",
-      "popularity": 6.565,
+      "popularity": 9.191,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 44208,
       "name": "Nigel Bennett",
       "profile_path": "/gaB8nZnEbGe8lIgZtoo1ObYSUEg.jpg",
-      "popularity": 6.565,
+      "popularity": 7.17,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 3911,
       "name": "John Carroll Lynch",
       "profile_path": "/pMlpEhPQ5EQWNJkV9PJwzOPSE05.jpg",
-      "popularity": 6.565,
+      "popularity": 9.191,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 83686,
       "name": "May Lo Mei-Wei",
       "profile_path": "/aMYR4JYfzFnRpvNOVXQKCHepPIK.jpg",
-      "popularity": 6.564,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 965224,
-      "name": "Thomas Robinson",
-      "profile_path": "/1dFBQuO6JPv2hJAuDdA0eYRlp2e.jpg",
-      "popularity": 6.563,
+      "popularity": 9.19,
       "adult": false,
       "known_for_department": "Acting"
     }

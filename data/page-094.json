@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 3197,
+      "name": "Tom Sizemore",
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg",
+      "popularity": 19.569,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1721637,
       "name": "Sin Yeon Woo",
       "profile_path": "",
@@ -15,7 +23,7 @@
       "id": 12836,
       "name": "Ted Danson",
       "profile_path": "/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg",
-      "popularity": 13.974,
+      "popularity": 10.192,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 123846,
       "name": "Debby Ryan",
       "profile_path": "/hYMnrAO1fZx9tPmIM8xajliVT1N.jpg",
-      "popularity": 13.97,
+      "popularity": 13.791,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 41420,
       "name": "Lisa Edelstein",
       "profile_path": "/dzopHIOFvXENVjbvMYBf81c5JZU.jpg",
-      "popularity": 13.969,
+      "popularity": 18.591,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 17303,
       "name": "Ali Larter",
       "profile_path": "/e1LF7oh0C5jg30hdNS27a1pXPxU.jpg",
-      "popularity": 13.954,
+      "popularity": 15.386,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,15 +71,15 @@
       "id": 211685,
       "name": "Emilie Ullerup",
       "profile_path": "/nIELqej3BnFwWdKZ9T7XHDRODf5.jpg",
-      "popularity": 13.949,
+      "popularity": 14.585,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 21029,
       "name": "Billy Burke",
-      "profile_path": "/t5koEPtASHMhxgDmqBk8op6bCi5.jpg",
-      "popularity": 13.947,
+      "profile_path": "/cpr1dS5eiKChNNlQbNiaHGo4Dks.jpg",
+      "popularity": 12.584,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 61263,
       "name": "Skyler Gisondo",
       "profile_path": "/lJ6Sh5duegwjpoKF0QmiFHbBDXr.jpg",
-      "popularity": 13.935,
+      "popularity": 19.381,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 35551,
       "name": "Julie Benz",
       "profile_path": "/hgOelYV8HpjkQhO6Q0iyW0nRXxF.jpg",
-      "popularity": 13.933,
+      "popularity": 19.506,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 18920,
       "name": "Patricia Velásquez",
       "profile_path": "/51Ve74pQUnR6tv3faE8LKUFZa9I.jpg",
-      "popularity": 13.932,
+      "popularity": 14.18,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 9857,
       "name": "Karl Malden",
       "profile_path": "/njDua2jZ1X1f5SYLzpxDt0hIhYu.jpg",
-      "popularity": 13.931,
+      "popularity": 19.503,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 106791,
       "name": "Aida Turturro",
       "profile_path": "/xr5lWiB11Kzi2s6NNraW4De23ZI.jpg",
-      "popularity": 13.925,
+      "popularity": 19.495,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 192937,
       "name": "William Gaunt",
       "profile_path": "/fJuZODaWxH4505s7RZOnGEsnuC.jpg",
-      "popularity": 13.915,
+      "popularity": 8.349,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 20501,
       "name": "Joel McCrea",
       "profile_path": "/k2DhZdrEKtauhnauAuivYO84Vee.jpg",
-      "popularity": 13.909,
+      "popularity": 9.373,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 108889,
       "name": "Jay Harrington",
       "profile_path": "/aLIVOcm0ylX4DMGVvzebNyiLmeW.jpg",
-      "popularity": 13.906,
+      "popularity": 12.172,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 148449,
       "name": "Yuu Asakawa",
       "profile_path": "/2n7pYsUrUq4qg4VtQemndzIpOlb.jpg",
-      "popularity": 13.903,
+      "popularity": 14.971,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 2115,
       "name": "Kurtwood Smith",
       "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg",
-      "popularity": 13.884,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2954,
-      "name": "Jeffrey Wright",
-      "profile_path": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg",
-      "popularity": 13.882,
+      "popularity": 9.765,
       "adult": false,
       "known_for_department": "Acting"
     }

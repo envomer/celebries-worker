@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 72305,
+      "name": "Lesley Manville",
+      "profile_path": "/tioPlSoypjdME3oMu3g7XmgIIKS.jpg",
+      "popularity": 11.31,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 59237,
       "name": "Margarita Levieva",
       "profile_path": "/7rSf7C5oKuvjgEBfe2GVv064Le.jpg",
-      "popularity": 12.365,
+      "popularity": 13.31,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 56124,
       "name": "William Zabka",
       "profile_path": "/1n1a8jM9lmk7lfDxtZoOesTkIIU.jpg",
-      "popularity": 12.362,
+      "popularity": 13.309,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 88702,
       "name": "J.P. Manoux",
       "profile_path": "/lLEfizV970QfahQSBssUvj8Exs7.jpg",
-      "popularity": 12.352,
+      "popularity": 10.506,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 21818,
       "name": "Lesley Ann Warren",
       "profile_path": "/lNzHL38hPCAC4ZqI0mVFVgXrLsM.jpg",
-      "popularity": 12.352,
+      "popularity": 9.306,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 2169,
       "name": "Michael Jeter",
       "profile_path": "/pNBf8X56wCOHH7cArsMYJuke4fO.jpg",
-      "popularity": 12.339,
+      "popularity": 13.702,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 25654,
       "name": "Julianna Margulies",
       "profile_path": "/yuYF7jf9FRzphMTsmp1l1MkGpNK.jpg",
-      "popularity": 12.334,
+      "popularity": 17.268,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 3900,
       "name": "Linus Roache",
       "profile_path": "/u98VM2S9mbUMCMPvCpk2OUn4Eg2.jpg",
-      "popularity": 12.331,
+      "popularity": 17.263,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 16936,
       "name": "Stan Shaw",
       "profile_path": "/gq8VmKHlSZuBKBdwXFP48rIY4WR.jpg",
-      "popularity": 12.328,
+      "popularity": 14.098,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 43975,
       "name": "Elizabeth Montgomery",
       "profile_path": "/mj5xk9CitvQvAFT97144Zopz0bv.jpg",
-      "popularity": 12.315,
+      "popularity": 14.495,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 20275,
       "name": "Sarita Choudhury",
       "profile_path": "/pABEOxQAns54tHpxN2w73b7SiPB.jpg",
-      "popularity": 12.312,
+      "popularity": 8.894,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 578,
       "name": "Ridley Scott",
       "profile_path": "/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
-      "popularity": 12.309,
+      "popularity": 17.233,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -119,7 +127,7 @@
       "id": 17243,
       "name": "Jonathan Tucker",
       "profile_path": "/w5R10n4Fsb1OsgEVxtppXHIgesc.jpg",
-      "popularity": 12.308,
+      "popularity": 8.892,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 22383,
       "name": "Franco Nero",
       "profile_path": "/uiCrTolkOqpZYVxveMZeBx7sjZO.jpg",
-      "popularity": 12.307,
+      "popularity": 12.092,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 935201,
       "name": "Diego Boneta",
       "profile_path": "/hgEcC28oljaPBYi7ONMToQYMHMA.jpg",
-      "popularity": 12.306,
+      "popularity": 13.292,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 96624,
       "name": "Rachel Boston",
       "profile_path": "/lXsexhIX8oMhPnO85M0ocL0GhC2.jpg",
-      "popularity": 12.306,
+      "popularity": 12.092,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 75309,
       "name": "Joey Diaz",
       "profile_path": "/pLWM7fQoqbbNui1vf7PKE0jdlm2.jpg",
-      "popularity": 12.305,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 231610,
-      "name": "Parminder Nagra",
-      "profile_path": "/6c8NU6wlvfoaOshohQCBX52ycud.jpg",
-      "popularity": 12.302,
+      "popularity": 14.092,
       "adult": false,
       "known_for_department": "Acting"
     }

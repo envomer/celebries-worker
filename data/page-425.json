@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 98215,
+      "name": "Matt Gerald",
+      "profile_path": "/k5iEsYWb1Prho4IO2xGTFaIwKu1.jpg",
+      "popularity": 8.613,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 41125,
       "name": "Eric Allan Kramer",
       "profile_path": "/nqa9idbLT0AdhrIIu0o8bbxvoBk.jpg",
-      "popularity": 6.152,
+      "popularity": 8.613,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 34018,
       "name": "Quim Gutiérrez",
       "profile_path": "/17Mo65PvdiG8dN2nIyH5rK0qMHz.jpg",
-      "popularity": 6.152,
+      "popularity": 6.646,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 18191,
       "name": "Amanda Donohoe",
       "profile_path": "/f7s1GhnJMfGJEReVtMRQC6Tju5V.jpg",
-      "popularity": 6.152,
+      "popularity": 7.046,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 64064,
       "name": "Aleisha Allen",
       "profile_path": "/au0ZlSoGKlZAWkrweTpVa7kYBTQ.jpg",
-      "popularity": 6.151,
+      "popularity": 8.611,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1253783,
       "name": "Ryoko Yonekura",
       "profile_path": "/ia388U4HEvnpQ5ATYkIMqdiAqgV.jpg",
-      "popularity": 6.15,
+      "popularity": 6.645,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 12890,
       "name": "Pete Docter",
       "profile_path": "/rrAW10FlcOjqMllSwNBrFjfUT4k.jpg",
-      "popularity": 6.15,
+      "popularity": 7.845,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -79,7 +87,7 @@
       "id": 533897,
       "name": "Gabriella Barbuti",
       "profile_path": "/2DIyGM89pL0PgerOiJa20blC2ad.jpg",
-      "popularity": 6.148,
+      "popularity": 7.044,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1185039,
       "name": "Angela Nicholas",
       "profile_path": "/pxtfXd3Ll1ehPEd6nCF3P6lvKIy.jpg",
-      "popularity": 6.147,
+      "popularity": 4.244,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 91842,
       "name": "Nancy Parsons",
       "profile_path": "/tbC2AteA2g6vAaUQT2YMbLKE5Ks.jpg",
-      "popularity": 6.147,
+      "popularity": 3.844,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 88947,
       "name": "Sandy Duncan",
       "profile_path": "/lkv19jGXrtcB0aVRryiy1UpCXD5.jpg",
-      "popularity": 6.147,
+      "popularity": 3.688,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 56103,
       "name": "Hattie Morahan",
       "profile_path": "/4tHu0kudHiBSsvjHEnpNzQSi7US.jpg",
-      "popularity": 6.147,
+      "popularity": 8.606,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1723,
       "name": "Walter Hill",
       "profile_path": "/3CiICrmhaYnirmOMHEaFXYTbsnT.jpg",
-      "popularity": 6.147,
+      "popularity": 5.444,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -127,7 +135,7 @@
       "id": 1279250,
       "name": "Jonas Smulders",
       "profile_path": "/zfJHDmBUsaLrbxUnKSx7bxMeTPC.jpg",
-      "popularity": 6.146,
+      "popularity": 6.244,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 998387,
       "name": "Ed Sheeran",
       "profile_path": "/w7zbWC9AV0WfIEl8L38otal7mwS.jpg",
-      "popularity": 6.146,
+      "popularity": 8.604,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +151,15 @@
       "id": 59185,
       "name": "Kendall Cross",
       "profile_path": "/97d4hAGHcgExV1QR3nTXdChu7Ll.jpg",
-      "popularity": 6.146,
+      "popularity": 8.604,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 23891,
       "name": "Ryan Kelley",
-      "profile_path": "/kFwObgKNaOWy3A0etwaO9Up4v71.jpg",
-      "popularity": 6.146,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1963404,
-      "name": "Julia Franz Richter",
-      "profile_path": "/1fMKdcSuAFX5eGall2bj3Uc5r11.jpg",
-      "popularity": 6.145,
+      "profile_path": "/dn7R7p0YIY3VjCIRwIzRrEuwPwq.jpg",
+      "popularity": 8.604,
       "adult": false,
       "known_for_department": "Acting"
     }

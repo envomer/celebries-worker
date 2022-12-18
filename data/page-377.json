@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 7241,
+      "name": "Rena Owen",
+      "profile_path": "/8s0ePZ1ifvE7NlvtLOAWNXLjdx4.jpg",
+      "popularity": 4.779,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1183926,
       "name": "Kendra Mylnechuk",
       "profile_path": "/xuY3xx6YOTMsPLeYFoRCP7zky39.jpg",
-      "popularity": 6.596,
+      "popularity": 5.179,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 8171,
       "name": "Ludacris",
       "profile_path": "/erkJijujhe48vhJ8iCEtVpNEeVn.jpg",
-      "popularity": 6.596,
+      "popularity": 9.234,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 79149,
       "name": "Dylan Neal",
       "profile_path": "/6SCHcpOYL3yhV823QSn1RuYbtLk.jpg",
-      "popularity": 6.595,
+      "popularity": 5.979,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 44990,
       "name": "Peter Horton",
       "profile_path": "/6k6CV4kDL6BBvdCVY04jrJSiC2B.jpg",
-      "popularity": 6.595,
+      "popularity": 9.233,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 509344,
       "name": "Luca Marinelli",
       "profile_path": "/9Tmzfhp9hY6Zouo8KtHcyzuKfdf.jpg",
-      "popularity": 6.594,
+      "popularity": 4.778,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 76513,
       "name": "Frederick Koehler",
       "profile_path": "/mtaIu7XH5wtKydxUyIdN0zLjtdR.jpg",
-      "popularity": 6.594,
+      "popularity": 3.956,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 30847,
       "name": "Steven Geray",
       "profile_path": "/u78eVZ8fMnocaD4vMHklTUdTKT.jpg",
-      "popularity": 6.594,
+      "popularity": 9.232,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1108829,
       "name": "Cameron Deane Stewart",
       "profile_path": "/5vjZAtawy51IISEFT5rkfERRmNZ.jpg",
-      "popularity": 6.591,
+      "popularity": 4.377,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 73610,
       "name": "Tim Rozon",
       "profile_path": "/i43AGRDzYoMPqhTyRKL96H3PSxx.jpg",
-      "popularity": 6.587,
+      "popularity": 7.576,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 35350,
       "name": "Marc Singer",
       "profile_path": "/npgKM5FfPKnAukzV11pXOlLeBnZ.jpg",
-      "popularity": 6.587,
+      "popularity": 7.176,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 10133,
       "name": "John Fujioka",
       "profile_path": "/bH6tXN6aOOW97cbiXY5yLUtFl8c.jpg",
-      "popularity": 6.586,
+      "popularity": 5.576,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -142,8 +150,8 @@
     {
       "id": 1253158,
       "name": "Selim Bayraktar",
-      "profile_path": "/sraOnnVMZZRRsQdrWkHQseouVHK.jpg",
-      "popularity": 6.584,
+      "profile_path": "/1ZqVdGPSFrCoSuWMuFCpoAXqDkZ.jpg",
+      "popularity": 6.375,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 554120,
       "name": "Gloria Yip Wan-Yee",
       "profile_path": "/nD57tQOR7qabLZoiptRPqoD2eU5.jpg",
-      "popularity": 6.584,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 109560,
-      "name": "Gabourey Sidibe",
-      "profile_path": "/d0p0MGqM1GrrnBw4b3V9uM6HCl2.jpg",
-      "popularity": 6.584,
+      "popularity": 9.218,
       "adult": false,
       "known_for_department": "Acting"
     }

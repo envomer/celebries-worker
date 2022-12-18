@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 8487,
+      "name": "Gregory Peck",
+      "profile_path": "/1inRvnNChyobOnEpIdCUZsNStRW.jpg",
+      "popularity": 21.603,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 46948,
       "name": "Kelly LeBrock",
       "profile_path": "/rAaWxBg1s6Ny0VAVtA49lQNYCYk.jpg",
-      "popularity": 15.43,
+      "popularity": 13.029,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 87265,
       "name": "Tenoch Huerta Mejía",
       "profile_path": "/5qoAmQpcPCjf4Pd6aTZOeINGYzk.jpg",
-      "popularity": 15.429,
+      "popularity": 21.601,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1032,
       "name": "Martin Scorsese",
       "profile_path": "/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
-      "popularity": 15.429,
+      "popularity": 17.029,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -31,7 +39,7 @@
       "id": 16901,
       "name": "Eva Birthistle",
       "profile_path": "/sGprPTt1JDeDIyNKggElYlHCPxc.jpg",
-      "popularity": 15.424,
+      "popularity": 13.427,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 3899,
       "name": "Ken Watanabe",
       "profile_path": "/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg",
-      "popularity": 15.424,
+      "popularity": 16.227,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1216004,
       "name": "Jordan Calloway",
       "profile_path": "/tRqqOTzfAAftvtWgNIdjyo5WDfm.jpg",
-      "popularity": 15.419,
+      "popularity": 13.026,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 17825,
       "name": "Shawn Levy",
       "profile_path": "/b1ulkCHz8biG87LjLQQiMCebEZo.jpg",
-      "popularity": 15.408,
+      "popularity": 14.222,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -63,7 +71,7 @@
       "id": 45827,
       "name": "Ashley Greene",
       "profile_path": "/d7UyEB3cm4doT5JgkZb68PmG4sT.jpg",
-      "popularity": 15.398,
+      "popularity": 21.557,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1905,
       "name": "Vincent Price",
       "profile_path": "/zhIh0YkweGOjiARx0wKhzdpB6kS.jpg",
-      "popularity": 15.397,
+      "popularity": 17.819,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 564844,
       "name": "Park Byung-eun",
       "profile_path": "/wIHxqfHxH1DSQ4u5hQBYdQne6p1.jpg",
-      "popularity": 15.378,
+      "popularity": 21.529,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 41229,
       "name": "Meg Foster",
       "profile_path": "/fGIeR5uPwPf9CF7uQPj9ReVD2IV.jpg",
-      "popularity": 15.376,
+      "popularity": 21.526,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 65220,
       "name": "Danica McKellar",
       "profile_path": "/qVasJ8uKtvrntIXaPylneLW3ykf.jpg",
-      "popularity": 15.368,
+      "popularity": 14.61,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 58016,
       "name": "Anna Friel",
       "profile_path": "/dOSGWxahmdfCvcYgjiisaTzGKCK.jpg",
-      "popularity": 15.368,
+      "popularity": 16.61,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 144852,
       "name": "Richard Harmon",
       "profile_path": "/eza87j6Jxdd6TbAgvalqOV63U2E.jpg",
-      "popularity": 15.366,
+      "popularity": 17.01,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 53714,
       "name": "Rachel McAdams",
       "profile_path": "/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg",
-      "popularity": 15.361,
+      "popularity": 21.505,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 91520,
       "name": "Michiel Huisman",
       "profile_path": "/y33jnMTqHaAMabZwy9BeE1TYZ00.jpg",
-      "popularity": 15.359,
+      "popularity": 13.408,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 4958,
       "name": "Henry Fonda",
       "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
-      "popularity": 15.358,
+      "popularity": 19.407,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 25308,
       "name": "Vanessa Angel",
       "profile_path": "/rYTCBhqePGNtZaz45IaAuah7J0O.jpg",
-      "popularity": 15.333,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2233,
-      "name": "Bridget Fonda",
-      "profile_path": "/k8ct3vqrs0TOATaDCe0gcu5K0Dz.jpg",
-      "popularity": 15.331,
+      "popularity": 21.466,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 11179,
+      "name": "Sean Biggerstaff",
+      "profile_path": "/6g9cQWg3ikD3xboDtyF8qKdpmgl.jpg",
+      "popularity": 9.209,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 12259,
+      "name": "Vittorio Gassman",
+      "profile_path": "/pbpxHSAkFJpI4ys3yc0qMz8oapj.jpg",
+      "popularity": 13.104,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2047847,
       "name": "Julian Hilliard",
       "profile_path": "/umnRZFm9pQ9xB53PQwUPFOVul4j.jpg",
@@ -23,7 +39,7 @@
       "id": 142535,
       "name": "Aoi Nakajima",
       "profile_path": "/akv73HQ4nvQHJF1raLtXTU0pQHO.jpg",
-      "popularity": 9.358,
+      "popularity": 8.007,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 1100549,
       "name": "Marina Squerciati",
       "profile_path": "/j8OI9j2HUnKCIWgu8DBn7Mm3ryl.jpg",
-      "popularity": 9.357,
+      "popularity": 5.614,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1078769,
       "name": "Kıvanç Tatlıtuğ",
       "profile_path": "/8k8PAjTvK8UlgUAHq95HMYYOIG6.jpg",
-      "popularity": 9.355,
+      "popularity": 13.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 20006,
       "name": "Christopher Reeve",
       "profile_path": "/vAGrPf3ajy6OVE3FhgABynZfybP.jpg",
-      "popularity": 9.351,
+      "popularity": 13.091,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 515510,
       "name": "Ryan Potter",
       "profile_path": "/3Hdip1zNYrea3V7uzJQYxTps5Ne.jpg",
-      "popularity": 9.348,
+      "popularity": 13.087,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 8263,
       "name": "Andrea Martin",
       "profile_path": "/syS5bfwIeFAFzAWtn0dqPbfPadM.jpg",
-      "popularity": 9.348,
+      "popularity": 9.204,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 96958,
       "name": "Tony Yang",
       "profile_path": "/Ac8Y7ECcHNAcTKiwhVsAxTaXr3.jpg",
-      "popularity": 9.346,
+      "popularity": 6.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 12930,
       "name": "Gaby Hoffmann",
       "profile_path": "/51X4CaXZNRawchUDSj1tOPeMguK.jpg",
-      "popularity": 9.344,
+      "popularity": 10.003,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 18792,
       "name": "Delroy Lindo",
       "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg",
-      "popularity": 9.342,
+      "popularity": 10.003,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 3229,
       "name": "Arliss Howard",
       "profile_path": "/zDBEVA7Skrje3A8bmR2VOJRwkZc.jpg",
-      "popularity": 9.342,
+      "popularity": 13.079,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 34844,
       "name": "Monet Mazur",
       "profile_path": "/lAtfjOKAmi2BjvXZDtznbZ3rAb1.jpg",
-      "popularity": 9.341,
+      "popularity": 6.802,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 31895,
       "name": "Virna Lisi",
       "profile_path": "/hHRrh8rRtHlWhw9Wdw5tOWeR0V1.jpg",
-      "popularity": 9.339,
+      "popularity": 13.075,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 6165,
       "name": "Anthony Rapp",
       "profile_path": "/1Y2z2yrnauPxwXj1yqDboYKbErz.jpg",
-      "popularity": 9.339,
+      "popularity": 12.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 2140,
       "name": "Monica Potter",
       "profile_path": "/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg",
-      "popularity": 9.336,
+      "popularity": 6.401,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 65529,
       "name": "Irene Bedard",
       "profile_path": "/nCm5940cLixwcSoB5kIqLAKNmGL.jpg",
-      "popularity": 9.335,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 62423,
-      "name": "Lam Ching-Ying",
-      "profile_path": "/3G7ftUMJeFHaxxcCZ9gBRtd84Tg.jpg",
-      "popularity": 9.334,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2136,
-      "name": "Michael Emerson",
-      "profile_path": "/xOpr90SF1RCtjFNTu32nZQ90buY.jpg",
-      "popularity": 9.333,
+      "popularity": 13.069,
       "adult": false,
       "known_for_department": "Acting"
     }

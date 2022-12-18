@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 23680,
+      "name": "Dee Bradley Baker",
+      "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+      "popularity": 9.858,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 10661,
+      "name": "Grace Jones",
+      "profile_path": "/cnBOMcKiFRtZWQDojNUmmzn750D.jpg",
+      "popularity": 8.258,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 52947,
       "name": "Tim Kang",
       "profile_path": "/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg",
-      "popularity": 8.858,
+      "popularity": 12.401,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 4762,
       "name": "Paul Thomas Anderson",
       "profile_path": "/29DHpRKddqTwo2NU162Y49JoQYa.jpg",
-      "popularity": 8.858,
+      "popularity": 12.401,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -23,7 +39,7 @@
       "id": 203473,
       "name": "Kaori Nazuka",
       "profile_path": "/zTydHbhNjpwoCydvrJAd3d64C3g.jpg",
-      "popularity": 8.857,
+      "popularity": 9.057,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 14541,
       "name": "Chris Sarandon",
       "profile_path": "/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg",
-      "popularity": 8.857,
+      "popularity": 10.657,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 10401,
       "name": "Blythe Danner",
       "profile_path": "/hO09OUblsKAy81L3B8LupByY51u.jpg",
-      "popularity": 8.855,
+      "popularity": 12.397,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 10190,
       "name": "Jill St. John",
       "profile_path": "/o0LKSONTaFmjuf9ntKa4oVbOLKq.jpg",
-      "popularity": 8.854,
+      "popularity": 12.396,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 7077,
       "name": "Scatman Crothers",
       "profile_path": "/ughfThqQuuoPLSsC9HfkxwX370w.jpg",
-      "popularity": 8.852,
+      "popularity": 7.456,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 52365,
       "name": "Cerina Vincent",
       "profile_path": "/cHo9jVK5zvGKf6EEHclV5hjj9WM.jpg",
-      "popularity": 8.851,
+      "popularity": 10.655,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 141610,
       "name": "Lauren Vélez",
       "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg",
-      "popularity": 8.849,
+      "popularity": 5.855,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 99206,
       "name": "JoAnna Garcia",
       "profile_path": "/rlaDa8MgZbuLCn1So6H7Ff8Pa0c.jpg",
-      "popularity": 8.849,
+      "popularity": 6.255,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 1255433,
       "name": "Öykü Karayel",
       "profile_path": "/e6wHcmM7NVs2ZlGATUNL8cTeSI8.jpg",
-      "popularity": 8.848,
+      "popularity": 11.054,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 237020,
       "name": "Alexandra Roach",
       "profile_path": "/3XUgMLTeJ25qMSBYl7fJbGbD7Jj.jpg",
-      "popularity": 8.848,
+      "popularity": 6.254,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 65562,
       "name": "Andy Griffith",
       "profile_path": "/akaxOUO7UmxSX0Xlr6vrCNwzqt3.jpg",
-      "popularity": 8.847,
+      "popularity": 9.854,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 8396,
       "name": "Tom 'Tiny' Lister Jr.",
       "profile_path": "/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg",
-      "popularity": 8.844,
+      "popularity": 7.453,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 1030261,
       "name": "Bérénice Marlohe",
       "profile_path": "/o6geSuiTxUUKIdntoKuaesrmIJ2.jpg",
-      "popularity": 8.839,
+      "popularity": 12.375,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 54043,
       "name": "Gary Anthony Williams",
       "profile_path": "/8Cy9YqXXqh5ReqCAIlpKwGp6D7m.jpg",
-      "popularity": 8.838,
+      "popularity": 11.851,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Wachirawit Ruangwiwat",
       "profile_path": "/seXGBUEL7yV1RqW6wzT1DOWGB9f.jpg",
       "popularity": 8.837,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 30124,
-      "name": "Susan Hayward",
-      "profile_path": "/pyOkKM28Sm9kJPUfDqGrKuuZUft.jpg",
-      "popularity": 8.835,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2318492,
-      "name": "Ruby Jay",
-      "profile_path": "/fswBdCoJnumyzGa9tOnMedPxMrP.jpg",
-      "popularity": 8.834,
       "adult": false,
       "known_for_department": "Acting"
     }

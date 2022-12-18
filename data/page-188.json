@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2188232,
+      "name": "Lisann Valentin",
+      "profile_path": "/518LRQA9xYpobWNsR5A1Ea13EUU.jpg",
+      "popularity": 9.81,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1475808,
+      "name": "Maddie Phillips",
+      "profile_path": "/uuQBuEdkhgDSJ2wnE5N4tyryl4t.jpg",
+      "popularity": 9.81,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 565447,
       "name": "Romina Power",
       "profile_path": "/mwrPRD0g0oZCQkPKASMyzsNQy3G.jpg",
-      "popularity": 9.81,
+      "popularity": 13.734,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 232006,
       "name": "Nat Wolff",
       "profile_path": "/elgszZQCo9ZyU8CBpROuI0lfN5o.jpg",
-      "popularity": 9.81,
+      "popularity": 8.943,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 1769,
       "name": "Sofia Coppola",
       "profile_path": "/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg",
-      "popularity": 9.808,
+      "popularity": 6.942,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -31,7 +47,7 @@
       "id": 576408,
       "name": "Bruce Leung Siu-Lung",
       "profile_path": "/xvcmQjx57T4DcB0YwxUapd35P2f.jpg",
-      "popularity": 9.807,
+      "popularity": 10.942,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 2205,
       "name": "Jessica Capshaw",
       "profile_path": "/ePpM2GPe5OXjtyesq06J3S1WCB.jpg",
-      "popularity": 9.807,
+      "popularity": 9.342,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 83873,
       "name": "June Diane Raphael",
       "profile_path": "/lAwKmADejWaxNCwraNJO6tbfItb.jpg",
-      "popularity": 9.806,
+      "popularity": 12.142,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 99841,
       "name": "Paula Shaw",
       "profile_path": "/ywZYgoqdKEoi84xlYoZhEms1vJU.jpg",
-      "popularity": 9.803,
+      "popularity": 6.141,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 21165,
       "name": "Kim Dickens",
       "profile_path": "/ryLJMLR4VvLDGv6AxxaBUEmoguu.jpg",
-      "popularity": 9.803,
+      "popularity": 11.341,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 51389,
       "name": "Joe Cobden",
       "profile_path": "/g7EsYXdEoNv9s73ZI10SC2gL8MD.jpg",
-      "popularity": 9.798,
+      "popularity": 13.717,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 41779,
       "name": "Monica Vitti",
       "profile_path": "/mWaAOuj9OMntkAeVvjDjSV24mQl.jpg",
-      "popularity": 9.797,
+      "popularity": 13.716,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 21479,
       "name": "Andrew Stevens",
       "profile_path": "/6j3lBX2klVHVfZg5fMJfpxEyc7z.jpg",
-      "popularity": 9.797,
+      "popularity": 13.716,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -111,7 +127,7 @@
       "id": 180486,
       "name": "Gina Rodriguez",
       "profile_path": "/4EMA7VtkMobfGpswEclm65xC9s8.jpg",
-      "popularity": 9.795,
+      "popularity": 8.939,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 1086527,
       "name": "Gavin Casalegno",
       "profile_path": "/pEw3467b8TB0T8oVYWljZhsu6Zi.jpg",
-      "popularity": 9.793,
+      "popularity": 10.538,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 18514,
       "name": "Asia Argento",
       "profile_path": "/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg",
-      "popularity": 9.793,
+      "popularity": 8.538,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Shin Hye-sun",
       "profile_path": "/cuCFjBn3SpWyhIfBy9TupzvTrmp.jpg",
       "popularity": 9.789,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1133012,
-      "name": "Nadia Hilker",
-      "profile_path": "/bxYGXSVP9s6vCBLE8Z6Az8MJh9N.jpg",
-      "popularity": 9.789,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2004901,
-      "name": "Melike İpek Yalova",
-      "profile_path": "/lYRyPF7Oyo67tCcOaSLVIkgrXj0.jpg",
-      "popularity": 9.788,
       "adult": false,
       "known_for_department": "Acting"
     }

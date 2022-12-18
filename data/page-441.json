@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 17305,
+      "name": "Greg Grunberg",
+      "profile_path": "/ir2QunLf6aTaowpEygbIcjiZLDB.jpg",
+      "popularity": 7.406,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 9140,
       "name": "James Faulkner",
       "profile_path": "/wMDpbctF9cAL5nYnSL6AcXUTG5K.jpg",
-      "popularity": 6.021,
+      "popularity": 8.429,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 943913,
       "name": "Brittany Allen",
       "profile_path": "/f2K0XePjRlSoAXuvZqOUoE7Bkfl.jpg",
-      "popularity": 6.02,
+      "popularity": 8.428,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 238697,
       "name": "Kseniya Kutepova",
       "profile_path": "/jPcHWXQXOz02HlVCXDOpaIDuGJy.jpg",
-      "popularity": 6.02,
+      "popularity": 5.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 109646,
       "name": "Yoon Ji-hye",
       "profile_path": "/7zePMNGe149OzzsyVCdL0Mx1dT2.jpg",
-      "popularity": 6.02,
+      "popularity": 8.428,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 16145,
       "name": "Youki Kudoh",
       "profile_path": "/eshCZRgagAiwIfQebIKeCdKXiNr.jpg",
-      "popularity": 6.02,
+      "popularity": 7.806,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 79025,
       "name": "Don McManus",
       "profile_path": "/ilHsejG5ZbqCJRonmgZGzacx5LS.jpg",
-      "popularity": 6.019,
+      "popularity": 7.006,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 26657,
       "name": "David Bamber",
       "profile_path": "/1J5smU02X7125OgIyOLH6TVenDM.jpg",
-      "popularity": 6.017,
+      "popularity": 8.424,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 18052,
       "name": "Nathan Gamble",
       "profile_path": "/axIGmU00IoNxQgiL5jv7Rf9EC2l.jpg",
-      "popularity": 6.017,
+      "popularity": 6.605,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 53257,
       "name": "Emilio Rivera",
       "profile_path": "/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg",
-      "popularity": 6.016,
+      "popularity": 8.422,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 26760,
       "name": "Tsui Hark",
       "profile_path": "/9WTG1Feva6S7n09dxON40KHBsuk.jpg",
-      "popularity": 6.016,
+      "popularity": 8.422,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -119,7 +127,7 @@
       "id": 110909,
       "name": "Rob Mayes",
       "profile_path": "/4j4v5AYSHqtNSe427I0g7sMZhrX.jpg",
-      "popularity": 6.013,
+      "popularity": 5.804,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 52267,
       "name": "William Petersen",
       "profile_path": "/844k8tbN8mr5Nk69Ge2yzFR4k9r.jpg",
-      "popularity": 6.013,
+      "popularity": 8.418,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 52117,
       "name": "Horatio Sanz",
       "profile_path": "/kRoPbW1wPePFnA2THXxNhj4wsvA.jpg",
-      "popularity": 6.013,
+      "popularity": 8.418,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 224414,
       "name": "Wakana Matsumoto",
       "profile_path": "/7RwTLru6f1woicPGHhdpXoqvvVS.jpg",
-      "popularity": 6.012,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 124401,
-      "name": "Mao Inoue",
-      "profile_path": "/6PearnCbFJnQx0diGqjRFbIDcYD.jpg",
-      "popularity": 6.012,
+      "popularity": 5.004,
       "adult": false,
       "known_for_department": "Acting"
     }

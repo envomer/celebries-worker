@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 553325,
+      "name": "Miki Takakura",
+      "profile_path": "/2bXHWy82SzgMCFIuxVRKvDtw8Q6.jpg",
+      "popularity": 14.93,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 6065,
       "name": "Dennis Quaid",
       "profile_path": "/rvvxhJ7iR8GCZeKgg1qU8Bd89jG.jpg",
-      "popularity": 17.767,
+      "popularity": 24.874,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1734,
       "name": "Annette O'Toole",
       "profile_path": "/mCTEEzuNXlCdyl9uM4ot688IfVz.jpg",
-      "popularity": 17.75,
+      "popularity": 24.85,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 11870,
       "name": "Christine Baranski",
       "profile_path": "/6R9im8aNYce2Rvnvmeo7jGZjJZQ.jpg",
-      "popularity": 17.749,
+      "popularity": 24.849,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 49735,
       "name": "Aidan Gillen",
       "profile_path": "/ju5ho6nnwOQ2QLGLnDP9yOZhGpb.jpg",
-      "popularity": 17.738,
+      "popularity": 24.833,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 39995,
       "name": "Michael Cera",
       "profile_path": "/uwCyCFtGvn9dDmrHslbsmUj0tpj.jpg",
-      "popularity": 17.717,
+      "popularity": 24.804,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 56024,
       "name": "Jean Dujardin",
       "profile_path": "/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg",
-      "popularity": 17.716,
+      "popularity": 19.715,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 22290,
       "name": "Leelee Sobieski",
       "profile_path": "/gec4o10UZZFCtTGAtebcNR4g0PF.jpg",
-      "popularity": 17.716,
+      "popularity": 15.715,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1136940,
       "name": "Lili Reinhart",
       "profile_path": "/7q9dCds3jDkSBo9FgtNRwOwRLxr.jpg",
-      "popularity": 17.707,
+      "popularity": 24.79,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 116277,
       "name": "Nathalie Kelley",
       "profile_path": "/wawAz251CPJelmOVwTeNvjrYnqO.jpg",
-      "popularity": 17.707,
+      "popularity": 21.712,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 2229,
       "name": "Catherine Keener",
       "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg",
-      "popularity": 17.689,
+      "popularity": 18.107,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 543990,
       "name": "Merritt Patterson",
       "profile_path": "/JD4MNBtHjT2D43eUrBvNifhNpK.jpg",
-      "popularity": 17.675,
+      "popularity": 22.502,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1039525,
       "name": "Lili Simmons",
       "profile_path": "/h1X7C95cwYoDX45Fe4Zk6KzIhCV.jpg",
-      "popularity": 17.643,
+      "popularity": 24.7,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 18980,
       "name": "Katey Sagal",
       "profile_path": "/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg",
-      "popularity": 17.64,
+      "popularity": 24.696,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 527393,
       "name": "Dylan O'Brien",
       "profile_path": "/cOP4CLCPUp8Nkjvwqv7DW6wvG5i.jpg",
-      "popularity": 17.633,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1925,
-      "name": "Vincent Cassel",
-      "profile_path": "/ykBEiVh6YQ9UmMAYUiQkZBH3VV4.jpg",
-      "popularity": 17.633,
+      "popularity": 24.686,
       "adult": false,
       "known_for_department": "Acting"
     }

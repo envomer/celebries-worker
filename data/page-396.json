@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 12466,
+      "name": "Roy Cheung",
+      "profile_path": "/gHue0osFNYoX06eXpTrMZWpOpi8.jpg",
+      "popularity": 3.848,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 9186,
       "name": "Chad Lindberg",
       "profile_path": "/pBiIQrPTg55VOpBfdVJqVoEYqBN.jpg",
-      "popularity": 6.413,
+      "popularity": 8.978,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 531736,
       "name": "Lee Je-hoon",
       "profile_path": "/pSC05Cm8h8XEK6CS6Ak3qULbHfR.jpg",
-      "popularity": 6.412,
+      "popularity": 8.977,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 3086,
       "name": "Richard S. Castellano",
       "profile_path": "/1vr75BdHWret81vuSJ3ugiCBkxw.jpg",
-      "popularity": 6.411,
+      "popularity": 8.975,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 167831,
       "name": "Julian Ovenden",
       "profile_path": "/7ngG8lUX7G4bRH1fVw62yZVZ2X3.jpg",
-      "popularity": 6.41,
+      "popularity": 5.523,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 26854,
       "name": "Phil Davis",
       "profile_path": "/sNJ9nFWxpGVmQYvq7rU9xqryu0F.jpg",
-      "popularity": 6.41,
+      "popularity": 8.723,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 76827,
       "name": "Hélène de Fougerolles",
       "profile_path": "/5RhDNtaVgt4ZVeHhrHsUgc4AoIg.jpg",
-      "popularity": 6.409,
+      "popularity": 5.523,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 74687,
       "name": "Stella Maeve",
       "profile_path": "/eVDO0GLQqjfeQiIJj5LDOBt6Ms.jpg",
-      "popularity": 6.409,
+      "popularity": 8.973,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 23881,
       "name": "Timothy Busfield",
       "profile_path": "/r2VQ4Ar1WCISJoTqOOcO3HEgN4p.jpg",
-      "popularity": 6.409,
+      "popularity": 8.973,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 20197,
       "name": "Mylène Jampanoï",
       "profile_path": "/mTEI86ajYXgOLimGrOKxtHFV1Ek.jpg",
-      "popularity": 6.408,
+      "popularity": 7.522,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 7,
       "name": "Andrew Stanton",
       "profile_path": "/gasNitCwepbqNcYBmDHpsCgZH0I.jpg",
-      "popularity": 6.408,
+      "popularity": 8.971,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -103,7 +111,7 @@
       "id": 1094385,
       "name": "LaMonica Garrett",
       "profile_path": "/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg",
-      "popularity": 6.407,
+      "popularity": 8.97,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 15899,
       "name": "Jenifer Lewis",
       "profile_path": "/htrTYcoJQQpSYo6BrRehe3h46vo.jpg",
-      "popularity": 6.407,
+      "popularity": 7.522,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 12431,
       "name": "Carey Loftin",
       "profile_path": "/wpQnSduMm2iCtVrNT9kHo8c8aMH.jpg",
-      "popularity": 6.406,
+      "popularity": 5.922,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 288,
       "name": "Jon Seda",
       "profile_path": "/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg",
-      "popularity": 6.406,
+      "popularity": 8.968,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 204191,
       "name": "Aramis Knight",
       "profile_path": "/xwcHpHO8xpHZrbiRzG2rdjkmsTb.jpg",
-      "popularity": 6.405,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 58210,
-      "name": "Ernie Reyes Jr.",
-      "profile_path": "/8oBXNulh6U5YM6Ab5RJljk39LOP.jpg",
-      "popularity": 6.404,
+      "popularity": 4.722,
       "adult": false,
       "known_for_department": "Acting"
     }

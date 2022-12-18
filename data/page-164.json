@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1362813,
+      "name": "Niamh Algar",
+      "profile_path": "/4FscmD9lWqiJVnOvuWTaVc3ynTb.jpg",
+      "popularity": 10.574,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 4177,
+      "name": "Jake Weber",
+      "profile_path": "/z1RTh4qvyMFha8nKd5Uw1dKwkZz.jpg",
+      "popularity": 11.171,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 74573,
       "name": "Robert Pine",
       "profile_path": "/xZM1qLqmRprnZYXa8Ugsmo00zL9.jpg",
-      "popularity": 10.569,
+      "popularity": 7.571,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 139868,
       "name": "Ignacio Serricchio",
       "profile_path": "/g8zL6qlTiM941DGDDMhoC9Bq2fu.jpg",
-      "popularity": 10.567,
+      "popularity": 8.37,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 3893,
       "name": "David S. Goyer",
       "profile_path": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg",
-      "popularity": 10.567,
+      "popularity": 13.57,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -31,7 +47,7 @@
       "id": 8786,
       "name": "Ayelet Zurer",
       "profile_path": "/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg",
-      "popularity": 10.562,
+      "popularity": 14.787,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 55314,
       "name": "Kimberly Elise",
       "profile_path": "/7Mly81w228kPQC6TDl69bgZoiel.jpg",
-      "popularity": 10.56,
+      "popularity": 14.784,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 15440,
       "name": "Jared Harris",
       "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg",
-      "popularity": 10.558,
+      "popularity": 11.967,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 67600,
       "name": "Ashley Tisdale",
       "profile_path": "/znzE8om6N3H9wJQ5AUTMxPOnA3s.jpg",
-      "popularity": 10.555,
+      "popularity": 14.777,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 22675,
       "name": "Damon Wayans",
       "profile_path": "/pdSOalf1r7GKlcUhpKeBntAqgA6.jpg",
-      "popularity": 10.555,
+      "popularity": 13.567,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 221981,
       "name": "Antonia Thomas",
       "profile_path": "/ybmnPYUzcr3RMdaXnZIw2jEw9ju.jpg",
-      "popularity": 10.553,
+      "popularity": 12.766,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 18794,
       "name": "Kate Nelligan",
       "profile_path": "/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg",
-      "popularity": 10.552,
+      "popularity": 14.773,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 997887,
       "name": "Ronda Rousey",
       "profile_path": "/5eGHTV1bLOdajC4Z3pnIdSiptSG.jpg",
-      "popularity": 10.551,
+      "popularity": 14.771,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 30320,
       "name": "Annette Badland",
       "profile_path": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg",
-      "popularity": 10.55,
+      "popularity": 11.965,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 221116,
       "name": "India Eisley",
       "profile_path": "/7dmchBMMzEvUG7pkEGYdyQ35Y3F.jpg",
-      "popularity": 10.549,
+      "popularity": 10.365,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 150802,
       "name": "Claes Bang",
       "profile_path": "/w6kux5RIVfaGwHTb3yiDbaNHBPh.jpg",
-      "popularity": 10.548,
+      "popularity": 9.964,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 5694,
       "name": "Robert Forster",
       "profile_path": "/vGDifxN2PnO69rnpg6FoWkocFCD.jpg",
-      "popularity": 10.544,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1223134,
-      "name": "Kim Jae-wook",
-      "profile_path": "/kCq8iKzKa2MxF9kxX7QfhRf6uin.jpg",
-      "popularity": 10.542,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 213083,
-      "name": "Lara Pulver",
-      "profile_path": "/uacMDTL4YnuJD6frGF35CHLFh43.jpg",
-      "popularity": 10.54,
+      "popularity": 14.762,
       "adult": false,
       "known_for_department": "Acting"
     }

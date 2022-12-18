@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2694,
+      "name": "Josh Charles",
+      "profile_path": "/hedIAse3q3w1Pz7BhrGnzKcmYX8.jpg",
+      "popularity": 7.402,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 74056,
       "name": "Brendan Coyle",
       "profile_path": "/u00vlPgR2wlDAc3EnMgfTtJ9sue.jpg",
-      "popularity": 8.672,
+      "popularity": 11.002,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 11068,
       "name": "Karina Lombard",
       "profile_path": "/aWrR3UwkOIpDKHJpJeqXUcVeoxR.jpg",
-      "popularity": 8.672,
+      "popularity": 8.602,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 7742,
       "name": "Kristoffer Joner",
       "profile_path": "/vufeSWAdY9653t5Vxu3HysCnIkY.jpg",
-      "popularity": 8.672,
+      "popularity": 9.802,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1030995,
       "name": "Jessica Camacho",
       "profile_path": "/rmms55MpLdBWRDX8LLDTctgXUuA.jpg",
-      "popularity": 8.671,
+      "popularity": 12.139,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 25136,
       "name": "Ken Stott",
       "profile_path": "/qmmhRvSwfoJ7TOF5L6p2VMQQz3u.jpg",
-      "popularity": 8.67,
+      "popularity": 12.138,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 45863,
       "name": "Doris Roberts",
       "profile_path": "/bfJjsAKKRqUhm1lh2QC8u2atrov.jpg",
-      "popularity": 8.667,
+      "popularity": 12.134,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 41264,
       "name": "Pamela Bellwood",
       "profile_path": "/nPHmqljCl35P7qSYezTlUDcRvKF.jpg",
-      "popularity": 8.666,
+      "popularity": 7.4,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 82622,
       "name": "Charlotte Ross",
       "profile_path": "/aVPRnnTPWRhuylqQcivFBhNvXSv.jpg",
-      "popularity": 8.662,
+      "popularity": 7.799,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1224269,
       "name": "Aimee-Ffion Edwards",
       "profile_path": "/iwk8yjyWd46R5BFAYQLImFUvlHh.jpg",
-      "popularity": 8.659,
+      "popularity": 7.798,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 131820,
       "name": "Emma Bell",
       "profile_path": "/nWsmC9JQcg27WcD7X9MxCAMWEox.jpg",
-      "popularity": 8.656,
+      "popularity": 5.797,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 65421,
       "name": "Elizabeth Rodriguez",
       "profile_path": "/9f851DP7NHAOKvvlZdXxYigDYbl.jpg",
-      "popularity": 8.656,
+      "popularity": 8.997,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 36672,
       "name": "Tamzin Merchant",
       "profile_path": "/gsUJXh24FHdCPYsJwSdNnaMNrlU.jpg",
-      "popularity": 8.655,
+      "popularity": 12.117,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1187038,
       "name": "Leem Lubany",
       "profile_path": "/mmfXUa3WCRw2346CaU5msxzkdva.jpg",
-      "popularity": 8.653,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 17304,
-      "name": "Adrian Pasdar",
-      "profile_path": "/4KdM69ljovbLumGoVe8ct9s6GJm.jpg",
-      "popularity": 8.653,
+      "popularity": 12.114,
       "adult": false,
       "known_for_department": "Acting"
     }

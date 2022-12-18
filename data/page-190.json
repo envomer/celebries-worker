@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 19242,
+      "name": "Tony Gilroy",
+      "profile_path": "/tjKPe7Yq68p2IaaCAdSOmXStOKq.jpg",
+      "popularity": 11.331,
+      "adult": false,
+      "known_for_department": "Writing"
+    },
+    {
+      "id": 62831,
+      "name": "Will Forte",
+      "profile_path": "/kphnirb7YggSVEhGI47kACxaIJQ.jpg",
+      "popularity": 12.531,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 3981,
       "name": "Jenette Goldstein",
       "profile_path": "/rIDF2017eiY1HxPwXnXW24rv66o.jpg",
-      "popularity": 9.768,
+      "popularity": 12.13,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 55546,
       "name": "Liza Weil",
       "profile_path": "/eYR8oJnVKfCR73OlF7Uy2oC2MM3.jpg",
-      "popularity": 9.766,
+      "popularity": 9.73,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 4784,
       "name": "Laura Dern",
       "profile_path": "/2Ryt0SsExqWrLTzBu6sZcbLwoDJ.jpg",
-      "popularity": 9.766,
+      "popularity": 13.33,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 388,
       "name": "Jim Broadbent",
       "profile_path": "/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg",
-      "popularity": 9.766,
+      "popularity": 13.672,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 65345,
       "name": "Sandrine Holt",
       "profile_path": "/77q6NM103kEFJICiuhKOM4qy3KZ.jpg",
-      "popularity": 9.765,
+      "popularity": 13.33,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 1329,
       "name": "Billy Boyd",
       "profile_path": "/uiWlsIOakNnUgda21PJF9wswzEJ.jpg",
-      "popularity": 9.765,
+      "popularity": 8.13,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 21684,
       "name": "Bong Joon-ho",
       "profile_path": "/tKLJBqbdH6HFj2QxLA5o8Zk7IVs.jpg",
-      "popularity": 9.764,
+      "popularity": 11.729,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -71,7 +87,7 @@
       "id": 108916,
       "name": "Rooney Mara",
       "profile_path": "/ixcGTDGHtwaQnNLpLS1S7V01DUJ.jpg",
-      "popularity": 9.761,
+      "popularity": 13.665,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 1280881,
       "name": "Tenzing Norgay Trainor",
       "profile_path": "/1mIj4EeFZHil1QClQY6W3fvfvIf.jpg",
-      "popularity": 9.759,
+      "popularity": 9.728,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 1087773,
       "name": "Masataka Kubota",
       "profile_path": "/d5IvRfKw2kOSar9sLhHuCXeKTcn.jpg",
-      "popularity": 9.759,
+      "popularity": 8.528,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 59240,
       "name": "Michelle Harrison",
       "profile_path": "/4NNuBCS6I4USJT45xSN9R7vwXFI.jpg",
-      "popularity": 9.759,
+      "popularity": 6.528,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 206919,
       "name": "Daniel Kaluuya",
       "profile_path": "/a07Tqzgp0IrW9YkcOQiuKavP4tm.jpg",
-      "popularity": 9.755,
+      "popularity": 8.527,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 119759,
       "name": "Brandy Ledford",
       "profile_path": "/1PE7olSfYiXHFKXyNhgB8NmNcyP.jpg",
-      "popularity": 9.755,
+      "popularity": 13.657,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 59,
       "name": "Luc Besson",
       "profile_path": "/p7QoPAMP6wfkgcwELkM5VtdGYHU.jpg",
-      "popularity": 9.75,
+      "popularity": 13.65,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -143,25 +159,9 @@
       "id": 23446,
       "name": "Neil Gaiman",
       "profile_path": "/wXPREg2zhD9gsycde7AoMebVyfA.jpg",
-      "popularity": 9.748,
+      "popularity": 8.124,
       "adult": false,
       "known_for_department": "Writing"
-    },
-    {
-      "id": 1660452,
-      "name": "Betty Gabriel",
-      "profile_path": "/n67i3H3VM5quDQfcS591EbotPby.jpg",
-      "popularity": 9.747,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 39113,
-      "name": "Christine Elise",
-      "profile_path": "/hFx6YxrQAPYGFNnFnAQoM4Obqz1.jpg",
-      "popularity": 9.746,
-      "adult": false,
-      "known_for_department": "Acting"
     }
   ]
 }

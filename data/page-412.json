@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 24976,
+      "name": "Ana Torrent",
+      "profile_path": "/20fCWHV6CckcpwiSlAplJCSzBZj.jpg",
+      "popularity": 8.75,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 20654,
       "name": "Liu Ye",
       "profile_path": "/5tDiEoDtp1wvIgJU5pdP9hLK1oF.jpg",
-      "popularity": 6.25,
+      "popularity": 5.475,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 6465,
       "name": "Grace Zabriskie",
       "profile_path": "/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg",
-      "popularity": 6.25,
+      "popularity": 6.675,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1172107,
       "name": "Yasmine Al-Bustami",
       "profile_path": "/b3zgeEbgyOB5DcPtWNCeUM8D4uO.jpg",
-      "popularity": 6.249,
+      "popularity": 4.675,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 238841,
       "name": "Wong Yu",
       "profile_path": "/bufO62djDq8p3GMUPjn90m7ir3K.jpg",
-      "popularity": 6.248,
+      "popularity": 7.874,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 164242,
       "name": "Darren Goldstein",
       "profile_path": "/47QXKYavXBB9CDXnptBwxsgEHvz.jpg",
-      "popularity": 6.248,
+      "popularity": 4.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 200989,
       "name": "Emmy Clarke",
       "profile_path": "/Ad3xuMDJ7RQCQOAf4plh16S2Swp.jpg",
-      "popularity": 6.247,
+      "popularity": 4.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 154883,
       "name": "Bodhi Elfman",
       "profile_path": "/jQSJxARZYfznOKIDvBdYhXeFMvP.jpg",
-      "popularity": 6.247,
+      "popularity": 5.074,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 42610,
       "name": "Emily Joyce",
       "profile_path": "/sPpPccNeJlqsAn0dSvgma1rj7U3.jpg",
-      "popularity": 6.247,
+      "popularity": 8.746,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 932095,
       "name": "Zoe Aggeliki",
       "profile_path": "/jNBy00kybqvq8bknpk1e0ltevKQ.jpg",
-      "popularity": 6.246,
+      "popularity": 4.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 14848,
       "name": "James Hampton",
       "profile_path": "/bj801jg4izmoxjTb66gxH8hmkFQ.jpg",
-      "popularity": 6.245,
+      "popularity": 8.743,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 12497,
       "name": "Farley Granger",
       "profile_path": "/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg",
-      "popularity": 6.245,
+      "popularity": 6.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 33135,
       "name": "Chishū Ryū",
       "profile_path": "/md0GCQUr0ktyjigmnFhRRhIE1tK.jpg",
-      "popularity": 6.244,
+      "popularity": 7.473,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 6199,
       "name": "Miriam Margolyes",
       "profile_path": "/93k0aFwiuDT5sIS3oTX1jKgUYXE.jpg",
-      "popularity": 6.244,
+      "popularity": 8.742,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 132712,
       "name": "Keir Gilchrist",
       "profile_path": "/vFrziqS1PDoHYFs2Vn9ro3577Ry.jpg",
-      "popularity": 6.243,
+      "popularity": 5.073,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 80611,
       "name": "Cassi Davis",
       "profile_path": "/dOhXYZ6zLGZ9xudS5krd0r9MQVM.jpg",
-      "popularity": 6.243,
+      "popularity": 7.073,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 77622,
       "name": "Catherine Lough Haggquist",
       "profile_path": "/i8WNwTXrfVxmsCfOGirh1MtVppz.jpg",
-      "popularity": 6.243,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 72255,
-      "name": "Céline Sallette",
-      "profile_path": "/owCiadHTGrXilOb1GEWgFnJ8jZ3.jpg",
-      "popularity": 6.243,
+      "popularity": 4.673,
       "adult": false,
       "known_for_department": "Acting"
     }

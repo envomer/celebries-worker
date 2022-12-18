@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1303873,
+      "name": "Jenna Kanell",
+      "profile_path": "/dzx7LYrEX5TnxSau43AZMYm5Mub.jpg",
+      "popularity": 7.504,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 42694,
       "name": "Tamara Tunie",
       "profile_path": "/1QZ7J8vtd5uuDsbikJkhfYz2dVz.jpg",
-      "popularity": 6.346,
+      "popularity": 8.884,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 144288,
       "name": "Maiara Walsh",
       "profile_path": "/n5qik3XnpPEwa76SrQQJVgei7RP.jpg",
-      "popularity": 6.343,
+      "popularity": 7.903,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 125854,
       "name": "Amaia Salamanca",
       "profile_path": "/nhmrFaiJG4k5rlxEZGI72YeUB8p.jpg",
-      "popularity": 6.343,
+      "popularity": 8.88,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 14101,
       "name": "John Larroquette",
       "profile_path": "/rWXMelYm34YIBOzJJaQrBI50NEp.jpg",
-      "popularity": 6.343,
+      "popularity": 5.103,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 435243,
       "name": "James Murray",
       "profile_path": "/g1Jj5FReoXteHqDzDTiYVO77iIR.jpg",
-      "popularity": 6.342,
+      "popularity": 8.879,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 25409,
       "name": "Elyas M'Barek",
       "profile_path": "/mBL5poeVUSHAokGxU7uHAP3M0QP.jpg",
-      "popularity": 6.342,
+      "popularity": 8.879,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 18919,
       "name": "Freddie Boath",
       "profile_path": "/yR1yJnwALekEG521eddpnL5mApD.jpg",
-      "popularity": 6.342,
+      "popularity": 6.703,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1194671,
       "name": "Jeon Hye-jin",
       "profile_path": "/jem3hue3lqLbZCb78o0WPECf2yy.jpg",
-      "popularity": 6.339,
+      "popularity": 8.875,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1093518,
       "name": "Diana Hopper",
       "profile_path": "/gH4dFIQkoS6Mrh0ORk6WwYQIZAb.jpg",
-      "popularity": 6.338,
+      "popularity": 5.501,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 78102,
       "name": "David Anthony Higgins",
       "profile_path": "/oyyXzxtHMA8LeZ5oYm8tgxhnqm2.jpg",
-      "popularity": 6.338,
+      "popularity": 7.901,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 41689,
       "name": "Rue McClanahan",
       "profile_path": "/n8fHeOBqTwPmo8nSxWqHRnregHq.jpg",
-      "popularity": 6.338,
+      "popularity": 8.873,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1234290,
       "name": "Mary Long",
       "profile_path": "/bt05a5YHpAqE94nCJThWXp3J8Pd.jpg",
-      "popularity": 6.337,
+      "popularity": 6.701,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1201386,
       "name": "Matt Hamilton",
       "profile_path": "/5qPA4sMcgHGij0hMXSpsFTsjKO5.jpg",
-      "popularity": 6.337,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 64221,
-      "name": "Dan Monahan",
-      "profile_path": "/6UiySllIZFL1jpnZ7PTqtSR0vJz.jpg",
-      "popularity": 6.337,
+      "popularity": 4.301,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 52,
+      "name": "David Morse",
+      "profile_path": "/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg",
+      "popularity": 21.924,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 19159,
       "name": "Thomas Haden Church",
       "profile_path": "/VP6VDYL0OEDwSbTRysiJ0kAGxI.jpg",
-      "popularity": 15.658,
+      "popularity": 15.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 10690,
       "name": "Anna Paquin",
       "profile_path": "/5FjBCsn3kujldP8LizoCrc3hsHp.jpg",
-      "popularity": 15.653,
+      "popularity": 14.696,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 57165,
       "name": "Jess Hill",
       "profile_path": "/uGzDd4gS3SQv790PZ46g2sDIiPS.jpg",
-      "popularity": 15.649,
+      "popularity": 9.389,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -39,7 +47,7 @@
       "id": 1100144,
       "name": "Ismael Cruz Córdova",
       "profile_path": "/gx59ZkpGgGLEH79ciDgyWpUG8nt.jpg",
-      "popularity": 15.648,
+      "popularity": 14.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 588,
       "name": "M. Emmet Walsh",
       "profile_path": "/cirz2AGsQgh34yMoMaEmttAq0qS.jpg",
-      "popularity": 15.645,
+      "popularity": 21.903,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 184816,
       "name": "Chelsea Hobbs",
       "profile_path": "/mF6ptE0dZ27CvJIX14Nb01CBafi.jpg",
-      "popularity": 15.639,
+      "popularity": 18.692,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 40477,
       "name": "Chris O'Dowd",
       "profile_path": "/xhfgliN8DInDVBliPq7JDeKNCvz.jpg",
-      "popularity": 15.638,
+      "popularity": 21.491,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,15 +79,15 @@
       "id": 980,
       "name": "Vinnie Jones",
       "profile_path": "/tkYWG9gY2QpoBfOh4OWNz8yQfsw.jpg",
-      "popularity": 15.638,
+      "popularity": 21.893,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 17265,
       "name": "Hayden Panettiere",
-      "profile_path": "/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg",
-      "popularity": 15.609,
+      "profile_path": "/zth8bT2zZg3lxPMswfVdrnTbiB1.jpg",
+      "popularity": 20.683,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 21028,
       "name": "Anton Yelchin",
       "profile_path": "/uOMWKYOLezo4ETMtrQt7uQBLSBh.jpg",
-      "popularity": 15.589,
+      "popularity": 15.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 567269,
       "name": "Jessica Brown Findlay",
       "profile_path": "/xrvuOGSkS0ufxQohk2DhUV57QmE.jpg",
-      "popularity": 15.571,
+      "popularity": 16.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 86468,
       "name": "Sarah Wayne Callies",
       "profile_path": "/zyawilbK4FzUVO6G4BsLein85Im.jpg",
-      "popularity": 15.564,
+      "popularity": 13.869,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 7685,
       "name": "Raymond Burr",
       "profile_path": "/ytOh75gcfS1fxLXb0fHACDajscz.jpg",
-      "popularity": 15.564,
+      "popularity": 18.669,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 86232,
       "name": "Lucy Boynton",
       "profile_path": "/wKNUTqAfi3QW2t2MwMotwOXKkZx.jpg",
-      "popularity": 15.547,
+      "popularity": 21.464,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 134673,
       "name": "Andrew W. Walker",
       "profile_path": "/fPyQi2auu1R948AKniUsoPUXzD5.jpg",
-      "popularity": 15.546,
+      "popularity": 16.264,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 229031,
       "name": "Peyton List",
       "profile_path": "/b1rEqHlkyHwRtockTE7WQNLyu9t.jpg",
-      "popularity": 15.541,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1328,
-      "name": "Sean Astin",
-      "profile_path": "/5oJzy6Ra0tuMEV7mfxjtqye5qUX.jpg",
-      "popularity": 15.541,
+      "popularity": 18.262,
       "adult": false,
       "known_for_department": "Acting"
     }

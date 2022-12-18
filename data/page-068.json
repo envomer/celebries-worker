@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 7218,
+      "name": "Kristanna Loken",
+      "profile_path": "/rvQfAMALylvgt9uGVDKhrtVLyjG.jpg",
+      "popularity": 17.298,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 478,
       "name": "Jamie Bell",
       "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
-      "popularity": 16.324,
+      "popularity": 22.854,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 14343,
       "name": "Rene Russo",
       "profile_path": "/aYgylDWH9vUZOvwKUKM2v632Efm.jpg",
-      "popularity": 16.323,
+      "popularity": 20.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1028899,
       "name": "Meghann Fahy",
       "profile_path": "/inKBENsH8yzN0tAvaC6x0Wz5Tls.jpg",
-      "popularity": 16.307,
+      "popularity": 14.092,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 72873,
       "name": "Michael Stuhlbarg",
       "profile_path": "/seBk12MUK51aUoYX4OW1itfOpJ6.jpg",
-      "popularity": 16.297,
+      "popularity": 22.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 3034,
       "name": "Corey Feldman",
       "profile_path": "/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg",
-      "popularity": 16.291,
+      "popularity": 17.687,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 44233,
       "name": "Mathilda May",
       "profile_path": "/5UioWGneyS8mUo5qy3Vvxq7DtSO.jpg",
-      "popularity": 16.286,
+      "popularity": 15.286,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 8211,
       "name": "Mena Suvari",
       "profile_path": "/2ukBn5lPKdni7mtPNKiFBzU7rFV.jpg",
-      "popularity": 16.267,
+      "popularity": 20.88,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 655,
       "name": "John Rhys-Davies",
       "profile_path": "/bfn4WvhGo2QKYtv5ynk7tKu7NnL.jpg",
-      "popularity": 16.264,
+      "popularity": 18.879,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 8293,
       "name": "Marion Cotillard",
       "profile_path": "/zChwjQ9D90fxx6cgWz5mUWHNd5b.jpg",
-      "popularity": 16.261,
+      "popularity": 22.765,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 35319,
       "name": "Sylvia Kristel",
       "profile_path": "/9CoitH6zdr5FTBLh6FJZHnzkunc.jpg",
-      "popularity": 16.258,
+      "popularity": 18.877,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 42707,
       "name": "Jessica Steen",
       "profile_path": "/7pKpGn6beYaDdEnSSmZWJY5DGlc.jpg",
-      "popularity": 16.254,
+      "popularity": 14.476,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 7302,
       "name": "Janet Leigh",
       "profile_path": "/2dv9IqJEx31RSoH7xAHlJZXF5uB.jpg",
-      "popularity": 16.25,
+      "popularity": 22.75,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 98522,
       "name": "Riley Keough",
       "profile_path": "/eg1PAXJMgmwTO4UeW7p7oBPKMbU.jpg",
-      "popularity": 16.247,
+      "popularity": 22.746,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 6108,
       "name": "Emily Procter",
       "profile_path": "/mJTjXGaitlDygbAecPy3PsQxplR.jpg",
-      "popularity": 16.24,
+      "popularity": 15.672,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 3084,
       "name": "Marlon Brando",
       "profile_path": "/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg",
-      "popularity": 16.237,
+      "popularity": 19.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 39388,
       "name": "Amy Ryan",
       "profile_path": "/bItqd1QUNpdegjBXNaVuFFPEZU4.jpg",
-      "popularity": 16.234,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 558900,
-      "name": "Stephen Huszar",
-      "profile_path": "/8tAp0omX7S5qfFCeodIg0IZuMwC.jpg",
-      "popularity": 16.227,
+      "popularity": 21.27,
       "adult": false,
       "known_for_department": "Acting"
     }

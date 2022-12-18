@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2628,
+      "name": "Kiefer Sutherland",
+      "profile_path": "/g4HLUHuQ742roPxugGzxeVoKnel.jpg",
+      "popularity": 20.163,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 31903,
       "name": "Henry Winkler",
       "profile_path": "/8OmkbGkeN7yZj3iIJNo485BBGTC.jpg",
-      "popularity": 14.399,
+      "popularity": 20.159,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 972671,
       "name": "William Levy",
       "profile_path": "/fi1k181dsQfV6rtK7zd8m62Wq4L.jpg",
-      "popularity": 14.392,
+      "popularity": 11.518,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 21593,
       "name": "Jason Biggs",
       "profile_path": "/1CitXL03kpjJSTDj0SWrmFkGggE.jpg",
-      "popularity": 14.391,
+      "popularity": 10.717,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 4443,
       "name": "Christopher McDonald",
       "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg",
-      "popularity": 14.39,
+      "popularity": 13.517,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 58754,
       "name": "Haley Bennett",
       "profile_path": "/8HRgGypSwHeI27ffmcAELNoxIOw.jpg",
-      "popularity": 14.384,
+      "popularity": 20.138,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 78030,
       "name": "Ashley Benson",
       "profile_path": "/8EeEDClttH50DRv4dl74Edi4In7.jpg",
-      "popularity": 14.382,
+      "popularity": 13.515,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1213278,
       "name": "Eliza Taylor",
       "profile_path": "/igWylWFncQPoJZcmwRsACUYXtyQ.jpg",
-      "popularity": 14.371,
+      "popularity": 20.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 4935,
       "name": "Pete Postlethwaite",
       "profile_path": "/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg",
-      "popularity": 14.371,
+      "popularity": 20.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 26086,
       "name": "Michael Shanks",
       "profile_path": "/4YkOrSUmfKljqTMwGIo50oviKe1.jpg",
-      "popularity": 14.362,
+      "popularity": 14.309,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 72129,
       "name": "Jennifer Lawrence",
       "profile_path": "/nSWSc3pAQEw0lPAmAk4d9GFMv6k.jpg",
-      "popularity": 14.361,
+      "popularity": 19.508,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 448,
       "name": "Hilary Swank",
       "profile_path": "/rYetl0tRJrF8oQNhu00n9Ku4PNr.jpg",
-      "popularity": 14.36,
+      "popularity": 17.108,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 23659,
       "name": "Will Ferrell",
       "profile_path": "/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg",
-      "popularity": 14.357,
+      "popularity": 16.307,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1215797,
       "name": "Erinn Hayes",
       "profile_path": "/iesmfFl12Dgb8mb1jCKMGsIcQ9o.jpg",
-      "popularity": 14.355,
+      "popularity": 20.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 17190,
       "name": "Erik Per Sullivan",
       "profile_path": "/xNGQBXkat5ZjnZ9vSg0mUbcv9Bc.jpg",
-      "popularity": 14.355,
+      "popularity": 13.107,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 12206,
       "name": "Richard Roxburgh",
       "profile_path": "/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg",
-      "popularity": 14.355,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1257601,
-      "name": "Go Kyung-pyo",
-      "profile_path": "/bqzjZ8mDTgfdmR039EDPGVLWPhy.jpg",
-      "popularity": 14.353,
+      "popularity": 18.307,
       "adult": false,
       "known_for_department": "Acting"
     }

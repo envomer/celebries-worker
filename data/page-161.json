@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1474965,
+      "name": "Lindsey Gort",
+      "profile_path": "/pwZIFiSPltZbspDWEAtSB14Pcae.jpg",
+      "popularity": 10.692,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 65986,
+      "name": "David Chiang",
+      "profile_path": "/8Px2kQf2KTCeSfch6RJaljEPgc.jpg",
+      "popularity": 11.208,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1279249,
       "name": "Gijs Blom",
       "profile_path": "/fBt9qOW4EA1miKaLXFIMYOHAled.jpg",
-      "popularity": 10.69,
+      "popularity": 8.407,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 2109,
       "name": "Kim Cattrall",
       "profile_path": "/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg",
-      "popularity": 10.689,
+      "popularity": 13.207,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 12834,
       "name": "Barry Pepper",
       "profile_path": "/pmdNUqrpsoozh7QYqUgEgZQ69cA.jpg",
-      "popularity": 10.682,
+      "popularity": 14.955,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 1252016,
       "name": "Moon Ga-young",
       "profile_path": "/plcDpyV50h3uooOCXkOlcIVwDu0.jpg",
-      "popularity": 10.679,
+      "popularity": 14.404,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 125734,
       "name": "Lee Ki-young",
       "profile_path": "/zQlPXY8vusE72nPQwanRACveDdV.jpg",
-      "popularity": 10.679,
+      "popularity": 8.404,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 56903,
       "name": "Tracy Morgan",
       "profile_path": "/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg",
-      "popularity": 10.674,
+      "popularity": 14.944,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 76792,
       "name": "Freida Pinto",
       "profile_path": "/fhUEcLvlsy13hHO5xJb0fV3AiYw.jpg",
-      "popularity": 10.669,
+      "popularity": 14.937,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 1619,
       "name": "Chow Yun-fat",
       "profile_path": "/uDPYSiZrW7OZ79qgcgkWefALlXY.jpg",
-      "popularity": 10.669,
+      "popularity": 13.601,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 739,
       "name": "Alison Doody",
       "profile_path": "/k8muOVU3HAT5eyAape8DSdUK8Yu.jpg",
-      "popularity": 10.668,
+      "popularity": 12,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 18892,
       "name": "Goldie Hawn",
       "profile_path": "/u2g5VUylAJoXGWhoxFTLUmaX6O7.jpg",
-      "popularity": 10.667,
+      "popularity": 10.8,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 785,
       "name": "James Russo",
       "profile_path": "/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg",
-      "popularity": 10.665,
+      "popularity": 13.2,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 101060,
       "name": "Danielle Nicolet",
       "profile_path": "/xdXUDutVr67zKQXpH50277R4HbQ.jpg",
-      "popularity": 10.657,
+      "popularity": 12.797,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 86132,
       "name": "Claire Holt",
       "profile_path": "/98d3peGDj0vPKcz8YyphJlkYrQO.jpg",
-      "popularity": 10.657,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 205258,
-      "name": "Harry Lloyd",
-      "profile_path": "/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg",
-      "popularity": 10.656,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 43299,
-      "name": "John DeSantis",
-      "profile_path": "/sMsA0ox2wXkW2Y4uZvYpbpyaGsu.jpg",
-      "popularity": 10.655,
+      "popularity": 14.92,
       "adult": false,
       "known_for_department": "Acting"
     }

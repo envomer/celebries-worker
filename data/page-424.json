@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 19898,
+      "name": "Vladimir Kulich",
+      "profile_path": "/z6pfLx4kJvqWj501SIxExu6rYFi.jpg",
+      "popularity": 7.048,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 209198,
       "name": "Adriana Lima",
       "profile_path": "/iKInxe5rxtuPO6mZ1ouWrDVxRjq.jpg",
-      "popularity": 6.159,
+      "popularity": 5.048,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 85756,
       "name": "Frankie Shaw",
       "profile_path": "/4G9ynxaxnExng4vSt56j7mrKlKf.jpg",
-      "popularity": 6.159,
+      "popularity": 8.623,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 95975,
       "name": "Mark Linn-Baker",
       "profile_path": "/ftf6coOBy95LrcVvhPnbsabKnC.jpg",
-      "popularity": 6.158,
+      "popularity": 8.621,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 32340,
       "name": "Kamel Krifa",
       "profile_path": "/aPXO1iXlIhZohqfG59GBtrwqznM.jpg",
-      "popularity": 6.157,
+      "popularity": 3.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 9071,
       "name": "Billie Burke",
       "profile_path": "/3jTbV1dQswDpHLBV65pgzGBy9Hj.jpg",
-      "popularity": 6.157,
+      "popularity": 5.847,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 56358,
       "name": "Patricia Belcher",
       "profile_path": "/8h5cLajSjv3fLIeAyuYyNxj7gte.jpg",
-      "popularity": 6.156,
+      "popularity": 8.618,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 2303,
       "name": "Wim Wenders",
       "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
-      "popularity": 6.156,
+      "popularity": 4.647,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -79,7 +87,7 @@
       "id": 15032,
       "name": "Jed Rees",
       "profile_path": "/o1ivnaWK3AXxPI6O9UmykTz2kcY.jpg",
-      "popularity": 6.155,
+      "popularity": 5.047,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 138770,
       "name": "Cassidy Freeman",
       "profile_path": "/6QooKF97oaUoIrW2lbx36aYYGZH.jpg",
-      "popularity": 6.154,
+      "popularity": 8.616,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 65239,
       "name": "Susan Ward",
       "profile_path": "/twyHi3L6BcAzpPkjEoYVP4pYMCM.jpg",
-      "popularity": 6.154,
+      "popularity": 7.046,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 51755,
       "name": "Ian Ogilvy",
       "profile_path": "/m4AzjVFTFwz7Erh01dqlmcVmnXr.jpg",
-      "popularity": 6.154,
+      "popularity": 8.616,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 50935,
       "name": "Björn Andrésen",
       "profile_path": "/4eTFGbKKHRQdNO8dr9nnFwlc09u.jpg",
-      "popularity": 6.154,
+      "popularity": 8.616,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 35865,
       "name": "Hannah Spearritt",
       "profile_path": "/eaEPgp7gbfQZ2YcocCH6x0KSUf7.jpg",
-      "popularity": 6.154,
+      "popularity": 8.616,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 555542,
       "name": "Sinan Albayrak",
       "profile_path": "/uucItUBsbiZ8TI5MEJiqt7y4S02.jpg",
-      "popularity": 6.153,
+      "popularity": 5.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 56366,
       "name": "Ross McCall",
       "profile_path": "/6l3lARiyHHISOIntSlvYv0JgTHz.jpg",
-      "popularity": 6.153,
+      "popularity": 5.846,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 44103,
       "name": "Richard Fitzpatrick",
       "profile_path": "/xHENypVUmcCzxRZsL5wkp4WYRgb.jpg",
-      "popularity": 6.153,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 98215,
-      "name": "Matt Gerald",
-      "profile_path": "/k5iEsYWb1Prho4IO2xGTFaIwKu1.jpg",
-      "popularity": 6.152,
+      "popularity": 5.446,
       "adult": false,
       "known_for_department": "Acting"
     }

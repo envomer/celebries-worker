@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 6159,
+      "name": "Ron Howard",
+      "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+      "popularity": 18.139,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
       "id": 30554,
       "name": "Ken Curtis",
       "profile_path": "/fhHDWoZszx76Gcr2WGgcoiCPqAA.jpg",
-      "popularity": 15.129,
+      "popularity": 14.539,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 514,
       "name": "Jack Nicholson",
       "profile_path": "/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg",
-      "popularity": 15.124,
+      "popularity": 21.174,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 11617,
       "name": "Mischa Barton",
       "profile_path": "/gi1SyR0kW62HseNRk9LI82Qin9q.jpg",
-      "popularity": 15.119,
+      "popularity": 14.936,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 70612,
       "name": "Susan Ursitti",
       "profile_path": "/g5cIZH2eOhE9q6kkUmwrafPUfVM.jpg",
-      "popularity": 15.117,
+      "popularity": 10.935,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 17402,
       "name": "Ron Livingston",
       "profile_path": "/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg",
-      "popularity": 15.112,
+      "popularity": 13.734,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 210271,
       "name": "Taylor Kinney",
       "profile_path": "/lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg",
-      "popularity": 15.109,
+      "popularity": 14.933,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 16327,
       "name": "Timothy Hutton",
       "profile_path": "/oWVtWGEauBs0zXrk0cWqiqYxJtN.jpg",
-      "popularity": 15.089,
+      "popularity": 14.527,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 49265,
       "name": "Lindsay Lohan",
       "profile_path": "/iaEcezZZe5CYEVqhhXnwEMz4sYR.jpg",
-      "popularity": 15.08,
+      "popularity": 21.112,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 34434,
       "name": "Missy Peregrym",
       "profile_path": "/364PJwTQLpWjGfNisQm47Dler08.jpg",
-      "popularity": 15.062,
+      "popularity": 11.319,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 28248,
       "name": "Dwight Schultz",
       "profile_path": "/kVXkC94gNdSWRvDAs0DqBCduJ4S.jpg",
-      "popularity": 15.061,
+      "popularity": 21.085,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 90755,
       "name": "Janet Montgomery",
       "profile_path": "/jy2hvsU2Jvf3C89MmVhj6tchsiq.jpg",
-      "popularity": 15.043,
+      "popularity": 11.313,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1151657,
       "name": "Jing Tian",
       "profile_path": "/TvongBGWA6Q4g6KcdRwc4sYBwD.jpg",
-      "popularity": 15.039,
+      "popularity": 15.712,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 27125,
       "name": "Molly Parker",
       "profile_path": "/xo0GT4MAUkqCKKL8qq6WEmHDre5.jpg",
-      "popularity": 15.023,
+      "popularity": 21.032,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 10982,
       "name": "Harry Melling",
       "profile_path": "/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg",
-      "popularity": 15.022,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 6416,
-      "name": "Polly Walker",
-      "profile_path": "/42uHuIwZHorg2CyShOtjnjQnTOy.jpg",
-      "popularity": 15.019,
+      "popularity": 17.707,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 23706,
+      "name": "Eve Gordon",
+      "profile_path": "/iQVDcTPEGijnAVveBUqcxlOjMYB.jpg",
+      "popularity": 5.471,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1253972,
       "name": "Mutsumi Tamura",
       "profile_path": "/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg",
-      "popularity": 6.237,
+      "popularity": 7.071,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 43775,
       "name": "Jane Lynch",
       "profile_path": "/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg",
-      "popularity": 6.237,
+      "popularity": 8.732,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 210344,
       "name": "Jen Lilley",
       "profile_path": "/6ADAnME5ewCbwuwU4tWQMRVvfmu.jpg",
-      "popularity": 6.236,
+      "popularity": 6.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1234600,
       "name": "Jung Il-woo",
       "profile_path": "/znYZO1v1oJr48YXA3UNY62h3ZFp.jpg",
-      "popularity": 6.235,
+      "popularity": 3.741,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1042162,
       "name": "Vana Barba",
       "profile_path": "/bdRcIFfuADfrO0MCXZFE1anzyUB.jpg",
-      "popularity": 6.235,
+      "popularity": 5.871,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 493911,
       "name": "Maaike Neuville",
       "profile_path": "/aiMcbTIDDZEpAHXGldfN6IT9Kgr.jpg",
-      "popularity": 6.234,
+      "popularity": 7.47,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 32202,
       "name": "Leah Cairns",
       "profile_path": "/pdPcPWuPcheSRPwJFmnMI66XTn5.jpg",
-      "popularity": 6.233,
+      "popularity": 8.726,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 30097,
       "name": "Michael Hutchence",
       "profile_path": "/fu14gRAVKoe00zsJUrMQ559OHRa.jpg",
-      "popularity": 6.233,
+      "popularity": 8.726,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 12798,
       "name": "Enrique Murciano",
       "profile_path": "/r1KGKFRzPyAGqqPI8adzlZfNO20.jpg",
-      "popularity": 6.233,
+      "popularity": 5.07,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 21459,
       "name": "Sue Ane Langdon",
       "profile_path": "/xm2GGYwGYyppYtSkeua42lusP4c.jpg",
-      "popularity": 6.231,
+      "popularity": 5.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1105706,
       "name": "Tait Fletcher",
       "profile_path": "/zAVsHT2GBLPaQ4RpTopnHvIrCbv.jpg",
-      "popularity": 6.23,
+      "popularity": 6.669,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 105838,
       "name": "Emma Booth",
       "profile_path": "/9mxCaOgYPeXN2DtbjaKHIreiZNS.jpg",
-      "popularity": 6.23,
+      "popularity": 7.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 80145,
       "name": "Jemma Redgrave",
       "profile_path": "/kvPTlHzU9LkHkWLhtwstiUPRzOQ.jpg",
-      "popularity": 6.23,
+      "popularity": 8.722,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1794375,
       "name": "Andy Biersack",
       "profile_path": "/xKTOSO2idRFLrRDoaBUB3BLlHH.jpg",
-      "popularity": 6.229,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 578014,
-      "name": "Patrick Criado",
-      "profile_path": "/hq0hxTaaiOSRBXsQm0UEKh5NLKG.jpg",
       "popularity": 6.229,
       "adult": false,
       "known_for_department": "Acting"

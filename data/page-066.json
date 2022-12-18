@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 13299,
+      "name": "Rita Moreno",
+      "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg",
+      "popularity": 16.555,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 33235,
       "name": "Logan Lerman",
       "profile_path": "/qWbN2toEEQgW9DFjgy3gT2VoVlQ.jpg",
-      "popularity": 16.516,
+      "popularity": 21.355,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 5009,
       "name": "Peter Benson",
       "profile_path": "/btcuZXvGZcO1AyCQXcAeWWLf0jI.jpg",
-      "popularity": 16.512,
+      "popularity": 16.154,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 2478,
       "name": "Tommy Flanagan",
       "profile_path": "/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg",
-      "popularity": 16.509,
+      "popularity": 23.113,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 66,
       "name": "Chris Tucker",
       "profile_path": "/xtAK4hFyDjSYhZ9oRhppuVcLi80.jpg",
-      "popularity": 16.5,
+      "popularity": 16.95,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 85825,
       "name": "Leighton Meester",
       "profile_path": "/fQDyZBANuNwRkiBr9IzCM159r1t.jpg",
-      "popularity": 16.492,
+      "popularity": 19.748,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 27260,
       "name": "Laila Robins",
       "profile_path": "/6ihD0IVKKKBqPO3gG3fXSiP8GMy.jpg",
-      "popularity": 16.489,
+      "popularity": 23.085,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 159962,
       "name": "Kat Graham",
       "profile_path": "/9AvpU8NAcPJRcioeNm5kVo4rPZg.jpg",
-      "popularity": 16.481,
+      "popularity": 20.944,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 6368,
       "name": "Embeth Davidtz",
       "profile_path": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg",
-      "popularity": 16.48,
+      "popularity": 23.072,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1933,
       "name": "George Peppard",
       "profile_path": "/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg",
-      "popularity": 16.477,
+      "popularity": 14.543,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1772,
       "name": "Anna Faris",
       "profile_path": "/bKM8yxWEiM9gSk9RY9Ey5RuqNbH.jpg",
-      "popularity": 16.476,
+      "popularity": 18.943,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 515,
       "name": "Glenn Close",
       "profile_path": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg",
-      "popularity": 16.464,
+      "popularity": 16.139,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 23498,
       "name": "Alexander Ludwig",
       "profile_path": "/unP5YUgEdECL2gMLs0zCNya6is6.jpg",
-      "popularity": 16.463,
+      "popularity": 18.539,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 967781,
       "name": "Luke Kleintank",
       "profile_path": "/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg",
-      "popularity": 16.461,
+      "popularity": 9.877,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 7090,
       "name": "Kelsey Grammer",
       "profile_path": "/cjUCogoFRnFKAgeyRmGGpekz0TF.jpg",
-      "popularity": 16.46,
+      "popularity": 21.738,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 134497,
       "name": "Kerem Bürsin",
       "profile_path": "/fw0HNx4d2ELQFF3I9lTvq1VI2uj.jpg",
-      "popularity": 16.459,
+      "popularity": 15.338,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 82104,
       "name": "Danai Gurira",
       "profile_path": "/gjTMEc5bl5iA1aO9KweIQ1vcuWp.jpg",
-      "popularity": 16.454,
+      "popularity": 22.136,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 3968,
       "name": "Michael Sheen",
       "profile_path": "/iKHKWahPQYuxJSjXf8ZEmEZD9wZ.jpg",
-      "popularity": 16.454,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 17343,
-      "name": "Robert Knepper",
-      "profile_path": "/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg",
-      "popularity": 16.446,
+      "popularity": 23.036,
       "adult": false,
       "known_for_department": "Acting"
     }

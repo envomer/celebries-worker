@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 13446,
+      "name": "Eliza Dushku",
+      "profile_path": "/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg",
+      "popularity": 15.055,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 11160,
       "name": "Danny Trejo",
       "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg",
-      "popularity": 18.182,
+      "popularity": 21.455,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 118178,
       "name": "Virginie Efira",
       "profile_path": "/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg",
-      "popularity": 18.172,
+      "popularity": 23.452,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 25703,
       "name": "Lake Bell",
       "profile_path": "/tpBmxNKBebx04vQGnnQ3QNs6nvV.jpg",
-      "popularity": 18.169,
+      "popularity": 25.437,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 5529,
       "name": "Anna Popplewell",
       "profile_path": "/fs5uYzzseA94fKC9sr0iWuCULup.jpg",
-      "popularity": 18.169,
+      "popularity": 25.437,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 23346,
       "name": "Armand Assante",
       "profile_path": "/9HbbWAJacTHguO2InDVHKGnaasm.jpg",
-      "popularity": 18.157,
+      "popularity": 17.847,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 11703,
       "name": "Kerry Washington",
       "profile_path": "/hCi43gRO7zfv3Mu8X1bpqtloyHT.jpg",
-      "popularity": 18.148,
+      "popularity": 20.244,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 404,
       "name": "Melora Hardin",
       "profile_path": "/w8yg5ZPXelD47sfDRQFvGHD7jP0.jpg",
-      "popularity": 18.14,
+      "popularity": 23.442,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 27811,
       "name": "Peter Weller",
       "profile_path": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg",
-      "popularity": 18.132,
+      "popularity": 25.385,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 198149,
       "name": "Bobby Lee",
       "profile_path": "/90TyhVb7OfyHPmj3ZVX6hEjHGlD.jpg",
-      "popularity": 18.123,
+      "popularity": 18.237,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 54415,
       "name": "Josh Gad",
       "profile_path": "/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg",
-      "popularity": 18.113,
+      "popularity": 24.634,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 11486,
       "name": "Michael Imperioli",
       "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg",
-      "popularity": 18.113,
+      "popularity": 25.358,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 9562,
       "name": "Marlon Wayans",
       "profile_path": "/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg",
-      "popularity": 18.11,
+      "popularity": 20.633,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 11616,
       "name": "Olivia Williams",
       "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
-      "popularity": 18.101,
+      "popularity": 22.63,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 87722,
       "name": "Noomi Rapace",
       "profile_path": "/vdlUULsiwxEgxTwxn3vVQqmolcx.jpg",
-      "popularity": 18.099,
+      "popularity": 25.339,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 2206,
       "name": "Samantha Morton",
       "profile_path": "/5DOlLIlgxKYzb4Hsm0phrGmYVIq.jpg",
-      "popularity": 18.099,
+      "popularity": 17.03,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 240,
       "name": "Stanley Kubrick",
       "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
-      "popularity": 18.085,
+      "popularity": 20.626,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -135,7 +143,7 @@
       "id": 21561,
       "name": "Tim Matheson",
       "profile_path": "/trZ4QaDidCOPNy7HK9cYnmKHkg9.jpg",
-      "popularity": 18.074,
+      "popularity": 15.822,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 8873,
       "name": "Annie Potts",
       "profile_path": "/wci5yNwwQvvRtHybDG36wZqhC1t.jpg",
-      "popularity": 18.072,
+      "popularity": 21.422,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 41087,
       "name": "Leslie Mann",
       "profile_path": "/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg",
-      "popularity": 18.062,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 9278,
-      "name": "Jennifer Garner",
-      "profile_path": "/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg",
-      "popularity": 18.058,
+      "popularity": 25.287,
       "adult": false,
       "known_for_department": "Acting"
     }

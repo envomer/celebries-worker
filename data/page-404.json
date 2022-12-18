@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 67978,
+      "name": "Ona Grauer",
+      "profile_path": "/vfcupzwyzs1CNrjuG0wW4B3eQcD.jpg",
+      "popularity": 6.698,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 16108,
       "name": "Lee Meriwether",
       "profile_path": "/8KMAQXWV3dUBThivDqvpiUjAM8B.jpg",
-      "popularity": 6.328,
+      "popularity": 8.859,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 6693,
       "name": "Jonathan Sagall",
       "profile_path": "/7gu7vtmJV066ohXNmBV1ya5D6Uq.jpg",
-      "popularity": 6.328,
+      "popularity": 8.859,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 67383,
       "name": "Sam Saletta",
       "profile_path": "/rekTUrHdRmxIMdadujaj7gmtnkF.jpg",
-      "popularity": 6.326,
+      "popularity": 4.298,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 28743,
       "name": "John Lynch",
       "profile_path": "/4TG8HYZ5SEFh1Yk5CCG4fXD55j9.jpg",
-      "popularity": 6.326,
+      "popularity": 8.856,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 37252,
       "name": "Yvonne Zima",
       "profile_path": "/hER5jc7v9Gls0rYSJNjfHqHlAA8.jpg",
-      "popularity": 6.325,
+      "popularity": 8.855,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 35689,
       "name": "Keenen Ivory Wayans",
       "profile_path": "/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg",
-      "popularity": 6.325,
+      "popularity": 4.298,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1241611,
       "name": "Satomi Sato",
       "profile_path": "/o0Aueg2zc3E8ojbguo8Tbd1oAyB.jpg",
-      "popularity": 6.324,
+      "popularity": 7.897,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 119426,
       "name": "Yuen Qiu",
       "profile_path": "/5S70RuTmpHXCcyZNzx1sTjamOKw.jpg",
-      "popularity": 6.323,
+      "popularity": 8.852,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 142604,
       "name": "René Ashton",
       "profile_path": "/jTMXz8MmAMeuBTxORXoSXILzhAr.jpg",
-      "popularity": 6.322,
+      "popularity": 5.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 53116,
       "name": "Eric Lively",
       "profile_path": "/rk7LBzOUDJMBL4qd1w14qLjSC0o.jpg",
-      "popularity": 6.322,
+      "popularity": 8.697,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 20391,
       "name": "Jane Wyman",
       "profile_path": "/e7mRq5fOsVZ2dnTFfuQScDDs2ON.jpg",
-      "popularity": 6.321,
+      "popularity": 6.296,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 2603,
       "name": "Hakeem Kae-Kazim",
       "profile_path": "/sVNHRm51c9toG73FUQ5k1St0vju.jpg",
-      "popularity": 6.321,
+      "popularity": 8.849,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 5698,
       "name": "Jessica Tandy",
       "profile_path": "/4qgLUP4sFC3xnzzcpyQcv8UKZAv.jpg",
-      "popularity": 6.32,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 4966,
-      "name": "Keenan Wynn",
-      "profile_path": "/z6Krk3fIoW6O9EhZTWb2EFJtzp2.jpg",
-      "popularity": 6.32,
+      "popularity": 8.296,
       "adult": false,
       "known_for_department": "Acting"
     }

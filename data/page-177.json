@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 522,
+      "name": "Rod Steiger",
+      "profile_path": "/AmAbDnxUTQPMeu8m9zbKksqUCDA.jpg",
+      "popularity": 14.241,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 140182,
+      "name": "Matthew MacCaull",
+      "profile_path": "/aewHo2WLk00xLx6yPuS8BEFstbn.jpg",
+      "popularity": 12.251,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 55061,
       "name": "Kajol",
       "profile_path": "/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg",
-      "popularity": 10.17,
+      "popularity": 8.651,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 138240,
       "name": "Bitty Schram",
       "profile_path": "/7N1FWQINAtQXcOBgw8xvBgITXTh.jpg",
-      "popularity": 10.168,
+      "popularity": 6.25,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1646,
       "name": "Udo Kier",
       "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg",
-      "popularity": 10.164,
+      "popularity": 8.249,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 10402,
       "name": "Alanna Ubach",
       "profile_path": "/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg",
-      "popularity": 10.156,
+      "popularity": 14.218,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 40311,
       "name": "Adrian Scarborough",
       "profile_path": "/61lXhIEZzSsT38yBro8Rh01GDmA.jpg",
-      "popularity": 10.153,
+      "popularity": 14.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 11213,
       "name": "Pam Ferris",
       "profile_path": "/aVvdYkgolh22FYqqCJhVO8jd7To.jpg",
-      "popularity": 10.153,
+      "popularity": 14.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 235732,
       "name": "Park Joo-mi",
       "profile_path": "/crbbaw0GyquWmVwA6cSGerIxpne.jpg",
-      "popularity": 10.146,
+      "popularity": 6.088,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 3267,
       "name": "George Hamilton",
       "profile_path": "/za0jt4pZEjHf3kzUecbIC6hpX7I.jpg",
-      "popularity": 10.142,
+      "popularity": 12.643,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 1091128,
       "name": "Macarena García",
       "profile_path": "/g0oqhCQ8FgVww2A3NQtQ03TanH3.jpg",
-      "popularity": 10.136,
+      "popularity": 6.082,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 56861,
       "name": "Tony Leung Ka-fai",
       "profile_path": "/ksrZeHeEKqPm5GS1IrmJ9WC9sRS.jpg",
-      "popularity": 10.134,
+      "popularity": 11.44,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Mala Emde",
       "profile_path": "/soPBhMNgfH40fadEkecqN8hqETi.jpg",
       "popularity": 10.133,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 28633,
-      "name": "Richard Jenkins",
-      "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg",
-      "popularity": 10.133,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1695989,
-      "name": "Jodie Turner-Smith",
-      "profile_path": "/wXg6rTfgSpswBpKKILfiUfbcxlh.jpg",
-      "popularity": 10.132,
       "adult": false,
       "known_for_department": "Acting"
     }

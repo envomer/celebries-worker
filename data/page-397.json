@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 58210,
+      "name": "Ernie Reyes Jr.",
+      "profile_path": "/8oBXNulh6U5YM6Ab5RJljk39LOP.jpg",
+      "popularity": 4.321,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 82537,
       "name": "Søren Malling",
       "profile_path": "/5jmNDae49UgMGMOKTdjIqb8klUg.jpg",
-      "popularity": 6.402,
+      "popularity": 8.963,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 18271,
       "name": "Toby Huss",
       "profile_path": "/n2axLZZ3ae0mdcbEMZBf5QkOam8.jpg",
-      "popularity": 6.402,
+      "popularity": 8.321,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1107765,
       "name": "Hiroshi Harada",
       "profile_path": "/qzIPlpJeSaeztRzz3cmRb90r4ef.jpg",
-      "popularity": 6.399,
+      "popularity": 5.12,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +63,7 @@
       "id": 1258227,
       "name": "Clara Paget",
       "profile_path": "/kwNQo51RNWMKf8VrDFtYRNtnSco.jpg",
-      "popularity": 6.398,
+      "popularity": 7.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 576474,
       "name": "Juliana Harkavy",
       "profile_path": "/mO8gTYhjrVO2N2dtjwWt1PEYjoo.jpg",
-      "popularity": 6.398,
+      "popularity": 5.919,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1037300,
       "name": "Samantha Cope",
       "profile_path": "/6D6ArMfLxSWyzynZzPJLMB19V2L.jpg",
-      "popularity": 6.397,
+      "popularity": 5.519,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 25878,
       "name": "Shawn Doyle",
       "profile_path": "/s5Y7kLgxmXeDx0pozhmA7V91yZf.jpg",
-      "popularity": 6.396,
+      "popularity": 8.954,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 142184,
       "name": "Bailee Michelle Johnson",
       "profile_path": "/pA4wsTEfuAOGe1xBMrqwyDzs6RB.jpg",
-      "popularity": 6.395,
+      "popularity": 8.953,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 10798,
       "name": "Groucho Marx",
       "profile_path": "/pJEDzCd8XbvZkOvpn8SKLol5PEE.jpg",
-      "popularity": 6.395,
+      "popularity": 8.953,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 660,
       "name": "Anthony Higgins",
       "profile_path": "/uHQ4SZoa16g7BYeICqll6uFZXeL.jpg",
-      "popularity": 6.395,
+      "popularity": 5.919,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 81690,
       "name": "Don Swayze",
       "profile_path": "/lewJdPYpyb8sacBQWLAJFNhpeAU.jpg",
-      "popularity": 6.394,
+      "popularity": 8.952,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 4302,
       "name": "Walter Brennan",
       "profile_path": "/wgY4WHuM65nZ5Dg5Cwl9GcCCruc.jpg",
-      "popularity": 6.394,
+      "popularity": 8.952,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 174982,
       "name": "Neil Pearson",
       "profile_path": "/sS1WuIU3l6o6QcDIkGdtWK8R3Wn.jpg",
-      "popularity": 6.392,
+      "popularity": 4.318,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 143593,
       "name": "Xavier Dolan",
       "profile_path": "/ohlR0okNYx0lg4NFqQJoys8c4Zp.jpg",
-      "popularity": 6.392,
+      "popularity": 7.518,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -143,7 +151,7 @@
       "id": 74022,
       "name": "Gao Yuanyuan",
       "profile_path": "/7vI1FrBmI3VecC1J35oR7iDRytw.jpg",
-      "popularity": 6.392,
+      "popularity": 8.949,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1386540,
       "name": "Ryu Hye-young",
       "profile_path": "/9ILKOBbSbdmjVQZKj2RrQOqYEof.jpg",
-      "popularity": 6.391,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1077356,
-      "name": "Zhu Zhu",
-      "profile_path": "/y6CeP7yW4PLWC18C75bwzUke15v.jpg",
       "popularity": 6.391,
       "adult": false,
       "known_for_department": "Acting"

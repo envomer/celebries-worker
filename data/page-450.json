@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1389750,
+      "name": "Cierra Ramirez",
+      "profile_path": "/8CSdcCyr3E2kB5wOpYPNyYtVHgG.jpg",
+      "popularity": 5.94,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1319440,
       "name": "Cooper Barnes",
       "profile_path": "/5qVg19l32TqY8JvBYG0ZxKDCPmt.jpg",
@@ -15,7 +23,7 @@
       "id": 856,
       "name": "Ben Gazzara",
       "profile_path": "/8txEeGGlh728VMDEGTs3CjlawPn.jpg",
-      "popularity": 5.94,
+      "popularity": 8.316,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 147290,
       "name": "Mary Stavin",
       "profile_path": "/x4IPFxZ9y9SwDZskH0R1opCnFvf.jpg",
-      "popularity": 5.939,
+      "popularity": 3.563,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1266313,
       "name": "Royce Pierreson",
       "profile_path": "/oybeyUuA9zx1zo6RcJsMWt3lsip.jpg",
-      "popularity": 5.938,
+      "popularity": 7.381,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 20231,
       "name": "Enrique Iglesias",
       "profile_path": "/hz21f8xF6l5PLYW0MuKe8RTyRzA.jpg",
-      "popularity": 5.938,
+      "popularity": 3.563,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 5887,
       "name": "Catalina Sandino Moreno",
       "profile_path": "/4nLPgs0v1rFZz3c0p9e5Euk0VkU.jpg",
-      "popularity": 5.938,
+      "popularity": 8.181,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1212864,
       "name": "Colleen O'Shaughnessey",
       "profile_path": "/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg",
-      "popularity": 5.937,
+      "popularity": 8.312,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1157244,
       "name": "Nishi Munshi",
       "profile_path": "/z1m2Pp8Zy0Cuocb6RyqNWPZQDl7.jpg",
-      "popularity": 5.937,
+      "popularity": 6.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 147255,
       "name": "Tony Way",
       "profile_path": "/u48ePSGsP1ww2VmPgNXgog3IM83.jpg",
-      "popularity": 5.937,
+      "popularity": 3.562,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 17442,
       "name": "Kelli Garner",
       "profile_path": "/6EDL2MXZigqpjUWmRclMfqIdIXp.jpg",
-      "popularity": 5.937,
+      "popularity": 4.581,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 7331,
       "name": "Eleanor Parker",
       "profile_path": "/6DaMZRysE4P1suVteacZTWKPzcC.jpg",
-      "popularity": 5.937,
+      "popularity": 7.781,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1151732,
       "name": "Cordelia Wege",
       "profile_path": "/gGYSQx1NuLZk0zxZcPC1zutTJM5.jpg",
-      "popularity": 5.936,
+      "popularity": 6.581,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1107297,
       "name": "Hana Mae Lee",
       "profile_path": "/l08BSDxmAAvCjgJ7A1IRsKWCPzA.jpg",
-      "popularity": 5.935,
+      "popularity": 8.309,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 42009,
       "name": "Iazua Larios",
       "profile_path": "/7xneMbsqSVqPq2NFMpkpAAZr6SG.jpg",
-      "popularity": 5.935,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 5403,
-      "name": "Richard Basehart",
-      "profile_path": "/rlk0wF1UbQH7DPGmkXKd1tMzDWo.jpg",
-      "popularity": 5.935,
+      "popularity": 6.981,
       "adult": false,
       "known_for_department": "Acting"
     }

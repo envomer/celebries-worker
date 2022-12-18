@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1180134,
+      "name": "Mario de la Rosa",
+      "profile_path": "/2EafPw8ar2K8eWfIsx8d5HByBgE.jpg",
+      "popularity": 5.114,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 978698,
       "name": "Chloe Sonnenfeld",
       "profile_path": "/466ycgNhwIw8DkE1XwEvQE37cq6.jpg",
-      "popularity": 6.38,
+      "popularity": 6.714,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 3174,
       "name": "Richard Bright",
       "profile_path": "/potMaJ2u5PRjXZb7qF9lSW1ldNZ.jpg",
-      "popularity": 6.38,
+      "popularity": 8.314,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1252801,
       "name": "Emma Kenney",
       "profile_path": "/AvcM57XKunQCFGsu5cZZHkNre4z.jpg",
-      "popularity": 6.379,
+      "popularity": 7.514,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 23821,
       "name": "Bryan Greenberg",
       "profile_path": "/bJJVWRtnK4KBpyZ6Y1rASfCF7QX.jpg",
-      "popularity": 6.379,
+      "popularity": 5.514,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 47368,
       "name": "Barry Watson",
       "profile_path": "/PjjFRCn8s8tgjO9nWmVlBVzpha.jpg",
-      "popularity": 6.378,
+      "popularity": 8.929,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 18688,
       "name": "Harry Connick Jr.",
       "profile_path": "/il1t0cshowbZ6mMtH1930baQx9n.jpg",
-      "popularity": 6.377,
+      "popularity": 8.928,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 953,
       "name": "Cecilia Roth",
       "profile_path": "/4icHsZvHy0ZnDGF2kovjNLuDQEM.jpg",
-      "popularity": 6.377,
+      "popularity": 3.826,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 64998,
       "name": "Pauly Shore",
       "profile_path": "/uI7ctTqSIlLL7nn6UqDdqqhGNVC.jpg",
-      "popularity": 6.376,
+      "popularity": 8.926,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 9277,
       "name": "John Finn",
       "profile_path": "/caCHMsqfpfEcK1tUlkLWV9KkEbS.jpg",
-      "popularity": 6.376,
+      "popularity": 8.926,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 84854,
       "name": "Jung Joon-ho",
       "profile_path": "/nWvJeFnFQYfh2M8LbRsb2AUUSda.jpg",
-      "popularity": 6.375,
+      "popularity": 8.925,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 154693,
       "name": "Peter Siragusa",
       "profile_path": "/dQQBeNiWO0lMYhTeniIYxc5iyXJ.jpg",
-      "popularity": 6.373,
+      "popularity": 5.912,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 12974,
       "name": "Leon",
       "profile_path": "/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg",
-      "popularity": 6.372,
+      "popularity": 6.312,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1226076,
       "name": "Sherri Saum",
       "profile_path": "/y8DCe0KDI5R3Zboq2JJlFUhfwHh.jpg",
-      "popularity": 6.371,
+      "popularity": 7.511,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1212697,
       "name": "Jazz Raycole",
       "profile_path": "/dZ3Yajxg6Ga7ca8acHLvSA5HT9Y.jpg",
-      "popularity": 6.371,
+      "popularity": 8.711,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 67612,
       "name": "Giuseppe Sulfaro",
       "profile_path": "/n2dGRXym6gJwwwkDt5IUjTnAHVt.jpg",
-      "popularity": 6.371,
+      "popularity": 8.919,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -152,14 +160,6 @@
       "name": "Jeni Ross",
       "profile_path": "/wJAunukenv5FlfrnxVgVLscIfQf.jpg",
       "popularity": 6.37,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1250874,
-      "name": "Karol Sevilla",
-      "profile_path": "/c1Q7oBCyCRBd0a5PJ7rHz7ZvmU7.jpg",
-      "popularity": 6.369,
       "adult": false,
       "known_for_department": "Acting"
     }

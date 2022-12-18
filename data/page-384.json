@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 29623,
+      "name": "Lana Turner",
+      "profile_path": "/5nyFlzZ9Dkih2MWOFSK4B90j4GX.jpg",
+      "popularity": 9.128,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 109868,
       "name": "Morgan Saylor",
       "profile_path": "/1X24mxYGdPeCUX73TPdsg1PqpEk.jpg",
-      "popularity": 6.519,
+      "popularity": 9.127,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 223135,
       "name": "Damaris Lewis",
       "profile_path": "/S6eKbIdgQuElU1uYvG3ENDKOex.jpg",
-      "popularity": 6.518,
+      "popularity": 6.355,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 121750,
       "name": "Reika Kirishima",
       "profile_path": "/kRW2s6ZgKopON6xKy31ioC4TEWP.jpg",
-      "popularity": 6.518,
+      "popularity": 7.555,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1235615,
       "name": "Corrine Koslo",
       "profile_path": "/rBN9GIeUeaUqBqLa7J7hI5C3hNq.jpg",
-      "popularity": 6.517,
+      "popularity": 9.124,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1149826,
       "name": "Paloma Bloyd",
       "profile_path": "/1MBEPN0Y4YvIJAw3WOqBOeALDFT.jpg",
-      "popularity": 6.517,
+      "popularity": 6.755,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 52262,
       "name": "Sean Maguire",
       "profile_path": "/n06trip9HFHiivDBufvmGUW2nm6.jpg",
-      "popularity": 6.517,
+      "popularity": 9.124,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 9658,
       "name": "Colombe Jacobsen-Derstine",
       "profile_path": "/yiPaoeZCANWVT1vWDGgioycnUDT.jpg",
-      "popularity": 6.517,
+      "popularity": 5.155,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 979412,
       "name": "Matthew Cardarople",
       "profile_path": "/xhKO4iMPnwQS1GeDiY8vOyLFa8x.jpg",
-      "popularity": 6.516,
+      "popularity": 9.122,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 51006,
       "name": "Marcela Mar",
       "profile_path": "/2rlhrrn75n4Ed8SFRzZgu3A76Qi.jpg",
-      "popularity": 6.513,
+      "popularity": 8.354,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 33923,
       "name": "Mel Blanc",
       "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
-      "popularity": 6.513,
+      "popularity": 9.118,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 489,
       "name": "Kathleen Kennedy",
       "profile_path": "/ndgYlie0PHkyqEiEBGM8SqrPOkr.jpg",
-      "popularity": 6.512,
+      "popularity": 9.117,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -119,7 +127,7 @@
       "id": 54634,
       "name": "Chandra West",
       "profile_path": "/354CJGIdaKsGvNm2KyTb2TonFoV.jpg",
-      "popularity": 6.511,
+      "popularity": 9.115,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 18292,
       "name": "Beverly Todd",
       "profile_path": "/yrs5xVDJmCfeurMQmXn0MuqHIod.jpg",
-      "popularity": 6.51,
+      "popularity": 7.153,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 68527,
       "name": "William R. Moses",
       "profile_path": "/AuSpAvhgFSTsAZ16Q0b9ZI8yZH1.jpg",
-      "popularity": 6.509,
+      "popularity": 9.113,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 38192,
       "name": "Rachel Covey",
       "profile_path": "/rGBe2UnuEYQsS3Aom108dnR8QTa.jpg",
-      "popularity": 6.507,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 49944,
-      "name": "Anne Ramsey",
-      "profile_path": "/gxF17QIJHP8ePU51lnetDkidFPk.jpg",
-      "popularity": 6.506,
+      "popularity": 9.11,
       "adult": false,
       "known_for_department": "Acting"
     }

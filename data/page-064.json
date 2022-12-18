@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 202032,
+      "name": "Ralph Ineson",
+      "profile_path": "/5BRjuGt1hgfK2qj5huvPuj9Xpg3.jpg",
+      "popularity": 12.63,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 36219,
       "name": "Marsha Thomason",
       "profile_path": "/47H21k0kKBGQjwPT8b5CebTkRhB.jpg",
-      "popularity": 16.766,
+      "popularity": 18.63,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 400,
       "name": "Geraldine Chaplin",
       "profile_path": "/hu9GC4GaJhgsjz99IrmO5YnzHiC.jpg",
-      "popularity": 16.764,
+      "popularity": 23.47,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 4154,
       "name": "Brenda Blethyn",
       "profile_path": "/yUq4vKJ3SmvDZNKvXmA4OdXehDj.jpg",
-      "popularity": 16.762,
+      "popularity": 20.629,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 10478,
       "name": "Jeanne Tripplehorn",
       "profile_path": "/q7D9MDnMVc5PAm99853gszHwJy7.jpg",
-      "popularity": 16.743,
+      "popularity": 20.223,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 27563,
       "name": "Amy Irving",
       "profile_path": "/dGPkygyZ8F5lKJyiuqBLs3WveeF.jpg",
-      "popularity": 16.733,
+      "popularity": 23.02,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 851784,
       "name": "Mackenzie Foy",
       "profile_path": "/gW9BdiA9eooBWa5bzHWkV7rbTa8.jpg",
-      "popularity": 16.729,
+      "popularity": 19.819,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1579,
       "name": "Maggie Gyllenhaal",
       "profile_path": "/qxgM5LzzG4uWTprCL3gBVVJ2Q1K.jpg",
-      "popularity": 16.727,
+      "popularity": 15.018,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 31171,
       "name": "Julie Bowen",
       "profile_path": "/y8oHR0SZCIoWKqFNbtwcJCCU6uq.jpg",
-      "popularity": 16.724,
+      "popularity": 19.017,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 15009,
       "name": "Justin Theroux",
       "profile_path": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
-      "popularity": 16.708,
+      "popularity": 13.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1221716,
       "name": "Melissa Rauch",
       "profile_path": "/pYcQdUodRdZLpDM2FA0LhW5KhkF.jpg",
-      "popularity": 16.703,
+      "popularity": 21.811,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 32798,
       "name": "Elisabeth Moss",
       "profile_path": "/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg",
-      "popularity": 16.687,
+      "popularity": 21.806,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 14261,
       "name": "David Niven",
       "profile_path": "/3l4hldACWcnR3z6SPE7Y24hDjNV.jpg",
-      "popularity": 16.685,
+      "popularity": 20.206,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1135177,
       "name": "Loletta Lee",
       "profile_path": "/jIPKB7HYKlRcYz9EnrOjVd1ntLz.jpg",
-      "popularity": 16.672,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 56152,
-      "name": "Kari Wuhrer",
-      "profile_path": "/oRuGiH81VhyUwPv9gfiahwgbZhs.jpg",
-      "popularity": 16.666,
+      "popularity": 23.341,
       "adult": false,
       "known_for_department": "Acting"
     }

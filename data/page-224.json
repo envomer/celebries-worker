@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 87317,
+      "name": "Nikki Cox",
+      "profile_path": "/1YgSvFSh6GojYpvqGVWB6F4cX6m.jpg",
+      "popularity": 9.077,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 30234,
+      "name": "Gene Lockhart",
+      "profile_path": "/8lSQRefIA5kNylZOF7anexkDxqQ.jpg",
+      "popularity": 12.491,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 226564,
       "name": "Mario Maurer",
       "profile_path": "/aw86VF5VTwo2KB3aNKL1O9Asggv.jpg",
-      "popularity": 8.92,
+      "popularity": 11.076,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 449513,
       "name": "Meredith Hagner",
       "profile_path": "/k4SQGzj6k2HqYfed0NU3KtJi78o.jpg",
-      "popularity": 8.919,
+      "popularity": 12.487,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 15344,
       "name": "J.J. Abrams",
       "profile_path": "/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg",
-      "popularity": 8.919,
+      "popularity": 7.876,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -31,7 +47,7 @@
       "id": 28864,
       "name": "Landry Allbright",
       "profile_path": "/vTjroX0wuJlOtgSjev1mzAjSpGv.jpg",
-      "popularity": 8.917,
+      "popularity": 9.475,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1215144,
       "name": "Victor Webster",
       "profile_path": "/16bNzaHZRXLGB8T6nByDCGY6lhI.jpg",
-      "popularity": 8.912,
+      "popularity": 7.474,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 26513,
       "name": "Debra Winger",
       "profile_path": "/zLMWoCRSeyUJCPUu53DLQQIAx1K.jpg",
-      "popularity": 8.909,
+      "popularity": 12.473,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 67212,
       "name": "Tom Wu",
       "profile_path": "/qBQAerjLCCglXIyMURUj3hPpiCM.jpg",
-      "popularity": 8.908,
+      "popularity": 8.672,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 55635,
       "name": "Jaclyn Smith",
       "profile_path": "/ssDofPx6EStJARAwuIhGylloCmj.jpg",
-      "popularity": 8.908,
+      "popularity": 10.672,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 1107810,
       "name": "Nick Sagar",
       "profile_path": "/gGjr1vuxFeTMIRzXVwDCTWMbOrb.jpg",
-      "popularity": 8.907,
+      "popularity": 8.672,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 681,
       "name": "Nina Hoss",
       "profile_path": "/n0iOzWeNemXRTt4fgs7Tt2swtr1.jpg",
-      "popularity": 8.907,
+      "popularity": 12.47,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 41998,
       "name": "Gordon Jackson",
       "profile_path": "/q7EKIZ8rsZiFI0ufrIBHvmuJVjw.jpg",
-      "popularity": 8.906,
+      "popularity": 7.872,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 62911,
       "name": "JR Bourne",
       "profile_path": "/ytic06VRha6addRGF7BSXXj9OkG.jpg",
-      "popularity": 8.905,
+      "popularity": 11.472,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 31365,
       "name": "John Kassir",
       "profile_path": "/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg",
-      "popularity": 8.905,
+      "popularity": 12.467,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 211484,
       "name": "Natalie Alyn Lind",
       "profile_path": "/sDqAe7MmMSUcafUISD6O0CykaUr.jpg",
-      "popularity": 8.903,
+      "popularity": 8.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 1257215,
       "name": "Mizuki Yamamoto",
       "profile_path": "/mT5H0Gery2WsGXrA9ZRbxWb7oKP.jpg",
-      "popularity": 8.898,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 20458,
-      "name": "Dede Gardner",
-      "profile_path": "/miYzjRkwcHWI8h1CPODj3bW6Q7W.jpg",
-      "popularity": 8.898,
-      "adult": false,
-      "known_for_department": "Production"
-    },
-    {
-      "id": 5,
-      "name": "Peter Cushing",
-      "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg",
-      "popularity": 8.898,
+      "popularity": 7.469,
       "adult": false,
       "known_for_department": "Acting"
     }

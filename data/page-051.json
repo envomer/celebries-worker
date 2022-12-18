@@ -7,7 +7,7 @@
       "id": 104997,
       "name": "Marlo Thomas",
       "profile_path": "/cgJJ2Uc3KhgRYTVPX69EEsu7uRS.jpg",
-      "popularity": 18.462,
+      "popularity": 19.939,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +15,7 @@
       "id": 71010,
       "name": "Tom Conti",
       "profile_path": "/5wfZGnmk4tHKf5n4xVeavBpZTOM.jpg",
-      "popularity": 18.443,
+      "popularity": 12.333,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +23,7 @@
       "id": 151383,
       "name": "John Ducey",
       "profile_path": "/iAWEzIuVHOcvVdBdI3uAbvxUlTT.jpg",
-      "popularity": 18.442,
+      "popularity": 25.819,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +39,7 @@
       "id": 208099,
       "name": "Kunal Nayyar",
       "profile_path": "/8W16ABvzYBvMp9xMUV5FvM3QV8e.jpg",
-      "popularity": 18.439,
+      "popularity": 13.132,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +47,7 @@
       "id": 51391,
       "name": "Frankie Muniz",
       "profile_path": "/tBckW8eJHv4vz8B3DJYH1rLAtyN.jpg",
-      "popularity": 18.435,
+      "popularity": 19.131,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +55,7 @@
       "id": 16743,
       "name": "Arnold Vosloo",
       "profile_path": "/g7IuNOiDslCGInYEYClbyRrma5z.jpg",
-      "popularity": 18.432,
+      "popularity": 18.33,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +71,7 @@
       "id": 30082,
       "name": "Benedict Wong",
       "profile_path": "/ukmfsl59Isvn9odgzMWBidA3cmt.jpg",
-      "popularity": 18.431,
+      "popularity": 25.803,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +79,7 @@
       "id": 82943,
       "name": "Jill Wagner",
       "profile_path": "/j6gv8Ua7JnQp6vBicpbX2JN7ajD.jpg",
-      "popularity": 18.428,
+      "popularity": 21.928,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +87,7 @@
       "id": 7624,
       "name": "Stan Lee",
       "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
-      "popularity": 18.428,
+      "popularity": 18.728,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -103,7 +103,7 @@
       "id": 62410,
       "name": "Sammo Hung",
       "profile_path": "/AsB9uRDQWdIbFGnkICEl8I2gDWn.jpg",
-      "popularity": 18.411,
+      "popularity": 25.775,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +111,7 @@
       "id": 114,
       "name": "Orlando Bloom",
       "profile_path": "/kKWJlX2tcjqceSfUxnV7Jle5Kt.jpg",
-      "popularity": 18.411,
+      "popularity": 24.723,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +119,7 @@
       "id": 1181353,
       "name": "Ryan Eggold",
       "profile_path": "/6YZfGMzcugWwMquOIzGlsgx4wYN.jpg",
-      "popularity": 18.409,
+      "popularity": 25.773,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +127,15 @@
       "id": 10959,
       "name": "Shia LaBeouf",
       "profile_path": "/frYAEeYMi9jdt9MIjGA8vCr5yUC.jpg",
-      "popularity": 18.407,
+      "popularity": 17.922,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 11085,
+      "name": "Anthony Edwards",
+      "profile_path": "/a190BIbGGpM68pq1VarhaDNHZci.jpg",
+      "popularity": 18.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 133979,
       "name": "Jennette McCurdy",
       "profile_path": "/wgiXQMib6SKpOuAY2oLU6GARkWY.jpg",
-      "popularity": 18.397,
+      "popularity": 15.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 3910,
       "name": "Frances McDormand",
       "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg",
-      "popularity": 18.389,
+      "popularity": 25.745,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 41421,
       "name": "Jennifer Morrison",
       "profile_path": "/i6dkHIME0BOPhbcPESHZND3vmtk.jpg",
-      "popularity": 18.387,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 84224,
-      "name": "Christian Serratos",
-      "profile_path": "/7hO9oF65f4SD6WH905mMIRMv6S0.jpg",
-      "popularity": 18.383,
+      "popularity": 25.742,
       "adult": false,
       "known_for_department": "Acting"
     }

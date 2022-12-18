@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2242726,
+      "name": "Michele Rosiello",
+      "profile_path": "/qfUTAhrVVAFIGz7qDzLCqaTwfkq.jpg",
+      "popularity": 10.761,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 33336,
+      "name": "Gina Holden",
+      "profile_path": "/oBzSVgTkQen3Q1EGDo7ycrBTDEn.jpg",
+      "popularity": 13.628,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 993774,
       "name": "Rachel Brosnahan",
       "profile_path": "/6kFrUqfHy3PYNxKtTWAu8F54xB8.jpg",
-      "popularity": 10.76,
+      "popularity": 15.064,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 5587,
       "name": "Hank Azaria",
       "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg",
-      "popularity": 10.758,
+      "popularity": 15.061,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 4160,
       "name": "Helen Shaver",
       "profile_path": "/lhlSH7bLAKN5KY5W1I7Wbtffojf.jpg",
-      "popularity": 10.752,
+      "popularity": 14.826,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 225216,
       "name": "Katie Maguire",
       "profile_path": "/e2NArSgGrpFTVxG8OrvuSSPMGCZ.jpg",
-      "popularity": 10.745,
+      "popularity": 8.424,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 73381,
       "name": "Matthias Schoenaerts",
       "profile_path": "/estZOBtDX860B1nbFRtNXt7SbHn.jpg",
-      "popularity": 10.741,
+      "popularity": 12.422,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 1232756,
       "name": "Phoebe Dynevor",
       "profile_path": "/5iUWiW5vBajaWA0F3OHKXfd89NS.jpg",
-      "popularity": 10.739,
+      "popularity": 11.622,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 537,
       "name": "Stephen Tobolowsky",
       "profile_path": "/4GNQJVEcU4V8AGVMXKM5FVOuW8h.jpg",
-      "popularity": 10.739,
+      "popularity": 15.035,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 58563,
       "name": "David Alan Grier",
       "profile_path": "/jzo5B1zoIB8NOV68wLp9g1R8d5o.jpg",
-      "popularity": 10.738,
+      "popularity": 15.033,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 82191,
       "name": "Sharlto Copley",
       "profile_path": "/em89OJJvBRX7kNJJPASmNKQujsC.jpg",
-      "popularity": 10.737,
+      "popularity": 14.821,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 232396,
       "name": "Max Irons",
       "profile_path": "/8TRKWEEQr6GreyrAQ8AWZo4jWjS.jpg",
-      "popularity": 10.734,
+      "popularity": 9.22,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 31508,
       "name": "Reed Diamond",
       "profile_path": "/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg",
-      "popularity": 10.732,
+      "popularity": 8.02,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 15753,
       "name": "Jill Ireland",
       "profile_path": "/y4EmeH1dI5Dt2Y2dIxptAIW0KiY.jpg",
-      "popularity": 10.73,
+      "popularity": 11.219,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 83141,
       "name": "Paul Wesley",
       "profile_path": "/hBQ8yYZpjRNDbzfR0r83VTmPooJ.jpg",
-      "popularity": 10.728,
+      "popularity": 15.019,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 6104,
       "name": "Julian Sands",
       "profile_path": "/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg",
-      "popularity": 10.728,
+      "popularity": 15.019,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 116771,
       "name": "Michael Landon",
       "profile_path": "/gepOyRTvdI7OfUXAjQAcivPuolN.jpg",
-      "popularity": 10.727,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 57449,
-      "name": "Jodhi May",
-      "profile_path": "/iqVk4bZyBkIOOWxaYxiezcApwRG.jpg",
-      "popularity": 10.724,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 10018,
-      "name": "Jack Hawkins",
-      "profile_path": "/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg",
-      "popularity": 10.724,
+      "popularity": 12.818,
       "adult": false,
       "known_for_department": "Acting"
     }

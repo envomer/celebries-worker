@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 20768,
+      "name": "Cherie Lunghi",
+      "profile_path": "/LoIGKqUw3d58MrVsLpw22goYCK.jpg",
+      "popularity": 13.592,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 10981,
       "name": "Fiona Shaw",
       "profile_path": "/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg",
-      "popularity": 17.302,
+      "popularity": 12.791,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 5367,
       "name": "Zach Braff",
       "profile_path": "/wUAj6juL6HErqEJ1GtuI63rbVea.jpg",
-      "popularity": 17.298,
+      "popularity": 21.989,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 14990,
       "name": "Morgan Fairchild",
       "profile_path": "/2vhCJ09RJBgiiHbjMs6qddOxycb.jpg",
-      "popularity": 17.297,
+      "popularity": 21.989,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 2879,
       "name": "Rob Lowe",
       "profile_path": "/77decDyKXB34i9A1FnMM1suI5cA.jpg",
-      "popularity": 17.297,
+      "popularity": 24.216,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 53252,
       "name": "Noel Gugliemi",
       "profile_path": "/ndm0GtwFegozqIDb5qd376OJU3J.jpg",
-      "popularity": 17.292,
+      "popularity": 17.988,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 2257,
       "name": "Terry Serpico",
       "profile_path": "/5UfDA4ySgYUhle7iXqOuhzAgghn.jpg",
-      "popularity": 17.282,
+      "popularity": 16.785,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 65760,
       "name": "Marin Hinkle",
       "profile_path": "/igxP1pOjJxOYFJIb3PA55XkSPzn.jpg",
-      "popularity": 17.28,
+      "popularity": 19.984,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 4431,
       "name": "Jessica Lange",
       "profile_path": "/kXkqaKWbAFaF3uYf8BXRoXZMxaZ.jpg",
-      "popularity": 17.278,
+      "popularity": 19.983,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 106725,
       "name": "Kathryn Davis",
       "profile_path": "/hs3fjziV9U4cmw4Px92KRbfE1Ea.jpg",
-      "popularity": 17.27,
+      "popularity": 15.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 42297,
       "name": "Brooke D'Orsay",
       "profile_path": "/8lBeEbyKz8KWz6XDdbymRpKoM9N.jpg",
-      "popularity": 17.264,
+      "popularity": 17.179,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1206334,
       "name": "Josh O'Connor",
       "profile_path": "/fiDjDWCGSZ7xDaN1rKAP4gvRn1a.jpg",
-      "popularity": 17.262,
+      "popularity": 24.167,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 140367,
       "name": "Evanna Lynch",
       "profile_path": "/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg",
-      "popularity": 17.254,
+      "popularity": 10.376,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 13023,
       "name": "Colleen Camp",
       "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg",
-      "popularity": 17.249,
+      "popularity": 19.575,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 27855,
       "name": "Shannyn Sossamon",
       "profile_path": "/nJUFCRm7Y0YVR3GQ8GSZUzDavH1.jpg",
-      "popularity": 17.23,
+      "popularity": 17.969,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 9995,
       "name": "Jami Gertz",
       "profile_path": "/9O3hOr7tPShjmLNupTEdMCfjhK6.jpg",
-      "popularity": 17.222,
+      "popularity": 24.111,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 18793,
       "name": "Kieran Culkin",
       "profile_path": "/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg",
-      "popularity": 17.213,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 6807,
-      "name": "Sam Rockwell",
-      "profile_path": "/2dZXMNq1VwxCHN77TIG211vcWCg.jpg",
-      "popularity": 17.213,
+      "popularity": 13.564,
       "adult": false,
       "known_for_department": "Acting"
     }

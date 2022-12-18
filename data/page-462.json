@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1404452,
+      "name": "Tiffany Smith",
+      "profile_path": "/7kPvIwIEJ5WuoQgOnrxjngyl3Sp.jpg",
+      "popularity": 5.848,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1196822,
       "name": "Jessica De Gouw",
       "profile_path": "/pu09eASIUzHPJZMfHPkpFqDZ2RR.jpg",
-      "popularity": 5.848,
+      "popularity": 8.187,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 85892,
       "name": "Raima Sen",
       "profile_path": "/CRah66rwOIw4J4dUZCZ60QtB4A.jpg",
-      "popularity": 5.848,
+      "popularity": 3.509,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 31169,
       "name": "Julie Adams",
       "profile_path": "/uIHWhDTSISwHXziBttr7V34MXTt.jpg",
-      "popularity": 5.848,
+      "popularity": 8.187,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 23943,
       "name": "Frédéric Diefenthal",
       "profile_path": "/8PTUTBeUACLVpt8waRgkyGnsEBk.jpg",
-      "popularity": 5.848,
+      "popularity": 7.354,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 14991,
       "name": "Jay Leno",
       "profile_path": "/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg",
-      "popularity": 5.848,
+      "popularity": 3.509,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 14506,
       "name": "Joanna Barnes",
       "profile_path": "/92C4G09tBcyOkq6B6WSumM2FvgD.jpg",
-      "popularity": 5.848,
+      "popularity": 3.509,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 226711,
       "name": "Kiko Mizuhara",
       "profile_path": "/cNR7BlOa17LQrmKGUSj0h4P2Uay.jpg",
-      "popularity": 5.847,
+      "popularity": 4.954,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 20624,
       "name": "Mary Wickes",
       "profile_path": "/3cBGc8kRLL2M01VOEcmlFgjAGo8.jpg",
-      "popularity": 5.846,
+      "popularity": 8.184,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 65571,
       "name": "Stefano Accorsi",
       "profile_path": "/2XHLTLHIqnFxLEigvIjaf9IxVDf.jpg",
-      "popularity": 5.845,
+      "popularity": 8.154,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 27103,
       "name": "Graham Phillips",
       "profile_path": "/kNlBbaRqCFKQ8SAba8sl2R2jVAW.jpg",
-      "popularity": 5.845,
+      "popularity": 8.183,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1183859,
       "name": "Martiño Rivas",
       "profile_path": "/4qc8bF4OPmoJI8BcAz6HOdI3Xf1.jpg",
-      "popularity": 5.844,
+      "popularity": 5.753,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 37154,
       "name": "John Magaro",
       "profile_path": "/smLwDbuUhfOAEohgtCm2YKZbGZW.jpg",
-      "popularity": 5.844,
+      "popularity": 8.182,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 11694,
       "name": "Doug Liman",
       "profile_path": "/6ebrRCsERA1IchMiF5SufD66stS.jpg",
-      "popularity": 5.844,
+      "popularity": 8.182,
       "adult": false,
       "known_for_department": "Directing"
-    },
-    {
-      "id": 8904,
-      "name": "Susan Buckner",
-      "profile_path": "/khF0CVXWmYKRFI80Cg5WWnYZp9h.jpg",
-      "popularity": 5.844,
-      "adult": false,
-      "known_for_department": "Acting"
     }
   ]
 }

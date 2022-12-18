@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1535973,
+      "name": "Cindy Miranda",
+      "profile_path": "/pn7w0Dgui0EMCkLj0NfqhkfkCyY.jpg",
+      "popularity": 9.422,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1166983,
+      "name": "Jennie Silfverhjelm",
+      "profile_path": "/tgFWvnh6idwctPPo9nHJSLQ6Ofk.jpg",
+      "popularity": 13.191,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1152316,
       "name": "Sylvia De Fanti",
       "profile_path": "/2olEjhsk8Ptb8f8PE37glQU0UIn.jpg",
-      "popularity": 9.422,
+      "popularity": 6.427,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 52763,
       "name": "Aamir Khan",
       "profile_path": "/bI3yxh4FzKL2hHYS4nbzcDMWtZs.jpg",
-      "popularity": 9.422,
+      "popularity": 13.191,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 1162998,
       "name": "Arón Piper",
       "profile_path": "/20gRtQ0Gx8jNWsmUdX9pRH4U0pR.jpg",
-      "popularity": 9.419,
+      "popularity": 13.187,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 116805,
       "name": "Paul Feig",
       "profile_path": "/lcD0BkGKWKynUwtPSEDLAsFdIJX.jpg",
-      "popularity": 9.417,
+      "popularity": 13.184,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -39,7 +55,7 @@
       "id": 54040,
       "name": "John Lee Hancock",
       "profile_path": "/ytGKxuC1sFUmd68jUwDA37Jn0LG.jpg",
-      "popularity": 9.416,
+      "popularity": 13.182,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +71,7 @@
       "id": 66193,
       "name": "Chris Sanders",
       "profile_path": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg",
-      "popularity": 9.415,
+      "popularity": 10.825,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 16845,
       "name": "Nicole Sullivan",
       "profile_path": "/ttNPeB0AldfptvYCfPAgcxk0E4q.jpg",
-      "popularity": 9.415,
+      "popularity": 10.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 7683,
       "name": "Wendell Corey",
       "profile_path": "/eA8sjsZzDz0MywoxfbdRs9Ejwnu.jpg",
-      "popularity": 9.415,
+      "popularity": 6.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 298410,
       "name": "Keegan-Michael Key",
       "profile_path": "/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg",
-      "popularity": 9.412,
+      "popularity": 13.177,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 303020,
       "name": "Meaghan Rath",
       "profile_path": "/yzt9DdfikLxVfn2tKdUYRZiQDtW.jpg",
-      "popularity": 9.41,
+      "popularity": 13.174,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 84952,
       "name": "Olesya Rulin",
       "profile_path": "/tR7UXBhDlV5mG9gJZBLxplF2HWu.jpg",
-      "popularity": 9.41,
+      "popularity": 7.623,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 148996,
       "name": "Brittany Ashton Holmes",
       "profile_path": "/8wV95voN0vX7CSTbwaQV87Ty7cM.jpg",
-      "popularity": 9.409,
+      "popularity": 13.173,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 18315,
       "name": "Monica Keena",
       "profile_path": "/kdtbk4jZxLAROwE2fd3Qwj7DQtL.jpg",
-      "popularity": 9.408,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 127281,
-      "name": "Harrison Gilbertson",
-      "profile_path": "/8eJ4CboNqePwP0toqbUIip12akO.jpg",
-      "popularity": 9.407,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 157467,
-      "name": "Blackie Dammett",
-      "profile_path": "",
-      "popularity": 9.404,
+      "popularity": 10.022,
       "adult": false,
       "known_for_department": "Acting"
     }

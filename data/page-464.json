@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 188347,
+      "name": "Jorge Diaz",
+      "profile_path": "/gt6c8DRRnAJyHECoVZwEy6x9rpd.jpg",
+      "popularity": 4.55,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 188284,
       "name": "Adam Mayfield",
       "profile_path": "/urg5fGn9DtlYBFOXwOf6PFzkal4.jpg",
-      "popularity": 5.834,
+      "popularity": 4.55,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 74569,
       "name": "Joby Harold",
       "profile_path": "/bHlPziMdGj2GZk88HTVoVqS4N94.jpg",
-      "popularity": 5.834,
+      "popularity": 3.75,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -23,7 +31,7 @@
       "id": 15441,
       "name": "Mili Avital",
       "profile_path": "/eFiuHaLejLHOyUhA0EwKEoe0Nhw.jpg",
-      "popularity": 5.834,
+      "popularity": 6.55,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1233724,
       "name": "Gabriela Spanic",
       "profile_path": "/cTtrFMJhWifDnBs0ZmmcsEXbcOQ.jpg",
-      "popularity": 5.831,
+      "popularity": 4.549,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 84522,
       "name": "David James Elliott",
       "profile_path": "/u71mHttq4ShuhoR5zuIzKR2i3YU.jpg",
-      "popularity": 5.831,
+      "popularity": 6.949,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 138532,
       "name": "Lee Si-young",
       "profile_path": "/5DLpS3QahK2RwqkY8aZNsQnvMPC.jpg",
-      "popularity": 5.83,
+      "popularity": 8.149,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 14226,
       "name": "Gia Carides",
       "profile_path": "/ozzUvRlmtj9eSAaycFXOVSB7ulz.jpg",
-      "popularity": 5.83,
+      "popularity": 4.549,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 21679,
       "name": "Vinette Robinson",
       "profile_path": "/8hhfJbSfsD4T8o82bHuR1kIElpJ.jpg",
-      "popularity": 5.828,
+      "popularity": 8.159,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 31384,
       "name": "Jordi Mollà",
       "profile_path": "/2XEuPT0T9SRwcpsOXD9vMpm4Vad.jpg",
-      "popularity": 5.826,
+      "popularity": 8.156,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 205923,
       "name": "Babs Olusanmokun",
       "profile_path": "/bqycmpUrpISeLzQniiYwAZ5X1RN.jpg",
-      "popularity": 5.825,
+      "popularity": 5.748,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 150194,
       "name": "Damion Poitier",
       "profile_path": "/3BqfT7OMuAhLklO6TzBnhWoIZSA.jpg",
-      "popularity": 5.825,
+      "popularity": 5.748,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 97145,
       "name": "Paul Langton",
       "profile_path": "/7H0VWh1RPCYbgdXowNh87VmNyXk.jpg",
-      "popularity": 5.825,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 56867,
-      "name": "Mark McKinney",
-      "profile_path": "/59907rm4HF2IVuMJnKpJJAOGkRU.jpg",
-      "popularity": 5.825,
+      "popularity": 6.148,
       "adult": false,
       "known_for_department": "Acting"
     }

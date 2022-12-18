@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 578014,
+      "name": "Patrick Criado",
+      "profile_path": "/hq0hxTaaiOSRBXsQm0UEKh5NLKG.jpg",
+      "popularity": 3.737,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 83186,
       "name": "Max Lloyd-Jones",
       "profile_path": "/4ZXdk1YXG3xYonid1DPDOVKsNPE.jpg",
-      "popularity": 6.229,
+      "popularity": 7.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 29459,
       "name": "Patrick Bergin",
       "profile_path": "/mxFum2Fr5YWD6kDQYb5u7EEvuva.jpg",
-      "popularity": 6.229,
+      "popularity": 5.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1243496,
       "name": "Ivanna Sakhno",
       "profile_path": "/uEzQ9nb3uKD68HopNtCrsRyd4aL.jpg",
-      "popularity": 6.227,
+      "popularity": 5.468,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 58331,
       "name": "Aubrey Dollar",
       "profile_path": "/peTaoNxX0YR9uv6xHdBAMfCq34N.jpg",
-      "popularity": 6.226,
+      "popularity": 8.716,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 51533,
       "name": "Fran Kranz",
       "profile_path": "/xIDRyMVPIbqRWck39zWxX7mrulC.jpg",
-      "popularity": 6.226,
+      "popularity": 7.068,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 10922,
       "name": "Tyrone Power",
       "profile_path": "/zHKNyYKkWIQBwhqxCMNBns1eoXR.jpg",
-      "popularity": 6.226,
+      "popularity": 7.868,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 6862,
       "name": "Freddy Rodríguez",
       "profile_path": "/syCMZjteDnmWQa26NqOaVaRdYmj.jpg",
-      "popularity": 6.225,
+      "popularity": 5.868,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 9711,
       "name": "Maaya Sakamoto",
       "profile_path": "/hPz2oEQui8a4q9aXdBugQf93ONq.jpg",
-      "popularity": 6.224,
+      "popularity": 8.667,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 545346,
       "name": "Silvia Navarro",
       "profile_path": "/inRfx6v4B8CXvnNsY1nFtcSzHC8.jpg",
-      "popularity": 6.223,
+      "popularity": 6.667,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 150899,
       "name": "AngelaBaby",
       "profile_path": "/mCkJobRoFmUMpPzliAFGhIERGkJ.jpg",
-      "popularity": 6.223,
+      "popularity": 6.267,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 115681,
       "name": "Rosalind Halstead",
       "profile_path": "/iF9rvJzqepJCxzqQC07OG4bTxEf.jpg",
-      "popularity": 6.223,
+      "popularity": 3.734,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 83600,
       "name": "Tichina Arnold",
       "profile_path": "/aBv6pccSsbO6DwfHfIz5wTZTux8.jpg",
-      "popularity": 6.223,
+      "popularity": 6.267,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 77088,
       "name": "Katharine McPhee",
       "profile_path": "/4nOXPxPDnh3eOQ5udzBQwLoaHeM.jpg",
-      "popularity": 6.223,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 73336,
-      "name": "Summer Bishil",
-      "profile_path": "/TAN5tk54w5JDtz03gg3BWwOR1C.jpg",
-      "popularity": 6.223,
+      "popularity": 8.712,
       "adult": false,
       "known_for_department": "Acting"
     }

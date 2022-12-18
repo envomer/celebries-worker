@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 203459,
+      "name": "Barbara Marten",
+      "profile_path": "/sZiDuphaHkKzcmSCdpG5lsp0N6t.jpg",
+      "popularity": 5.414,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 55499,
       "name": "Scott Derrickson",
       "profile_path": "/xNT24kgpyw1rdoYJZDW0kEG6Wuq.jpg",
-      "popularity": 6.045,
+      "popularity": 3.814,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -15,7 +23,7 @@
       "id": 8291,
       "name": "Alison Lohman",
       "profile_path": "/3jaI7RC27VEFWT3Jqg0qLChUN4P.jpg",
-      "popularity": 6.045,
+      "popularity": 8.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 155173,
       "name": "James McCaffrey",
       "profile_path": "/6rH41NHtOuPMFpIYL1XPvEMPq1t.jpg",
-      "popularity": 6.044,
+      "popularity": 6.213,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 83862,
       "name": "Mercedes Mason",
       "profile_path": "/56sOwTwRCaEJL2SkgCkTHNPSF55.jpg",
-      "popularity": 6.043,
+      "popularity": 8.46,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 83414,
       "name": "Tim Conway",
       "profile_path": "/ejIaBqJt4shL7n7LfphvKWAIgWl.jpg",
-      "popularity": 6.043,
+      "popularity": 8.46,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1168934,
       "name": "Shuhei Nomura",
       "profile_path": "/ln5j2CcBsnbHMjyMicQiXp6uTtF.jpg",
-      "popularity": 6.042,
+      "popularity": 8.459,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 150410,
       "name": "Chanchal Chowdhury",
       "profile_path": "/kdekgPF8Z3thvmK8QKvBhEhcuYN.jpg",
-      "popularity": 6.042,
+      "popularity": 7.413,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1147671,
       "name": "Rakhee Thakrar",
       "profile_path": "/af76hFq2OmCfMiwMZRPAjaWyvvT.jpg",
-      "popularity": 6.041,
+      "popularity": 7.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1095524,
       "name": "Lydia Wilson",
       "profile_path": "/yjuJDZxNJjgX0RueQ5eY6GWhTKX.jpg",
-      "popularity": 6.041,
+      "popularity": 8.457,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1076119,
       "name": "Rachel Shenton",
       "profile_path": "/AuFmd6sNQWA5CHYx8cRbVApBaKs.jpg",
-      "popularity": 6.04,
+      "popularity": 6.212,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 234184,
       "name": "Ana Brenda Contreras",
       "profile_path": "/oKtw8elGuiyM4gXAaNCoIuPzxK5.jpg",
-      "popularity": 6.04,
+      "popularity": 3.624,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 110058,
       "name": "Eri Fukatsu",
       "profile_path": "/wlJdrhvaIirXvPNkxBiGonLXHbK.jpg",
-      "popularity": 6.04,
+      "popularity": 5.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 57130,
       "name": "Todd Phillips",
       "profile_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg",
-      "popularity": 6.04,
+      "popularity": 8.456,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -135,7 +143,7 @@
       "id": 1164460,
       "name": "Laetitia Dosch",
       "profile_path": "/yqRob7aTzMbekDiBSOTTfwaNNrM.jpg",
-      "popularity": 6.039,
+      "popularity": 8.455,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 119145,
       "name": "Hiro Shimono",
       "profile_path": "/i5CaaqKmHH0vKCloqZyrCwn5mWy.jpg",
-      "popularity": 6.039,
+      "popularity": 6.612,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 551682,
       "name": "Lee Won-jong",
       "profile_path": "/dBRYwAj2WryYV8OiJCeK7U0bzy.jpg",
-      "popularity": 6.038,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 173020,
-      "name": "Richard O'Sullivan",
-      "profile_path": "/htKCFpNPHWSr0BMRbQZxfN3ExQ6.jpg",
-      "popularity": 6.038,
+      "popularity": 8.211,
       "adult": false,
       "known_for_department": "Acting"
     }

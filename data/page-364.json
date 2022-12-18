@@ -7,7 +7,7 @@
       "id": 1192152,
       "name": "Tomasz Mandes",
       "profile_path": "/wmYwPfWSXfjXpwvljvXEX8h0wfC.jpg",
-      "popularity": 6.721,
+      "popularity": 9.409,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -15,7 +15,7 @@
       "id": 2669,
       "name": "Raymond Massey",
       "profile_path": "/rhrDAAsFpNi4tsKoIuW9g8JFPby.jpg",
-      "popularity": 6.721,
+      "popularity": 9.409,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +31,7 @@
       "id": 3288,
       "name": "Chris Weitz",
       "profile_path": "/4HONbwCefKNKBXafRRjXZN00wJE.jpg",
-      "popularity": 6.72,
+      "popularity": 9.408,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -55,7 +55,7 @@
       "id": 1245745,
       "name": "Rhiannon Fish",
       "profile_path": "/mtxKxjihYRXXTKuGCnefIiCJTyb.jpg",
-      "popularity": 6.719,
+      "popularity": 6.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,6 +63,14 @@
       "id": 104644,
       "name": "Dan Povenmire",
       "profile_path": "/cBtHTwRebIIHhD215MJ6bZTJN2s.jpg",
+      "popularity": 6.416,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 44240,
+      "name": "Roddy Piper",
+      "profile_path": "/3LZvHroOYjUe8mKP3AWL87ML8d7.jpg",
       "popularity": 6.719,
       "adult": false,
       "known_for_department": "Acting"
@@ -71,7 +79,7 @@
       "id": 9190,
       "name": "Koyuki",
       "profile_path": "/gStSjDG08yaRJaiingTjrYK7cNS.jpg",
-      "popularity": 6.719,
+      "popularity": 9.407,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 3072,
       "name": "Daniel Lapaine",
       "profile_path": "/aBPO2X0z04CDd5QN5YSaM1kFLn6.jpg",
-      "popularity": 6.719,
+      "popularity": 5.216,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 6719,
       "name": "Ray Wise",
       "profile_path": "/qUGDdBfPkDQYZR46wuNxMO1UM2K.jpg",
-      "popularity": 6.718,
+      "popularity": 9.405,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 78994,
       "name": "Sergio Peris-Mencheta",
       "profile_path": "/pdNIwIs0UCNEfZeUHVIcPvAVVuy.jpg",
-      "popularity": 6.717,
+      "popularity": 6.415,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 62081,
       "name": "Michael Damian",
       "profile_path": "/Tvnu4oEV7RInI7RiyAoGQMb75H.jpg",
-      "popularity": 6.717,
+      "popularity": 8.815,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -143,7 +151,7 @@
       "id": 74615,
       "name": "Nicole Ari Parker",
       "profile_path": "/uy630vFQOKWpuEDFF2DuCQ1Oiez.jpg",
-      "popularity": 6.716,
+      "popularity": 4.815,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 35545,
       "name": "Aimee Graham",
       "profile_path": "/xqhLBN0fr1xBjVK0HKp8OTptNNQ.jpg",
-      "popularity": 6.716,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 9908,
-      "name": "Gert Fröbe",
-      "profile_path": "/bXOqdYepkfUpVLf54It8f4v1tVI.jpg",
-      "popularity": 6.716,
+      "popularity": 9.402,
       "adult": false,
       "known_for_department": "Acting"
     }

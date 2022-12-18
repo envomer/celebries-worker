@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1785590,
+      "name": "David Corenswet",
+      "profile_path": "/g7czKnLDbcleP5At9BJ8Z3FEwvS.jpg",
+      "popularity": 13.619,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1215663,
       "name": "Jessica Collins",
       "profile_path": "/4nBBagsBQczKSflzRVWFVdhmfz1.jpg",
-      "popularity": 13.606,
+      "popularity": 19.048,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 28768,
       "name": "Farrah Fawcett",
       "profile_path": "/v1osF8x0G4OiXfGmElnyymyrUCn.jpg",
-      "popularity": 13.594,
+      "popularity": 18.478,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 2059,
       "name": "Adam Baldwin",
       "profile_path": "/w5f3i7H8wMzHvzYfezIVN521N7Q.jpg",
-      "popularity": 13.586,
+      "popularity": 16.476,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 121529,
       "name": "Léa Seydoux",
       "profile_path": "/7JAUieStGsHZAy6ed2WuFy4CJjm.jpg",
-      "popularity": 13.584,
+      "popularity": 18.475,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 525,
       "name": "Christopher Nolan",
       "profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
-      "popularity": 13.584,
+      "popularity": 19.018,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +63,7 @@
       "id": 8925,
       "name": "Emmanuelle Seigner",
       "profile_path": "/xPRldoTHgFd1Z5TtGk3jo3TGvPL.jpg",
-      "popularity": 13.58,
+      "popularity": 12.474,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 23882,
       "name": "Amy Madigan",
       "profile_path": "/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg",
-      "popularity": 13.579,
+      "popularity": 16.474,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 56446,
       "name": "John Cena",
       "profile_path": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg",
-      "popularity": 13.572,
+      "popularity": 16.472,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 115128,
       "name": "Bo Burnham",
       "profile_path": "/xMAatohXadCfz9ipvqvIaTLwOmV.jpg",
-      "popularity": 13.567,
+      "popularity": 8.14,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 52583,
       "name": "Wagner Moura",
       "profile_path": "/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg",
-      "popularity": 13.567,
+      "popularity": 16.87,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 70035,
       "name": "Maureen O'Hara",
       "profile_path": "/cZ9paCScbYICu1J3jv7cQwiQauH.jpg",
-      "popularity": 13.566,
+      "popularity": 17.27,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 92572,
       "name": "Betty Gilpin",
       "profile_path": "/hBOviIHCVqbWyyPUoIxZohDl5SL.jpg",
-      "popularity": 13.563,
+      "popularity": 17.669,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 21045,
       "name": "Maggie Q",
       "profile_path": "/1Z0A8axunWqZrskGkfANv6W5qCl.jpg",
-      "popularity": 13.561,
+      "popularity": 18.468,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 55398,
       "name": "Ashley Jensen",
       "profile_path": "/ukGtNrFyiVV21ScQvyeORWCtk5Z.jpg",
-      "popularity": 13.56,
+      "popularity": 18.984,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 5411,
       "name": "Sanaa Lathan",
       "profile_path": "/mYrlBt33pPbdsgscTuWdHScu7md.jpg",
-      "popularity": 13.559,
+      "popularity": 17.268,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 58184,
       "name": "Jane Curtin",
       "profile_path": "/9X4AsAm5WfuXpq4jkQnNXkaxxCv.jpg",
-      "popularity": 13.552,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 10727,
-      "name": "John Hannah",
-      "profile_path": "/iBMshh31YpMZPX3M3vUoL8itBa5.jpg",
-      "popularity": 13.549,
+      "popularity": 11.666,
       "adult": false,
       "known_for_department": "Acting"
     }

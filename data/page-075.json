@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1328,
+      "name": "Sean Astin",
+      "profile_path": "/5oJzy6Ra0tuMEV7mfxjtqye5qUX.jpg",
+      "popularity": 12.262,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 21596,
       "name": "Shannon Elizabeth",
       "profile_path": "/1H99EVPLMQx3C0DKrVCiFKPpDB5.jpg",
-      "popularity": 15.533,
+      "popularity": 11.86,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 64154,
       "name": "Sasha Alexander",
       "profile_path": "/xHsZhwVA8hOKEVEMwoSanqoblBo.jpg",
-      "popularity": 15.531,
+      "popularity": 12.659,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 55615,
       "name": "Megan Park",
       "profile_path": "/gKRr9DaU91WMh9BAAM3HgkauJhf.jpg",
-      "popularity": 15.531,
+      "popularity": 12.259,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1094091,
       "name": "Maika Monroe",
       "profile_path": "/g4z8Gq8oWbhhGcS51pGBm8xv5I1.jpg",
-      "popularity": 15.528,
+      "popularity": 12.658,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 429,
       "name": "Lucas Till",
       "profile_path": "/5m8xgsOgT3FgCBo2AsMn7dewe57.jpg",
-      "popularity": 15.526,
+      "popularity": 21.736,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 19538,
       "name": "Rachael Taylor",
       "profile_path": "/mE5iwD349fQ4BTvwhofLYgkgIfe.jpg",
-      "popularity": 15.525,
+      "popularity": 15.858,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 10131,
       "name": "Sara Rue",
       "profile_path": "/nSiNGBB8YJLhLe5L0gHGNfIQoBW.jpg",
-      "popularity": 15.518,
+      "popularity": 12.655,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 3901,
       "name": "Richard Brake",
       "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
-      "popularity": 15.502,
+      "popularity": 21.451,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 85721,
       "name": "Tamannaah Bhatia",
       "profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
-      "popularity": 15.496,
+      "popularity": 14.649,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 18345,
       "name": "Brenda Fricker",
       "profile_path": "/dz8ylU8ZJtNyPr31URy2p3lCaok.jpg",
-      "popularity": 15.496,
+      "popularity": 14.249,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 9656,
       "name": "Johnny Knoxville",
       "profile_path": "/m7pkqxOSdIojhcLwVmlww2nwJCl.jpg",
-      "popularity": 15.495,
+      "popularity": 21.693,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 19655,
       "name": "James D'Arcy",
       "profile_path": "/6CInTvBeLwXLx2id9TgaULaVEO4.jpg",
-      "popularity": 15.494,
+      "popularity": 14.648,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 17881,
       "name": "Jason Schwartzman",
       "profile_path": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg",
-      "popularity": 15.488,
+      "popularity": 19.846,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 118,
       "name": "Geoffrey Rush",
       "profile_path": "/t69hkD07olTK8o2CwuNnC1wg5Es.jpg",
-      "popularity": 15.488,
+      "popularity": 13.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 60898,
       "name": "Sebastian Stan",
       "profile_path": "/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg",
-      "popularity": 15.487,
+      "popularity": 19.846,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 85143,
       "name": "Angela Sarafyan",
       "profile_path": "/tR148JalXjmLC845G4T2pOzfD5X.jpg",
-      "popularity": 15.486,
+      "popularity": 14.646,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 212154,
       "name": "Deborah Ann Woll",
       "profile_path": "/btTnyvRLXOH0pz2SLBwyKbmnFhX.jpg",
-      "popularity": 15.484,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 12791,
-      "name": "Hugh Dancy",
-      "profile_path": "/sNdeWUm0aHUW4YMARuvZTLzpWwY.jpg",
-      "popularity": 15.484,
+      "popularity": 17.045,
       "adult": false,
       "known_for_department": "Acting"
     }

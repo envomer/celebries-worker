@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 106127,
+      "name": "Sara Suzanne Brown",
+      "profile_path": "/wvaYxfnxstOxBcmwPrQDEXfd2hn.jpg",
+      "popularity": 7.831,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 3218081,
       "name": "Emily Brinks",
       "profile_path": "/h29Xn0Jbmfpy88pnH6vQC7dPPAs.jpg",
@@ -15,7 +23,7 @@
       "id": 154048,
       "name": "Stephanie Charles",
       "profile_path": "/wyZh2D8e9tw0jfWHn9xGmM1CNwo.jpg",
-      "popularity": 6.101,
+      "popularity": 6.23,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 74288,
       "name": "Andrea Bowen",
       "profile_path": "/A0Asp1uwbW7kMLTH3xkr2oDfKlA.jpg",
-      "popularity": 6.101,
+      "popularity": 6.63,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 88072,
       "name": "Brittany Curran",
       "profile_path": "/4qR8ISeCUIj0K47Cfs0fD2lH3pk.jpg",
-      "popularity": 6.1,
+      "popularity": 5.83,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 161433,
       "name": "Mark Goddard",
       "profile_path": "/1atoqdSY71UmbqXUpBwBNz6RuWD.jpg",
-      "popularity": 6.098,
+      "popularity": 5.829,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 232005,
       "name": "Sam Underwood",
       "profile_path": "/mkodxkM6byUGB2saUsv4C7cvMjO.jpg",
-      "popularity": 6.097,
+      "popularity": 7.029,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 101249,
       "name": "Lara Gilchrist",
       "profile_path": "/6B09ra6qjcoQlWCOZSi6TA5jrys.jpg",
-      "popularity": 6.096,
+      "popularity": 4.229,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 42363,
       "name": "Peter Scolari",
       "profile_path": "/r9sBCkb6hSinCpgWC7lu5XTJEfc.jpg",
-      "popularity": 6.096,
+      "popularity": 8.534,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 26727,
       "name": "Dean Shek",
       "profile_path": "/osVLsatX6ZEFftGmmdgVwDLcgpl.jpg",
-      "popularity": 6.096,
+      "popularity": 8.534,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 19615,
       "name": "Didier Haudepin",
       "profile_path": "/lcYqZoU4fKxNOfYgQBOs0c5dPpH.jpg",
-      "popularity": 6.096,
+      "popularity": 6.629,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1240,
       "name": "Jack Kehler",
       "profile_path": "/5vPBJw92OKtD5pNO0TTPZvvxooV.jpg",
-      "popularity": 6.096,
+      "popularity": 6.629,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1263819,
       "name": "Hanna Ardéhn",
       "profile_path": "/dsEI15Q5rjiYlYbqTu3nsLCHyuR.jpg",
-      "popularity": 6.094,
+      "popularity": 8.532,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1116629,
       "name": "Tony Cavalero",
       "profile_path": "/58LiE55zwTrNeywV2nFHjVfslAF.jpg",
-      "popularity": 6.094,
+      "popularity": 5.028,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 114674,
       "name": "Glynn Turman",
       "profile_path": "/ac5gjylih4RTCGf2HWuSnoZWDus.jpg",
-      "popularity": 6.094,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 106104,
-      "name": "Russell Wade",
-      "profile_path": "/2eW7JYcTxmVQ8TT0ATKbbTwNus3.jpg",
-      "popularity": 6.094,
+      "popularity": 8.532,
       "adult": false,
       "known_for_department": "Acting"
     }

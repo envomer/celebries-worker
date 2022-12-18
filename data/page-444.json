@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 51991,
+      "name": "Michael Stahl-David",
+      "profile_path": "/eHDOcBnXcRD9Ls3APP7qMpzjNFn.jpg",
+      "popularity": 7.399,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 9627,
       "name": "Isabella Ragonese",
       "profile_path": "/gGgSE9kg1H3oBCNJP0STF0EeZZy.jpg",
-      "popularity": 5.996,
+      "popularity": 4.599,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 2468,
       "name": "Sean McGinley",
       "profile_path": "/6dNAreBr5Egv3vVLEtCqJuyjDG9.jpg",
-      "popularity": 5.996,
+      "popularity": 8.394,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 76528,
       "name": "Tony Nappo",
       "profile_path": "/eRcYYtMvLmypURncfQqVA43BZYD.jpg",
-      "popularity": 5.995,
+      "popularity": 5.399,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 31004,
       "name": "Tone Loc",
       "profile_path": "/puDbq7YPq6Jg0nrSeK6t9MFIhFP.jpg",
-      "popularity": 5.995,
+      "popularity": 8.393,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 780,
       "name": "Ronny Cox",
       "profile_path": "/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg",
-      "popularity": 5.995,
+      "popularity": 8.393,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 552067,
       "name": "Kim Tae-hoon",
       "profile_path": "/8mTd6HpLDFK2cwiWhoyZO78A5n1.jpg",
-      "popularity": 5.993,
+      "popularity": 8.39,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 78869,
       "name": "Shawn Yue",
       "profile_path": "/cTIZxT5URUUpdvuJG4Jkf85SQ2e.jpg",
-      "popularity": 5.992,
+      "popularity": 6.598,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 13992,
       "name": "Mary Astor",
       "profile_path": "/rqUVrDM6pTx4Bn6DS81H2bpkD4c.jpg",
-      "popularity": 5.992,
+      "popularity": 5.398,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 158644,
       "name": "Ellie Harvie",
       "profile_path": "/zupTWg8O4kdQYHnMm0EmE6pEbxb.jpg",
-      "popularity": 5.991,
+      "popularity": 6.597,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 32600,
       "name": "John Stamos",
       "profile_path": "/5hFEsxkqI6uGa9ltX2soVqt8r1M.jpg",
-      "popularity": 5.991,
+      "popularity": 8.387,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 33741,
       "name": "Rita Hayworth",
       "profile_path": "/k92fu0gVAY98kFGXgIZmdquroFQ.jpg",
-      "popularity": 5.988,
+      "popularity": 8.383,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 226370,
       "name": "Bradley Steven Perry",
       "profile_path": "/n62ZTaV7xFfOICwcSa6l2hC1K8v.jpg",
-      "popularity": 5.986,
+      "popularity": 7.796,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 109740,
       "name": "Alysia Reiner",
       "profile_path": "/eHtaKC4HSI2cz4kZF2pAYhPN74U.jpg",
-      "popularity": 5.986,
+      "popularity": 6.196,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 64455,
       "name": "Jang Hyun-sung",
       "profile_path": "/rD1QMp1kmx03JSw4eBxeeLvTwAA.jpg",
-      "popularity": 5.986,
+      "popularity": 4.996,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1192218,
       "name": "Sebastian de Souza",
       "profile_path": "/aueQZSQghquLSZ4qjRQPO4GGAMS.jpg",
-      "popularity": 5.985,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 30695,
-      "name": "Mary Kay Bergman",
-      "profile_path": "/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg",
-      "popularity": 5.985,
+      "popularity": 5.396,
       "adult": false,
       "known_for_department": "Acting"
     }

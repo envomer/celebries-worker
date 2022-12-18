@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1781425,
+      "name": "Seo Won",
+      "profile_path": "/rQtUWshSz2no41OXniyNJxSoBhf.jpg",
+      "popularity": 12.594,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 79505,
       "name": "Joseph Morgan",
       "profile_path": "/rlmFE3aeKjHQ5jRhqcHtf0LYTLG.jpg",
-      "popularity": 12.592,
+      "popularity": 13.378,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 5724,
       "name": "Denis Leary",
       "profile_path": "/nAqHuIw8z1QodcXdaJQShKogVFa.jpg",
-      "popularity": 12.592,
+      "popularity": 12.178,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 22123,
       "name": "Jordana Brewster",
       "profile_path": "/8VzFsSfT7NnMGyH5JQBQdTxDHcO.jpg",
-      "popularity": 12.587,
+      "popularity": 17.622,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 134488,
       "name": "Sara Malakul Lane",
       "profile_path": "/oWI0wORmnUpu5MyufEFQvymOCNQ.jpg",
-      "popularity": 12.586,
+      "popularity": 17.62,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 55086,
       "name": "Cam Gigandet",
       "profile_path": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg",
-      "popularity": 12.582,
+      "popularity": 17.615,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 62547,
       "name": "Susanna Thompson",
       "profile_path": "/7LsOYvF08HvJ5jBJtH1jrZx1dcD.jpg",
-      "popularity": 12.58,
+      "popularity": 12.174,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 46597,
       "name": "Ali MacGraw",
       "profile_path": "/vMQ8DkboSiJkz66IYhgoiUhItMI.jpg",
-      "popularity": 12.576,
+      "popularity": 8.173,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1,
       "name": "George Lucas",
       "profile_path": "/WCSZzWdtPmdRxH9LUCVi2JPCSJ.jpg",
-      "popularity": 12.576,
+      "popularity": 17.373,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -95,7 +103,7 @@
       "id": 12110,
       "name": "Amy Sedaris",
       "profile_path": "/uOqDhpe44mYMFvj8TRFPQh3tk1P.jpg",
-      "popularity": 12.575,
+      "popularity": 16.173,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 334,
       "name": "Omar Benson Miller",
       "profile_path": "/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg",
-      "popularity": 12.569,
+      "popularity": 17.597,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 78044,
       "name": "Erin Cahill",
       "profile_path": "/FBCrDCV5y3RQiN86aXNVP4yzpQ.jpg",
-      "popularity": 12.565,
+      "popularity": 17.591,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 73249,
       "name": "Lee Jung-jae",
       "profile_path": "/3h5Cfm0X8ohWn7psZkqdNWqXAHH.jpg",
-      "popularity": 12.564,
+      "popularity": 17.59,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1639,
       "name": "Emily Watson",
       "profile_path": "/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg",
-      "popularity": 12.562,
+      "popularity": 16.169,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 150587,
       "name": "Katie McGrath",
       "profile_path": "/cq9pc7qFRUKCrkXgsi5mJkb64U5.jpg",
-      "popularity": 12.557,
+      "popularity": 10.567,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 13638,
       "name": "Thomas Gibson",
       "profile_path": "/jdMeJ1GjVDETKUDYOC56eBz0NlO.jpg",
-      "popularity": 12.557,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1926,
-      "name": "Eddie Izzard",
-      "profile_path": "/jPsZdu9DzGudytybdzjXAm77Q0r.jpg",
-      "popularity": 12.557,
+      "popularity": 10.567,
       "adult": false,
       "known_for_department": "Acting"
     }

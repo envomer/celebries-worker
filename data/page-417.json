@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 104482,
+      "name": "James Martinez",
+      "profile_path": "/nD2Alcz1mjb5hpvNKPZqYiqmZBI.jpg",
+      "popularity": 3.864,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 30233,
       "name": "Rosalind Russell",
       "profile_path": "/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg",
-      "popularity": 6.215,
+      "popularity": 8.701,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 30112,
       "name": "Glenn Strange",
       "profile_path": "/ytGlk7eVUkAm2JSF2fZbddjFIjV.jpg",
-      "popularity": 6.215,
+      "popularity": 7.465,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1253370,
       "name": "Heath McIvor",
       "profile_path": "/w83bqoC2kcbesExfT9PLA6t0sYv.jpg",
-      "popularity": 6.213,
+      "popularity": 8.698,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 937317,
       "name": "Crystal Fox",
       "profile_path": "/2ypF08xWEv8uew34TCxrpK1Hq2l.jpg",
-      "popularity": 6.213,
+      "popularity": 4.264,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 42935,
       "name": "Renée Estevez",
       "profile_path": "/ogRlJREvJNMe22XNeRO8wICtYpG.jpg",
-      "popularity": 6.213,
+      "popularity": 8.698,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 568418,
       "name": "Maja Schöne",
       "profile_path": "/867PeMDC2fjF5tpnEDDZ9f9MGky.jpg",
-      "popularity": 6.212,
+      "popularity": 8.697,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 155743,
       "name": "James Lesure",
       "profile_path": "/lJTRqM4iGE7pfOMgBmQtlJrfOh4.jpg",
-      "popularity": 6.212,
+      "popularity": 3.727,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 154988,
       "name": "Marisa Ramirez",
       "profile_path": "/cLCsOVNka47oCZ778vHmkj4esvv.jpg",
-      "popularity": 6.212,
+      "popularity": 7.064,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 83966,
       "name": "Pascale Arbillot",
       "profile_path": "/sFLTfpEqhkEYwYKWxrWlGW2CVXt.jpg",
-      "popularity": 6.212,
+      "popularity": 5.064,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 43853,
       "name": "Irma P. Hall",
       "profile_path": "/kKLDJvpAE1uKLeTw5jUmBwPgqOd.jpg",
-      "popularity": 6.212,
+      "popularity": 6.664,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 73245,
       "name": "William Hartnell",
       "profile_path": "/qmXtj0noRZG05B7gDlmkq7JgANx.jpg",
-      "popularity": 6.21,
+      "popularity": 7.463,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 35109,
       "name": "Miriam Flynn",
       "profile_path": "/8o4nFOpCPrgJRhrUMHoouT1E9X3.jpg",
-      "popularity": 6.21,
+      "popularity": 8.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 71530,
       "name": "Romany Malco",
       "profile_path": "/q5f1rvnTGDnxsNCSSZoYXYDbu0I.jpg",
-      "popularity": 6.209,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 55192,
-      "name": "Verna Bloom",
-      "profile_path": "/AsQxTe2jB6c4E337U5ncXUOCOww.jpg",
-      "popularity": 6.208,
+      "popularity": 5.463,
       "adult": false,
       "known_for_department": "Acting"
     }

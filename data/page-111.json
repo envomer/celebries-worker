@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1326056,
+      "name": "Bella Dayne",
+      "profile_path": "/8fWktaJ2TM5gckri7RNUFSugtnm.jpg",
+      "popularity": 12.792,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1192761,
       "name": "Dominic Sherwood",
       "profile_path": "/1ZxJDocd5JGwjKxEJ1gjORj1prQ.jpg",
-      "popularity": 12.792,
+      "popularity": 13.438,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 54248,
       "name": "Christopher Landon",
       "profile_path": "/jxNdw6wJo76ixoGtKMwdK0QMG2b.jpg",
-      "popularity": 12.79,
+      "popularity": 15.837,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -23,7 +31,7 @@
       "id": 58873,
       "name": "Dan Fogler",
       "profile_path": "/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg",
-      "popularity": 12.785,
+      "popularity": 17.899,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1039523,
       "name": "Dylan Arnold",
       "profile_path": "/pij9g793mb2ZGyyNdEI7TOoJ6i8.jpg",
-      "popularity": 12.778,
+      "popularity": 17.889,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1137,
       "name": "Juliette Binoche",
       "profile_path": "/htdZZIroEyJaeHQAUTqokNfkPgl.jpg",
-      "popularity": 12.765,
+      "popularity": 15.03,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 41089,
       "name": "Martin Starr",
       "profile_path": "/gNyCdend3C5gY3ucq42Zt3swfg2.jpg",
-      "popularity": 12.764,
+      "popularity": 17.87,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1156024,
       "name": "Tao Okamoto",
       "profile_path": "/gcFoE70tNEbq8oRBESpc0OjSdtl.jpg",
-      "popularity": 12.762,
+      "popularity": 11.429,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 76536,
       "name": "Courtney Ford",
       "profile_path": "/9I8xtjfkSKEvrMg3E0wCosa5UkT.jpg",
-      "popularity": 12.757,
+      "popularity": 17.86,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1080862,
       "name": "Anne Winters",
       "profile_path": "/tpiBzAifDWC4TzDOT0qzkQxGXEg.jpg",
-      "popularity": 12.756,
+      "popularity": 13.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1216606,
       "name": "Gugu Mbatha-Raw",
       "profile_path": "/6QInv8etQHXTbiMkJTzftvJ40RP.jpg",
-      "popularity": 12.753,
+      "popularity": 17.854,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1018709,
       "name": "Qin Lan",
       "profile_path": "/yYylpCfEYYrXtEjf82ItvCWXSPh.jpg",
-      "popularity": 12.752,
+      "popularity": 10.226,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1045526,
       "name": "Hannah Hoekstra",
       "profile_path": "/hiniknfKr2Oc5ouMK5IYTxtUkV0.jpg",
-      "popularity": 12.747,
+      "popularity": 7.648,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 66288,
       "name": "Roberts Blossom",
       "profile_path": "/v6R8dyBzQww8fbr9QRMuGF1B5BM.jpg",
-      "popularity": 12.744,
+      "popularity": 15.023,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 17764,
       "name": "Charles S. Dutton",
       "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg",
-      "popularity": 12.743,
+      "popularity": 13.423,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 593,
       "name": "Joanna Cassidy",
       "profile_path": "/8R9H1GvaMaFiSDkOTMBwrL0qhWN.jpg",
-      "popularity": 12.743,
+      "popularity": 17.84,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 212700,
       "name": "Candice Patton",
       "profile_path": "/7HUcygrInxDKrRbwCV3jpVwC75c.jpg",
-      "popularity": 12.74,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1063,
-      "name": "Lea Thompson",
-      "profile_path": "/85E9NTEfkRdUdK4kTrrnk5of25w.jpg",
-      "popularity": 12.739,
+      "popularity": 9.422,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 62065,
+      "name": "Bree Turner",
+      "profile_path": "/a6mpCcLHQpnkyjJVBtXH6oxfPGy.jpg",
+      "popularity": 11.138,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 32915,
+      "name": "Lara Wendel",
+      "profile_path": "/qsyeG0DpjRuE342SuItNYXqvoRd.jpg",
+      "popularity": 9.138,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 932076,
       "name": "Kate Siegel",
       "profile_path": "/evcYTh6jktP0O9UF8Ua7RXIyNbb.jpg",
-      "popularity": 10.457,
+      "popularity": 13.537,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 585,
       "name": "Rutger Hauer",
       "profile_path": "/aNvyDYD0YscuwMfgy15wb5gRKph.jpg",
-      "popularity": 10.451,
+      "popularity": 11.535,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 66896,
       "name": "Raven-Symoné",
       "profile_path": "/iyz6AbVgumSMsgZeSfsWpr4vewB.jpg",
-      "popularity": 10.449,
+      "popularity": 12.335,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 18286,
       "name": "Nona Gaye",
       "profile_path": "/2g6BDp6dUB6ql5xKEhY07IhxGkc.jpg",
-      "popularity": 10.446,
+      "popularity": 10.734,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 996697,
       "name": "Nichole Sakura",
       "profile_path": "/cHsglDmHnUrvmvUF2uWok3lLmmZ.jpg",
-      "popularity": 10.445,
+      "popularity": 11.934,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 177443,
       "name": "Tracy Pollan",
       "profile_path": "/yNMv81Y17tB16YXp3FbGMQj9vuN.jpg",
-      "popularity": 10.445,
+      "popularity": 9.534,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 5344,
       "name": "Meg Ryan",
       "profile_path": "/1pSvv3vsAOTn7p5iT6jLKfPrGpD.jpg",
-      "popularity": 10.445,
+      "popularity": 14.623,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 5010,
       "name": "Todd Field",
       "profile_path": "/dJZYO81fHPK0unjrlbqOtUuhcly.jpg",
-      "popularity": 10.445,
+      "popularity": 10.734,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 22809,
       "name": "Keeley Hawes",
       "profile_path": "/9Zt8IHLR1PGso3fSV155LZ1jPCE.jpg",
-      "popularity": 10.44,
+      "popularity": 10.732,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 11279,
       "name": "Roger Allam",
       "profile_path": "/ngugVF69GFcgb5ljt4OQSjd2rGR.jpg",
-      "popularity": 10.433,
+      "popularity": 14.606,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 1198148,
       "name": "Mark Proksch",
       "profile_path": "/7hxunQakkjd7D8Ld461ImT9EGLP.jpg",
-      "popularity": 10.431,
+      "popularity": 9.529,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 2978,
       "name": "Max Minghella",
       "profile_path": "/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg",
-      "popularity": 10.431,
+      "popularity": 14.603,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 108696,
       "name": "Susie Abromeit",
       "profile_path": "/7tMmET3hW1q1l78jDvQJd4XQGlo.jpg",
-      "popularity": 10.427,
+      "popularity": 13.528,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 1749,
       "name": "Leonard Nimoy",
       "profile_path": "/eKhw3oK8ak5LDB29X9zQDLIqRhw.jpg",
-      "popularity": 10.427,
+      "popularity": 7.528,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Haruka Fukuhara",
       "profile_path": "/vTosH8FMDuQK9u6CWavOPnNdmH1.jpg",
       "popularity": 10.42,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1472783,
-      "name": "Grace Van Patten",
-      "profile_path": "/oXTngLiWFxOsXjSlOel6vYAwWQ0.jpg",
-      "popularity": 10.419,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 31140,
-      "name": "Mary Stuart Masterson",
-      "profile_path": "/njHHxFIJutnRsFM1c85PC8FBOzj.jpg",
-      "popularity": 10.419,
       "adult": false,
       "known_for_department": "Acting"
     }

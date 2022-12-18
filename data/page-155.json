@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 122358,
+      "name": "Brigitte Kingsley",
+      "profile_path": "/dMbj90C7RrDVZXFTvSByZjuewFl.jpg",
+      "popularity": 15.221,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 67599,
+      "name": "Vanessa Hudgens",
+      "profile_path": "/6lEUykDvaX0ptSvHubKYlerTUC1.jpg",
+      "popularity": 14.861,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 10671,
       "name": "Joe Don Baker",
       "profile_path": "/dTMLwCbjB4Q4WbSyI5JWnCpFrSW.jpg",
-      "popularity": 10.871,
+      "popularity": 8.461,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 12111,
       "name": "Justin Timberlake",
       "profile_path": "/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg",
-      "popularity": 10.87,
+      "popularity": 14.861,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 56356,
       "name": "Gina Philips",
       "profile_path": "/xwghO5XyUbQDnM6tdenXi5MvkGn.jpg",
-      "popularity": 10.869,
+      "popularity": 14.461,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 20387,
       "name": "Clea DuVall",
       "profile_path": "/yueygn1Lmmni7EaMQD9LslexDlu.jpg",
-      "popularity": 10.868,
+      "popularity": 10.86,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 15416,
       "name": "Richard Masur",
       "profile_path": "/eTKFP76mnSgIhoknfxtebqnWb6K.jpg",
-      "popularity": 10.865,
+      "popularity": 11.26,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 59117,
       "name": "Angus Sampson",
       "profile_path": "/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg",
-      "popularity": 10.864,
+      "popularity": 15.21,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 57428,
       "name": "Michael Landes",
       "profile_path": "/2EdaNaUQdWi7Vi0pLNaS9Ys9fVi.jpg",
-      "popularity": 10.864,
+      "popularity": 12.459,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 34546,
       "name": "Mark Gatiss",
       "profile_path": "/rdinP6RQwKBab7BawJDBzF1I7Qz.jpg",
-      "popularity": 10.864,
+      "popularity": 15.21,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 1207629,
       "name": "Yeo Jin-goo",
       "profile_path": "/gyzGOP3BXaYhdqcQHZim37Zzb9l.jpg",
-      "popularity": 10.856,
+      "popularity": 15.198,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 141526,
       "name": "Sierra McCormick",
       "profile_path": "/ub2b1b0HuMo7UeY2NtD2Zj0fRvi.jpg",
-      "popularity": 10.854,
+      "popularity": 10.856,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 133212,
       "name": "Ryan Kwanten",
       "profile_path": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg",
-      "popularity": 10.853,
+      "popularity": 10.856,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 20580,
       "name": "Joe Manganiello",
       "profile_path": "/mTdACmitdrwor0Nrv5sr0u123vZ.jpg",
-      "popularity": 10.853,
+      "popularity": 14.456,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 71586,
       "name": "Alfie Allen",
       "profile_path": "/7gPpG0TBMX20tPhWC8BT47x2lnh.jpg",
-      "popularity": 10.851,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1926630,
-      "name": "Stephanie Bennett",
-      "profile_path": "/7R0gGXuxVbW5Em0Eij78GIFhltw.jpg",
-      "popularity": 10.85,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1496392,
-      "name": "Joe Alwyn",
-      "profile_path": "/npvlAf0f2zciFdB6uwPx9j8xJHj.jpg",
-      "popularity": 10.85,
+      "popularity": 9.655,
       "adult": false,
       "known_for_department": "Acting"
     }

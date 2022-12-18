@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 6807,
+      "name": "Sam Rockwell",
+      "profile_path": "/2dZXMNq1VwxCHN77TIG211vcWCg.jpg",
+      "popularity": 24.098,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 7062,
       "name": "Andrew Lincoln",
       "profile_path": "/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg",
-      "popularity": 17.203,
+      "popularity": 23.561,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 61981,
       "name": "Michael Clarke Duncan",
       "profile_path": "/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg",
-      "popularity": 17.195,
+      "popularity": 17.559,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 5503,
       "name": "Gabrielle Anwar",
       "profile_path": "/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg",
-      "popularity": 17.195,
+      "popularity": 17.159,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 65717,
       "name": "Jon Hamm",
       "profile_path": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg",
-      "popularity": 17.189,
+      "popularity": 20.357,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 73357,
       "name": "Eleanor Tomlinson",
       "profile_path": "/A2lE5kvZE3tIpKwpAtKbjsMHpf2.jpg",
-      "popularity": 17.176,
+      "popularity": 24.046,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 20508,
       "name": "Iain Glen",
       "profile_path": "/n9zXQhjtXQnc30kqF66hdX4i3PG.jpg",
-      "popularity": 17.151,
+      "popularity": 17.545,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 8338,
       "name": "Jodelle Ferland",
       "profile_path": "/5N83sI2aDqnvcxIXsoXk0kBUwDz.jpg",
-      "popularity": 17.15,
+      "popularity": 16.745,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 4139,
       "name": "Tom Skerritt",
       "profile_path": "/fzfFrbdRPnAYaE0h3OD1PsMtiy8.jpg",
-      "popularity": 17.133,
+      "popularity": 23.986,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 6486,
       "name": "Dan Hedaya",
       "profile_path": "/snVHnoQk6K1WkikJWW0rGpOGxFV.jpg",
-      "popularity": 17.13,
+      "popularity": 23.982,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1039,
       "name": "Peter Boyle",
       "profile_path": "/6TapQmC46mPDYrwm67tyJaEM97I.jpg",
-      "popularity": 17.104,
+      "popularity": 14.731,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 97576,
       "name": "Gemma Chan",
       "profile_path": "/stTKj4iNauhqlVmZ6XAsFsvcMCY.jpg",
-      "popularity": 17.097,
+      "popularity": 20.729,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 19728,
       "name": "Mark Harmon",
       "profile_path": "/lMqKPig7zBoGfou7wWf88sZEGHo.jpg",
-      "popularity": 17.09,
+      "popularity": 13.927,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 14592,
       "name": "BD Wong",
       "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg",
-      "popularity": 17.09,
+      "popularity": 16.727,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 113,
       "name": "Christopher Lee",
       "profile_path": "/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg",
-      "popularity": 17.09,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 55277,
-      "name": "Courtney Thorne-Smith",
-      "profile_path": "/32QJmSbDsyoiCu2cpyyebdcH4Nv.jpg",
-      "popularity": 17.081,
+      "popularity": 18.727,
       "adult": false,
       "known_for_department": "Acting"
     }

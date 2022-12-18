@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 35236,
+      "name": "Hunter Parrish",
+      "profile_path": "/6wLY0152iu5EHZLEjuLfBQ6ArBg.jpg",
+      "popularity": 7.994,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1438277,
       "name": "Leah Jeffries",
       "profile_path": "/2aQr7WF6GmwKflnHiIdtd1MX5NX.jpg",
@@ -15,7 +23,7 @@
       "id": 72910,
       "name": "Bjørn Watt-Boolsen",
       "profile_path": "/gvyxOupyXsWO2JGzPrq2FlheeA3.jpg",
-      "popularity": 5.709,
+      "popularity": 6.113,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1011130,
       "name": "Kim Min-ki",
       "profile_path": "",
-      "popularity": 5.708,
+      "popularity": 3.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1008554,
       "name": "Rainey Qualley",
       "profile_path": "/yDv8e8jZMvNP66LHWHQJJ70dcUx.jpg",
-      "popularity": 5.706,
+      "popularity": 4.112,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 13689,
       "name": "Ticky Holgado",
       "profile_path": "/cGT3k5bBs4OPwLfildORcK32zw0.jpg",
-      "popularity": 5.706,
+      "popularity": 3.424,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 6678,
       "name": "Michael Ontkean",
       "profile_path": "/hqWXpkZaHFnB3rCqUPFQsR0wlxn.jpg",
-      "popularity": 5.706,
+      "popularity": 6.912,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 238632,
       "name": "Şevval Sam",
       "profile_path": "/862dWPJKeaUo0w0t8IOr9r4pYFv.jpg",
-      "popularity": 5.705,
+      "popularity": 7.987,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 61829,
       "name": "Kelly Overton",
       "profile_path": "/u1KnPtnHfdLCrImtONXCYwJDqZk.jpg",
-      "popularity": 5.705,
+      "popularity": 7.987,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 58477,
       "name": "Jonathan Loughran",
       "profile_path": "/jNXgI1GRWJ1qquFkloj484rujAJ.jpg",
-      "popularity": 5.705,
+      "popularity": 6.912,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 45039,
       "name": "Miles O'Keeffe",
       "profile_path": "/39WNGWJ4mXYqvIGkrgfW369IrVN.jpg",
-      "popularity": 5.704,
+      "popularity": 7.986,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1165,
       "name": "Paul Shenar",
       "profile_path": "/kc0I4h9fTY8WP3wyQbwVWEzbmil.jpg",
-      "popularity": 5.704,
+      "popularity": 6.111,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 141317,
       "name": "Luciano Pavarotti",
       "profile_path": "/p9TlGSfQ4NNW54TL16zOe9gvXJx.jpg",
-      "popularity": 5.702,
+      "popularity": 4.111,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 67524,
       "name": "Leo Rossi",
       "profile_path": "/uHhTdiRzS3dZWGZFoQiMyfQqEVt.jpg",
-      "popularity": 5.702,
+      "popularity": 7.983,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 26055,
       "name": "Virginia Hey",
       "profile_path": "/ba2gJgPdzkFJJzJSHFh3IOTSPp5.jpg",
-      "popularity": 5.702,
+      "popularity": 7.983,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1256374,
       "name": "Engin Öztürk",
       "profile_path": "/nY0PvgJMtLXDlgrix4xwayqHu5C.jpg",
-      "popularity": 5.701,
+      "popularity": 7.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 83349,
       "name": "Drew Carey",
       "profile_path": "/9gH6us3pB90UAGfAesd2q2VFHNi.jpg",
-      "popularity": 5.701,
+      "popularity": 7.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 74123,
       "name": "Jamie Hector",
       "profile_path": "/cmpOE0ZP5oTy5i9bZSNDbv6v2Ol.jpg",
-      "popularity": 5.701,
+      "popularity": 6.51,
       "adult": false,
       "known_for_department": "Acting"
-    },
-    {
-      "id": 547976,
-      "name": "Hirohiko Araki",
-      "profile_path": "/wv5My0fSct87WrPoYynW662e5Wd.jpg",
-      "popularity": 5.7,
-      "adult": false,
-      "known_for_department": "Writing"
     }
   ]
 }

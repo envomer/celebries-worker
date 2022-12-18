@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 166897,
+      "name": "Lee Norris",
+      "profile_path": "/lLYYGvExYbvVlKw80DRGBpd6Yy9.jpg",
+      "popularity": 10.544,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 138323,
       "name": "Persia White",
       "profile_path": "/mQEQVF3JyfLv1AcTfpc7Hu9gwLJ.jpg",
-      "popularity": 8.481,
+      "popularity": 6.544,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 20980,
       "name": "Victoria Pratt",
       "profile_path": "/ej5U4JNHrhu85QSPXpON3Q0WxdF.jpg",
-      "popularity": 8.48,
+      "popularity": 8.544,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 128748,
       "name": "Alba Rohrwacher",
       "profile_path": "/vMEkjqLGNctbMBG7Djn4qKGsZ74.jpg",
-      "popularity": 8.476,
+      "popularity": 6.143,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 76555,
       "name": "Jakob Oftebro",
       "profile_path": "/qwCdGExEyucOFLFTkYSrhpGfJ0N.jpg",
-      "popularity": 8.475,
+      "popularity": 11.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 53926,
       "name": "Jon Heder",
       "profile_path": "/xGLRJEKKmNsDpz6MefPMU4gqQj1.jpg",
-      "popularity": 8.475,
+      "popularity": 11.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1119117,
       "name": "Katsuhiko Fujii",
       "profile_path": "",
-      "popularity": 8.474,
+      "popularity": 11.864,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -71,7 +79,7 @@
       "id": 45415,
       "name": "William Katt",
       "profile_path": "/gfNMkpm33MsN2Q07JWIHI4UFas3.jpg",
-      "popularity": 8.474,
+      "popularity": 11.864,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 207150,
       "name": "Jessica Barth",
       "profile_path": "/vQBxmLtlGqT8CuOnBwtzIWdwnNH.jpg",
-      "popularity": 8.471,
+      "popularity": 11.341,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,15 +103,7 @@
       "id": 28511,
       "name": "Luis Zahera",
       "profile_path": "/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg",
-      "popularity": 8.471,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3783386,
-      "name": "Karoline Viktoria Sletteng Garvang",
-      "profile_path": "/lR5WUJ0wMPTJd0XwZxRnsPu0MHI.jpg",
-      "popularity": 9.741,
+      "popularity": 11.859,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +111,7 @@
       "id": 110424,
       "name": "Alberto Ammann",
       "profile_path": "/8jhuoxRvOTJFHmYh4kmCAZ8Mggj.jpg",
-      "popularity": 8.467,
+      "popularity": 7.74,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +119,7 @@
       "id": 92758,
       "name": "Marta Kober",
       "profile_path": "/iAhQC8hzvgmdzvfYoopp4AWMvUP.jpg",
-      "popularity": 8.467,
+      "popularity": 5.08,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +127,7 @@
       "id": 83526,
       "name": "Haruka Ayase",
       "profile_path": "/oUfDmm4jJ03Vs58Ys64f1E219Ix.jpg",
-      "popularity": 8.465,
+      "popularity": 11.851,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +135,7 @@
       "id": 72731,
       "name": "Nick Cheung",
       "profile_path": "/drxKdDHtaqUQycTwK2z2QHO3gMm.jpg",
-      "popularity": 8.464,
+      "popularity": 11.85,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +143,7 @@
       "id": 56757,
       "name": "Eva Amurri Martino",
       "profile_path": "/enonhVe1k9CHPtGUy4xdEPoa1Rg.jpg",
-      "popularity": 8.464,
+      "popularity": 11.85,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,7 +151,7 @@
       "id": 1270,
       "name": "Charles Martin Smith",
       "profile_path": "/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg",
-      "popularity": 8.464,
+      "popularity": 7.339,
       "adult": false,
       "known_for_department": "Acting"
     },

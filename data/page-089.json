@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1257601,
+      "name": "Go Kyung-pyo",
+      "profile_path": "/bqzjZ8mDTgfdmR039EDPGVLWPhy.jpg",
+      "popularity": 14.353,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 18307,
       "name": "Daniel Dae Kim",
       "profile_path": "/aXbTKgL4u6oVumQ459B9VkGTn4A.jpg",
-      "popularity": 14.353,
+      "popularity": 12.706,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 53367,
       "name": "Ruth Sheen",
       "profile_path": "/l1K0aEfdMpumVlgW59A5Mf5avpW.jpg",
-      "popularity": 14.35,
+      "popularity": 17.505,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 5141,
       "name": "Heather Langenkamp",
       "profile_path": "/xI20Uddk9COIfgifaA4NRsXyZMD.jpg",
-      "popularity": 14.347,
+      "popularity": 10.304,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 61363,
       "name": "Alex Pettyfer",
       "profile_path": "/jcejkad2OWB71Bz1RRc4Ib0961k.jpg",
-      "popularity": 14.342,
+      "popularity": 12.703,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 5168,
       "name": "Gabriel Byrne",
       "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg",
-      "popularity": 14.34,
+      "popularity": 16.702,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 3381,
       "name": "Glenn Ford",
       "profile_path": "/5HGIsOVaVwlc4brv7IdVJ7ncEZ5.jpg",
-      "popularity": 14.34,
+      "popularity": 20.076,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 52139,
       "name": "Seth MacFarlane",
       "profile_path": "/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg",
-      "popularity": 14.334,
+      "popularity": 20.068,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 8872,
       "name": "Rick Moranis",
       "profile_path": "/nCIh203hALUsQW44x3dzpjSA4yf.jpg",
-      "popularity": 14.334,
+      "popularity": 15.1,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1248,
       "name": "Brian Cox",
       "profile_path": "/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg",
-      "popularity": 14.326,
+      "popularity": 16.298,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 38582,
       "name": "David Krumholtz",
       "profile_path": "/6M2kk44Z1DyUhuVGyy2UDbCKZuM.jpg",
-      "popularity": 14.315,
+      "popularity": 20.041,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 52404,
       "name": "Mae Whitman",
       "profile_path": "/zuBG3jBfjfIoeY6gQeVMqrqPWGO.jpg",
-      "popularity": 14.311,
+      "popularity": 20.035,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 6462,
       "name": "Denver Pyle",
       "profile_path": "/5e5nJVdJyMy5YnaTGp7Vk0Qju3C.jpg",
-      "popularity": 14.293,
+      "popularity": 12.288,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 542870,
       "name": "Olivia Holt",
       "profile_path": "/t5HYa4kV7xqnB3kbNtCyLDxH3Ij.jpg",
-      "popularity": 14.286,
+      "popularity": 19.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 6837,
       "name": "Walter Matthau",
       "profile_path": "/oAMxqfGR0C5Ru5vER9Y4OP6P0xR.jpg",
-      "popularity": 14.277,
+      "popularity": 17.883,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 8874,
       "name": "Ernie Hudson",
       "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg",
-      "popularity": 14.275,
+      "popularity": 19.083,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 122889,
       "name": "Dane DeHaan",
       "profile_path": "/uwl0WKqHj6ahsriOEPLks84T70j.jpg",
-      "popularity": 14.273,
+      "popularity": 19.482,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 16937,
       "name": "Rex Linn",
       "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg",
-      "popularity": 14.273,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1460120,
-      "name": "Millie Brady",
-      "profile_path": "/8IBIRaUl4QyttlieUfKVBR2Ia5J.jpg",
-      "popularity": 14.269,
+      "popularity": 16.682,
       "adult": false,
       "known_for_department": "Acting"
     }

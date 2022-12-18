@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 228714,
+      "name": "Ana Girardot",
+      "profile_path": "/lzr5TqGOYF7KPaqS4kOpKrTmcex.jpg",
+      "popularity": 7.681,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 119908,
       "name": "Eve Myles",
       "profile_path": "/5NipnvM12zbDjIbZf3tzLfQu4bf.jpg",
-      "popularity": 5.603,
+      "popularity": 7.844,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 37042,
       "name": "Ann Magnuson",
       "profile_path": "/gzT97QR7Q6ZWkDttAVIpO0pyoM2.jpg",
-      "popularity": 5.603,
+      "popularity": 7.844,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 4433,
       "name": "Alexis Dziena",
       "profile_path": "/vKZ6blAnr7EXVk5rvmKJsK2jhzS.jpg",
-      "popularity": 5.603,
+      "popularity": 7.681,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 106785,
       "name": "Demet Evgar",
       "profile_path": "/7dgetzYLZG0JmNDLFPw4EeusJ1t.jpg",
-      "popularity": 5.602,
+      "popularity": 4.881,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 53934,
       "name": "Ellen Dubin",
       "profile_path": "/6pskknCFA9ELimcXdR5LMJb1JJn.jpg",
-      "popularity": 5.602,
+      "popularity": 7.843,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 27267,
       "name": "Rebecca Pidgeon",
       "profile_path": "/c8nJjBpB7zYtdnEY1GNPtUSophZ.jpg",
-      "popularity": 5.601,
+      "popularity": 7.68,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 26973,
       "name": "John White",
       "profile_path": "/3iaiCj09Kl8JnMNVEzQUCB6n0eM.jpg",
-      "popularity": 5.601,
+      "popularity": 7.841,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1087747,
       "name": "Kiara Glasco",
       "profile_path": "/xDGfOiKuDJMHnVgn9Gj5hwgnBMb.jpg",
-      "popularity": 5.6,
+      "popularity": 4.08,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 157321,
       "name": "William Christopher",
       "profile_path": "/cHzfv3vvBFmtPjCH0GrECwWu3uc.jpg",
-      "popularity": 5.6,
+      "popularity": 3.36,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 105000,
       "name": "Merle Kennedy",
       "profile_path": "/fx7NounjDvI6sjCC3Xa1Vsms8nE.jpg",
-      "popularity": 5.6,
+      "popularity": 3.68,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1256721,
       "name": "Shizuka Nakamura",
       "profile_path": "/jS4yXPEDvCUCrufukKZ4v14ldEa.jpg",
-      "popularity": 5.599,
+      "popularity": 6.08,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1120694,
       "name": "Jennifer Lee",
       "profile_path": "/pjZY7hdneR7FLrAT0mXNR6RrPfy.jpg",
-      "popularity": 5.599,
+      "popularity": 7.839,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -119,7 +127,7 @@
       "id": 84878,
       "name": "Antonio Fargas",
       "profile_path": "/tolJfiTpIsVfqijPZ2UroUswwyr.jpg",
-      "popularity": 5.599,
+      "popularity": 7.68,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 59926,
       "name": "Jesse Moss",
       "profile_path": "/ki9S8rLqvhde9nYaUqrMisCSqwq.jpg",
-      "popularity": 5.599,
+      "popularity": 5.28,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 40632,
       "name": "David Anders",
       "profile_path": "/nSVsfO40e9HLjTN4aA8ifQVtFMv.jpg",
-      "popularity": 5.599,
+      "popularity": 7.839,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 40206,
       "name": "Tony Randall",
       "profile_path": "/8UyliAMUnMOsLdwBYz455QjESoi.jpg",
-      "popularity": 5.599,
+      "popularity": 7.28,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -152,14 +160,6 @@
       "name": "Winston Duke",
       "profile_path": "/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg",
       "popularity": 5.598,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1557715,
-      "name": "Leslie Medina",
-      "profile_path": "/ifvTzHDZAh6lVNNKxGTRBOKw2dV.jpg",
-      "popularity": 5.597,
       "adult": false,
       "known_for_department": "Acting"
     }

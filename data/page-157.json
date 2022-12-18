@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 585211,
+      "name": "Masaki Suda",
+      "profile_path": "/g7gXu0bE9jZ5LHjSqn1zHdNtiA1.jpg",
+      "popularity": 8.445,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 135347,
+      "name": "JeeJa Yanin",
+      "profile_path": "/73xhAKFbeNSlJTwUCsQCAtryLYS.jpg",
+      "popularity": 9.645,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 66658,
       "name": "Jae Head",
       "profile_path": "/nNh2DiYXZneyeiYDitKT6s1AwEy.jpg",
-      "popularity": 10.816,
+      "popularity": 10.045,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 10399,
       "name": "Teri Polo",
       "profile_path": "/5xVk9bfMOeJxKmAGJddOhcNp2rX.jpg",
-      "popularity": 10.815,
+      "popularity": 15.141,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 2094,
       "name": "Peter Lorre",
       "profile_path": "/rqf6BztvMSAlAA2jrTd0VSORprA.jpg",
-      "popularity": 10.815,
+      "popularity": 12.845,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 64141,
       "name": "David Gordon Green",
       "profile_path": "/iLNt8WmQmlVJHO5N5V7EmvXoXxQ.jpg",
-      "popularity": 10.806,
+      "popularity": 12.842,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -63,7 +79,7 @@
       "id": 233590,
       "name": "Yoshitsugu Matsuoka",
       "profile_path": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg",
-      "popularity": 10.802,
+      "popularity": 8.841,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 503,
       "name": "Justin Chatwin",
       "profile_path": "/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg",
-      "popularity": 10.8,
+      "popularity": 15.12,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 121868,
       "name": "Booboo Stewart",
       "profile_path": "/xldPsFq9oVT7rH3Bs6LvlA8N5cn.jpg",
-      "popularity": 10.798,
+      "popularity": 6.479,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 24357,
       "name": "Alex Borstein",
       "profile_path": "/evbCnRe5Yfuy0B41PONLTIcvbem.jpg",
-      "popularity": 10.797,
+      "popularity": 15.116,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 116882,
       "name": "Lyndsy Fonseca",
       "profile_path": "/nFgo7oEqvwubxejBfNQwHv8Tp3x.jpg",
-      "popularity": 10.793,
+      "popularity": 14.838,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 87895,
       "name": "Chae Min-seo",
       "profile_path": "/3seXP8OjJycsTwK4vfkcTMm4k3Q.jpg",
-      "popularity": 10.793,
+      "popularity": 8.438,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 78216,
       "name": "Louise Bourgoin",
       "profile_path": "/8ORHoIXDwOoQOs0pEUHpyTfNEar.jpg",
-      "popularity": 10.792,
+      "popularity": 11.638,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 587753,
       "name": "Pooja Hegde",
       "profile_path": "/t09lf8vem5MRk3KaALcdgehreXg.jpg",
-      "popularity": 10.787,
+      "popularity": 9.236,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 22462,
       "name": "Joaquim de Almeida",
       "profile_path": "/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg",
-      "popularity": 10.787,
+      "popularity": 10.836,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 5077,
       "name": "Valeria Bruni-Tedeschi",
       "profile_path": "/aUOCl9ejkoenABuTjcDpDtkbvD7.jpg",
-      "popularity": 10.787,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1632658,
-      "name": "Filip Geljo",
-      "profile_path": "/iO0DSb4G6oIv1ar5d5fegO6oyKu.jpg",
-      "popularity": 10.785,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 32683,
-      "name": "Sidse Babett Knudsen",
-      "profile_path": "/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg",
-      "popularity": 10.785,
+      "popularity": 14.836,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 145245,
+      "name": "Caitlin Stasey",
+      "profile_path": "/8Cxs1enzkEsvIlfBaiuadsNTX8J.jpg",
+      "popularity": 11.681,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 24590,
+      "name": "Dominique Sanda",
+      "profile_path": "/7pgdyP7WDMLIzrlffs8fK5370IX.jpg",
+      "popularity": 15.308,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 112574,
       "name": "Patrick Duffy",
       "profile_path": "/wgjqdyWEpMXpeVNkyw4XDtlpz1E.jpg",
-      "popularity": 10.931,
+      "popularity": 14.479,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 76759,
       "name": "Benjamin Salisbury",
       "profile_path": "/fQ5BiuBMY6gisJxrSHwUS43lXx8.jpg",
-      "popularity": 10.93,
+      "popularity": 10.879,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 63992,
       "name": "Brett Kelly",
       "profile_path": "/kHPBsKWF4Cap70LVy41vL5ADyLW.jpg",
-      "popularity": 10.929,
+      "popularity": 10.479,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 186396,
       "name": "Darrell D'Silva",
       "profile_path": "/nyLa6LmV9iGv4h9Zqbh1xMp7T26.jpg",
-      "popularity": 10.927,
+      "popularity": 9.278,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 57136,
       "name": "Ryan Merriman",
       "profile_path": "/rVx3MB8tbt9V5gaIHB4zQQM9N0z.jpg",
-      "popularity": 10.927,
+      "popularity": 11.678,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 31535,
       "name": "Melissa McBride",
       "profile_path": "/a1yjfKwaLbSpgzOfDdnNk2nxaQx.jpg",
-      "popularity": 10.926,
+      "popularity": 9.278,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 9048,
       "name": "Clark Gregg",
       "profile_path": "/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg",
-      "popularity": 10.926,
+      "popularity": 15.296,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 15758,
       "name": "Queen Latifah",
       "profile_path": "/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg",
-      "popularity": 10.924,
+      "popularity": 13.677,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 22131,
       "name": "J.T. Walsh",
       "profile_path": "/mBa1UnbbKryNtQKT3VOnzER1HiQ.jpg",
-      "popularity": 10.923,
+      "popularity": 11.277,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 34845,
       "name": "Lola Glaudini",
       "profile_path": "/hBZNPbzNgyYfcUUBHUlEKAodzSU.jpg",
-      "popularity": 10.921,
+      "popularity": 15.289,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 235416,
       "name": "Sarah Snook",
       "profile_path": "/m0Pi9ZjHaPUPce4r0158jPqvhcW.jpg",
-      "popularity": 10.92,
+      "popularity": 9.676,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 1192759,
       "name": "Lucy Fry",
       "profile_path": "/lCVsNdEhjmzRij5T2tRkjgktKOW.jpg",
-      "popularity": 10.919,
+      "popularity": 15.287,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 10500,
       "name": "Carole Bouquet",
       "profile_path": "/nCyI95wVvhXFH1GiornFHsL9YOx.jpg",
-      "popularity": 10.912,
+      "popularity": 11.674,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 986808,
       "name": "Wyatt Russell",
       "profile_path": "/f759e6y7uhobWRCmD0O21cBmjBA.jpg",
-      "popularity": 10.91,
+      "popularity": 9.673,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 566375,
       "name": "Jo Jae-yoon",
       "profile_path": "/eFAeusBo0tXQ1Ul596YKl5dV4Rv.jpg",
-      "popularity": 10.907,
+      "popularity": 10.472,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 61632,
       "name": "Dustin Nguyen",
       "profile_path": "/ejgR5tSZYZ9zC5jKQhG6vtHunvT.jpg",
-      "popularity": 10.906,
+      "popularity": 13.272,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 41223,
       "name": "Linda Purl",
       "profile_path": "/sSUxjP2ylr4pbQRgLB6qSoXWhfa.jpg",
-      "popularity": 10.906,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 23958,
-      "name": "Jeremy Sisto",
-      "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg",
-      "popularity": 10.906,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3410972,
-      "name": "Janelle Tee",
-      "profile_path": "/75owDFQePmBdG4NxdWh9HG6TSVe.jpg",
-      "popularity": 10.904,
+      "popularity": 15.268,
       "adult": false,
       "known_for_department": "Acting"
     }

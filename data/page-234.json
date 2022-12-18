@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 3417,
+      "name": "Tony Goldwyn",
+      "profile_path": "/m4CJX4QwjZsdYJKe8OJamLRnlQh.jpg",
+      "popularity": 12.201,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 22969,
       "name": "Jane Asher",
       "profile_path": "/tbq7zl4gFbAqXyRg88sCcaTGAab.jpg",
-      "popularity": 8.713,
+      "popularity": 9.014,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 147505,
       "name": "Kim Sung-oh",
       "profile_path": "/cda0UsT4OUugqtn27NGQ2Wla6Yd.jpg",
-      "popularity": 8.711,
+      "popularity": 9.813,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 45453,
       "name": "Eleanor Bron",
       "profile_path": "/jQbsHbeh9AdMyeLf8sS3UkGGHl.jpg",
-      "popularity": 8.711,
+      "popularity": 11.813,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1251223,
       "name": "Wu Kang-ren",
       "profile_path": "/sW7zJdOgS7bq1XuYjJrYtl2aDnb.jpg",
-      "popularity": 8.71,
+      "popularity": 5.226,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 43451,
       "name": "Iris Berben",
       "profile_path": "/pInPB6vJDaGlVQZn06pKoOCRhCN.jpg",
-      "popularity": 8.71,
+      "popularity": 5.226,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 99237,
       "name": "Gail Harris",
       "profile_path": "/iP8BscjXBBRgJa7Y0ULenDqdVOS.jpg",
-      "popularity": 8.708,
+      "popularity": 8.212,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 14882,
       "name": "Jackie Gleason",
       "profile_path": "/wOA7pQDGggvhrtUU30nFhYNwOLQ.jpg",
-      "popularity": 8.707,
+      "popularity": 9.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 177231,
       "name": "Lana Parrilla",
       "profile_path": "/xPEMMDHQiTEtvsq71v7ba8thyn1.jpg",
-      "popularity": 8.706,
+      "popularity": 9.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 105207,
       "name": "Barbi Benton",
       "profile_path": "/7AB4lSPhWhheeUGxhSKzgOJBVxp.jpg",
-      "popularity": 8.706,
+      "popularity": 7.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 223167,
       "name": "Radhika Apte",
       "profile_path": "/wKPybRcSYcbgDiJZwELudrRNf0r.jpg",
-      "popularity": 8.705,
+      "popularity": 6.212,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 76239,
       "name": "Garette Ratliff Henson",
       "profile_path": "/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg",
-      "popularity": 8.705,
+      "popularity": 5.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 47774,
       "name": "Vincent Pastore",
       "profile_path": "/dyRRn8POwLUMHT7lIISujioYOym.jpg",
-      "popularity": 8.705,
+      "popularity": 12.187,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 231,
       "name": "Greg Bryk",
       "profile_path": "/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg",
-      "popularity": 8.702,
+      "popularity": 7.011,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 80109,
       "name": "Marla Sokoloff",
       "profile_path": "/8BKFL66gVvKrRbXvd6ME9REUMld.jpg",
-      "popularity": 8.701,
+      "popularity": 11.81,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 111090,
       "name": "Javier Botet",
       "profile_path": "/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg",
-      "popularity": 8.698,
+      "popularity": 7.009,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 4068,
       "name": "Gary Cooper",
       "profile_path": "/67svKX2KuFwwBvrijIb7bBtBgIM.jpg",
-      "popularity": 8.698,
+      "popularity": 12.177,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 52374,
       "name": "Bruce Davison",
       "profile_path": "/uPHdmfGT2madX9nxIXoMCGoVJC.jpg",
-      "popularity": 8.696,
+      "popularity": 12.174,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 51975,
       "name": "Laura Ramsey",
       "profile_path": "/BtgZKo1hTRUHBBGoSQrtC6nnZI.jpg",
-      "popularity": 8.695,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 15109,
-      "name": "Lisa Roberts Gillan",
-      "profile_path": "/cIpGjGrqTzpOtHPtskkYy8SHd8j.jpg",
-      "popularity": 8.695,
+      "popularity": 5.409,
       "adult": false,
       "known_for_department": "Acting"
     }

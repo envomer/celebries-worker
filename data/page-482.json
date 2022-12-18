@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 547976,
+      "name": "Hirohiko Araki",
+      "profile_path": "/wv5My0fSct87WrPoYynW662e5Wd.jpg",
+      "popularity": 3.71,
+      "adult": false,
+      "known_for_department": "Writing"
+    },
+    {
       "id": 1414734,
       "name": "Neel Sethi",
       "profile_path": "/aPAStca2iW94rfiosXWvGi6xRGM.jpg",
@@ -15,7 +23,7 @@
       "id": 15439,
       "name": "Gary Farmer",
       "profile_path": "/jGzbxhmJUZBLk3MblowFm6iI1m2.jpg",
-      "popularity": 5.699,
+      "popularity": 6.11,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1094319,
       "name": "Matthew Page",
       "profile_path": "/vMI1zxybJONZYqL8MI9gGxyfqfC.jpg",
-      "popularity": 5.698,
+      "popularity": 7.709,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 56450,
       "name": "Firass Dirani",
       "profile_path": "/cFAw9jjDTruGtGT7HiSFnaJRZFx.jpg",
-      "popularity": 5.698,
+      "popularity": 4.909,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 36152,
       "name": "Lawrence Hilton-Jacobs",
       "profile_path": "/5QtzvegS4ot4jIrPkRyzA5e2lK4.jpg",
-      "popularity": 5.698,
+      "popularity": 4.909,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1198292,
       "name": "Sigrid ten Napel",
       "profile_path": "/sp9CSIjxPnkkeqU20jIDCDYi0zn.jpg",
-      "popularity": 5.697,
+      "popularity": 3.709,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1076049,
       "name": "Chen Shu",
       "profile_path": "/uAFwHLWJKgqhxphXeOZfK2unUYq.jpg",
-      "popularity": 5.697,
+      "popularity": 4.909,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 83797,
       "name": "Vincent Lacoste",
       "profile_path": "/1hp8PALjdPV57pnmk7VU3N4Pdf7.jpg",
-      "popularity": 5.697,
+      "popularity": 4.109,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 67004,
       "name": "Anneke von der Lippe",
       "profile_path": "/wAvLqJqsBAVMLanBTfvs4AJm5nL.jpg",
-      "popularity": 5.697,
+      "popularity": 6.909,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 33487,
       "name": "Patricia Wettig",
       "profile_path": "/e90WEPSvdrCqBJrpH4LAsR1UBp4.jpg",
-      "popularity": 5.697,
+      "popularity": 7.976,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 20739,
       "name": "Adam Shankman",
       "profile_path": "/zZmZgVp5OTU2eSMCDuOXGlQ4fBR.jpg",
-      "popularity": 5.697,
+      "popularity": 4.909,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -143,7 +151,7 @@
       "id": 1081608,
       "name": "Sacheen Littlefeather",
       "profile_path": "/3GoXUWTKZwKf5aQo2AklTqO4wdP.jpg",
-      "popularity": 5.695,
+      "popularity": 3.417,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 114601,
       "name": "Carly Chaikin",
       "profile_path": "/qKwgQuSqe3vBmlcyLplXDt6fysW.jpg",
-      "popularity": 5.695,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2849185,
-      "name": "E. R. Fightmaster",
-      "profile_path": "/yXvCWvs6NJ8SZspvtJBlIe10KWa.jpg",
-      "popularity": 5.694,
+      "popularity": 7.973,
       "adult": false,
       "known_for_department": "Acting"
     }

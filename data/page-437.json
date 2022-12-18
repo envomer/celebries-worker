@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 44615,
+      "name": "Raven De La Croix",
+      "profile_path": "/pMi57qhyTFdtOE6vAHsyecjf9Os.jpg",
+      "popularity": 5.016,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1128902,
       "name": "Camille Rowe",
       "profile_path": "/vMrYMXMGr5w4NHVt0DbVjA004s7.jpg",
-      "popularity": 6.051,
+      "popularity": 8.471,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 158011,
       "name": "Kristian Alfonso",
       "profile_path": "/laLLA03fRUEbEb24fcgQ0wL3dRu.jpg",
-      "popularity": 6.051,
+      "popularity": 4.215,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 11520,
       "name": "Michael C. Maronna",
       "profile_path": "/vLmaPosdi7sLutyg5QkJHceRY5F.jpg",
-      "popularity": 6.051,
+      "popularity": 8.471,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 4753,
       "name": "Brian Bloom",
       "profile_path": "/9mZKhI3aVbzZ5Xq43n7fGzWAqi0.jpg",
-      "popularity": 6.051,
+      "popularity": 4.215,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 12799,
       "name": "Jeremy Piven",
       "profile_path": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg",
-      "popularity": 6.05,
+      "popularity": 6.615,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 52889,
       "name": "Johnny Vegas",
       "profile_path": "/8OSpG0BrJGtIWXpIlYMryVve2iK.jpg",
-      "popularity": 6.049,
+      "popularity": 8.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 6012,
       "name": "Daniel Auteuil",
       "profile_path": "/5asrvkdSnlYlHap3ldDNyE5opeI.jpg",
-      "popularity": 6.049,
+      "popularity": 4.215,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 3663,
       "name": "Jerry Lewis",
       "profile_path": "/3TpijSL83yJYvEurLjCnIU44Fr9.jpg",
-      "popularity": 6.049,
+      "popularity": 8.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1139872,
       "name": "Sharad Kelkar",
       "profile_path": "/9UWI0fQUW5JRCS4tOb2w4ugmgJ2.jpg",
-      "popularity": 6.048,
+      "popularity": 4.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 99535,
       "name": "Silvia Dionisio",
       "profile_path": "/nMdDFjVCIbkVgohdibKbQ5qBwYU.jpg",
-      "popularity": 6.048,
+      "popularity": 3.814,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 424,
       "name": "Dallas Roberts",
       "profile_path": "/irqfTXfK1rWeF6SNLzB37b6yxAN.jpg",
-      "popularity": 6.048,
+      "popularity": 8.467,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 76234,
       "name": "Matt Salinger",
       "profile_path": "/6XekW5u9FAKKkEMiWmsyxCNcoXm.jpg",
-      "popularity": 6.047,
+      "popularity": 4.614,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 69958,
       "name": "Fernandel",
       "profile_path": "/eiiPLZPZ0XilcexB5eNOWEbbcrm.jpg",
-      "popularity": 6.047,
+      "popularity": 8.466,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 11370,
       "name": "Elton John",
       "profile_path": "/9G3k29OWPyZtScEDZEAsFJpqiM7.jpg",
-      "popularity": 6.047,
+      "popularity": 8.466,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 2514293,
       "name": "Sam Corlett",
       "profile_path": "/9SQHs53DKbyn0JwdyxIeuiCiuYb.jpg",
-      "popularity": 6.045,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 203459,
-      "name": "Barbara Marten",
-      "profile_path": "/sZiDuphaHkKzcmSCdpG5lsp0N6t.jpg",
       "popularity": 6.045,
       "adult": false,
       "known_for_department": "Acting"

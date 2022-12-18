@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 57686,
+      "name": "Hill Harper",
+      "profile_path": "/bUzVvgD066zYGJ9amJzgoGivlqD.jpg",
+      "popularity": 11.991,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 70066,
       "name": "Inger Nilsson",
       "profile_path": "/3Q4ShaIj1aLhcGxO2xnpbzOiqPK.jpg",
-      "popularity": 8.564,
+      "popularity": 11.99,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 9145,
       "name": "James Callis",
       "profile_path": "/dLmmQU5hA0J6Jxi20aS8kdN6k3o.jpg",
-      "popularity": 8.564,
+      "popularity": 9.369,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 52936,
       "name": "Kaitlin Doubleday",
       "profile_path": "/bzFbsId1qrT59uEDAsffTLea9ni.jpg",
-      "popularity": 8.56,
+      "popularity": 10.568,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 212930,
       "name": "Edin Hasanović",
       "profile_path": "/MW0VhzAHi3oMtnzNuESbpx02Wa.jpg",
-      "popularity": 8.557,
+      "popularity": 5.367,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 6105,
       "name": "Richard Lewis",
       "profile_path": "/cr688BUIVm9yLXB2fqwiYKt1f2J.jpg",
-      "popularity": 8.553,
+      "popularity": 9.366,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 31960,
       "name": "Zlatko Burić",
       "profile_path": "/lLQd6DgW8XGjWVRVw9KvAMue9i4.jpg",
-      "popularity": 8.551,
+      "popularity": 11.365,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 58319,
       "name": "Jason Scott Lee",
       "profile_path": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg",
-      "popularity": 8.55,
+      "popularity": 9.365,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 24651,
       "name": "Nana Mizuki",
       "profile_path": "/1h4C1kz8mziHmiB91MliTDHwgoh.jpg",
-      "popularity": 8.55,
+      "popularity": 11.97,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 22223,
       "name": "Marguerite Moreau",
       "profile_path": "/e0joYMTL9HzL2fnGKCrZJvcRZCp.jpg",
-      "popularity": 8.548,
+      "popularity": 8.964,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 137323,
       "name": "Winter Ave Zoli",
       "profile_path": "/yRgIbo4eUA6jkP8URMOnb6kda0d.jpg",
-      "popularity": 8.547,
+      "popularity": 7.764,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 87038,
       "name": "Joanna Kerns",
       "profile_path": "/8r0OzuWz7HAF6OL4ZkAw2ahwiSd.jpg",
-      "popularity": 8.544,
+      "popularity": 8.163,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 27737,
       "name": "Bill Moseley",
       "profile_path": "/jTeO0zcFj0hsOkEAnH3q7MgQQZj.jpg",
-      "popularity": 8.543,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 12793,
-      "name": "Matthew Marsden",
-      "profile_path": "/qejtyAt9dQdOS9AbXxSOwbw82E.jpg",
-      "popularity": 8.543,
+      "popularity": 11.96,
       "adult": false,
       "known_for_department": "Acting"
     }

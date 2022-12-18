@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1325034,
+      "name": "Sora Amamiya",
+      "profile_path": "/4ZZcdFH4QgbIC8AeJ3BLG1ue7G5.jpg",
+      "popularity": 6.591,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1107298,
       "name": "Kelley Jakle",
       "profile_path": "/9MNbvHB0Xik92TzcTgEDNwnZlkh.jpg",
-      "popularity": 5.971,
+      "popularity": 5.391,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 17283,
       "name": "Rupert Evans",
       "profile_path": "/YrsdSUjinm0NN6qd8Y2znPf8Cg.jpg",
-      "popularity": 5.971,
+      "popularity": 4.591,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 88619,
       "name": "Shenae Grimes-Beech",
       "profile_path": "/u7igdyXsEHxlLybIuZ9K8Inrt54.jpg",
-      "popularity": 5.97,
+      "popularity": 6.991,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 35317,
       "name": "Kate Mulgrew",
       "profile_path": "/dAEMBxDuD7ECXmdIEstvcC9pM8x.jpg",
-      "popularity": 5.97,
+      "popularity": 8.191,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 20814,
       "name": "Gregory Smith",
       "profile_path": "/5qwhNXC5SZf3D7e1i6iNFvcp91P.jpg",
-      "popularity": 5.969,
+      "popularity": 6.991,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 928581,
       "name": "Hugo Eric Louis van Lawick",
       "profile_path": "/8AH0pXEWZNHzQ7ESkpwzvnFdvhu.jpg",
-      "popularity": 5.968,
+      "popularity": 4.19,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 75340,
       "name": "Todd Bridges",
       "profile_path": "/r3lqiGtFU9jCbKCdbLeR72ZQlBw.jpg",
-      "popularity": 5.967,
+      "popularity": 6.99,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 38664,
       "name": "Sullivan Stapleton",
       "profile_path": "/vWadhfczxktoYQBC6TaAk6bE6Ci.jpg",
-      "popularity": 5.967,
+      "popularity": 6.99,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 29523,
       "name": "Martine Carol",
       "profile_path": "/jOqTFRobNv1fQshZmeAhZaHJsec.jpg",
-      "popularity": 5.967,
+      "popularity": 8.354,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 937654,
       "name": "Luigina Rocchi",
       "profile_path": "/jtX62XtWnIujZs7ueCTdsOklz7J.jpg",
-      "popularity": 5.965,
+      "popularity": 8.351,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 210334,
       "name": "Felisha Terrell",
       "profile_path": "/7VHzNKb3Nqvs4KzofCWhcfHyUVG.jpg",
-      "popularity": 5.965,
+      "popularity": 5.79,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 129759,
       "name": "Reg Rogers",
       "profile_path": "/3VqnWd3d5BnnxxyAEnQ85mdOaG2.jpg",
-      "popularity": 5.965,
+      "popularity": 6.59,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 122178,
       "name": "Cristina Marsillach",
       "profile_path": "/aUukv8ju77BVSrxD8I9Y3C2hsHg.jpg",
-      "popularity": 5.963,
+      "popularity": 8.348,
       "adult": false,
       "known_for_department": "Acting"
-    },
-    {
-      "id": 93194,
-      "name": "K. S. Ravikumar",
-      "profile_path": "/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg",
-      "popularity": 5.963,
-      "adult": false,
-      "known_for_department": "Directing"
     }
   ]
 }

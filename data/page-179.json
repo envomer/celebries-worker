@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 112742,
+      "name": "Emily Alyn Lind",
+      "profile_path": "/clCrzVr5SzWWohYaTC1VABnBvFd.jpg",
+      "popularity": 14.147,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 62414,
+      "name": "Yuen Biao",
+      "profile_path": "/pgO9Im1QKPjLozvsWODLtZDTjw7.jpg",
+      "popularity": 11.431,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 52442,
       "name": "Olivia Thirlby",
       "profile_path": "/1UItCwRP4xv6ThKQLd7CsNJfmxD.jpg",
-      "popularity": 10.101,
+      "popularity": 14.141,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 15566,
       "name": "Sharon Leal",
       "profile_path": "/3dJCnAZDG2ZN7Hxct8UAdPePpuz.jpg",
-      "popularity": 10.101,
+      "popularity": 12.23,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 1133011,
       "name": "Melia Kreiling",
       "profile_path": "/iPJYgKoRLZySoT2bHYYnn4mFWG1.jpg",
-      "popularity": 10.098,
+      "popularity": 10.629,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 500045,
       "name": "David Oakes",
       "profile_path": "/7NtAET6hvuQTGFAzfchTr3Z4iJ.jpg",
-      "popularity": 10.097,
+      "popularity": 9.829,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 591519,
       "name": "Laura Spencer",
       "profile_path": "/gaAIgczfFhGl1SSHijO6ZytEGjX.jpg",
-      "popularity": 10.095,
+      "popularity": 13.029,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 93663,
       "name": "Kellie Martin",
       "profile_path": "/l2SMcBisNoQjpSTq41VI8PoUSj2.jpg",
-      "popularity": 10.093,
+      "popularity": 12.228,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 105159,
       "name": "Alexandra Bastedo",
       "profile_path": "/npjOC1Nuu8mbBvmTOHhbxmlRYAb.jpg",
-      "popularity": 10.09,
+      "popularity": 11.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 82626,
       "name": "Calum Worthy",
       "profile_path": "/n4WmcFp0x7YAwwNSlDRPA1uXGQb.jpg",
-      "popularity": 10.09,
+      "popularity": 14.126,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 15886,
       "name": "Julia Louis-Dreyfus",
       "profile_path": "/pDzlVQhjxKQBpb9NcQ3hR20kz3z.jpg",
-      "popularity": 10.088,
+      "popularity": 13.826,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 1140237,
       "name": "Bailey Bass",
       "profile_path": "/ye6Ung9idV2iP6h7xhM1ExwzySs.jpg",
-      "popularity": 10.084,
+      "popularity": 14.118,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 67015,
       "name": "Michael Gross",
       "profile_path": "/qznUukUDTLDjRqbP3GdcMYqYSiI.jpg",
-      "popularity": 10.084,
+      "popularity": 14.118,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 115730,
       "name": "Patrick John Flueger",
       "profile_path": "/clfZivMXQzmxwO5XGXfNtycX3Xn.jpg",
-      "popularity": 10.083,
+      "popularity": 7.425,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 12776,
       "name": "Senta Berger",
       "profile_path": "/A6vTzs8BVX2XgOofzo6UiThBaoV.jpg",
-      "popularity": 10.083,
+      "popularity": 7.825,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 125167,
       "name": "Mindy Kaling",
       "profile_path": "/7ySdirSfk8U55nAXLiKBBbxyvvM.jpg",
-      "popularity": 10.081,
+      "popularity": 10.224,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 94864,
       "name": "Max Martini",
       "profile_path": "/3J9qjWkft7LsmHuQ0GHPnPIToOF.jpg",
-      "popularity": 10.08,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1215525,
-      "name": "Jorge Garcia",
-      "profile_path": "/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg",
-      "popularity": 10.079,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 84405,
-      "name": "Bill Owen",
-      "profile_path": "/y84nSLhqtvF50SjJL5czvrdcri5.jpg",
-      "popularity": 10.079,
+      "popularity": 14.112,
       "adult": false,
       "known_for_department": "Acting"
     }

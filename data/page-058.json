@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 50347,
+      "name": "Rachel Nichols",
+      "profile_path": "/bMv117SLOJoseim6qvuHFc1gntZ.jpg",
+      "popularity": 18.836,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 213001,
       "name": "Jenny Slate",
       "profile_path": "/hqLygFKiylb1hchgu113NP5r7iM.jpg",
-      "popularity": 17.417,
+      "popularity": 17.625,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 51992,
       "name": "Odette Annable",
       "profile_path": "/zbEaTdg8a7USjfH5LxaU2U3W6Zb.jpg",
-      "popularity": 17.415,
+      "popularity": 24.381,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 968006,
       "name": "Katherine McNamara",
       "profile_path": "/4UaoNsJX1Kkb7RpaODYO5WK9Vvv.jpg",
-      "popularity": 17.414,
+      "popularity": 15.224,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 70696,
       "name": "Kimberly Williams-Paisley",
       "profile_path": "/qJ4kWr4mDeKWenPeMOff8VtuAIq.jpg",
-      "popularity": 17.381,
+      "popularity": 24.014,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 130782,
       "name": "Jessica Szohr",
       "profile_path": "/lyOju1tWTlluW2P3pXT9jJ78KB8.jpg",
-      "popularity": 17.38,
+      "popularity": 16.014,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 24,
       "name": "Robert Zemeckis",
       "profile_path": "/lPYDQ5LYNJ12rJZENtyASmVZ1Ql.jpg",
-      "popularity": 17.366,
+      "popularity": 24.312,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -79,7 +87,7 @@
       "id": 50463,
       "name": "Malin Åkerman",
       "profile_path": "/u38qRcCAiO3SZdFKJKx3fncDyef.jpg",
-      "popularity": 17.365,
+      "popularity": 24.311,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 6684,
       "name": "Lara Flynn Boyle",
       "profile_path": "/1eOd7t7acV4Rtk6Kj3EeceRJbLZ.jpg",
-      "popularity": 17.36,
+      "popularity": 20.408,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 15007,
       "name": "Laura Harring",
       "profile_path": "/6g64N2VsADTPRDsKcJDO2ayGQUt.jpg",
-      "popularity": 17.336,
+      "popularity": 12.801,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 5026,
       "name": "Akira Kurosawa",
       "profile_path": "/uCFWmYXu0EqF5Bd6zWaOS4FxvEB.jpg",
-      "popularity": 17.333,
+      "popularity": 24.266,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -119,7 +127,7 @@
       "id": 15661,
       "name": "Clint Howard",
       "profile_path": "/6tugb8rz1hj8tYlSaSmUBD741fw.jpg",
-      "popularity": 17.327,
+      "popularity": 17.998,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 50266,
       "name": "Shemar Moore",
       "profile_path": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
-      "popularity": 17.321,
+      "popularity": 24.249,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1897,
       "name": "Bernie Mac",
       "profile_path": "/bwMmpeu3whjhhaxt1UTCk7S5jmv.jpg",
-      "popularity": 17.312,
+      "popularity": 24.237,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 54881,
       "name": "Summer Glau",
       "profile_path": "/17eWfqG9SZeRNx8AQctajX06Ik5.jpg",
-      "popularity": 17.308,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 20768,
-      "name": "Cherie Lunghi",
-      "profile_path": "/LoIGKqUw3d58MrVsLpw22goYCK.jpg",
-      "popularity": 17.307,
+      "popularity": 19.192,
       "adult": false,
       "known_for_department": "Acting"
     }

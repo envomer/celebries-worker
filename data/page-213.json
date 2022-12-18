@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2098560,
+      "name": "Katsamonnat Namwirote",
+      "profile_path": "/19agT0l3D0KaHuehYlSlq9nIk9P.jpg",
+      "popularity": 9.192,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 132312,
+      "name": "Brianne Howey",
+      "profile_path": "/5TMOHWjWoK5xhzIgQkIGzpQ3cM7.jpg",
+      "popularity": 9.558,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 4070,
       "name": "Grace Kelly",
       "profile_path": "/8nSxm2Q3DAxqKO142GQuiy9rgLV.jpg",
-      "popularity": 9.192,
+      "popularity": 12.869,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 47562,
       "name": "Agatha Christie",
       "profile_path": "/1L4su640toYra8iuG3r8WP2pPth.jpg",
-      "popularity": 9.188,
+      "popularity": 12.863,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -31,7 +47,7 @@
       "id": 11115,
       "name": "Peter Serafinowicz",
       "profile_path": "/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg",
-      "popularity": 9.188,
+      "popularity": 12.863,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 131520,
       "name": "Brooklyn Decker",
       "profile_path": "/x3JWepaXTopE9k0g87Q9diRM5Nc.jpg",
-      "popularity": 9.186,
+      "popularity": 9.156,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,15 +63,15 @@
       "id": 586757,
       "name": "Adèle Exarchopoulos",
       "profile_path": "/zlto2xvsdzLnfzoZNnS6txzNO5l.jpg",
-      "popularity": 9.185,
+      "popularity": 8.356,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 5004,
-      "name": "Omar El-Sherif",
+      "name": "Omar Sherif",
       "profile_path": "/yDUBIJa5BdktDzSgCkKEZLz7KxH.jpg",
-      "popularity": 9.185,
+      "popularity": 12.859,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 1156587,
       "name": "Jeana Ho Pui-Yu",
       "profile_path": "/cN6pLAyc66KdLeMeBK0NG1C5X2q.jpg",
-      "popularity": 9.184,
+      "popularity": 6.755,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 43366,
       "name": "Ann Dowd",
       "profile_path": "/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg",
-      "popularity": 9.184,
+      "popularity": 12.858,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 18284,
       "name": "Loretta Devine",
       "profile_path": "/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg",
-      "popularity": 9.183,
+      "popularity": 9.155,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 1134569,
       "name": "Ai Shinozaki",
       "profile_path": "/vMpmXyQXbTLrhmNOSdCEgLM90pR.jpg",
-      "popularity": 9.182,
+      "popularity": 12.855,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 77880,
       "name": "Josh Dallas",
       "profile_path": "/f9cjzUtgasJTZgpdqFIREhUUxbQ.jpg",
-      "popularity": 9.182,
+      "popularity": 12.355,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 17640,
       "name": "Susan Misner",
       "profile_path": "/nJHIk7BWzFrktuPdNE1WlLSEOQt.jpg",
-      "popularity": 9.179,
+      "popularity": 8.354,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 16808,
       "name": "Matthias Schweighöfer",
       "profile_path": "/i4c5JjvC5EpecZbp4J96mFmtm0Z.jpg",
-      "popularity": 9.179,
+      "popularity": 8.754,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 15309,
       "name": "Lori Petty",
       "profile_path": "/bmJFh4VxRii7h7jpo4YVC6BFeVd.jpg",
-      "popularity": 9.178,
+      "popularity": 12.849,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 52995,
       "name": "Edward Herrmann",
       "profile_path": "/sO9IoAlw3CLJZT6UF35cZBcTYRV.jpg",
-      "popularity": 9.177,
+      "popularity": 5.553,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 1535,
       "name": "Brian Doyle-Murray",
       "profile_path": "/1sDChfTscA1mone1uSJVPtbFn4l.jpg",
-      "popularity": 9.176,
+      "popularity": 9.953,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,25 +159,9 @@
       "id": 13473,
       "name": "Barry Bostwick",
       "profile_path": "/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg",
-      "popularity": 9.175,
+      "popularity": 12.353,
       "adult": false,
       "known_for_department": "Acting"
-    },
-    {
-      "id": 75041,
-      "name": "Cameron Boyce",
-      "profile_path": "/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg",
-      "popularity": 9.174,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 366,
-      "name": "James Mangold",
-      "profile_path": "/pk0GDjn99crNwR4qgCCEokDYd71.jpg",
-      "popularity": 9.174,
-      "adult": false,
-      "known_for_department": "Directing"
     }
   ]
 }

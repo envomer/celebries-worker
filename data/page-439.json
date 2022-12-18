@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 173020,
+      "name": "Richard O'Sullivan",
+      "profile_path": "/htKCFpNPHWSr0BMRbQZxfN3ExQ6.jpg",
+      "popularity": 3.811,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 118489,
       "name": "Walt Dohrn",
       "profile_path": "/uTTMPDK4qYQll5atL2qEHACdiaC.jpg",
-      "popularity": 6.038,
+      "popularity": 8.453,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 29509,
       "name": "Noah Hathaway",
       "profile_path": "/tYskHvYZJQhdaVBIds0n1KypKfv.jpg",
-      "popularity": 6.038,
+      "popularity": 7.811,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 13591,
       "name": "Richard Moll",
       "profile_path": "/p51OMBLWgsmf3qeprxszXHLmxKt.jpg",
-      "popularity": 6.038,
+      "popularity": 5.411,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1235716,
       "name": "Han Chae-young",
       "profile_path": "/f907YVcWMIWKbgvcotSfgWlIx3G.jpg",
-      "popularity": 6.037,
+      "popularity": 7.011,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 548663,
       "name": "Kym Malin",
       "profile_path": "/i5ycpxKRc2E1ZzeVKGtUnvlfpw1.jpg",
-      "popularity": 6.035,
+      "popularity": 6.211,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 115126,
       "name": "Brianne Davis",
       "profile_path": "/jiigBP7Cou2cMtVnirYl41RFvby.jpg",
-      "popularity": 6.035,
+      "popularity": 5.811,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1109111,
       "name": "Madeleine Madden",
       "profile_path": "/oOZ1EJeq2DHxNNLAkLEyYYOlqlM.jpg",
-      "popularity": 6.034,
+      "popularity": 6.61,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1207881,
       "name": "Oaklee Pendergast",
       "profile_path": "/tbC2Q3FCgW87o4ztxd8zfRveoIj.jpg",
-      "popularity": 6.033,
+      "popularity": 5.01,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 141521,
       "name": "Walter Sparrow",
       "profile_path": "/1GPhxI5s782nxaRJQGt9GXnqIWZ.jpg",
-      "popularity": 6.033,
+      "popularity": 6.21,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 110531,
       "name": "Shanola Hampton",
       "profile_path": "/3H3zLTBH3ThD0G4IJ4TACKhRzIw.jpg",
-      "popularity": 6.033,
+      "popularity": 8.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 8689,
       "name": "Barry Shabaka Henley",
       "profile_path": "/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg",
-      "popularity": 6.033,
+      "popularity": 8.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1234280,
       "name": "Jang Na-ra",
       "profile_path": "/ta0K42G00SdeFd924htaFXlpkR6.jpg",
-      "popularity": 6.031,
+      "popularity": 8.443,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 52705,
       "name": "Zak Santiago",
       "profile_path": "/zxxoFuifUlXhjtgoSd0GQ499ECw.jpg",
-      "popularity": 6.031,
+      "popularity": 5.409,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 47,
       "name": "Björk",
       "profile_path": "/dDsLL1f2FfHfUDdIHmSkloxunnM.jpg",
-      "popularity": 6.031,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 58643,
-      "name": "Linda Emond",
-      "profile_path": "/PjDT3zk5xAIFiJ1MaEJLtjdq5s.jpg",
-      "popularity": 6.03,
+      "popularity": 8.443,
       "adult": false,
       "known_for_department": "Acting"
     }

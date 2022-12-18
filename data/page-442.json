@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 124401,
+      "name": "Mao Inoue",
+      "profile_path": "/6PearnCbFJnQx0diGqjRFbIDcYD.jpg",
+      "popularity": 8.417,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 21909,
       "name": "Ekin Cheng",
       "profile_path": "/dS42D99itm6n5ROUoGxJFRH802j.jpg",
-      "popularity": 6.012,
+      "popularity": 7.804,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 1048644,
       "name": "Sarah Greene",
       "profile_path": "/hql67slgh3xYfs1efMd3Wz58X2F.jpg",
-      "popularity": 6.011,
+      "popularity": 4.603,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 99846,
       "name": "Shô Kosugi",
       "profile_path": "/cdoP2qnJILJlWT4xvYDxg2doaf6.jpg",
-      "popularity": 6.011,
+      "popularity": 6.603,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 52360,
       "name": "Ken Daurio",
       "profile_path": "/w2h65hO12TzEZmONJ3RB6DqcskJ.jpg",
-      "popularity": 6.011,
+      "popularity": 8.415,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -39,7 +47,7 @@
       "id": 967617,
       "name": "Sinqua Walls",
       "profile_path": "/oxty0W4Ga1pBbUz5abanxAXfJmC.jpg",
-      "popularity": 6.009,
+      "popularity": 8.413,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 20829,
       "name": "Seiji Miyaguchi",
       "profile_path": "/97XiJh1TSdu4hmJUp4Am5afgBZx.jpg",
-      "popularity": 6.009,
+      "popularity": 7.003,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 83436,
       "name": "Nita Talbot",
       "profile_path": "/skh9br3sEuzew8KmJSzZYi1pidg.jpg",
-      "popularity": 6.007,
+      "popularity": 6.202,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 29237,
       "name": "Leo Bill",
       "profile_path": "/lyXVnrvrbtAr5pPKaqGHQfe1a7W.jpg",
-      "popularity": 6.007,
+      "popularity": 8.41,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 8175,
       "name": "Thom Barry",
       "profile_path": "/9XhXqoqKqfQHZ5kGtuSkldcKYSF.jpg",
-      "popularity": 6.007,
+      "popularity": 5.802,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 7063,
       "name": "Nina Sosanya",
       "profile_path": "/nKqRWTF8hCsyjiSRCNMyShbmvrg.jpg",
-      "popularity": 6.007,
+      "popularity": 8.41,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1228915,
       "name": "Matt Passmore",
       "profile_path": "/wpEuBfFMvL6dAOFFQsZW2JtcYTj.jpg",
-      "popularity": 6.006,
+      "popularity": 6.602,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1254936,
       "name": "Zeyno Eracar",
       "profile_path": "/iq5YvCCM7mZPYCq6CSdspXAMe5a.jpg",
-      "popularity": 6.005,
+      "popularity": 8.407,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 129984,
       "name": "Glynis Davies",
       "profile_path": "/mB0tt7lc3Wg2aR34Ful6ZQGkh1H.jpg",
-      "popularity": 6.005,
+      "popularity": 5.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 17347,
       "name": "Marshall Allman",
       "profile_path": "/2frJJdV7p1z7WspoPmUw3ehqdjI.jpg",
-      "popularity": 6.005,
+      "popularity": 5.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 2557,
       "name": "Richard Romanus",
       "profile_path": "/fmHPjo3XmviP2rYy9SdbdLC2SXm.jpg",
-      "popularity": 6.005,
+      "popularity": 8.407,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 20330,
       "name": "Yuriko Ishida",
       "profile_path": "/cADoBCi603Chz2IaxcwWT2mNwCf.jpg",
-      "popularity": 6.003,
+      "popularity": 5.001,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 207997,
       "name": "Drew Roy",
       "profile_path": "/mdi520IbL1qydAXiREeRt4qw8kT.jpg",
-      "popularity": 6.002,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 41639,
-      "name": "Netta Garti",
-      "profile_path": "/yAwo4zSpCzMhYiPGxkJBYhnzjRV.jpg",
-      "popularity": 6.001,
+      "popularity": 4.201,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 963818,
+      "name": "Troy Baker",
+      "profile_path": "/k3eNrfCd6tEH7RKDwn6ZUpmjMnf.jpg",
+      "popularity": 13.336,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 16702,
       "name": "Sean Harris",
       "profile_path": "/7S7OIKHULB0Xj39Moh5lH9jTAGo.jpg",
-      "popularity": 12.454,
+      "popularity": 11.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 40039,
       "name": "Josh Stewart",
       "profile_path": "/gdA3hddSlk6caULKjlFsrZ1ZbQp.jpg",
-      "popularity": 12.453,
+      "popularity": 14.136,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 20005,
       "name": "Moira Kelly",
       "profile_path": "/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg",
-      "popularity": 12.453,
+      "popularity": 12.936,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 6648,
       "name": "Ingmar Bergman",
       "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
-      "popularity": 12.45,
+      "popularity": 11.735,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -39,7 +47,7 @@
       "id": 19487,
       "name": "Jay Hernandez",
       "profile_path": "/86mlhxglLYYCac1CWWj4s9uR9U9.jpg",
-      "popularity": 12.447,
+      "popularity": 12.134,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 589722,
       "name": "Teresa Ruiz",
       "profile_path": "/bu0bGNDzIpaVfrOBBb1PERirBB9.jpg",
-      "popularity": 12.445,
+      "popularity": 12.934,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 111920,
       "name": "Cindy Busby",
       "profile_path": "/cIVo6XM2FeIldSnOJA8IexiFQl3.jpg",
-      "popularity": 12.445,
+      "popularity": 12.934,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1472,
       "name": "Ray McKinnon",
       "profile_path": "/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg",
-      "popularity": 12.439,
+      "popularity": 11.732,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 2629,
       "name": "Alun Armstrong",
       "profile_path": "/ahx132GjztjnH7gP64Q0NLewUqZ.jpg",
-      "popularity": 12.431,
+      "popularity": 17.403,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 532,
       "name": "Joe Pantoliano",
       "profile_path": "/cXMOad9KKVBK1lg8EjEbcNPn1OT.jpg",
-      "popularity": 12.43,
+      "popularity": 17.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 228079,
       "name": "Kaho",
       "profile_path": "/s0ykmnef8yU6rf0ZLOaf6GMBbpb.jpg",
-      "popularity": 12.426,
+      "popularity": 11.728,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 20904,
       "name": "James Hong",
       "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg",
-      "popularity": 12.424,
+      "popularity": 14.127,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 65987,
       "name": "Rosamund Kwan",
       "profile_path": "/1S0sxM1n4gtBzpfZm3WddagBGz3.jpg",
-      "popularity": 12.422,
+      "popularity": 16.127,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 59252,
       "name": "Nikki Reed",
       "profile_path": "/xNIXLZ9giqTdvjkBUGq1bJqPe5D.jpg",
-      "popularity": 12.418,
+      "popularity": 13.325,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 7071,
       "name": "Louise Fletcher",
       "profile_path": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg",
-      "popularity": 12.417,
+      "popularity": 17.384,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 209,
       "name": "Jane Adams",
       "profile_path": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg",
-      "popularity": 12.413,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 42374,
-      "name": "Nicki Aycox",
-      "profile_path": "/vzsB1XQJJxMOG3nFpWzlEXRHIBz.jpg",
-      "popularity": 12.411,
+      "popularity": 12.124,
       "adult": false,
       "known_for_department": "Acting"
     }

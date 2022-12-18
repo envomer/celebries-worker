@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 67802,
+      "name": "Rick Jaffa",
+      "profile_path": "/iki2KpmMFhLIdq3pvHhq7tit8Q1.jpg",
+      "popularity": 14.307,
+      "adult": false,
+      "known_for_department": "Writing"
+    },
+    {
+      "id": 56614,
+      "name": "Ray Stevenson",
+      "profile_path": "/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg",
+      "popularity": 10.266,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 999817,
       "name": "Olivia Taylor Dudley",
       "profile_path": "/dcYv3aYSMNbGcYHehUjeEg1UwqY.jpg",
-      "popularity": 10.217,
+      "popularity": 9.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 89142,
       "name": "Yuliya Mayarchuk",
       "profile_path": "/tUvJSGa8qF0Rqnl1VNJfT4LptqC.jpg",
-      "popularity": 10.216,
+      "popularity": 12.265,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 69636,
       "name": "Ti Lung",
       "profile_path": "/dxA5qEE0c6kKxoRJXttAwSooMSv.jpg",
-      "popularity": 10.216,
+      "popularity": 9.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 52119,
       "name": "Megan Mullally",
       "profile_path": "/ypdczVeLt9B2zSOeY7e6RO2XWJQ.jpg",
-      "popularity": 10.216,
+      "popularity": 13.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1793,
       "name": "Ricardo Montalban",
       "profile_path": "/lL4I7U0j6Jc31XNohM86FN6D23I.jpg",
-      "popularity": 10.212,
+      "popularity": 9.864,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 32278,
       "name": "Matt Reeves",
       "profile_path": "/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
-      "popularity": 10.21,
+      "popularity": 13.863,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +71,7 @@
       "id": 54815,
       "name": "Steven Strait",
       "profile_path": "/m7heTGlIKOZJgWrTtY5TS3LaZxS.jpg",
-      "popularity": 10.209,
+      "popularity": 9.463,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 25544,
       "name": "James Pickens Jr.",
       "profile_path": "/8z4GaJeshPUAOa642aPkiJz3R3d.jpg",
-      "popularity": 10.208,
+      "popularity": 14.291,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 118362,
       "name": "Jillian Murray",
       "profile_path": "/wEjZsQlMWp8tThFQeviC8xbo3pO.jpg",
-      "popularity": 10.207,
+      "popularity": 10.662,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 99839,
       "name": "Francine York",
       "profile_path": "/8DVJXeXC5NWYP9VpnUjR7n5Bnk9.jpg",
-      "popularity": 10.205,
+      "popularity": 7.862,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 77318,
       "name": "Siwon",
       "profile_path": "/tUgdHQXrmrb0VgUeaT6bbeqfkA6.jpg",
-      "popularity": 10.204,
+      "popularity": 11.061,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 3212,
       "name": "Evan Handler",
       "profile_path": "/yU0OXeZ0K1ppe1o9SpHiAMHy1rc.jpg",
-      "popularity": 10.204,
+      "popularity": 14.286,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 84466,
       "name": "Jessica McLeod",
       "profile_path": "/nJXORUI8JJVkYTCO4Lpjxz6VgzF.jpg",
-      "popularity": 10.2,
+      "popularity": 9.06,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 63470,
       "name": "Jennifer Lyons",
       "profile_path": "/2Eph4ijlHdB7TPRP6LSiJOj79pQ.jpg",
-      "popularity": 10.2,
+      "popularity": 9.46,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 49271,
       "name": "Brian Geraghty",
       "profile_path": "/4sqeUc4xYyzQ3Qpl5oxlQBTAAQk.jpg",
-      "popularity": 10.199,
+      "popularity": 14.279,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 41785,
       "name": "Joel Tobeck",
       "profile_path": "/8pzK6mGsSxZ4hGAx1KFhsVRepT4.jpg",
-      "popularity": 10.197,
+      "popularity": 11.059,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,22 +159,6 @@
       "id": 1723485,
       "name": "Seo Ji-hoon",
       "profile_path": "/hq3JSMoE8qWbPeae52dQXVaeRme.jpg",
-      "popularity": 10.195,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 123664,
-      "name": "Kim Min-hee",
-      "profile_path": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg",
-      "popularity": 10.195,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 105704,
-      "name": "Melinda Culea",
-      "profile_path": "/eppxLnzyoVuw4H7lxCrehhu0ouH.jpg",
       "popularity": 10.195,
       "adult": false,
       "known_for_department": "Acting"

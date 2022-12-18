@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 6416,
+      "name": "Polly Walker",
+      "profile_path": "/42uHuIwZHorg2CyShOtjnjQnTOy.jpg",
+      "popularity": 21.027,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1744377,
       "name": "Hong Sae-hee",
       "profile_path": "",
@@ -15,7 +23,7 @@
       "id": 9779,
       "name": "Morris Chestnut",
       "profile_path": "/nG2JEXSpIp3wZzVQ3Q0IRPpkXxe.jpg",
-      "popularity": 15.011,
+      "popularity": 20.503,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 87819,
       "name": "Dawnn Lewis",
       "profile_path": "/ppxGgmkTczev2VsiOSMfaGUy580.jpg",
-      "popularity": 15.008,
+      "popularity": 17.702,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 2053,
       "name": "Bill Paxton",
       "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg",
-      "popularity": 15.008,
+      "popularity": 21.011,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 204392,
       "name": "Cristin Milioti",
       "profile_path": "/jRkZ1k2kZGnKhCJ3iqA9Pf8p17c.jpg",
-      "popularity": 15.007,
+      "popularity": 16.502,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 11863,
       "name": "Sarah Michelle Gellar",
       "profile_path": "/sCpCv2ldnrAQN9NVQOE6PYxG8TN.jpg",
-      "popularity": 15.005,
+      "popularity": 16.502,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 608,
       "name": "Hayao Miyazaki",
       "profile_path": "/mG3cfxtA5jqDc7fpKgyzZMKoXDh.jpg",
-      "popularity": 15.004,
+      "popularity": 11.701,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -63,7 +71,7 @@
       "id": 55779,
       "name": "John Schneider",
       "profile_path": "/c3cM4MuGSfDFQScZsYyWzVkD0pp.jpg",
-      "popularity": 15.001,
+      "popularity": 20.5,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1173,
       "name": "Mark Margolis",
       "profile_path": "/rT5TYJIPLBkTqsrUs00AixGeaMM.jpg",
-      "popularity": 14.991,
+      "popularity": 20.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 39658,
       "name": "Sally Hawkins",
       "profile_path": "/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg",
-      "popularity": 14.986,
+      "popularity": 20.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 52886,
       "name": "Jeffrey Donovan",
       "profile_path": "/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg",
-      "popularity": 14.982,
+      "popularity": 20.975,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 2453,
       "name": "Mary Steenburgen",
       "profile_path": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg",
-      "popularity": 14.979,
+      "popularity": 20.971,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 8252,
       "name": "William Holden",
       "profile_path": "/eMdXRtJVvescfdxHAINVf7dcpAV.jpg",
-      "popularity": 14.963,
+      "popularity": 14.089,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 10978,
       "name": "Maggie Smith",
       "profile_path": "/qZyJ7DaOtkfqw58Iv7EqADi428P.jpg",
-      "popularity": 14.962,
+      "popularity": 20.947,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 741,
       "name": "River Phoenix",
       "profile_path": "/2kAB7jDmPfEa6BTmXlGcidCzMSz.jpg",
-      "popularity": 14.962,
+      "popularity": 17.689,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 2154,
       "name": "Scott Bakula",
       "profile_path": "/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg",
-      "popularity": 14.961,
+      "popularity": 12.888,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1223059,
       "name": "Jaime Murray",
       "profile_path": "/4EuogBLesagmQzkDAKgvBFD2kVk.jpg",
-      "popularity": 14.959,
+      "popularity": 20.943,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 10768,
       "name": "Rachel Ticotin",
       "profile_path": "/ihLzHGkgQcpUX26K5AtfG8VuYGB.jpg",
-      "popularity": 14.942,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1454610,
-      "name": "Paige Spara",
-      "profile_path": "/dUKq7IxIHEdkqJ25qaq2vDUMAg6.jpg",
-      "popularity": 14.941,
+      "popularity": 16.883,
       "adult": false,
       "known_for_department": "Acting"
     }

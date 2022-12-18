@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 15109,
+      "name": "Lisa Roberts Gillan",
+      "profile_path": "/cIpGjGrqTzpOtHPtskkYy8SHd8j.jpg",
+      "popularity": 5.409,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 26473,
       "name": "Fisher Stevens",
       "profile_path": "/vfyZMT3t3mGTloYGrC7T3QhGkwp.jpg",
-      "popularity": 8.694,
+      "popularity": 12.172,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 13578,
       "name": "Dana Andrews",
       "profile_path": "/gTZaqIS441ejTsQmfZff6SHvWja.jpg",
-      "popularity": 8.694,
+      "popularity": 11.808,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 50570,
       "name": "Jeff Chandler",
       "profile_path": "/7fh0EcV4LX3SxLOFmpSSar5TAjB.jpg",
-      "popularity": 8.687,
+      "popularity": 12.162,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 2036,
       "name": "Alex Garland",
       "profile_path": "/nDCkPeWFVcvXrRAJuXNxVCTJEXe.jpg",
-      "popularity": 8.686,
+      "popularity": 5.806,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -63,7 +71,7 @@
       "id": 97698,
       "name": "Michelle Bauer",
       "profile_path": "/p5s7WpTaGnMWgstpyXzGvRXP6dm.jpg",
-      "popularity": 8.684,
+      "popularity": 10.605,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1666,
       "name": "Julie Christie",
       "profile_path": "/siAi4XZhDPP8LRgbByzwLqVaLIQ.jpg",
-      "popularity": 8.684,
+      "popularity": 10.205,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1178601,
       "name": "Naomi Battrick",
       "profile_path": "/jZedmlK22j9B5hzjeHfizx9A0gR.jpg",
-      "popularity": 8.683,
+      "popularity": 7.005,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 33528,
       "name": "Joseph Cross",
       "profile_path": "/exxcI1BPy7BFQvXWM5DiH7xpwPO.jpg",
-      "popularity": 8.68,
+      "popularity": 9.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 18316,
       "name": "Ally Walker",
       "profile_path": "/YpBscMWFIZwCG5StxWAfbfX3XL.jpg",
-      "popularity": 8.68,
+      "popularity": 11.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 90496,
       "name": "Masako Nozawa",
       "profile_path": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg",
-      "popularity": 8.679,
+      "popularity": 11.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 60739,
       "name": "Kath Soucie",
       "profile_path": "/62hvT4USvGa9OAsMP9guIBtJqkf.jpg",
-      "popularity": 8.676,
+      "popularity": 7.403,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1163405,
       "name": "Kayla Compton",
       "profile_path": "/s5DQrvszZeLUIGdD9ryl1aMsGQv.jpg",
-      "popularity": 8.675,
+      "popularity": 12.145,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 57064,
       "name": "Melika Foroutan",
       "profile_path": "/nlXZFeqhXGbR5KePkO4UCcEUfg4.jpg",
-      "popularity": 8.675,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2694,
-      "name": "Josh Charles",
-      "profile_path": "/hedIAse3q3w1Pz7BhrGnzKcmYX8.jpg",
-      "popularity": 8.674,
+      "popularity": 9.403,
       "adult": false,
       "known_for_department": "Acting"
     }

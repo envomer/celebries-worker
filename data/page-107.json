@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 20402,
+      "name": "Julian McMahon",
+      "profile_path": "/PirhJFimrT5iK0qru4SzlwLW4G.jpg",
+      "popularity": 10.301,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 5575,
       "name": "Akiva Goldsman",
       "profile_path": "/zjnY7yoXZifRJR9x8hdGIm9ducG.jpg",
-      "popularity": 12.998,
+      "popularity": 13.099,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -23,7 +31,7 @@
       "id": 84247,
       "name": "Emily VanCamp",
       "profile_path": "/zTl2KVglr7D7jnBLjbqe1BbbJiV.jpg",
-      "popularity": 12.993,
+      "popularity": 18.19,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 95047,
       "name": "Graham McTavish",
       "profile_path": "/9IjPwv7Vb4QygA1cPSX179oqjsT.jpg",
-      "popularity": 12.992,
+      "popularity": 16.298,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 5313,
       "name": "Lena Olin",
       "profile_path": "/tPB3UcKpxgBXrKS1PHDKoKEtFEV.jpg",
-      "popularity": 12.988,
+      "popularity": 17.496,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 16855,
       "name": "Mandy Moore",
       "profile_path": "/1Z5yJ6FUsEtlVZzpyzOpfzvcpcm.jpg",
-      "popularity": 12.983,
+      "popularity": 9.895,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 4691,
       "name": "James Gandolfini",
       "profile_path": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg",
-      "popularity": 12.982,
+      "popularity": 18.175,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 560070,
       "name": "Jin Kyung",
       "profile_path": "/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg",
-      "popularity": 12.981,
+      "popularity": 18.173,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 539,
       "name": "Thomas Lennon",
       "profile_path": "/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg",
-      "popularity": 12.979,
+      "popularity": 16.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 20652,
       "name": "Cecilia Cheung",
       "profile_path": "/3vaMtd9Xh54v31qrFAo3gZQ8hkh.jpg",
-      "popularity": 12.974,
+      "popularity": 10.692,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 27104,
       "name": "Johnny Simmons",
       "profile_path": "/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg",
-      "popularity": 12.969,
+      "popularity": 18.157,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1218281,
       "name": "Alana de la Garza",
       "profile_path": "/fxeNagDxAeHt7QIcCKesEmjTE5K.jpg",
-      "popularity": 12.966,
+      "popularity": 15.09,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1524,
       "name": "Harold Ramis",
       "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg",
-      "popularity": 12.965,
+      "popularity": 14.69,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -111,7 +119,7 @@
       "id": 234009,
       "name": "Joséphine Jobert",
       "profile_path": "/s8nWAU7YOcYptzBMuZd4HsIJja4.jpg",
-      "popularity": 12.957,
+      "popularity": 11.087,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 83220,
       "name": "Ha Ji-won",
       "profile_path": "/kHV6m7L2PgcuAtHQha5FQtBvPDe.jpg",
-      "popularity": 12.952,
+      "popularity": 12.686,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 11782,
       "name": "Adrienne Barbeau",
       "profile_path": "/8uQqjG63SFCkmgdFB4SG8wRQmfp.jpg",
-      "popularity": 12.949,
+      "popularity": 16.685,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 11665,
       "name": "Michael Angarano",
       "profile_path": "/q4SOVndGsnCmSZKBllLaJCNM72c.jpg",
-      "popularity": 12.943,
+      "popularity": 13.483,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1409121,
       "name": "Fumika Baba",
       "profile_path": "/8OMeO92lSLYwvu4VcHKGXnd5FBG.jpg",
-      "popularity": 12.941,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1214717,
-      "name": "James Hyde",
-      "profile_path": "/yXVBAL5h339cnSkjlZykS2Qsc9v.jpg",
       "popularity": 12.941,
       "adult": false,
       "known_for_department": "Acting"

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 5133,
+      "name": "Bo Welch",
+      "profile_path": "/lYSuKR7b8aNYnZmzVQh4CPk5YMe.jpg",
+      "popularity": 7.875,
+      "adult": false,
+      "known_for_department": "Art"
+    },
+    {
       "id": 3508,
       "name": "Delphine Seyrig",
       "profile_path": "/ezp8GBgJPcnUVnJ2IguaiwX7J5t.jpg",
-      "popularity": 5.625,
+      "popularity": 7.875,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1141877,
       "name": "Ariana Neal",
       "profile_path": "/ewm9byOrir9ssi7K95Ti3hcTopz.jpg",
-      "popularity": 5.624,
+      "popularity": 4.487,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1071561,
       "name": "Nivin Pauly",
       "profile_path": "/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg",
-      "popularity": 5.624,
+      "popularity": 6.487,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 12207,
       "name": "Kylie Minogue",
       "profile_path": "/u9Lpzp7TFUcXn7277qMQRFNpEJu.jpg",
-      "popularity": 5.624,
+      "popularity": 7.874,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 3432,
       "name": "Rick Aviles",
       "profile_path": "/5A1GZnGOM9B7BKs1h44sDD4qH3Q.jpg",
-      "popularity": 5.624,
+      "popularity": 7.874,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1075355,
       "name": "Jemima West",
       "profile_path": "/i040KQaDRSxi5rjVmHoJXGJGLyw.jpg",
-      "popularity": 5.623,
+      "popularity": 7.872,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 83357,
       "name": "Raymond Thiry",
       "profile_path": "/eta0sCxA0bTJMIVxkIYFVdwe47S.jpg",
-      "popularity": 5.623,
+      "popularity": 7.872,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 68494,
       "name": "Justin Whalin",
       "profile_path": "/oEKsEJsmAj1ozJ2ehZ60NeJvfW0.jpg",
-      "popularity": 5.623,
+      "popularity": 7.872,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 3006,
       "name": "Toni Kalem",
       "profile_path": "/m5PpCV3QTpTNR9KdKsnQnZo2Iof.jpg",
-      "popularity": 5.623,
+      "popularity": 7.872,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 81670,
       "name": "Yukari Ôshima",
       "profile_path": "/76B1cA3EgXbEHBsFJD13Pv4LLrg.jpg",
-      "popularity": 5.622,
+      "popularity": 4.487,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 46636,
       "name": "Dagmar Lassander",
       "profile_path": "/giX4Fft7yaZ1i5ZYeVtKqGoxuuu.jpg",
-      "popularity": 5.622,
+      "popularity": 7.871,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 82711,
       "name": "Siobhan Finneran",
       "profile_path": "/gS00sFRgPGGFetlRAVsmc665Cbm.jpg",
-      "popularity": 5.621,
+      "popularity": 4.486,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 80597,
       "name": "Kym Whitley",
       "profile_path": "/kWo5pJe9Ogi3YQAocVoDMP1Sndj.jpg",
-      "popularity": 5.621,
+      "popularity": 7.286,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 70286,
       "name": "Elizabeth Hartman",
       "profile_path": "/gEgpys9T1L9hZg2CfFq9WnFNcgJ.jpg",
-      "popularity": 5.621,
+      "popularity": 7.869,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 29021,
       "name": "Roxanne Hart",
       "profile_path": "/sNDRhIcW51b7ruS8yt0Xpwa12Mz.jpg",
-      "popularity": 5.621,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2481064,
-      "name": "Jessica Chancellor",
-      "profile_path": "/bZZ8MXYKUMU3iHXHI47mH9yrMh3.jpg",
-      "popularity": 5.62,
+      "popularity": 6.086,
       "adult": false,
       "known_for_department": "Acting"
     }

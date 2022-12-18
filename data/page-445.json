@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 30695,
+      "name": "Mary Kay Bergman",
+      "profile_path": "/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg",
+      "popularity": 4.996,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1228800,
       "name": "Dean Tarrolly",
       "profile_path": "",
-      "popularity": 5.982,
+      "popularity": 8.375,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 121394,
       "name": "Tien Feng",
       "profile_path": "/gzwmcNvbF9AcmmVCtJ3lqBOYiqE.jpg",
-      "popularity": 5.982,
+      "popularity": 8.375,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 86330,
       "name": "Lee Beom-soo",
       "profile_path": "/9CSDpnR1gjbulTQdusJMiGc59Ff.jpg",
-      "popularity": 5.982,
+      "popularity": 8.375,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 56871,
       "name": "Blair Underwood",
       "profile_path": "/2aDLa2bU2PevNmnCK3IOBYlh3BY.jpg",
-      "popularity": 5.982,
+      "popularity": 7.795,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 41296,
       "name": "Aaron Staton",
       "profile_path": "/arYrQ4vj598Rtdgl5miYZOg4RT4.jpg",
-      "popularity": 5.981,
+      "popularity": 3.589,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 22248,
       "name": "Heather McComb",
       "profile_path": "/AhZ4n5qfZ4j0H6A1GQkMAeSOpcU.jpg",
-      "popularity": 5.98,
+      "popularity": 6.194,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 145025,
       "name": "Julieta Zylberberg",
       "profile_path": "/5U0DhTO4N9Vg2c7QMGDcqrtcsW6.jpg",
-      "popularity": 5.979,
+      "popularity": 4.994,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 76594,
       "name": "Miley Cyrus",
       "profile_path": "/mg9FOmZPp1sq2ZzgnVJt5qoMDS1.jpg",
-      "popularity": 5.978,
+      "popularity": 8.369,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 11359,
       "name": "Robert Tapert",
       "profile_path": "/tAtStnFgeJaTm9QmhajADZGiQi9.jpg",
-      "popularity": 5.977,
+      "popularity": 6.993,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -95,7 +103,7 @@
       "id": 224188,
       "name": "Jack Scanlon",
       "profile_path": "/64GkCGopxESY1m6uFrrl0j03JOj.jpg",
-      "popularity": 5.976,
+      "popularity": 5.793,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1038625,
       "name": "Kacey Rohl",
       "profile_path": "/bhHoECJMImwXSi27WqHsipq349m.jpg",
-      "popularity": 5.975,
+      "popularity": 4.993,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 76961,
       "name": "Demián Bichir",
       "profile_path": "/sw8TqPQLbMMgLbkNNUIW649THWJ.jpg",
-      "popularity": 5.975,
+      "popularity": 8.365,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 89043,
       "name": "Lois Nettleton",
       "profile_path": "/t5D77KMgww026u5WOcri8FsPJNg.jpg",
-      "popularity": 5.974,
+      "popularity": 6.592,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 67224,
       "name": "Gigi Lai",
       "profile_path": "/1lAKx9141UsF506bXGRLEaDztjO.jpg",
-      "popularity": 5.972,
+      "popularity": 8.361,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 34509,
       "name": "Iris Adrian",
       "profile_path": "/3EmN2KpUPy1AfB5QNQkF79HKBwO.jpg",
-      "popularity": 5.972,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1325034,
-      "name": "Sora Amamiya",
-      "profile_path": "/4ZZcdFH4QgbIC8AeJ3BLG1ue7G5.jpg",
-      "popularity": 5.971,
+      "popularity": 3.583,
       "adult": false,
       "known_for_department": "Acting"
     }

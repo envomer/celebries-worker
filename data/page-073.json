@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 47720,
+      "name": "Ruth Wilson",
+      "profile_path": "/dKJA3nMTlueNK0sAmKM6P9WKJnB.jpg",
+      "popularity": 22.085,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1651362,
       "name": "Julia Butters",
       "profile_path": "/fmOAQsjKmlbuw4cj5NPoXCyJQSE.jpg",
@@ -15,7 +23,7 @@
       "id": 738,
       "name": "Sean Connery",
       "profile_path": "/jYCw9CzHbBkdVpTXGtnmbaCStoL.jpg",
-      "popularity": 15.757,
+      "popularity": 15.527,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 19394,
       "name": "Idina Menzel",
       "profile_path": "/l2N0xOzHqZ75bKXBCciKwBdwxcN.jpg",
-      "popularity": 15.747,
+      "popularity": 15.124,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 15370,
       "name": "Gretchen Mol",
       "profile_path": "/wJWEhyjekEElGBTgvsvNzgBNWfy.jpg",
-      "popularity": 15.738,
+      "popularity": 14.321,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 7301,
       "name": "Anthony Perkins",
       "profile_path": "/7FipKwmg2woHNvt5ATeXLBirHXs.jpg",
-      "popularity": 15.736,
+      "popularity": 16.721,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 18658,
       "name": "Mia Kirshner",
       "profile_path": "/xwpl37yvx2YxDQzy1eQbvaIDcuw.jpg",
-      "popularity": 15.73,
+      "popularity": 15.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 15762,
       "name": "Tara Strong",
       "profile_path": "/y9S3QzI3L5aARP8GYYO86rREKxU.jpg",
-      "popularity": 15.726,
+      "popularity": 22.016,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1736,
       "name": "James Remar",
       "profile_path": "/ctMVpFDKKWCty60lLORf3IoJcv9.jpg",
-      "popularity": 15.724,
+      "popularity": 22.014,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 999449,
       "name": "Emily Alatalo",
       "profile_path": "/kF3vPObPKPYKDzsqsjvq8baOrrG.jpg",
-      "popularity": 15.712,
+      "popularity": 17.914,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 13241,
       "name": "Estella Warren",
       "profile_path": "/aFodbZpSEsz6lz8T3ehkeb8y44a.jpg",
-      "popularity": 15.712,
+      "popularity": 20.714,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 3416,
       "name": "Demi Moore",
       "profile_path": "/8Dzx0U1LwOpZ3uAm7cqKymqU9fL.jpg",
-      "popularity": 15.709,
+      "popularity": 21.993,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 521,
       "name": "Michael J. Fox",
       "profile_path": "/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg",
-      "popularity": 15.704,
+      "popularity": 21.986,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 108,
       "name": "Peter Jackson",
       "profile_path": "/4hh7hips4xc6kgpNDQKQH3goRvJ.jpg",
-      "popularity": 15.7,
+      "popularity": 17.11,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -111,7 +119,7 @@
       "id": 3971,
       "name": "Sophia Myles",
       "profile_path": "/mYBIRB4pP0C7MQUrosQct0jP5W1.jpg",
-      "popularity": 15.683,
+      "popularity": 15.105,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 6413,
       "name": "Danny Huston",
       "profile_path": "/iiVgafHitV0IbJYbaSNtHcWHF7P.jpg",
-      "popularity": 15.676,
+      "popularity": 20.703,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1894,
       "name": "Scott Caan",
       "profile_path": "/67V8YrMglGzvuTOZGpqygDhNK1z.jpg",
-      "popularity": 15.676,
+      "popularity": 14.303,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 51579,
       "name": "Steven Williams",
       "profile_path": "/okrQsLdE6hCGJ1M4p5nXPC3mJTW.jpg",
-      "popularity": 15.67,
+      "popularity": 19.501,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 8783,
       "name": "Eric Bana",
       "profile_path": "/xIjQVywxkymHbbSO7lD2F9f377W.jpg",
-      "popularity": 15.67,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 52,
-      "name": "David Morse",
-      "profile_path": "/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg",
-      "popularity": 15.66,
+      "popularity": 21.938,
       "adult": false,
       "known_for_department": "Acting"
     }

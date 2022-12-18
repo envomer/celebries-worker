@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 34027,
+      "name": "Stefania Sandrelli",
+      "profile_path": "/aPmAstwHeEyN17UDKcSJf4OGBEQ.jpg",
+      "popularity": 12.815,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 10871,
+      "name": "Natasha Lyonne",
+      "profile_path": "/Ao3Tao5nCrJGvNiFyFrzZs0Iyzg.jpg",
+      "popularity": 6.815,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 9921,
       "name": "Luciana Paluzzi",
       "profile_path": "/evgt2UYi2Pjdbk3BkjmocmNOoXU.jpg",
-      "popularity": 9.383,
+      "popularity": 6.415,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 37366,
       "name": "Linda Blair",
       "profile_path": "/vQQ8tdweLIkHEVRNiMp5rCe94me.jpg",
-      "popularity": 9.381,
+      "popularity": 13.133,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 1105808,
       "name": "Tori Matsuzaka",
       "profile_path": "/8JcMm3al3gySuay2EiW3CI19Apj.jpg",
-      "popularity": 9.379,
+      "popularity": 12.414,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 228721,
       "name": "Darren Criss",
       "profile_path": "/ua6wRxfDSFO1bVpotLNtWzCfuzv.jpg",
-      "popularity": 9.379,
+      "popularity": 9.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 1223787,
       "name": "Finn Jones",
       "profile_path": "/rKzzQ7oc80xDYDmZykBjmXWt0VZ.jpg",
-      "popularity": 9.378,
+      "popularity": 13.129,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 17497,
       "name": "Romain Duris",
       "profile_path": "/2pFMVxyKbVkULNWqXbqFb3TV7zK.jpg",
-      "popularity": 9.375,
+      "popularity": 8.813,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 1167897,
       "name": "Natasha O'Keeffe",
       "profile_path": "/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg",
-      "popularity": 9.373,
+      "popularity": 9.212,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 60390,
       "name": "Trula M. Marcus",
       "profile_path": "/bYDR6j82Ot3A0Mh8Rb3KQ6RHTyy.jpg",
-      "popularity": 9.372,
+      "popularity": 7.612,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 1040321,
       "name": "Erica Wessels",
       "profile_path": "",
-      "popularity": 9.37,
+      "popularity": 6.011,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 439253,
       "name": "Laura Slade Wiggins",
       "profile_path": "/eSy6De8oKOetXo6GDbGNlSMeQ6A.jpg",
-      "popularity": 9.369,
+      "popularity": 13.117,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 36602,
       "name": "Peter Berg",
       "profile_path": "/1pR16H0zqRG49ns8cYykYpodgGF.jpg",
-      "popularity": 9.367,
+      "popularity": 13.114,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -127,7 +143,7 @@
       "id": 213394,
       "name": "Matthew Beard",
       "profile_path": "/bB98Y1MkIlwJBWIlR17hd6Jwxwd.jpg",
-      "popularity": 9.365,
+      "popularity": 8.41,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 171135,
       "name": "Saundra Santiago",
       "profile_path": "/mIzuavbFWhwyT5yysJlwgzgXc0v.jpg",
-      "popularity": 9.365,
+      "popularity": 8.01,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 11492,
       "name": "Clark Gable",
       "profile_path": "/bN06QeVin5gH9u0Lvcqp4df8uT5.jpg",
-      "popularity": 9.362,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 11179,
-      "name": "Sean Biggerstaff",
-      "profile_path": "/6g9cQWg3ikD3xboDtyF8qKdpmgl.jpg",
-      "popularity": 9.362,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 12259,
-      "name": "Vittorio Gassman",
-      "profile_path": "/pbpxHSAkFJpI4ys3yc0qMz8oapj.jpg",
-      "popularity": 9.36,
+      "popularity": 12.009,
       "adult": false,
       "known_for_department": "Acting"
     }

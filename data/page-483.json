@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2849185,
+      "name": "E. R. Fightmaster",
+      "profile_path": "/yXvCWvs6NJ8SZspvtJBlIe10KWa.jpg",
+      "popularity": 5.694,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 8496,
       "name": "Paul Fix",
       "profile_path": "/6UxeK9SOSfdvDSedLBxD3kUcCrq.jpg",
-      "popularity": 5.694,
+      "popularity": 5.308,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 77256,
       "name": "Deborah Van Valkenburgh",
       "profile_path": "/upfWItfjC6bm0RC71w6SB0jo2ot.jpg",
-      "popularity": 5.692,
+      "popularity": 5.308,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 973651,
       "name": "Billy Eichner",
       "profile_path": "/a5RIGGIQtilSaV5eu5lO9hNAjaf.jpg",
-      "popularity": 5.691,
+      "popularity": 6.107,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 74673,
       "name": "Felissa Rose",
       "profile_path": "/PEiMOmcnhRJGlrOXxD2bSrRc37.jpg",
-      "popularity": 5.691,
+      "popularity": 4.907,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 33285,
       "name": "Brandy Norwood",
       "profile_path": "/e9DBEe7KoCMpXd7Wdwr6PEZtctP.jpg",
-      "popularity": 5.691,
+      "popularity": 7.967,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 141962,
       "name": "David Bruckner",
       "profile_path": "/ziv4BhpMsaGsqaM6p9sUs62MOzG.jpg",
-      "popularity": 5.69,
+      "popularity": 4.107,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -71,7 +79,7 @@
       "id": 46924,
       "name": "Alex Datcher",
       "profile_path": "/Tt0MoXBxQhmw62HoTVLElUuqAY.jpg",
-      "popularity": 5.689,
+      "popularity": 5.307,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 963547,
       "name": "Anna Enger Ritch",
       "profile_path": "/aj44r0OabDGGXkr78Lag6lJgeIO.jpg",
-      "popularity": 5.688,
+      "popularity": 7.963,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 227089,
       "name": "Kana Kurashina",
       "profile_path": "/4lfxz4MKbcvH4lL97vLldTNb7qC.jpg",
-      "popularity": 5.688,
+      "popularity": 4.506,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 40242,
       "name": "Max Baer Jr.",
       "profile_path": "/rACUZQUIiF7bM4lSfmmBpNZBoUR.jpg",
-      "popularity": 5.688,
+      "popularity": 6.106,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 558423,
       "name": "Tony Giroux",
       "profile_path": "/jUmPyQSYKnqt5NElRTtOiSPXmuc.jpg",
-      "popularity": 5.686,
+      "popularity": 3.706,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 75914,
       "name": "Seo Young-hee",
       "profile_path": "/ApIVqY4kmDNTm0PUP8EQXXs6KhI.jpg",
-      "popularity": 5.686,
+      "popularity": 6.106,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1252072,
       "name": "Lyndie Greenwood",
       "profile_path": "/iMVjH7KxxGwVatb7eWEQ4GLZXPp.jpg",
-      "popularity": 5.685,
+      "popularity": 7.959,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 101251,
       "name": "Ennis Esmer",
       "profile_path": "/1hMc79NC8bqJ5OWxLU2d2dlnrBr.jpg",
-      "popularity": 5.685,
+      "popularity": 4.506,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 13804,
       "name": "Anne Ratte-Polle",
       "profile_path": "/urX3hisdzUOs4eBEvLeiEY5uDRh.jpg",
-      "popularity": 5.685,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1971031,
-      "name": "Natasia Demetriou",
-      "profile_path": "/65aNRTM520iUaBUoSyfyXHXY8xH.jpg",
-      "popularity": 5.684,
+      "popularity": 3.411,
       "adult": false,
       "known_for_department": "Acting"
     }

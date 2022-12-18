@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 25627,
+      "name": "Hal Smith",
+      "profile_path": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg",
+      "popularity": 8.04,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 44385,
       "name": "Julia Brendler",
       "profile_path": "/6sY8Ol76P22hdTMamDcIomZRilb.jpg",
-      "popularity": 5.742,
+      "popularity": 4.523,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1243142,
       "name": "Colton Dunn",
       "profile_path": "/mekAGBmbVULfSR8dMwC3TXRbdfl.jpg",
-      "popularity": 5.741,
+      "popularity": 8.037,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 104659,
       "name": "Lane Shefter Bishop",
       "profile_path": "/t3ygrjo8p2GU2KLRWgAzT2wfN5n.jpg",
-      "popularity": 5.741,
+      "popularity": 6.122,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -39,7 +47,7 @@
       "id": 74636,
       "name": "Trish Van Devere",
       "profile_path": "/86zUNcjf20iAA6IDLonAxUqxHhT.jpg",
-      "popularity": 5.741,
+      "popularity": 5.722,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 69345,
       "name": "Jason Lively",
       "profile_path": "/zLU4UL8oPlSzCmeY3DCBA2yulQV.jpg",
-      "popularity": 5.741,
+      "popularity": 6.922,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 724,
       "name": "Cynthia Rhodes",
       "profile_path": "/sqLHvm1kKfIn17RZDgzNVrhNrvK.jpg",
-      "popularity": 5.741,
+      "popularity": 5.722,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1140129,
       "name": "Ronen Rubinstein",
       "profile_path": "/dlKYozDnxXHlroBYIyOJxHDnMwD.jpg",
-      "popularity": 5.739,
+      "popularity": 3.443,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 227778,
       "name": "Carol Cheng",
       "profile_path": "/fnbJTW1jf93T8pexvjWNjOxW3gq.jpg",
-      "popularity": 5.739,
+      "popularity": 4.122,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 92426,
       "name": "Liezl Carstens",
       "profile_path": "/qzJ08LTnvvFbTWSlbp9x7TVm126.jpg",
-      "popularity": 5.739,
+      "popularity": 4.922,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 74365,
       "name": "Britt McKillip",
       "profile_path": "/qUa6360myhK6b9jz2XShMkaioLE.jpg",
-      "popularity": 5.738,
+      "popularity": 5.321,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 71374,
       "name": "Christian Friedel",
       "profile_path": "/t2fSrCdWjqIhAsBnwLeGXaYx84s.jpg",
-      "popularity": 5.738,
+      "popularity": 4.121,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1170011,
       "name": "Joe Anoa'i",
       "profile_path": "/6BKc77eAUBQdL9MmgBorBc4SMdE.jpg",
-      "popularity": 5.737,
+      "popularity": 4.921,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 139549,
       "name": "Rory Kinnear",
       "profile_path": "/8aEABMeHXOozwE5DrMxUlCM9mpG.jpg",
-      "popularity": 5.737,
+      "popularity": 6.921,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 41218,
       "name": "Edward Albert",
       "profile_path": "/a48LqHHjoqO4ObEeMhFBq7gsEL8.jpg",
-      "popularity": 5.737,
+      "popularity": 8.032,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 10746,
       "name": "Geoffrey Palmer",
       "profile_path": "/wfFydeTnTIdtu8oKcY7SCo7u7pg.jpg",
-      "popularity": 5.737,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 495384,
-      "name": "Jeany Spark",
-      "profile_path": "/bPCssX8FURXC4IzZKa4mnnELYBH.jpg",
-      "popularity": 5.736,
+      "popularity": 4.521,
       "adult": false,
       "known_for_department": "Acting"
     }

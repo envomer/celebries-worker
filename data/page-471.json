@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 73288,
+      "name": "Michael McElhatton",
+      "profile_path": "/aPjuV6N10zAJMr55lAIvnpdsNgE.jpg",
+      "popularity": 3.733,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 19910,
       "name": "Nora Tschirner",
       "profile_path": "/wokKXj6ENlTirwP3u57uVbFMw8y.jpg",
-      "popularity": 5.778,
+      "popularity": 8.089,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 21541,
       "name": "Agostina Belli",
       "profile_path": "/jWqp07PcJsmGy8IYSzzDae8SvzC.jpg",
-      "popularity": 5.777,
+      "popularity": 7.733,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1237913,
       "name": "Jung Hye-young",
       "profile_path": "/5hUIubzV8LSpzS1FMbbWkHrVmBF.jpg",
-      "popularity": 5.776,
+      "popularity": 4.533,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 151207,
       "name": "Andrew McFarlane",
       "profile_path": "/zrfopwL3Pluu59O4thZIep2rvog.jpg",
-      "popularity": 5.776,
+      "popularity": 3.466,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1614,
       "name": "Ang Lee",
       "profile_path": "/jrmdsPZI5WT4rmOl20Gb1Y2femb.jpg",
-      "popularity": 5.776,
+      "popularity": 6.933,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -63,7 +71,7 @@
       "id": 1186075,
       "name": "Tarek Boudali",
       "profile_path": "/uiB4cvt5UTUzMfzOWl1NuFDEsvO.jpg",
-      "popularity": 5.775,
+      "popularity": 6.933,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 173847,
       "name": "Harry Bradbeer",
       "profile_path": "/1fGaCCtKp3ZCXCkWRzOn4l7YnBE.jpg",
-      "popularity": 5.774,
+      "popularity": 8.084,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -87,7 +95,7 @@
       "id": 16897,
       "name": "Sidney Poitier",
       "profile_path": "/qL1YY31uW0PdalWHjNJOdlE6eqo.jpg",
-      "popularity": 5.774,
+      "popularity": 5.732,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1210610,
       "name": "Olivia Luccardi",
       "profile_path": "/fB1hlwIp9Ye4HvHJzn6GMlZqgl.jpg",
-      "popularity": 5.772,
+      "popularity": 8.081,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1077537,
       "name": "Franck Gastambide",
       "profile_path": "/jEf57uD2UG36m0aFkWXm3EMQq8l.jpg",
-      "popularity": 5.772,
+      "popularity": 7.732,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 63544,
       "name": "Steven Culp",
       "profile_path": "/hqweK3WhIOORsOLBPhzEy47iXO8.jpg",
-      "popularity": 5.772,
+      "popularity": 3.732,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 50760,
       "name": "Julie London",
       "profile_path": "/jORRCtkZ4C0Sagy4hqs0KAOG2ib.jpg",
-      "popularity": 5.772,
+      "popularity": 8.081,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 10502,
       "name": "Lynn-Holly Johnson",
       "profile_path": "/otNAP9RUhGwzJ9vlQ8i4KWAc2Sc.jpg",
-      "popularity": 5.772,
+      "popularity": 6.932,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1017023,
       "name": "Jessica Blackmore",
       "profile_path": "/iJM56arUJoaNVgt11q28e3SM05b.jpg",
-      "popularity": 5.771,
+      "popularity": 3.731,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 20301,
       "name": "Justin Kirk",
       "profile_path": "/68QWfaIoOYy4QzjnjiXPXxnpT6u.jpg",
-      "popularity": 5.77,
+      "popularity": 6.931,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 3272,
       "name": "Drake Bell",
       "profile_path": "/cXYF6s9D6YdwVQQkhF2SClFW6mi.jpg",
-      "popularity": 5.769,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1569986,
-      "name": "Abraham Clinkscales",
-      "profile_path": "/14u7uLy3zsLPY8Fp9PsYppZkNH1.jpg",
-      "popularity": 5.768,
+      "popularity": 6.931,
       "adult": false,
       "known_for_department": "Acting"
     }

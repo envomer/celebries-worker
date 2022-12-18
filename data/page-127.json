@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 197,
+      "name": "David Silverman",
+      "profile_path": "/rfbJ0PUQsdggzWlLCdjdywDA7VV.jpg",
+      "popularity": 12.396,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
+      "id": 43265,
+      "name": "Corey Sevier",
+      "profile_path": "/vymRuFEaYiSot56eMVzfCs7hwi7.jpg",
+      "popularity": 11.196,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 95984,
       "name": "Sara Tomko",
       "profile_path": "/7RERjTTifM6U8NqKSoq9lvGMP3M.jpg",
-      "popularity": 11.984,
+      "popularity": 9.995,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 57027,
       "name": "Louis D'Esposito",
       "profile_path": "/k9k3WWYdD3uDnrtwM60QirzG9cH.jpg",
-      "popularity": 11.983,
+      "popularity": 16.776,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -23,7 +39,7 @@
       "id": 516,
       "name": "Annette Bening",
       "profile_path": "/jgG41fbSC3TK4LL67Obzrg0mTJ9.jpg",
-      "popularity": 11.981,
+      "popularity": 16.773,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 65524,
       "name": "Ioan Gruffudd",
       "profile_path": "/bUfnbySl6afH1Upkeq0v2Kp8Ymx.jpg",
-      "popularity": 11.962,
+      "popularity": 16.747,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 39187,
       "name": "Olivia Colman",
       "profile_path": "/1KTXGJaqWRnsoA6qeaUa7U2zkHL.jpg",
-      "popularity": 11.959,
+      "popularity": 15.588,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 36628,
       "name": "Kate del Castillo",
       "profile_path": "/7m4oa23hAsqW3cE8cDF72QhIv9t.jpg",
-      "popularity": 11.954,
+      "popularity": 10.386,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 78253,
       "name": "Janice Man",
       "profile_path": "/h7UKw1U1JQnROUO3mOCrXdDeiKL.jpg",
-      "popularity": 11.941,
+      "popularity": 11.182,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 11147,
       "name": "John Cassavetes",
       "profile_path": "/2Bo1ipVthg8uKP26mNGykChukA8.jpg",
-      "popularity": 11.94,
+      "popularity": 13.982,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -79,7 +95,7 @@
       "id": 57700,
       "name": "Brandon Lee",
       "profile_path": "/1PV3h6KP0AzeqFCZjb3qxkpfoGE.jpg",
-      "popularity": 11.935,
+      "popularity": 14.781,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 128628,
       "name": "Scottie Thompson",
       "profile_path": "/fx7b87WwORTZxzq8qWvPZS78phg.jpg",
-      "popularity": 11.934,
+      "popularity": 11.18,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 144583,
       "name": "Hisham Tawfiq",
       "profile_path": "/go8XkwY6pbqfUDExs7o1U6O1r5u.jpg",
-      "popularity": 11.931,
+      "popularity": 8.379,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 587,
       "name": "Edward James Olmos",
       "profile_path": "/mXnilUrQBIMLHSQkPjQk99mX70x.jpg",
-      "popularity": 11.927,
+      "popularity": 12.778,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 936275,
       "name": "Aoi Yuki",
       "profile_path": "/4kHNZSUIux52UU2BD3H6b5c5ymZ.jpg",
-      "popularity": 11.924,
+      "popularity": 12.777,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 14011,
       "name": "Tom Courtenay",
       "profile_path": "/aZvsuIfTvaSKDDFYzgGWa8vQ4FU.jpg",
-      "popularity": 11.915,
+      "popularity": 11.575,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 74421,
       "name": "Song Hye-kyo",
       "profile_path": "/tlAX3f82Mf5h0rznpVBVK7nD2om.jpg",
-      "popularity": 11.914,
+      "popularity": 7.974,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Evgeniya Gromova",
       "profile_path": "/pvSKmtlH8q9fVqXZwlFIl3CgKie.jpg",
       "popularity": 11.913,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1952051,
-      "name": "May Calamawy",
-      "profile_path": "/i1yy5xxPE0bsvdJ3BgyLHGfk1c1.jpg",
-      "popularity": 11.913,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2025253,
-      "name": "Mina El Hammani",
-      "profile_path": "/jKfKVnCZThUFleeWWIaijPRiFbj.jpg",
-      "popularity": 11.909,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 55755,
+      "name": "Richard T. Jones",
+      "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg",
+      "popularity": 7.944,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2633250,
       "name": "Park Ju-hyun",
       "profile_path": "/r27akJMJky8lWurkeWekjjay4ck.jpg",
@@ -15,7 +23,7 @@
       "id": 1200384,
       "name": "Kim Bo-ra",
       "profile_path": "/5Y6yKloeVDnMB6AkJcdpl8E2bKA.jpg",
-      "popularity": 5.673,
+      "popularity": 7.942,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 571173,
       "name": "Lee Cho-hee",
       "profile_path": "/17vIKn6bLaDt29q5DEdjabbOjId.jpg",
-      "popularity": 5.673,
+      "popularity": 6.102,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 232034,
       "name": "Kim Young-ho",
       "profile_path": "/w7yMlzsuHZAfVf3ajvzlCGsFoca.jpg",
-      "popularity": 5.673,
+      "popularity": 3.404,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 93255,
       "name": "Mercedes Cabral",
       "profile_path": "/A1B6W9qZ14aJX9DZeNHWSTGYXHA.jpg",
-      "popularity": 5.673,
+      "popularity": 7.302,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 17918,
       "name": "Francis Capra",
       "profile_path": "/iMbTbfIKNqjNwtwtdMLMRJUG1ej.jpg",
-      "popularity": 5.673,
+      "popularity": 5.302,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1179422,
       "name": "Ross Duffer",
       "profile_path": "/kN1HdFViQkcJOQlNcvvFJIx9Uju.jpg",
-      "popularity": 5.671,
+      "popularity": 5.701,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -63,7 +71,7 @@
       "id": 52476,
       "name": "Dylan Bruno",
       "profile_path": "/xRO78p1UyVlr5iPpsg8tC43O6Qd.jpg",
-      "popularity": 5.671,
+      "popularity": 7.939,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1144012,
       "name": "Fiona Richmond",
       "profile_path": "/jzUaggTuLvcSCRboE55sySsiQVU.jpg",
-      "popularity": 5.67,
+      "popularity": 6.901,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 592095,
       "name": "Ayumi Takano",
       "profile_path": "/5Js9etVIPQ4QhWp5MESMiGMUxWE.jpg",
-      "popularity": 5.67,
+      "popularity": 3.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 147084,
       "name": "Savannah Welch",
       "profile_path": "/uw3N6FVvyvlMlo3uaLLeoTHgs12.jpg",
-      "popularity": 5.67,
+      "popularity": 5.301,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 556829,
       "name": "Chrissie Chau",
       "profile_path": "/6xqULglqa6oxanRzfg4tmAr7SkB.jpg",
-      "popularity": 5.669,
+      "popularity": 3.401,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 56953,
       "name": "Gene Quintano",
       "profile_path": "",
-      "popularity": 5.669,
+      "popularity": 7.937,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -143,7 +151,7 @@
       "id": 17270,
       "name": "Allison Miller",
       "profile_path": "/8XQqYOp6it8ngFFwsZQf5TMg0Vi.jpg",
-      "popularity": 5.669,
+      "popularity": 7.301,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 102399,
       "name": "Dawn Wells",
       "profile_path": "/fLrkrum2uMHw7CCkSZM6t47uL4K.jpg",
-      "popularity": 5.668,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 90514,
-      "name": "Birgitte Hjort Sørensen",
-      "profile_path": "/uPak0FlCPdsc9B1pw4bBkuaMLXT.jpg",
-      "popularity": 5.668,
+      "popularity": 3.7,
       "adult": false,
       "known_for_department": "Acting"
     }

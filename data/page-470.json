@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 75131,
+      "name": "Nash Edgerton",
+      "profile_path": "/4APzupXhj00RkLJyjzYTkvk47Dw.jpg",
+      "popularity": 7.336,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 44033,
       "name": "Barbara Alyn Woods",
       "profile_path": "/9mEaXMGP03gsCkqW3svWxTk2lXi.jpg",
-      "popularity": 5.786,
+      "popularity": 6.536,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 40209,
       "name": "Paul Lynde",
       "profile_path": "/buLQiKpBLc9uY2ijU0Pm1lbBibD.jpg",
-      "popularity": 5.786,
+      "popularity": 8.1,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 18687,
       "name": "William McNamara",
       "profile_path": "/hVOdM3UUmJqpREnBxzm0J4j0b5R.jpg",
-      "popularity": 5.785,
+      "popularity": 7.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 166970,
       "name": "John Balma",
       "profile_path": "/15nvWOGUW19d5Pob0nqKXOsGe1r.jpg",
-      "popularity": 5.783,
+      "popularity": 4.535,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 33049,
       "name": "Giacomo Baessato",
       "profile_path": "/69YI4Lo5P6GR5zp1c8ynFqW4lrh.jpg",
-      "popularity": 5.783,
+      "popularity": 8.096,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 139506,
       "name": "Lee Chae-young",
       "profile_path": "/xwHPMSKQHo9iRBDDgdINDYBd9kb.jpg",
-      "popularity": 5.782,
+      "popularity": 4.135,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 131237,
       "name": "Agnieszka Wagner",
       "profile_path": "/7xiw6a4QNAMx9u9yQ2duEHqsHpm.jpg",
-      "popularity": 5.782,
+      "popularity": 8.095,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 33489,
       "name": "Josh Mostel",
       "profile_path": "/zX8vyQ9JdWsr1cmPvvyrw01aPiQ.jpg",
-      "popularity": 5.782,
+      "popularity": 8.095,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 55707,
       "name": "Mirai Yamamoto",
       "profile_path": "/pfwAxX4sBGrKfgcxHeFOHbqX91I.jpg",
-      "popularity": 5.781,
+      "popularity": 7.334,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 21817,
       "name": "Jane March",
       "profile_path": "/3zwumEbCnatjAnAJH1bJGANSSoQ.jpg",
-      "popularity": 5.781,
+      "popularity": 5.734,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 4000,
       "name": "Elizabeth Berridge",
       "profile_path": "/hmSuiebPLyv24hHIiA1BL8aC1KL.jpg",
-      "popularity": 5.781,
+      "popularity": 8.093,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 3289,
       "name": "Paul Weitz",
       "profile_path": "/54Np4lBqGM36uwpzRc4KztJxGJz.jpg",
-      "popularity": 5.779,
+      "popularity": 5.334,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -151,15 +159,7 @@
       "id": 224182,
       "name": "Nick E. Tarabay",
       "profile_path": "/9oRMaoZ9vfqOZFID2nKv852jlue.jpg",
-      "popularity": 5.778,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 73288,
-      "name": "Michael McElhatton",
-      "profile_path": "/aPjuV6N10zAJMr55lAIvnpdsNgE.jpg",
-      "popularity": 5.778,
+      "popularity": 6.533,
       "adult": false,
       "known_for_department": "Acting"
     }

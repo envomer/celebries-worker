@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 219998,
+      "name": "Keenan Tracey",
+      "profile_path": "/popwE6NaGiion1XYgZSepu63oR5.jpg",
+      "popularity": 7.897,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 55428,
+      "name": "Loretta Swit",
+      "profile_path": "/qCBlSTiZLlQFKHiy5PVYQZnzqfI.jpg",
+      "popularity": 5.897,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2680,
       "name": "Donnie Wahlberg",
       "profile_path": "/9IMR2PKHzqIXWVKmYrCAl0bA3Af.jpg",
-      "popularity": 8.99,
+      "popularity": 12.586,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 10400,
       "name": "Barbra Streisand",
       "profile_path": "/6YD223jsdZX7VnWSjGjP1S7Xj6X.jpg",
-      "popularity": 8.988,
+      "popularity": 8.696,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1245094,
       "name": "Nobuhiko Okamoto",
       "profile_path": "/qyZpSYva9O9JQIZ0nVmXTf90FlL.jpg",
-      "popularity": 8.987,
+      "popularity": 12.582,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 549775,
       "name": "Greer Grammer",
       "profile_path": "/1VvU1zrcPXJ7wLKvHCWaK237OvF.jpg",
-      "popularity": 8.982,
+      "popularity": 11.495,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 17306,
       "name": "Zachary Quinto",
       "profile_path": "/qFqIaNMcDNd693epUSXo9zOTXev.jpg",
-      "popularity": 8.978,
+      "popularity": 9.493,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 34982,
       "name": "Jeff Bennett",
       "profile_path": "/p78svoOr99IA2oBOUzAH9cnPOwf.jpg",
-      "popularity": 8.977,
+      "popularity": 7.893,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 33337,
       "name": "Eric Johnson",
       "profile_path": "/xBifjKXfvZhYYx6P6dDaIvYIzVq.jpg",
-      "popularity": 8.977,
+      "popularity": 12.568,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 11165,
       "name": "Jane Russell",
       "profile_path": "/rhTR8hlUXkqZcomOyPpbeNvfFUi.jpg",
-      "popularity": 8.974,
+      "popularity": 12.564,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 592458,
       "name": "Fabrice Josso",
       "profile_path": "/ekxEkHXVX3Fkgq7tQesA7GtDASQ.jpg",
-      "popularity": 8.973,
+      "popularity": 5.892,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 102952,
       "name": "Sarah Jones",
       "profile_path": "/1YFh9NStF75XWTLT9CPGG2395HN.jpg",
-      "popularity": 8.972,
+      "popularity": 7.092,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 52647,
       "name": "Shawn Hatosy",
       "profile_path": "/ck89JiJcY9ovd7hXHatZsKMQvhm.jpg",
-      "popularity": 8.971,
+      "popularity": 12.559,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 19119,
       "name": "Mélanie Laurent",
       "profile_path": "/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg",
-      "popularity": 8.97,
+      "popularity": 12.291,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 92729,
       "name": "Spencer List",
       "profile_path": "/AqhVP83OofqhWpEzoIQJ53X4aJb.jpg",
-      "popularity": 8.964,
+      "popularity": 5.378,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 1217648,
       "name": "Chris Diamantopoulos",
       "profile_path": "/rCp2ZVOFnQt2vvVn4QmOOPz5WVh.jpg",
-      "popularity": 8.961,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 205474,
-      "name": "Adelaide Clemens",
-      "profile_path": "/z8eA9Jh7IvDJoGHmhZj6FmJJ67C.jpg",
-      "popularity": 8.961,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 170362,
-      "name": "Courtney Hope",
-      "profile_path": "/l2UvigAbUHTAakvoAQGjrcK27gP.jpg",
-      "popularity": 8.96,
+      "popularity": 12.545,
       "adult": false,
       "known_for_department": "Acting"
     }

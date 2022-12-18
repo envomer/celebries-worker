@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 118752,
+      "name": "Natalie Morales",
+      "profile_path": "/cAmnBs0c08A6pLwRJpIr7ImkjIQ.jpg",
+      "popularity": 10.047,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1690505,
+      "name": "Raven Stewart",
+      "profile_path": "/pRn96NbLXTsJ1jmRfTble6Sn1xG.jpg",
+      "popularity": 9.489,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 32290,
       "name": "Brenda Bakke",
       "profile_path": "/qfL8cAbxCtpTZYbVbVOYKR3lWhz.jpg",
-      "popularity": 9.489,
+      "popularity": 13.285,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 119834,
       "name": "Necar Zadegan",
       "profile_path": "/25cjlqMmnbfTCgh3kLijOH57URG.jpg",
-      "popularity": 9.487,
+      "popularity": 13.282,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 8335,
       "name": "Kim Coates",
       "profile_path": "/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg",
-      "popularity": 9.487,
+      "popularity": 13.282,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 1233840,
       "name": "Koo Hye-sun",
       "profile_path": "/udHk7KExmXRuOVO6utT3IDpm6E1.jpg",
-      "popularity": 9.482,
+      "popularity": 13.275,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 1254583,
       "name": "Jamie Dornan",
       "profile_path": "/dPCjxgq4YsqkcZ3fsE84Ifq0Wxv.jpg",
-      "popularity": 9.481,
+      "popularity": 11.244,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 18364,
       "name": "George Segal",
       "profile_path": "/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg",
-      "popularity": 9.48,
+      "popularity": 12.444,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 2167,
       "name": "Mercedes Ruehl",
       "profile_path": "/mQIPCqImthK7Hn6mGeRDJ11QcEZ.jpg",
-      "popularity": 9.48,
+      "popularity": 10.444,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 109156,
       "name": "Katia Winter",
       "profile_path": "/u9snj7ndxuaScWtH5YIYuyQ5coc.jpg",
-      "popularity": 9.476,
+      "popularity": 6.443,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 29528,
       "name": "Matthew Rhys",
       "profile_path": "/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg",
-      "popularity": 9.475,
+      "popularity": 13.265,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 21711,
       "name": "Erika Christensen",
       "profile_path": "/2QQJgrGVe3Fr8x7y50dBpN2g9lS.jpg",
-      "popularity": 9.475,
+      "popularity": 9.243,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 122468,
       "name": "Riisa Naka",
       "profile_path": "/tqFHQiJUycuob3ytvilaAWDlbQ8.jpg",
-      "popularity": 9.472,
+      "popularity": 7.642,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 221841,
       "name": "Zach Roerig",
       "profile_path": "/mxWxwVzx5vG6wwg2z9ELtbqtz7e.jpg",
-      "popularity": 9.471,
+      "popularity": 8.041,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 133694,
       "name": "Rika Adachi",
       "profile_path": "/7fh0GfJxmHIXHeaNI3hVesSD36Z.jpg",
-      "popularity": 9.471,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 84752,
-      "name": "Park Si-yeon",
-      "profile_path": "/iaP44f9OYuHoLKi2Mhyo27LdBlJ.jpg",
-      "popularity": 9.471,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 8253,
-      "name": "Robert Ryan",
-      "profile_path": "/hQslaHI5bSdUHMnauG8JeiIPluz.jpg",
-      "popularity": 9.471,
+      "popularity": 12.441,
       "adult": false,
       "known_for_department": "Acting"
     }

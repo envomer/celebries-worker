@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 67704,
+      "name": "Hugh Dillon",
+      "profile_path": "/npY8dF5b1j5pUqt11sDBi89BDTi.jpg",
+      "popularity": 8.375,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 119892,
+      "name": "Lorie Griffin",
+      "profile_path": "/pRwkNIIXPcrke1O76VTe0gUPAAr.jpg",
+      "popularity": 12.949,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1736257,
       "name": "Li Yitong",
       "profile_path": "/gVB17aDOgt1IpUWtYxIjkJnhKea.jpg",
@@ -15,7 +31,7 @@
       "id": 1220124,
       "name": "Tamzin Malleson",
       "profile_path": "/mUqVqkgKOoV4vrU0iditUvvCtL3.jpg",
-      "popularity": 9.24,
+      "popularity": 10.372,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 1096793,
       "name": "Jang Gwang",
       "profile_path": "/4zFdspdLSawn7DFMjIcZ08c739O.jpg",
-      "popularity": 9.23,
+      "popularity": 11.969,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 184581,
       "name": "Hamish Linklater",
       "profile_path": "/eCFhrVVPw17SdqfhyRFZfflQCGE.jpg",
-      "popularity": 9.23,
+      "popularity": 10.769,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 36663,
       "name": "Claudie Blakley",
       "profile_path": "/bUy1X1ili9Goj3AQNrBD1kd7A8q.jpg",
-      "popularity": 9.23,
+      "popularity": 6.769,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 7543,
       "name": "Marina Massironi",
       "profile_path": "/vYhhT0ijN4B7b6ctOgjbiuP0c5v.jpg",
-      "popularity": 9.23,
+      "popularity": 6.369,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 76543,
       "name": "Chris Browning",
       "profile_path": "/jKsUctww9FbZXlY04kyzIM0tBse.jpg",
-      "popularity": 9.227,
+      "popularity": 12.918,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 1222330,
       "name": "Kim Rae-won",
       "profile_path": "/kurTk5eMygE1EuOt1WD5FiNTddd.jpg",
-      "popularity": 9.223,
+      "popularity": 12.912,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 144191,
       "name": "Şahan Gökbakar",
       "profile_path": "/vRXCJhtivMhN4EVt1aZRJ0oq0cK.jpg",
-      "popularity": 9.222,
+      "popularity": 11.167,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 591,
       "name": "Brion James",
       "profile_path": "/9I5MBiK0o6Nup1YjsGuzsIc2tZZ.jpg",
-      "popularity": 9.222,
+      "popularity": 12.911,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 83735,
       "name": "Maimie McCoy",
       "profile_path": "/41Ia0Sj8tcS0iYbqzmDVGZe4wtk.jpg",
-      "popularity": 9.22,
+      "popularity": 7.966,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 70437,
       "name": "Ng Man-tat",
       "profile_path": "/l0v7Fn5qPizk7Mt2WGNHiMF8hx5.jpg",
-      "popularity": 9.22,
+      "popularity": 12.766,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 222048,
       "name": "Darin Brooks",
       "profile_path": "/s42wC764FEqnUV1hwytZZbBzkXC.jpg",
-      "popularity": 9.218,
+      "popularity": 7.965,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 20141,
       "name": "Deborah Kerr",
       "profile_path": "/dHFhOEhHnn5cQjQN29IGRxzoxBP.jpg",
-      "popularity": 9.215,
+      "popularity": 9.165,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 50668,
       "name": "Jamie Bamber",
       "profile_path": "/kP1YvBoutrDMK8FWQseR3rfL5Yn.jpg",
-      "popularity": 9.213,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 120689,
-      "name": "Yuriko Yoshitaka",
-      "profile_path": "/Zqd3qjiVAfNtBcMAAUNPtvYDV8.jpg",
-      "popularity": 9.21,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 99461,
-      "name": "Cedric Hardwicke",
-      "profile_path": "/4nKaHppmOSS958pXNuGiYQYT6b0.jpg",
-      "popularity": 9.21,
+      "popularity": 12.898,
       "adult": false,
       "known_for_department": "Acting"
     }

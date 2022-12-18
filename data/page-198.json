@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1390948,
+      "name": "Kris Wu",
+      "profile_path": "/ht8RrzYbOEB3K2vheg51X33zmxt.jpg",
+      "popularity": 9.543,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 56895,
+      "name": "Amy Jo Johnson",
+      "profile_path": "/mgMtXlgOjEIvpndGFQo5TuuFKjC.jpg",
+      "popularity": 8.062,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 35476,
       "name": "Brittany Daniel",
       "profile_path": "/ggejsCiO94S2ZxljXN7LEypnaTQ.jpg",
-      "popularity": 9.541,
+      "popularity": 13.357,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 26847,
       "name": "Adam West",
       "profile_path": "/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg",
-      "popularity": 9.541,
+      "popularity": 13.357,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 80112,
       "name": "Sylvester McCoy",
       "profile_path": "/y7spOkUTzwf7WYgeGeNMnvBjStd.jpg",
-      "popularity": 9.537,
+      "popularity": 8.461,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 164397,
       "name": "Callie Thorne",
       "profile_path": "/abTd2C8d3WFVxSZPz52OYyogtRC.jpg",
-      "popularity": 9.534,
+      "popularity": 10.46,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 78597,
       "name": "Rob McElhenney",
       "profile_path": "/gcep3ItyxaZ3ljH1IS6Lfkm8IAs.jpg",
-      "popularity": 9.531,
+      "popularity": 13.343,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 26009,
       "name": "Gail O'Grady",
       "profile_path": "/ngPimQB84yeXC2A56pfzGt2Kjtq.jpg",
-      "popularity": 9.53,
+      "popularity": 13.342,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 3088,
       "name": "Sterling Hayden",
       "profile_path": "/j1ExJbuBqBa6WEhPVW4J7YGFBWs.jpg",
-      "popularity": 9.53,
+      "popularity": 10.859,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 6163,
       "name": "Adam Goldberg",
       "profile_path": "/hiqnMk1ojxuboipcsLzNbf0cloK.jpg",
-      "popularity": 9.527,
+      "popularity": 13.338,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 1078674,
       "name": "Park Ji-hwan",
       "profile_path": "/yCxBKivLmLaoziCveVbo89aW0zW.jpg",
-      "popularity": 9.526,
+      "popularity": 10.058,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 47882,
       "name": "Cynthia Gibb",
       "profile_path": "/1BmK4W1WtmKEUr3LEcbBbbxObQq.jpg",
-      "popularity": 9.526,
+      "popularity": 6.858,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 1580,
       "name": "Daveigh Chase",
       "profile_path": "/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg",
-      "popularity": 9.526,
+      "popularity": 9.658,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Miguel Bernardeau",
       "profile_path": "/cbpNHlyGHQeOcN8y46Gvj9t7W4Q.jpg",
       "popularity": 9.517,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 57748,
-      "name": "Byron Mann",
-      "profile_path": "/lJXes5cQU2a3x5V4auFV4CFyrYB.jpg",
-      "popularity": 9.512,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 19187,
-      "name": "Tiffani Thiessen",
-      "profile_path": "/gCENdJhELuJo0c8SQTGNBZMSr5R.jpg",
-      "popularity": 9.512,
       "adult": false,
       "known_for_department": "Acting"
     }

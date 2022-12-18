@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2954,
+      "name": "Jeffrey Wright",
+      "profile_path": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg",
+      "popularity": 19.435,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2349355,
       "name": "Michele Morrone",
       "profile_path": "/90IF4aQKrr7zXmtcsNAYbrvcIg2.jpg",
@@ -23,7 +31,7 @@
       "id": 93252,
       "name": "Kim Hae-sook",
       "profile_path": "/gbWb5gXuhGCnTSogCrmMPD65F8w.jpg",
-      "popularity": 13.869,
+      "popularity": 19.417,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 29930,
       "name": "Ivana Miličević",
       "profile_path": "/furpjcSjTMOq8XKO0mu7Za84Gk2.jpg",
-      "popularity": 13.868,
+      "popularity": 19.415,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 37041,
       "name": "Andrew McCarthy",
       "profile_path": "/swlewiX5zUjF5za9JOFXIVrL3kH.jpg",
-      "popularity": 13.866,
+      "popularity": 19.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 12077,
       "name": "Jim Cummings",
       "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
-      "popularity": 13.863,
+      "popularity": 19.359,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 11512,
       "name": "John Heard",
       "profile_path": "/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg",
-      "popularity": 13.858,
+      "popularity": 19.401,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 104795,
       "name": "Bill Paterson",
       "profile_path": "/mk5vpYLmER7asqOhEwVKXD3P3YE.jpg",
-      "popularity": 13.839,
+      "popularity": 13.752,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 54014,
       "name": "David Hayman",
       "profile_path": "/gTwOhUXKzdHn4CEO4VEPyJHleb1.jpg",
-      "popularity": 13.836,
+      "popularity": 19.37,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 689,
       "name": "Kate Capshaw",
       "profile_path": "/5VgRB0Ob0V75siBHnSXwT7qc0jx.jpg",
-      "popularity": 13.832,
+      "popularity": 15.35,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 114446,
       "name": "Jacob Bertrand",
       "profile_path": "/j1V1788QXnzZ2Flp5pllqeodjYT.jpg",
-      "popularity": 13.828,
+      "popularity": 12.948,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 11505,
       "name": "John Hughes",
       "profile_path": "/1Pm0HXRXSwz5BON9HHNDLdl4HjZ.jpg",
-      "popularity": 13.828,
+      "popularity": 19.359,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -143,7 +151,7 @@
       "id": 16560,
       "name": "David Caruso",
       "profile_path": "/7XjPzadIBQ0mIVwVT7o87B7NkJJ.jpg",
-      "popularity": 13.826,
+      "popularity": 14.148,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -152,14 +160,6 @@
       "name": "Naomi Ackie",
       "profile_path": "/vVHuadobY2lFRSYFJJK91T0WbZ9.jpg",
       "popularity": 13.825,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 23626,
-      "name": "Liev Schreiber",
-      "profile_path": "/miHBraMiP8d76eT81LErC6kAx3D.jpg",
-      "popularity": 13.821,
       "adult": false,
       "known_for_department": "Acting"
     }

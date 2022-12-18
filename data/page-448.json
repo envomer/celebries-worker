@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 9998,
+      "name": "Joey Slotnick",
+      "profile_path": "/AbQMBdomzhuqKC27LVWkurWfIms.jpg",
+      "popularity": 8.338,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 168241,
       "name": "Michele Scarabelli",
       "profile_path": "/jYFQQttqfPjX0W0P1Z1lw7RrLBP.jpg",
-      "popularity": 5.954,
+      "popularity": 8.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 65598,
       "name": "Tony Jay",
       "profile_path": "/uj5BYkgIJ5xyjosHcwrTM6cemel.jpg",
-      "popularity": 5.954,
+      "popularity": 8.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 37168,
       "name": "Hans Matheson",
       "profile_path": "/9LDEIOewvv16steeZW4BiwNmpw3.jpg",
-      "popularity": 5.954,
+      "popularity": 7.786,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 3268,
       "name": "Raf Vallone",
       "profile_path": "/7k7oiWobUCZ1TK1yLmz6jWhBuHk.jpg",
-      "popularity": 5.954,
+      "popularity": 8.336,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 83411,
       "name": "Timothy Scott",
       "profile_path": "/1KXqxseXqcbkQTHvybJArdLtdbs.jpg",
-      "popularity": 5.953,
+      "popularity": 7.786,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1291,
       "name": "Philip Wiegratz",
       "profile_path": "/jVGKw04FoBN8QX0PNfP32xh8dgA.jpg",
-      "popularity": 5.953,
+      "popularity": 6.586,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 95521,
       "name": "Lindsey Kraft",
       "profile_path": "/gpRawUYD309ElvEpsVVjRm4Awfl.jpg",
-      "popularity": 5.952,
+      "popularity": 5.386,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 13301,
       "name": "Quincy Jones",
       "profile_path": "/xkC1IKXkABgzyIUe87NMbPRf4wx.jpg",
-      "popularity": 5.952,
+      "popularity": 7.386,
       "adult": false,
       "known_for_department": "Sound"
     },
@@ -79,7 +87,7 @@
       "id": 115700,
       "name": "Takumi Saitoh",
       "profile_path": "/bI4F2yT9R3HW4o17V7Mne7EqIbB.jpg",
-      "popularity": 5.951,
+      "popularity": 8.331,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 154769,
       "name": "Allison Munn",
       "profile_path": "/naWXYBk5OWNWB5uV4V0b0qZ3pgq.jpg",
-      "popularity": 5.95,
+      "popularity": 7.785,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1243486,
       "name": "Park Eun-hye",
       "profile_path": "/luhkKk3cDaSQsjJRpMNFtiTiNPi.jpg",
-      "popularity": 5.949,
+      "popularity": 8.329,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1055157,
       "name": "Beverley Elliott",
       "profile_path": "/blOAhA4ImRF7U0fodHx8WegkUSG.jpg",
-      "popularity": 5.949,
+      "popularity": 4.985,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 109322,
       "name": "Jefferson Hall",
       "profile_path": "/39QSUNG3CEJldnGkPigmbMjMTXx.jpg",
-      "popularity": 5.949,
+      "popularity": 8.185,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 47722,
       "name": "George Cole",
       "profile_path": "/wbDTfmADZzCXrfLZs1CGmxl6JUN.jpg",
-      "popularity": 5.948,
+      "popularity": 7.384,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 6326,
       "name": "Pat Skipper",
       "profile_path": "/83kKXFGLe1GDXc1lau63gD5W9uF.jpg",
-      "popularity": 5.948,
+      "popularity": 6.184,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 2120766,
       "name": "Song Won-seok",
       "profile_path": "/cNj0aYJXm937PVH5mn0B0rOrXbv.jpg",
-      "popularity": 5.947,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1247394,
-      "name": "Noelle DuBois",
-      "profile_path": "/sa2BKZ8NCrjbO3kwKOYSTZgcTU2.jpg",
       "popularity": 5.947,
       "adult": false,
       "known_for_department": "Acting"

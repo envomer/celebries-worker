@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 18615,
+      "name": "Akira Takarada",
+      "profile_path": "/bnL8ZbICuHSXrTJlLYf3EDa3zfW.jpg",
+      "popularity": 3.762,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 4938,
       "name": "Vanessa Lee Chester",
       "profile_path": "/u5jWHnrCJO843KLHgkw1ZchbPOk.jpg",
-      "popularity": 5.872,
+      "popularity": 8.221,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 2173,
       "name": "Valentina Vargas",
       "profile_path": "/kS45i62uoGlnd9HmxTaA0DjiLk2.jpg",
-      "popularity": 5.872,
+      "popularity": 8.221,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 157847,
       "name": "Cress Williams",
       "profile_path": "/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg",
-      "popularity": 5.871,
+      "popularity": 8.219,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1268846,
       "name": "Daniel Padilla",
       "profile_path": "/rOXqdSjuxGGXJbZ8hNM8qrMZqPZ.jpg",
-      "popularity": 5.87,
+      "popularity": 6.561,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1247727,
       "name": "Aslı Enver",
       "profile_path": "/hucVs0Cr0IJZUIvVWraQjNKkdBe.jpg",
-      "popularity": 5.87,
+      "popularity": 6.961,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 592131,
       "name": "Susan Hoecke",
       "profile_path": "/bvHpfYG12OyGTg3HLZJA8UjYy81.jpg",
-      "popularity": 5.87,
+      "popularity": 8.161,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 93177,
       "name": "Lee Ross",
       "profile_path": "/sQNOXntZ677YC9686kUl1NWGP18.jpg",
-      "popularity": 5.87,
+      "popularity": 8.218,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 76548,
       "name": "Agnes Kittelsen",
       "profile_path": "/eSl1PUmc2FOIOFRVIyLRXUSnR1Z.jpg",
-      "popularity": 5.869,
+      "popularity": 4.961,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1046863,
       "name": "Lee Hee-jun",
       "profile_path": "/4slyXnHbKgzmeyJNetBSORgDDEF.jpg",
-      "popularity": 5.867,
+      "popularity": 8.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 6907,
       "name": "Annie Corley",
       "profile_path": "/rz72CxdBciMiyqY38Ik6C6dMB3I.jpg",
-      "popularity": 5.867,
+      "popularity": 3.52,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 863,
       "name": "Orson Bean",
       "profile_path": "/2iz769YdycczgnGPZyXNsaN3TGR.jpg",
-      "popularity": 5.867,
+      "popularity": 8.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1254835,
       "name": "Aya Uchida",
       "profile_path": "/qui4ydxzMXvpBV5NTTO9tk6uwDZ.jpg",
-      "popularity": 5.866,
+      "popularity": 3.76,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 105647,
       "name": "Justine Bateman",
       "profile_path": "/rYEbU778cutjGORs5uxebYehhyy.jpg",
-      "popularity": 5.866,
+      "popularity": 8.212,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 5833,
       "name": "Ed Wynn",
       "profile_path": "/u0eEj1uzQNmSPQgBDcgGJaIHILR.jpg",
-      "popularity": 5.866,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 87679,
-      "name": "Anna Falchi",
-      "profile_path": "/kEiWaPeRIskpNgfbh6tuKDBkro9.jpg",
-      "popularity": 5.865,
+      "popularity": 8.212,
       "adult": false,
       "known_for_department": "Acting"
     }

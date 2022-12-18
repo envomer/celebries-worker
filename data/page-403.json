@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 64221,
+      "name": "Dan Monahan",
+      "profile_path": "/6UiySllIZFL1jpnZ7PTqtSR0vJz.jpg",
+      "popularity": 7.101,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 43125,
       "name": "Rob Paulsen",
       "profile_path": "/7buvKWIjPlspqruaO3b28V5owJr.jpg",
-      "popularity": 6.337,
+      "popularity": 8.872,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 99183,
       "name": "Alan van Sprang",
       "profile_path": "/pRoYSbQTkOwGGIChDPQXmZ22nV2.jpg",
-      "popularity": 6.335,
+      "popularity": 3.801,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 8258,
       "name": "Ben Johnson",
       "profile_path": "/VJYWJAOLcLE1WyG1v8W2h7TahA.jpg",
-      "popularity": 6.335,
+      "popularity": 8.869,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1384,
       "name": "Grażyna Szapołowska",
       "profile_path": "/1Ddm2eY5sPHXy0AG9ksALlGop42.jpg",
-      "popularity": 6.334,
+      "popularity": 5.9,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1218303,
       "name": "Una Stubbs",
       "profile_path": "/bz23ewpBlZNgSwCLqKPaa8ulKfQ.jpg",
-      "popularity": 6.333,
+      "popularity": 8.866,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 33134,
       "name": "Tomokazu Miura",
       "profile_path": "/2tKusMF6dzGOfH7MM73FCsJzRoJ.jpg",
-      "popularity": 6.333,
+      "popularity": 8.866,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 123711,
       "name": "Gwynne Gilford",
       "profile_path": "/5N6dOxZEQtAjTX54TbEyBhxpXL.jpg",
-      "popularity": 6.332,
+      "popularity": 5.5,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 97600,
       "name": "David DeLuise",
       "profile_path": "/sVhASyuFr0sZeKzaO7q2kEiSSkg.jpg",
-      "popularity": 6.332,
+      "popularity": 8.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 83014,
       "name": "Gang Dong-won",
       "profile_path": "/xGPT8rgvWuK8Qh7BKNd7fhKs8Sk.jpg",
-      "popularity": 6.332,
+      "popularity": 8.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 38341,
       "name": "Bulle Ogier",
       "profile_path": "/lS4b8sdG6u2IBo7cBPTqNSqAq2O.jpg",
-      "popularity": 6.331,
+      "popularity": 8.863,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1148455,
       "name": "Wyatt Oleff",
       "profile_path": "/oBOWREuQvpj83PkArHBEghRv0FI.jpg",
-      "popularity": 6.329,
+      "popularity": 8.699,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 116027,
       "name": "Eli Marienthal",
       "profile_path": "/lrIygexYKs1bhcIjbHtyCejRaAe.jpg",
-      "popularity": 6.329,
+      "popularity": 8.861,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 20494,
       "name": "Zoë Bell",
       "profile_path": "/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg",
-      "popularity": 6.329,
+      "popularity": 8.699,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 12208,
       "name": "Ozzy Osbourne",
       "profile_path": "/wu5vrd2dQzXaxqZw2LOeFlhjSkT.jpg",
-      "popularity": 6.329,
+      "popularity": 8.861,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 3496,
       "name": "Craig Hall",
       "profile_path": "/bdTS3OgiIkSa4iPheVHKJFgMV9Z.jpg",
-      "popularity": 6.329,
+      "popularity": 6.699,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1031380,
       "name": "Camren Bicondova",
       "profile_path": "/nfyH1R6C1mwMQxrpRBZ80AoaN3n.jpg",
-      "popularity": 6.328,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 67978,
-      "name": "Ona Grauer",
-      "profile_path": "/vfcupzwyzs1CNrjuG0wW4B3eQcD.jpg",
-      "popularity": 6.328,
+      "popularity": 8.859,
       "adult": false,
       "known_for_department": "Acting"
     }

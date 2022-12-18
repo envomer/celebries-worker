@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 559195,
+      "name": "Tobias Santelmann",
+      "profile_path": "/wDsLQNsG4WWvwE6pwtV0FhL5JZt.jpg",
+      "popularity": 12.149,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 281985,
       "name": "Masiela Lusha",
       "profile_path": "/xkXvuHjydPXRgwbXS1SxHVeiaX7.jpg",
-      "popularity": 12.498,
+      "popularity": 17.497,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 90033,
       "name": "Aly Michalka",
       "profile_path": "/lPaqOO9Gt9hLJIo4FPB3ADUjAtt.jpg",
-      "popularity": 12.492,
+      "popularity": 9.748,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 84464,
       "name": "Julia Benson",
       "profile_path": "/UMd97cvMl718yQHmyCoRliLwoU.jpg",
-      "popularity": 12.492,
+      "popularity": 8.948,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1137823,
       "name": "Stacy Martin",
       "profile_path": "/2eRIvurxaDFKqC9BzAAiYhJp90Z.jpg",
-      "popularity": 12.488,
+      "popularity": 15.746,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1173485,
       "name": "Cenk Torun",
       "profile_path": "/x207Fvz3X2QIiTStyKT2RsGT72e.jpg",
-      "popularity": 12.485,
+      "popularity": 11.746,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 76126,
       "name": "T.I.",
       "profile_path": "/dHnR4QavU2ILjvbr3SXBh4cJSdJ.jpg",
-      "popularity": 12.484,
+      "popularity": 11.745,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 51581,
       "name": "Clarence Gilyard Jr.",
       "profile_path": "/lg667Ch3InXAtJllEOFRdDW5fZX.jpg",
-      "popularity": 12.482,
+      "popularity": 16.545,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 56819,
       "name": "Dudley Moore",
       "profile_path": "/8xLueKMu5tpBmLNzZ73eWBNHycW.jpg",
-      "popularity": 12.481,
+      "popularity": 10.944,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 16850,
       "name": "Rose McGowan",
       "profile_path": "/38zwwYnEWfATlVTSZ2tOSHtCd3k.jpg",
-      "popularity": 12.477,
+      "popularity": 14.143,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 824,
       "name": "Ethan Suplee",
       "profile_path": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg",
-      "popularity": 12.477,
+      "popularity": 16.943,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 46902,
       "name": "Kirsten Robek",
       "profile_path": "/iqcerFwPYnWjoTu3jgs38PDUuqJ.jpg",
-      "popularity": 12.468,
+      "popularity": 14.14,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1256258,
       "name": "Toks Olagundoye",
       "profile_path": "/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg",
-      "popularity": 12.466,
+      "popularity": 14.54,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1181426,
       "name": "Valorie Curry",
       "profile_path": "/jqBKANtzMt7xsmrTZ3be1sx9Ejv.jpg",
-      "popularity": 12.466,
+      "popularity": 15.34,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 7672,
       "name": "Reginald VelJohnson",
       "profile_path": "/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg",
-      "popularity": 12.463,
+      "popularity": 13.339,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 29068,
       "name": "Ben Cross",
       "profile_path": "/11gObExUG7lFCA7WeYgHabnZjDg.jpg",
-      "popularity": 12.461,
+      "popularity": 17.445,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 2463,
       "name": "Patrick McGoohan",
       "profile_path": "/lotRTcsjw2fofH1mnMkIdEAiAfH.jpg",
-      "popularity": 12.458,
+      "popularity": 12.537,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 140114,
       "name": "Marie Avgeropoulos",
       "profile_path": "/cCzCHmDZXrNfyzbkpxvaKDaGy77.jpg",
-      "popularity": 12.457,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 963818,
-      "name": "Troy Baker",
-      "profile_path": "/k3eNrfCd6tEH7RKDwn6ZUpmjMnf.jpg",
-      "popularity": 12.454,
+      "popularity": 15.737,
       "adult": false,
       "known_for_department": "Acting"
     }

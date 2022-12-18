@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 52605,
+      "name": "Eva Longoria",
+      "profile_path": "/ywz9n9lVkxUklJKUHDQxENAVOek.jpg",
+      "popularity": 19.806,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 8447,
       "name": "Jeff Daniels",
       "profile_path": "/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg",
-      "popularity": 14.146,
+      "popularity": 19.804,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 11850,
       "name": "Candice Bergen",
       "profile_path": "/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg",
-      "popularity": 14.14,
+      "popularity": 19.796,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 34248,
       "name": "Rena Sofer",
       "profile_path": "/k9KztxV6396WMKZxPk1X74P6z9G.jpg",
-      "popularity": 14.132,
+      "popularity": 14.64,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 46423,
       "name": "Olivia d'Abo",
       "profile_path": "/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg",
-      "popularity": 14.124,
+      "popularity": 19.774,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 3300,
       "name": "Natalia Tena",
       "profile_path": "/vpjfd4ueiuOmBaSWPzC4KdWEhBt.jpg",
-      "popularity": 14.12,
+      "popularity": 19.768,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1182597,
       "name": "Denise Gough",
       "profile_path": "/uGs5oHN1MK4tmU850fCw7d3Nx0h.jpg",
-      "popularity": 14.117,
+      "popularity": 17.435,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 126502,
       "name": "Charisma Carpenter",
       "profile_path": "/4KtGNoEHj0igFTLVgxoGXhDKNu.jpg",
-      "popularity": 14.112,
+      "popularity": 11.834,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1202534,
       "name": "Sadie Sandler",
       "profile_path": "/nGHtlLj4m2TZcRCOyuRlrtITUTY.jpg",
-      "popularity": 14.106,
+      "popularity": 19.748,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 10862,
       "name": "Dominic Purcell",
       "profile_path": "/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
-      "popularity": 14.091,
+      "popularity": 15.027,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 26472,
       "name": "Steve Guttenberg",
       "profile_path": "/ghTMepliFNcRQHNELs8pgNDsZyW.jpg",
-      "popularity": 14.09,
+      "popularity": 19.726,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 33527,
       "name": "Adam Beach",
       "profile_path": "/k2KLABeVAvL0szCOEgfarNKsESg.jpg",
-      "popularity": 14.083,
+      "popularity": 18.225,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1256349,
       "name": "Jo Bo-ah",
       "profile_path": "/shDdpDQk5jPCZAI9nxikQV5fokc.jpg",
-      "popularity": 14.076,
+      "popularity": 11.023,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 147056,
       "name": "Caitríona Balfe",
       "profile_path": "/4KQRDj74lKwU52Ewmzz7sVIakgn.jpg",
-      "popularity": 14.074,
+      "popularity": 11.422,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 12073,
       "name": "Mike Myers",
       "profile_path": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg",
-      "popularity": 14.074,
+      "popularity": 19.704,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 57451,
       "name": "Leslie Bibb",
       "profile_path": "/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg",
-      "popularity": 14.07,
+      "popularity": 17.021,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 11702,
       "name": "Adam Brody",
       "profile_path": "/jeMhuu9Q81XJLIef1OU7NlcxRW0.jpg",
-      "popularity": 14.059,
+      "popularity": 15.818,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -152,14 +160,6 @@
       "name": "Katherine Renee Kane",
       "profile_path": "/j3kpjIhqKzq1FeHXd0IqBHvFvPL.jpg",
       "popularity": 14.056,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 23915,
-      "name": "Pat Morita",
-      "profile_path": "/urxkD8FV5ajhjiFTyVQlbECGyRI.jpg",
-      "popularity": 14.053,
       "adult": false,
       "known_for_department": "Acting"
     }

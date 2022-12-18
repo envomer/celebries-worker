@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 4966,
+      "name": "Keenan Wynn",
+      "profile_path": "/z6Krk3fIoW6O9EhZTWb2EFJtzp2.jpg",
+      "popularity": 5.896,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 4,
       "name": "Carrie Fisher",
       "profile_path": "/rfJtncHewKVnHjqpIZvjn24ESeC.jpg",
-      "popularity": 6.319,
+      "popularity": 8.847,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 199704,
       "name": "Beth Hall",
       "profile_path": "/uxyyIsiuOxBblda6x0MUn16VyRQ.jpg",
-      "popularity": 6.318,
+      "popularity": 5.495,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 13637,
       "name": "Joan Collins",
       "profile_path": "/aUJUdbCDN0SnP9nVam9Xbqv3QcX.jpg",
-      "popularity": 6.318,
+      "popularity": 6.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 2479,
       "name": "Rupert Vansittart",
       "profile_path": "/lNrqLH0ombV0PoF3KilDzX1ujI9.jpg",
-      "popularity": 6.318,
+      "popularity": 8.845,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 14,
       "name": "Ellen DeGeneres",
       "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg",
-      "popularity": 6.316,
+      "popularity": 8.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1936,
       "name": "Martin Balsam",
       "profile_path": "/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg",
-      "popularity": 6.315,
+      "popularity": 7.895,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 77225,
       "name": "Barbara Rhoades",
       "profile_path": "/73MpFvk2YELp13jr6F4cPSx4S4B.jpg",
-      "popularity": 6.314,
+      "popularity": 7.094,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 26666,
       "name": "Amanda Pays",
       "profile_path": "/ryDAKAA5bR8dqB7rDp7pDvTqT7z.jpg",
-      "popularity": 6.314,
+      "popularity": 8.84,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 6201,
       "name": "Baz Luhrmann",
       "profile_path": "/6Dqs2hmcj2UtTON5FfjlRvKdbuF.jpg",
-      "popularity": 6.313,
+      "popularity": 7.894,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -103,7 +111,7 @@
       "id": 76068,
       "name": "Michael Dorman",
       "profile_path": "/624CKam4fVBcHATuOfsOEvPzCCh.jpg",
-      "popularity": 6.312,
+      "popularity": 4.694,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 42186,
       "name": "Laura Johnson",
       "profile_path": "/aUZdnEjPBZyVjBbndk4FZEa0H2o.jpg",
-      "popularity": 6.311,
+      "popularity": 8.835,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 127706,
       "name": "Kim Seo-hyung",
       "profile_path": "/fiswmVfSLUVxGa6m7McdQXGZo6e.jpg",
-      "popularity": 6.31,
+      "popularity": 8.834,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 27238,
       "name": "Brian McNamara",
       "profile_path": "/pPuMmkeEQj7JPvxclKYXLacwHW7.jpg",
-      "popularity": 6.308,
+      "popularity": 8.831,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 12538,
       "name": "Nick Searcy",
       "profile_path": "/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg",
-      "popularity": 6.308,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1907999,
-      "name": "Yoo Ri",
-      "profile_path": "",
-      "popularity": 6.307,
+      "popularity": 5.492,
       "adult": false,
       "known_for_department": "Acting"
     }

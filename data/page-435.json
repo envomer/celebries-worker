@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 26718,
+      "name": "Dorian Missick",
+      "profile_path": "/n1Wsh7AZjsWcanQrTLwjZvGKw66.jpg",
+      "popularity": 7.022,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 962438,
       "name": "Laura Brent",
       "profile_path": "/iJ1m7piqcYNimoosSHR1Yha1BMB.jpg",
-      "popularity": 6.071,
+      "popularity": 8.499,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 999329,
       "name": "Kevin Hernandez",
       "profile_path": "/u5vHQF0RTpErbKnIE4jwB62VBFr.jpg",
-      "popularity": 6.07,
+      "popularity": 8.498,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 101565,
       "name": "Madison Riley",
       "profile_path": "/v7PkhDJoNnMqraMU8prrVtlJXvJ.jpg",
-      "popularity": 6.07,
+      "popularity": 8.498,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 76999,
       "name": "Jess Weixler",
       "profile_path": "/2X0PjIXMLPjm7opUGEq8X5lvqjV.jpg",
-      "popularity": 6.07,
+      "popularity": 7.021,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 55432,
       "name": "Jamie Farr",
       "profile_path": "/SNxQti5OQwYoVP6EPFmjKFpGs9.jpg",
-      "popularity": 6.07,
+      "popularity": 7.821,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 10779,
       "name": "David Calder",
       "profile_path": "/7l4WZ0IufRCx3A0AHwRAH7K2Ccz.jpg",
-      "popularity": 6.07,
+      "popularity": 4.621,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 212913,
       "name": "Nathan Kress",
       "profile_path": "/3DAchXVcQvqxsrsRFcYrjZZXxnb.jpg",
-      "popularity": 6.069,
+      "popularity": 4.621,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 119598,
       "name": "Phylicia Rashād",
       "profile_path": "/gFXzYmYs3DQP8JnX0h3UamcHNKH.jpg",
-      "popularity": 6.069,
+      "popularity": 8.497,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 118544,
       "name": "Melise",
       "profile_path": "/1USFrxT2872quJ0KGUUs2Zur3fl.jpg",
-      "popularity": 6.066,
+      "popularity": 5.82,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 40543,
       "name": "John Ortiz",
       "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg",
-      "popularity": 6.066,
+      "popularity": 8.492,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 749,
       "name": "Isla Blair",
       "profile_path": "/b6PfeXgrOKpBhc1ECONAijh0Ar9.jpg",
-      "popularity": 6.065,
+      "popularity": 5.82,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 77897,
       "name": "Tyra Banks",
       "profile_path": "/g5Aar3pS2imJowLgk0GVawyggvf.jpg",
-      "popularity": 6.064,
+      "popularity": 8.49,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1221121,
       "name": "Dennis Keiffer",
       "profile_path": "/jb6FR0OZgCqbPOkKq2KikXr31WW.jpg",
-      "popularity": 6.063,
+      "popularity": 3.638,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 9871,
       "name": "Ursula Andress",
       "profile_path": "/mZSFE3vayIgXmfot4btC7K1rECZ.jpg",
-      "popularity": 6.063,
+      "popularity": 7.419,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 129430,
       "name": "Robyn Peterson",
       "profile_path": "/vVuKEbDjtLjZWX1cAxCytNHptnI.jpg",
-      "popularity": 6.062,
+      "popularity": 4.219,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 47646,
       "name": "Catherine Tate",
       "profile_path": "/xqaqetDBODzlm4Yky99NOOzLstL.jpg",
-      "popularity": 6.062,
+      "popularity": 8.219,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 21457,
       "name": "Elvis Presley",
       "profile_path": "/6YzYARfQO9a2mCEXNhLFuqKMAW6.jpg",
-      "popularity": 6.062,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1293341,
-      "name": "You Sa-Ra",
-      "profile_path": "/89u8KHO9GJmgv7llKcvrwB4BZlC.jpg",
-      "popularity": 6.061,
+      "popularity": 7.019,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 55936,
+      "name": "Jemaine Clement",
+      "profile_path": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+      "popularity": 19.857,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 83860,
       "name": "Aldis Hodge",
       "profile_path": "/jPpnaAGFXaIeOrRNUHIHxk3fIJL.jpg",
-      "popularity": 16.855,
+      "popularity": 23.597,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 18182,
       "name": "Olga Kurylenko",
       "profile_path": "/q0QXFRg5bSnaLjbvhamfclt0eId.jpg",
-      "popularity": 16.853,
+      "popularity": 19.856,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 53283,
       "name": "Jonathan Taylor Thomas",
       "profile_path": "/E4cAiS5ge08euPEXrGLKhQX7cj.jpg",
-      "popularity": 16.842,
+      "popularity": 20.253,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 133,
       "name": "Peter Sarsgaard",
       "profile_path": "/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg",
-      "popularity": 16.841,
+      "popularity": 19.452,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1097436,
       "name": "Miriam Leone",
       "profile_path": "/kOl4gte94tJKXl8csCEYIxhZV0B.jpg",
-      "popularity": 16.827,
+      "popularity": 18.648,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 68812,
       "name": "Ed Asner",
       "profile_path": "/i9Akq9tqNwgcAc63QaSaiTYZtUB.jpg",
-      "popularity": 16.818,
+      "popularity": 23.545,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1932,
       "name": "Audrey Hepburn",
       "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg",
-      "popularity": 16.817,
+      "popularity": 13.045,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 819,
       "name": "Edward Norton",
       "profile_path": "/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg",
-      "popularity": 16.815,
+      "popularity": 21.045,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1039305,
       "name": "Kasumi Arimura",
       "profile_path": "/wgRmACLMYhZWmMOaGUmUUMYPDTG.jpg",
-      "popularity": 16.807,
+      "popularity": 23.042,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 8183,
       "name": "Kathleen Quinlan",
       "profile_path": "/w93KLi08Mi7IQCojz7D49g9WccE.jpg",
-      "popularity": 16.801,
+      "popularity": 14.64,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 3799,
       "name": "Billy Dee Williams",
       "profile_path": "/dCiHLiCapPuRwKkM1ytVZ7PwYQY.jpg",
-      "popularity": 16.795,
+      "popularity": 14.239,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1036,
       "name": "Cybill Shepherd",
       "profile_path": "/ci20y6ilSmiw759cUwQVheOqNaD.jpg",
-      "popularity": 16.795,
+      "popularity": 23.513,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 15091,
       "name": "Melanie Lynskey",
       "profile_path": "/4raNiD71caQXKKqIBZS1FDsvtkd.jpg",
-      "popularity": 16.794,
+      "popularity": 13.438,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 8170,
       "name": "Eva Mendes",
       "profile_path": "/4xptMw7AjNamFgfGt75sHaT0wsI.jpg",
-      "popularity": 16.784,
+      "popularity": 23.498,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1159982,
       "name": "Ansel Elgort",
       "profile_path": "/ynceZwoR41V4FBiElUpgG5aFi9i.jpg",
-      "popularity": 16.772,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 202032,
-      "name": "Ralph Ineson",
-      "profile_path": "/5BRjuGt1hgfK2qj5huvPuj9Xpg3.jpg",
-      "popularity": 16.766,
+      "popularity": 12.232,
       "adult": false,
       "known_for_department": "Acting"
     }

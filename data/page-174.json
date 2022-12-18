@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 5958,
+      "name": "Hilary Duff",
+      "profile_path": "/48Pwyp6ASq8MjW2g4JERj47TeO4.jpg",
+      "popularity": 12.672,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1381186,
+      "name": "Stephanie Hsu",
+      "profile_path": "/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg",
+      "popularity": 10.24,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1512741,
       "name": "Xu Kaicheng",
       "profile_path": "/o8KLpC8dlczGxHCcBwlM4ZWpW80.jpg",
@@ -15,7 +31,7 @@
       "id": 96066,
       "name": "Liam Hemsworth",
       "profile_path": "/As5ujeSSJRQN4TE3odg3kDk0b5o.jpg",
-      "popularity": 10.237,
+      "popularity": 11.871,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 51214,
       "name": "Brad Renfro",
       "profile_path": "/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg",
-      "popularity": 10.236,
+      "popularity": 12.271,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 33676,
       "name": "Kathleen Robertson",
       "profile_path": "/vtY0dPOu7gsxN2gVcTK0j0v76qc.jpg",
-      "popularity": 10.235,
+      "popularity": 13.071,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 14501,
       "name": "Peter Ustinov",
       "profile_path": "/7GHLBhcNCiRugTcUt76HgtkZCUg.jpg",
-      "popularity": 10.235,
+      "popularity": 10.271,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 59156,
       "name": "Stephanie March",
       "profile_path": "/7iDG2vgajeDQJROkhkVjHYuKS3.jpg",
-      "popularity": 10.234,
+      "popularity": 6.67,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 160267,
       "name": "Katherine Cannon",
       "profile_path": "/vjhNBFwGbKiMgmyXZqLrwUwUDgh.jpg",
-      "popularity": 10.233,
+      "popularity": 6.14,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 10411,
       "name": "Barry Nelson",
       "profile_path": "/mPJX312FaIfJXTochCs3g26YcFd.jpg",
-      "popularity": 10.233,
+      "popularity": 10.67,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 57675,
       "name": "Daryl Sabara",
       "profile_path": "/q4TZWwSVoBE2Vau1YVrH7HFQB7N.jpg",
-      "popularity": 10.229,
+      "popularity": 14.321,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 176,
       "name": "Kieran O'Brien",
       "profile_path": "/wKYN1MvjYIJTYtXVFtlqWK84SMp.jpg",
-      "popularity": 10.229,
+      "popularity": 9.869,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 3266,
       "name": "Joe Mantegna",
       "profile_path": "/hFE8VNAykfZnvZjRhatVwjVXkZv.jpg",
-      "popularity": 10.228,
+      "popularity": 14.319,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 21319,
       "name": "Sheri Moon Zombie",
       "profile_path": "/jJwAiJps5cOz484c3QJgjKe1yxJ.jpg",
-      "popularity": 10.227,
+      "popularity": 7.868,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 156590,
       "name": "Currie Graham",
       "profile_path": "/nAfWp90FpQUvZX62CRwmgN1NB1t.jpg",
-      "popularity": 10.226,
+      "popularity": 12.668,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 91600,
       "name": "R. H. Thomson",
       "profile_path": "/j9RIw8mC5CpMRToDfUCzFgPGDhK.jpg",
-      "popularity": 10.221,
+      "popularity": 12.666,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 120430,
       "name": "Shefali Shah",
       "profile_path": "/9F8UGARvP7w10Chq5povDPHpfUC.jpg",
-      "popularity": 10.22,
+      "popularity": 14.308,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 57147,
       "name": "Paul Hogan",
       "profile_path": "/1QQURn65Q2yeDCaGIaLktd6kUPx.jpg",
-      "popularity": 10.22,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 67802,
-      "name": "Rick Jaffa",
-      "profile_path": "/iki2KpmMFhLIdq3pvHhq7tit8Q1.jpg",
-      "popularity": 10.219,
-      "adult": false,
-      "known_for_department": "Writing"
-    },
-    {
-      "id": 56614,
-      "name": "Ray Stevenson",
-      "profile_path": "/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg",
-      "popularity": 10.219,
+      "popularity": 9.066,
       "adult": false,
       "known_for_department": "Acting"
     }

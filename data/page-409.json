@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 3926,
+      "name": "Albert Finney",
+      "profile_path": "/2sERwXPq1EMoplrRgAs8DUmyzgF.jpg",
+      "popularity": 8.789,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 105727,
       "name": "Jake Abel",
       "profile_path": "/qPFAG3wNIUYO7HHZ3HHn6Kdr1PM.jpg",
-      "popularity": 6.277,
+      "popularity": 8.788,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 34660,
       "name": "Will Hutchins",
       "profile_path": "/py2zVDwdgkgx8Zm4luigZ7NkkDj.jpg",
-      "popularity": 6.277,
+      "popularity": 7.083,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 169920,
       "name": "Leon Russom",
       "profile_path": "/lLBJc5ThJEMafNUlsQyYQ7x1efg.jpg",
-      "popularity": 6.276,
+      "popularity": 7.083,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 43902,
       "name": "Erik Palladino",
       "profile_path": "/k8wx0HCCcjRYKqowh8E1yIdrsVu.jpg",
-      "popularity": 6.276,
+      "popularity": 8.786,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 4890,
       "name": "Brian Tarantina",
       "profile_path": "/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg",
-      "popularity": 6.276,
+      "popularity": 7.083,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 97871,
       "name": "Mia Zottoli",
       "profile_path": "/yzTlBYLI02dJNvzBG5kIFr3PzR1.jpg",
-      "popularity": 6.273,
+      "popularity": 5.482,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 63364,
       "name": "Brian Gleeson",
       "profile_path": "/5KdRlcinTh30DC81st2Cu6tCmAe.jpg",
-      "popularity": 6.272,
+      "popularity": 7.082,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1123505,
       "name": "Kim Jung-nan",
       "profile_path": "/3YzhO1vEURcvmlygJtrPrwNJYjZ.jpg",
-      "popularity": 6.271,
+      "popularity": 8.779,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 37149,
       "name": "Luis Da Silva Jr.",
       "profile_path": "/ajavEvDuNcinuw3BJ80OE0sEU5Q.jpg",
-      "popularity": 6.269,
+      "popularity": 7.881,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 182068,
       "name": "Daniel Casey",
       "profile_path": "/jPUCAtHZw1Hz5RG1Rfk1DSGTrRH.jpg",
-      "popularity": 6.266,
+      "popularity": 4.28,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 74302,
       "name": "Cory Hardrict",
       "profile_path": "/rxQr8r8GKumZQOLHXBL6CIpif0H.jpg",
-      "popularity": 6.266,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 52698,
-      "name": "Nika Futterman",
-      "profile_path": "/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg",
-      "popularity": 6.265,
+      "popularity": 8.28,
       "adult": false,
       "known_for_department": "Acting"
     }

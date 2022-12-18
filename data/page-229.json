@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 9707,
+      "name": "Ayumi Ito",
+      "profile_path": "/5Lon3bBtHjiFCyNLpiDNI2oVinj.jpg",
+      "popularity": 10.645,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 75021,
+      "name": "Noelle Parker",
+      "profile_path": "/vov5YTd566G1KkGJk3plYoHA2wg.jpg",
+      "popularity": 12.34,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 36821,
       "name": "Nicholas Guest",
       "profile_path": "/dSA11Xw5JX7uJ3SSFWc1eimtoY4.jpg",
-      "popularity": 8.814,
+      "popularity": 12.34,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 216523,
       "name": "Julianna Rose Mauriello",
       "profile_path": "/urW49gyTxwPEvniCgWxR6D0THrN.jpg",
-      "popularity": 8.813,
+      "popularity": 8.644,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 133401,
       "name": "Amanda Fuller",
       "profile_path": "/bsZEjrhT0N61C6gkF4rWTKNy5zz.jpg",
-      "popularity": 8.813,
+      "popularity": 8.244,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 28657,
       "name": "Matthew Fox",
       "profile_path": "/6VIfueb4j3GCsIhxnstsXlY5C3Y.jpg",
-      "popularity": 8.813,
+      "popularity": 12.338,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 185889,
       "name": "Cynthia Daniel",
       "profile_path": "/vF3ZdRnDKT80iEsZokbgwBbAOBg.jpg",
-      "popularity": 8.81,
+      "popularity": 12.334,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 117085,
       "name": "Wanda Cannon",
       "profile_path": "",
-      "popularity": 8.81,
+      "popularity": 8.243,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 68769,
       "name": "Julie Gonzalo",
       "profile_path": "/6clO3lFK6dn3lBXe8zZoRNPbERr.jpg",
-      "popularity": 8.81,
+      "popularity": 12.334,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 239507,
       "name": "Asami Ogawa",
       "profile_path": "/Ar5rDel8pIzh59KEL1bJrUayFbM.jpg",
-      "popularity": 8.808,
+      "popularity": 7.442,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 67711,
       "name": "French Stewart",
       "profile_path": "/58v2ob0bzhvTIBwLcLx8SKgrwPh.jpg",
-      "popularity": 8.807,
+      "popularity": 10.242,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 59671,
       "name": "Clayne Crawford",
       "profile_path": "/ucp46sIKdMxIuOoj47kaqeR7xm1.jpg",
-      "popularity": 8.807,
+      "popularity": 12.33,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 94156,
       "name": "Diana Dors",
       "profile_path": "/jqn5glFet4dl1zKpC4prnqQORXX.jpg",
-      "popularity": 8.806,
+      "popularity": 9.842,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 37946,
       "name": "Aitana Sánchez-Gijón",
       "profile_path": "/4gm7EJzvJQbN2RPW1ZOcEzF1jDn.jpg",
-      "popularity": 8.803,
+      "popularity": 12.324,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 21318,
       "name": "Scout Taylor-Compton",
       "profile_path": "/361hHwUGT4HdJw9xYGULaUNtLKu.jpg",
-      "popularity": 8.798,
+      "popularity": 7.839,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 999346,
       "name": "Kylie Bunbury",
       "profile_path": "/zR4HMTChMAOADpIE7gGB3QLmrOB.jpg",
-      "popularity": 8.792,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 62932,
-      "name": "Jemima Rooper",
-      "profile_path": "/rIhNnWuydjQMCjQiHVwSZAIsVXa.jpg",
-      "popularity": 8.792,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 55885,
-      "name": "Sofia Helin",
-      "profile_path": "/aOzrZ51r9sPAE8sJvQm2LuZ3hYc.jpg",
-      "popularity": 8.791,
+      "popularity": 12.309,
       "adult": false,
       "known_for_department": "Acting"
     }

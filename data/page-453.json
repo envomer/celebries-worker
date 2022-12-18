@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 127564,
+      "name": "Jo In-sung",
+      "profile_path": "/69gbyFI0ET0l0dyjKChlx1Zx269.jpg",
+      "popularity": 5.376,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 22,
       "name": "Barry Humphries",
       "profile_path": "/gtOAbs8ZFJiDDRPPock1qmP4V18.jpg",
-      "popularity": 5.921,
+      "popularity": 6.976,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 39644,
       "name": "Marie Laforêt",
       "profile_path": "/mlShqSmfa4LMtSLzcTfJW5SL75R.jpg",
-      "popularity": 5.919,
+      "popularity": 8.287,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 55119,
       "name": "Alejandro Jodorowsky",
       "profile_path": "/3LdhCKJ2iXhvRxgxIYeUNLzutR9.jpg",
-      "popularity": 5.918,
+      "popularity": 8.285,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -39,7 +47,7 @@
       "id": 1257624,
       "name": "Lee Soo-hyuk",
       "profile_path": "/70GcUYBv7ru7feswAFya0Lt3KV6.jpg",
-      "popularity": 5.916,
+      "popularity": 6.975,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1093434,
       "name": "Masakazu Tamura",
       "profile_path": "/c9Sqoe3Am3MYP5Y5knZhwKOU2qm.jpg",
-      "popularity": 5.916,
+      "popularity": 8.282,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 143358,
       "name": "Li Xuejian",
       "profile_path": "/p756d1m8Dcek4OA83RVqiJOosTF.jpg",
-      "popularity": 5.916,
+      "popularity": 3.55,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 143541,
       "name": "Ryu Hyun-kyung",
       "profile_path": "/5fBhKSwM6MCIaK0n6dFnxHYIlje.jpg",
-      "popularity": 5.915,
+      "popularity": 6.575,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 24379,
       "name": "Bernard Blier",
       "profile_path": "/6xRHGb7CNDa83rcTzCp3LeIvU2s.jpg",
-      "popularity": 5.915,
+      "popularity": 4.175,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 68814,
       "name": "Pauline Acquart",
       "profile_path": "/4SLYg6NAyaYZECsgIBFb7VJz0F3.jpg",
-      "popularity": 5.914,
+      "popularity": 4.174,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 587665,
       "name": "Jun Izumi",
       "profile_path": "/lorlB8ptx9zv6FzurFXXcJNKouZ.jpg",
-      "popularity": 5.913,
+      "popularity": 8.278,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 86624,
       "name": "Collette Wolfe",
       "profile_path": "/cNmVXFsRjWI0b35goXfu3y2Azls.jpg",
-      "popularity": 5.913,
+      "popularity": 7.374,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1110143,
       "name": "Nathan Page",
       "profile_path": "/fQOR2lWHwPdIEGTEz5o6hYrzbeU.jpg",
-      "popularity": 5.911,
+      "popularity": 8.275,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 964834,
       "name": "Frank Dillane",
       "profile_path": "/sXcn4QnEzvPFV9OiKLvPRyVr7RN.jpg",
-      "popularity": 5.911,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 109144,
-      "name": "Damian Young",
-      "profile_path": "/a4r1lpQT3OQoyz1WdsZG6WHvFjy.jpg",
-      "popularity": 5.911,
+      "popularity": 8.275,
       "adult": false,
       "known_for_department": "Acting"
     }

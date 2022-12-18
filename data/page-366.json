@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1360198,
+      "name": "Kunjue Li",
+      "profile_path": "/5CRYan9EEfOOzyg2LiTQij0OvE9.jpg",
+      "popularity": 6.705,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1024234,
       "name": "Tonia Sotiropoulou",
       "profile_path": "/2zKOqvrpWyYRUKigsxkiQkGLIqm.jpg",
-      "popularity": 6.705,
+      "popularity": 6.012,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 69807,
       "name": "Rider Strong",
       "profile_path": "/eg1DgVFXkwPElFanGnBhtAoH1M2.jpg",
-      "popularity": 6.705,
+      "popularity": 4.412,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 10850,
       "name": "Kevin Feige",
       "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg",
-      "popularity": 6.704,
+      "popularity": 8.811,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -39,7 +47,7 @@
       "id": 103069,
       "name": "Kenneth Tobey",
       "profile_path": "/t1LrNv667EbpLWj6YZuj4oRC95O.jpg",
-      "popularity": 6.701,
+      "popularity": 6.01,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 934219,
       "name": "Liam McIntyre",
       "profile_path": "/vTw11F1awNW8AlxInljEsK96cNB.jpg",
-      "popularity": 6.7,
+      "popularity": 9.38,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 20080,
       "name": "Catherine Frot",
       "profile_path": "/mLYcrvglYGoPEjwBB5jyUe2ku8e.jpg",
-      "popularity": 6.7,
+      "popularity": 5.21,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1735,
       "name": "Frank McRae",
       "profile_path": "/tkEt3ACC46Zjm8pmPVBXva0p84Q.jpg",
-      "popularity": 6.7,
+      "popularity": 4.41,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 134774,
       "name": "Wunmi Mosaku",
       "profile_path": "/mWDsVCo9sBcekrsjUTsoCFLhtYt.jpg",
-      "popularity": 6.699,
+      "popularity": 4.41,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 52422,
       "name": "Michael DeLorenzo",
       "profile_path": "/dAYG7AcOYG4ZNEvC8isxBxe5Vjx.jpg",
-      "popularity": 6.699,
+      "popularity": 9.21,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 119241,
       "name": "Junichi Okada",
       "profile_path": "/3yXXQB0vn5IW63quew3le0LTPdn.jpg",
-      "popularity": 6.698,
+      "popularity": 9.377,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 38571,
       "name": "John Beasley",
       "profile_path": "/tpZQojv2UfelPHr1eSphcp0iEpJ.jpg",
-      "popularity": 6.698,
+      "popularity": 7.209,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 16938,
       "name": "Renny Harlin",
       "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
-      "popularity": 6.698,
+      "popularity": 6.809,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -127,7 +135,7 @@
       "id": 7169,
       "name": "Alan King",
       "profile_path": "/wq3yjC2S2SMxjs4tAAuryJ91Hum.jpg",
-      "popularity": 6.698,
+      "popularity": 4.019,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 4787,
       "name": "Joseph Mazzello",
       "profile_path": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg",
-      "popularity": 6.698,
+      "popularity": 9.377,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 178634,
       "name": "Alex Hassell",
       "profile_path": "/1VvnpDdLJ8WBBceDayjnAG9efNC.jpg",
-      "popularity": 6.697,
+      "popularity": 4.809,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 94774,
       "name": "Tisha Sterling",
       "profile_path": "/mg9j82Kmn5I2v6bmipTQLlc4OKS.jpg",
-      "popularity": 6.697,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 11278,
-      "name": "Rupert Graves",
-      "profile_path": "/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg",
-      "popularity": 6.696,
+      "popularity": 6.409,
       "adult": false,
       "known_for_department": "Acting"
     }

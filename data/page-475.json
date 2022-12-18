@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 998225,
+      "name": "Alison Sudol",
+      "profile_path": "/wGOsMx9abtewju66CgUmUYHpveU.jpg",
+      "popularity": 8.047,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 95597,
       "name": "Jack Ging",
       "profile_path": "/i7gZLiwbFVcxLpEP8lvudNpdkAs.jpg",
-      "popularity": 5.748,
+      "popularity": 8.047,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 84518,
       "name": "Jacob Davich",
       "profile_path": "/A2RY8NBfQaDY5PApXb8HYDfpHja.jpg",
-      "popularity": 5.748,
+      "popularity": 4.524,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 4275,
       "name": "Alain Chabat",
       "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg",
-      "popularity": 5.748,
+      "popularity": 5.324,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 232,
       "name": "Kyle Schmid",
       "profile_path": "/bqT7iz2jzG32axBoQzMrAvLtppQ.jpg",
-      "popularity": 5.748,
+      "popularity": 7.724,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 567012,
       "name": "Theeradej Wongpuapan",
       "profile_path": "/pKcJU0RBTo7LZYPIwpA5Xg8niE7.jpg",
-      "popularity": 5.747,
+      "popularity": 8.046,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 17074,
       "name": "Sara Forestier",
       "profile_path": "/xtNEa5vbzZ8IWI5bTn5zlMy6Cz2.jpg",
-      "popularity": 5.747,
+      "popularity": 3.448,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 11522,
       "name": "Jedidiah Cohen",
       "profile_path": "/m3xXaao4ZeQLoFdAdFx4HcVhRs6.jpg",
-      "popularity": 5.747,
+      "popularity": 5.724,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 6166,
       "name": "Jason Gray-Stanford",
       "profile_path": "/6kHaZ4dTuOdi65QsQPCw5lP1fpM.jpg",
-      "popularity": 5.747,
+      "popularity": 4.124,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 10179,
       "name": "John Glen",
       "profile_path": "/lG1gbBJIk1bhGf7FYzoUl40VRXj.jpg",
-      "popularity": 5.746,
+      "popularity": 8.044,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -95,7 +103,7 @@
       "id": 19272,
       "name": "Joe Russo",
       "profile_path": "/ph1GRCWVKk6Mz9lMBrxKvlb6Imo.jpg",
-      "popularity": 5.745,
+      "popularity": 8.043,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -103,7 +111,7 @@
       "id": 14534,
       "name": "Rosenda Monteros",
       "profile_path": "/vSiCWg1OQjQCgwsMs5BRQdJE7ji.jpg",
-      "popularity": 5.745,
+      "popularity": 5.724,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 236090,
       "name": "Isao Natsuyagi",
       "profile_path": "/ijjqgeXNxtzbPFrtsX2ZXQheFY0.jpg",
-      "popularity": 5.744,
+      "popularity": 3.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 99007,
       "name": "Laura Silverman",
       "profile_path": "/exkzWCT64UnKYf7adAZ5ixWlBgE.jpg",
-      "popularity": 5.744,
+      "popularity": 5.723,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 21660,
       "name": "Rafi Gavron",
       "profile_path": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg",
-      "popularity": 5.744,
+      "popularity": 6.123,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 14965,
       "name": "Claire Trevor",
       "profile_path": "/3o8iUONi5qCt6z1x6Y43rSMB0hC.jpg",
-      "popularity": 5.744,
+      "popularity": 6.923,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 53261,
       "name": "Kim Richards",
       "profile_path": "/betz2bO9DSpz3cMThwynxKOwQ0r.jpg",
-      "popularity": 5.743,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 25627,
-      "name": "Hal Smith",
-      "profile_path": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg",
-      "popularity": 5.743,
+      "popularity": 4.923,
       "adult": false,
       "known_for_department": "Acting"
     }

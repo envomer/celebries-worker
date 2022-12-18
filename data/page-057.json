@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1925,
+      "name": "Vincent Cassel",
+      "profile_path": "/ykBEiVh6YQ9UmMAYUiQkZBH3VV4.jpg",
+      "popularity": 14.89,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 467645,
       "name": "Boyd Holbrook",
       "profile_path": "/zKYA9XfK5jtCpBgTr62jm4xVS79.jpg",
-      "popularity": 17.622,
+      "popularity": 24.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 52848,
       "name": "Isla Fisher",
       "profile_path": "/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg",
-      "popularity": 17.616,
+      "popularity": 24.662,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 12714,
       "name": "Zack Ward",
       "profile_path": "/fdlsZmo1tD7c9Bogl9cEFEIEzgG.jpg",
-      "popularity": 17.61,
+      "popularity": 11.283,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 46593,
       "name": "Emile Hirsch",
       "profile_path": "/Ah8BYOB7P8tX9jnQVrnAbL2kxYJ.jpg",
-      "popularity": 17.604,
+      "popularity": 21.681,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 55085,
       "name": "Amber Heard",
       "profile_path": "/Air7vjRyoMrqnAyeXEqoY77d0V9.jpg",
-      "popularity": 17.601,
+      "popularity": 22.88,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 258,
       "name": "Gael García Bernal",
       "profile_path": "/7mq3EQN1oJfYNXkv9xKXKu6Ccw5.jpg",
-      "popularity": 17.594,
+      "popularity": 24.632,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 19278,
       "name": "Bill Hader",
       "profile_path": "/vqrxoIPMHskZQfNTZdTmwDCAznJ.jpg",
-      "popularity": 17.582,
+      "popularity": 14.875,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 51037,
       "name": "Athena Karkanis",
       "profile_path": "/bxKJJWXfnTfWVpsD5Y5H8g4vFUq.jpg",
-      "popularity": 17.57,
+      "popularity": 21.671,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 15152,
       "name": "James Earl Jones",
       "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
-      "popularity": 17.549,
+      "popularity": 19.265,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 36190,
       "name": "Edie Falco",
       "profile_path": "/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg",
-      "popularity": 17.541,
+      "popularity": 24.557,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 2878,
       "name": "C. Thomas Howell",
       "profile_path": "/739YbFWpAYyo9neHvBGThgmT4YH.jpg",
-      "popularity": 17.535,
+      "popularity": 24.549,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 2684,
       "name": "Emmanuelle Vaugier",
       "profile_path": "/auIhYK3sSfWE6tuMOhw8KHhWqK7.jpg",
-      "popularity": 17.533,
+      "popularity": 24.546,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 73128,
       "name": "Skylar Astin",
       "profile_path": "/dx6xbrerLNKHbUSOdTI68h7qrE3.jpg",
-      "popularity": 17.529,
+      "popularity": 24.541,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 11086,
       "name": "Michael Ironside",
       "profile_path": "/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg",
-      "popularity": 17.525,
+      "popularity": 16.858,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 4808,
       "name": "Giancarlo Esposito",
       "profile_path": "/lBvDQZjxhIGMbH61iHnqerpbqHc.jpg",
-      "popularity": 17.525,
+      "popularity": 24.535,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 15556,
       "name": "Rebecca Hall",
       "profile_path": "/cVZaQrUY7F5khCBYdKDlEppHnQi.jpg",
-      "popularity": 17.504,
+      "popularity": 23.651,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 57829,
       "name": "Anthony LaPaglia",
       "profile_path": "/vpowJYbuleOtdQtrFgPUPT4dSJl.jpg",
-      "popularity": 17.487,
+      "popularity": 20.046,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 230659,
       "name": "Takeru Satoh",
       "profile_path": "/dKWtZXEnTOedUUnDwBCZZN7w2uG.jpg",
-      "popularity": 17.467,
+      "popularity": 18.04,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -152,14 +160,6 @@
       "name": "Park Ha-yan",
       "profile_path": "/469yW2z5vlut2h6bSRL7sK306Bi.jpg",
       "popularity": 17.465,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 50347,
-      "name": "Rachel Nichols",
-      "profile_path": "/bMv117SLOJoseim6qvuHFc1gntZ.jpg",
-      "popularity": 17.454,
       "adult": false,
       "known_for_department": "Acting"
     }

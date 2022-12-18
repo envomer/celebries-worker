@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 973,
+      "name": "Jason Flemyng",
+      "profile_path": "/6E5KfjDwm00jIfN3LNLL9jZAvx3.jpg",
+      "popularity": 18.439,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1597365,
+      "name": "Joseph Quinn",
+      "profile_path": "/ub4MLUD2yxamNwuX1PKGJjKjhIW.jpg",
+      "popularity": 13.17,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 18977,
       "name": "Ed O'Neill",
       "profile_path": "/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg",
-      "popularity": 13.169,
+      "popularity": 16.351,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 2518,
       "name": "Gregg Henry",
       "profile_path": "/j17nuAFulrbYP34g4Qw8SZRDNUo.jpg",
-      "popularity": 13.166,
+      "popularity": 15.55,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 52792,
       "name": "Maya Rudolph",
       "profile_path": "/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg",
-      "popularity": 13.159,
+      "popularity": 18.423,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 132157,
       "name": "Ezra Miller",
       "profile_path": "/6wmTpbYpmhthaxzM5ss3377F9IV.jpg",
-      "popularity": 13.156,
+      "popularity": 17.147,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 10985,
       "name": "Ian Hart",
       "profile_path": "/mP4g3ipzMZtaUCXQMWud1Ar36mB.jpg",
-      "popularity": 13.156,
+      "popularity": 12.347,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 18686,
       "name": "Holly Hunter",
       "profile_path": "/oNoFAi0AQXDP68tv7c7t5WjYioy.jpg",
-      "popularity": 13.146,
+      "popularity": 15.944,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,15 +79,7 @@
       "id": 221098,
       "name": "Anna Camp",
       "profile_path": "/yOGBODtjYsZnQH8p7dZb0S015Pf.jpg",
-      "popularity": 13.144,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 11085,
-      "name": "Anthony Edwards",
-      "profile_path": "/a190BIbGGpM68pq1VarhaDNHZci.jpg",
-      "popularity": 13.144,
+      "popularity": 15.943,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 19534,
       "name": "Gina Lollobrigida",
       "profile_path": "/pdvbAneNNd17OjUXk9w99t44pe1.jpg",
-      "popularity": 13.142,
+      "popularity": 12.743,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 544442,
       "name": "Paola Nuñez",
       "profile_path": "/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg",
-      "popularity": 13.133,
+      "popularity": 18.386,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 6450,
       "name": "Faye Dunaway",
       "profile_path": "/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg",
-      "popularity": 13.132,
+      "popularity": 14.34,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 95024,
       "name": "Bobcat Goldthwait",
       "profile_path": "/dvx9ykvmZnpLJhXqdMx3rF00Mx7.jpg",
-      "popularity": 13.124,
+      "popularity": 17.937,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 70688,
       "name": "Kim Hee-seon",
       "profile_path": "/yquogQGc7422fAi4T6HdgNwh4yI.jpg",
-      "popularity": 13.113,
+      "popularity": 14.334,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 57298,
       "name": "Anne Parillaud",
       "profile_path": "/d1mUo65Q1ZQLpK7idJEG95MMzkX.jpg",
-      "popularity": 13.108,
+      "popularity": 9.532,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 12928,
       "name": "Ross Malinger",
       "profile_path": "/1ypFHPovmrxA71fWZAufnJZMhAG.jpg",
-      "popularity": 13.101,
+      "popularity": 13.13,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 50095,
       "name": "Jason Ritter",
       "profile_path": "/2WcaYXqe1AhxqezTffgIc7HmSmX.jpg",
-      "popularity": 13.086,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 945846,
-      "name": "Tristin Mays",
-      "profile_path": "/vKQR5EOEKkHPRnRR2yhQgegKLlx.jpg",
-      "popularity": 13.077,
+      "popularity": 18.32,
       "adult": false,
       "known_for_department": "Acting"
     }

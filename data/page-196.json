@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1225953,
+      "name": "Sterling K. Brown",
+      "profile_path": "/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg",
+      "popularity": 13.461,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 19968,
+      "name": "Royal Dano",
+      "profile_path": "/qg2cZRP9jtq3euKBY4FbO9x7Cl9.jpg",
+      "popularity": 13.457,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1213538,
       "name": "Teal Redmann",
       "profile_path": "/odo5WMuoQYK1y0nuNNpF4q4MKhq.jpg",
-      "popularity": 9.608,
+      "popularity": 13.451,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 8607,
       "name": "Lorraine Gary",
       "profile_path": "/6JKNdZopypnFnD9xSSlDs6YTHMC.jpg",
-      "popularity": 9.608,
+      "popularity": 13.451,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 550554,
       "name": "Sebastian Hülk",
       "profile_path": "/qmEnennLfGF2ksDwbt3Pqdo49UQ.jpg",
-      "popularity": 9.607,
+      "popularity": 9.282,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 1212016,
       "name": "Alison Sweeney",
       "profile_path": "/xSFd60uTym5aTbQRGKOZ8EPxBDX.jpg",
-      "popularity": 9.603,
+      "popularity": 10.881,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 2536,
       "name": "Michael Parks",
       "profile_path": "/oKxL3760KP5eiRSLmtiHIhhMG5H.jpg",
-      "popularity": 9.599,
+      "popularity": 12.48,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 90520,
       "name": "Susan Oliver",
       "profile_path": "/piJPluZpgBCw3AsvcMHQAY7mtFw.jpg",
-      "popularity": 9.596,
+      "popularity": 6.479,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 86467,
       "name": "Jay Simpson",
       "profile_path": "/4UDQaaRqvMqPwJbUxJVZ7u6P7Wt.jpg",
-      "popularity": 9.596,
+      "popularity": 13.434,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 6102,
       "name": "Lex Barker",
       "profile_path": "/9Bsvemc5lCvKNJdS5bt4BEa7TFR.jpg",
-      "popularity": 9.594,
+      "popularity": 12.078,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 66166,
       "name": "Kim Rossi Stuart",
       "profile_path": "/YKMQ3qYwg7Y1CbhEv9wXdV6nBl.jpg",
-      "popularity": 9.592,
+      "popularity": 9.278,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 2177,
       "name": "Lloyd Bridges",
       "profile_path": "/3dUJhLyaOl32mOU9HBpgTniLNJc.jpg",
-      "popularity": 9.592,
+      "popularity": 10.078,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 33663,
       "name": "Donald Trump",
       "profile_path": "/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg",
-      "popularity": 9.59,
+      "popularity": 13.426,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 10670,
       "name": "Maryam d'Abo",
       "profile_path": "/AwcD84CIlQ0HaLRX3AqlmunYzgE.jpg",
-      "popularity": 9.589,
+      "popularity": 9.677,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 26142,
       "name": "Millie Perkins",
       "profile_path": "/go1PNFwnfuUuMcVLSKpua2dUIRk.jpg",
-      "popularity": 9.584,
+      "popularity": 13.418,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 742,
       "name": "Michael Byrne",
       "profile_path": "/cWUhkJPdyPFbWAskmTuzgEXYR8X.jpg",
-      "popularity": 9.584,
+      "popularity": 10.075,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 1109836,
       "name": "Pedro Alonso",
       "profile_path": "/38HeVKeOBztVYrLJOWzAtEZiB02.jpg",
-      "popularity": 9.58,
+      "popularity": 10.074,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Jung Hae-in",
       "profile_path": "/b2MmoDEbe8E1xdmlPaIEhhORdFD.jpg",
       "popularity": 9.576,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 40279,
-      "name": "Jenna Elfman",
-      "profile_path": "/3w7iKOJnsKnxC0up8JpAmMHBlWR.jpg",
-      "popularity": 9.575,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3149,
-      "name": "Marilyn Monroe",
-      "profile_path": "/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg",
-      "popularity": 9.573,
       "adult": false,
       "known_for_department": "Acting"
     }

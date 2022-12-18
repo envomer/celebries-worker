@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 9908,
+      "name": "Gert Fröbe",
+      "profile_path": "/bXOqdYepkfUpVLf54It8f4v1tVI.jpg",
+      "popularity": 5.615,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2968,
       "name": "Richard Lintern",
       "profile_path": "/qYfmDezPYguD45T3fKulyB8tHUv.jpg",
-      "popularity": 6.716,
+      "popularity": 9.402,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 214839,
       "name": "Akon",
       "profile_path": "/r4s4jrnCigyYEMgaBwXWF54IBgN.jpg",
-      "popularity": 6.714,
+      "popularity": 4.028,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 43922,
       "name": "Michael Sloan",
       "profile_path": "/kQz3R9EF52DbNiHreq8wza1HTVn.jpg",
-      "popularity": 6.714,
+      "popularity": 9.4,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -31,7 +39,7 @@
       "id": 21128,
       "name": "Raven Goodwin",
       "profile_path": "/1jNUYbeE50NJsr5Hbt4frGA3K0g.jpg",
-      "popularity": 6.714,
+      "popularity": 6.814,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 7446,
       "name": "Emma Chambers",
       "profile_path": "/fz85d7hEiAbjYov0uT3a59REfHQ.jpg",
-      "popularity": 6.714,
+      "popularity": 6.414,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 67367,
       "name": "Rian Johnson",
       "profile_path": "/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg",
-      "popularity": 6.712,
+      "popularity": 9.214,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -63,7 +71,7 @@
       "id": 1049742,
       "name": "Jade Pettyjohn",
       "profile_path": "/crsqGImbWxWovyywoRqbfni2V3J.jpg",
-      "popularity": 6.71,
+      "popularity": 9.394,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 238164,
       "name": "Jóhannes Haukur Jóhannesson",
       "profile_path": "/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg",
-      "popularity": 6.71,
+      "popularity": 6.813,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 571265,
       "name": "Edie Mirman",
       "profile_path": "/hI5o6gBGWCdbY0P4twNYhFMJiMQ.jpg",
-      "popularity": 6.709,
+      "popularity": 6.413,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 548052,
       "name": "Lily Chung Suk-Wai",
       "profile_path": "/aXq9i924gUsurXwvltMbr5Wr0E4.jpg",
-      "popularity": 6.709,
+      "popularity": 5.213,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 223126,
       "name": "Megan Charpentier",
       "profile_path": "/zwhNKXaYRU6FC4PaFe53jhWp52R.jpg",
-      "popularity": 6.707,
+      "popularity": 4.024,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 119817,
       "name": "Bárbara Mori",
       "profile_path": "/eiJmEUGDsnporYupfPB82mEoSvQ.jpg",
-      "popularity": 6.707,
+      "popularity": 8.012,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 107203,
       "name": "Bracha van Doesburgh",
       "profile_path": "/9f6qaMENs6gP1D3EkqUoQYrtptM.jpg",
-      "popularity": 6.707,
+      "popularity": 6.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 70337,
       "name": "Lee Eun-ju",
       "profile_path": "/yP2DP3SEVfBZj23jqFVBDJ9ZZo0.jpg",
-      "popularity": 6.707,
+      "popularity": 9.39,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 31164,
       "name": "Adewale Akinnuoye-Agbaje",
       "profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg",
-      "popularity": 6.707,
+      "popularity": 9.39,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 85286,
       "name": "Toshio Furukawa",
       "profile_path": "/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg",
-      "popularity": 6.706,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1360198,
-      "name": "Kunjue Li",
-      "profile_path": "/5CRYan9EEfOOzyg2LiTQij0OvE9.jpg",
-      "popularity": 6.705,
+      "popularity": 9.388,
       "adult": false,
       "known_for_department": "Acting"
     }

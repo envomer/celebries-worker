@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 17343,
+      "name": "Robert Knepper",
+      "profile_path": "/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg",
+      "popularity": 18.934,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 40644,
       "name": "Chad Stahelski",
       "profile_path": "/eRCryGwKDH4XqUlrdkERmeBWPo8.jpg",
-      "popularity": 16.445,
+      "popularity": 23.023,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -15,7 +23,7 @@
       "id": 69899,
       "name": "Zachary Levi",
       "profile_path": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg",
-      "popularity": 16.434,
+      "popularity": 22.93,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 53862,
       "name": "Kaley Cuoco",
       "profile_path": "/c01Ma8Jrr2OJ6uoikPwDK34Y8eK.jpg",
-      "popularity": 16.414,
+      "popularity": 22.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 62765,
       "name": "Rhea Seehorn",
       "profile_path": "/2YjwPqwSqYl1qFA0hpl8EttLRIf.jpg",
-      "popularity": 16.413,
+      "popularity": 17.724,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 5376,
       "name": "Jean Smart",
       "profile_path": "/gOvEAOtrtedfgS7oQvPgHuJV4F8.jpg",
-      "popularity": 16.407,
+      "popularity": 22.97,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 6944,
       "name": "Octavia Spencer",
       "profile_path": "/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg",
-      "popularity": 16.405,
+      "popularity": 12.522,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1294,
       "name": "Missi Pyle",
       "profile_path": "/aGRSmafxwPmpRCLRGEJN1ygeh8D.jpg",
-      "popularity": 16.405,
+      "popularity": 14.522,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 5294,
       "name": "Chiwetel Ejiofor",
       "profile_path": "/pbnWjBsze67Fbr3gZAP1ZP407ZU.jpg",
-      "popularity": 16.4,
+      "popularity": 22.96,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 57155,
       "name": "Boots Southerland",
       "profile_path": "/sUIXYHl18ClE8t5o8227VKJ5Cdk.jpg",
-      "popularity": 16.399,
+      "popularity": 15.72,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 80352,
       "name": "Noel Fisher",
       "profile_path": "/rBD5Iwt9WITaUKGk1oxSPLjjpm2.jpg",
-      "popularity": 16.383,
+      "popularity": 19.315,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 61178,
       "name": "Alia Shawkat",
       "profile_path": "/aUc0hlILKfDKhlKnWQliGjkQL9a.jpg",
-      "popularity": 16.38,
+      "popularity": 19.714,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 289,
       "name": "Madeleine Stowe",
       "profile_path": "/u86lNd3YTKqIVZb49DqbNtd1nOZ.jpg",
-      "popularity": 16.37,
+      "popularity": 22.918,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 21044,
       "name": "Lynn Collins",
       "profile_path": "/9Dq6ZACdOE60ul6gwfRaCZQPQaC.jpg",
-      "popularity": 16.358,
+      "popularity": 14.107,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 60900,
       "name": "Taylor Kitsch",
       "profile_path": "/m39IoFjaJWiCoFYv0DfYCklOeOS.jpg",
-      "popularity": 16.347,
+      "popularity": 21.304,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 38560,
       "name": "Lou Diamond Phillips",
       "profile_path": "/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg",
-      "popularity": 16.344,
+      "popularity": 22.882,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 30485,
       "name": "CCH Pounder",
       "profile_path": "/8IBLs1BkLZpOTVREt5yDusW1nim.jpg",
-      "popularity": 16.344,
+      "popularity": 22.882,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 8606,
       "name": "Robert Shaw",
       "profile_path": "/yREsJFk92mVEagAIO6IJra0LqUq.jpg",
-      "popularity": 16.33,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 7218,
-      "name": "Kristanna Loken",
-      "profile_path": "/rvQfAMALylvgt9uGVDKhrtVLyjG.jpg",
-      "popularity": 16.327,
+      "popularity": 16.099,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 59153,
+      "name": "Robin Givens",
+      "profile_path": "/iF7JVhxEcDqXEVBKNdSK9Bfwz6W.jpg",
+      "popularity": 12.669,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 34490,
       "name": "Sarah Paulson",
       "profile_path": "/jkhpv4oPNcMSvPPDUuCyPIFwYyS.jpg",
-      "popularity": 12.881,
+      "popularity": 18.033,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 11025,
       "name": "Agnes Moorehead",
       "profile_path": "/h9vMkb6cjd5J3i0GCQ0t73DlQl0.jpg",
-      "popularity": 12.88,
+      "popularity": 18.032,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 9576,
       "name": "Gina Torres",
       "profile_path": "/nYBaOoq3hFjAHIotZTDvXShhuIn.jpg",
-      "popularity": 12.88,
+      "popularity": 12.664,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 137108,
       "name": "Johnny Flynn",
       "profile_path": "/xGCDMRFkUeEhz9h0cbK2lGuKTSD.jpg",
-      "popularity": 12.87,
+      "popularity": 11.061,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 39520,
       "name": "Garret Dillahunt",
       "profile_path": "/9ISUezmwt2Hnm2do6Mg75EyAwgE.jpg",
-      "popularity": 12.867,
+      "popularity": 17.06,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 62318,
       "name": "Shin-ichiro Miki",
       "profile_path": "/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg",
-      "popularity": 12.865,
+      "popularity": 18.011,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1101,
       "name": "Carl Weathers",
       "profile_path": "/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg",
-      "popularity": 12.862,
+      "popularity": 15.059,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 11164,
       "name": "Kelly Preston",
       "profile_path": "/kEBLn0igo3OcNgXQ6cpoPTEaIUv.jpg",
-      "popularity": 12.86,
+      "popularity": 18.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 207,
       "name": "Tom Wilkinson",
       "profile_path": "/d5yLk0PK8q7EKR3E3G2txO758IW.jpg",
-      "popularity": 12.86,
+      "popularity": 10.258,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 11770,
       "name": "John Carpenter",
       "profile_path": "/ghBgALx0z2hGdY32eG9VL6dPyhz.jpg",
-      "popularity": 12.855,
+      "popularity": 16.257,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -87,7 +95,7 @@
       "id": 8442,
       "name": "Lyndsey Marshal",
       "profile_path": "/rhgtb80RXEIwL2LFw9L1nMxoRxd.jpg",
-      "popularity": 12.854,
+      "popularity": 12.656,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 43286,
       "name": "Laura Vandervoort",
       "profile_path": "/y3geQGnFG8Sbr7smthUTa84fv9v.jpg",
-      "popularity": 12.849,
+      "popularity": 17.989,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 1023324,
       "name": "Emily Bloom",
       "profile_path": "",
-      "popularity": 12.846,
+      "popularity": 13.454,
       "adult": false,
       "known_for_department": "Art"
     },
@@ -119,7 +127,7 @@
       "id": 63681,
       "name": "Julie Warner",
       "profile_path": "/zsuQf2FhJB4vER6xcNJVXemn4i4.jpg",
-      "popularity": 12.842,
+      "popularity": 12.253,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 208678,
       "name": "Tracy Spiridakos",
       "profile_path": "/hZOHKXvpXAiPTy9K6fDSJPNwagI.jpg",
-      "popularity": 12.84,
+      "popularity": 10.652,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 29369,
       "name": "Melanie Griffith",
       "profile_path": "/yffPcqlZMsXTCAZ84a1tLmdcIS6.jpg",
-      "popularity": 12.84,
+      "popularity": 17.976,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 222130,
       "name": "Eloise Mumford",
       "profile_path": "/dqHySgOBXgYwE8hBBQuvqXZAM6J.jpg",
-      "popularity": 12.837,
+      "popularity": 13.851,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 56881,
       "name": "Shelley Long",
       "profile_path": "/2ZFc2WqVQC6J1JasI1qMK444EnE.jpg",
-      "popularity": 12.835,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1516266,
-      "name": "Minami Hamabe",
-      "profile_path": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg",
-      "popularity": 12.832,
+      "popularity": 17.451,
       "adult": false,
       "known_for_department": "Acting"
     }

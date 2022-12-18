@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 51918,
+      "name": "Harmony Korine",
+      "profile_path": "/nifHx1FlQdgYw57QaUfHSjBKmPy.jpg",
+      "popularity": 6.155,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
       "id": 1340020,
       "name": "Álvaro Morte",
       "profile_path": "/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg",
@@ -23,7 +31,7 @@
       "id": 150,
       "name": "RZA",
       "profile_path": "/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg",
-      "popularity": 8.512,
+      "popularity": 9.354,
       "adult": false,
       "known_for_department": "Sound"
     },
@@ -31,7 +39,7 @@
       "id": 168828,
       "name": "Kristen Renton",
       "profile_path": "/8l2jVHf2ytesVNWSDWQnK54ohU3.jpg",
-      "popularity": 8.511,
+      "popularity": 5.353,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 111685,
       "name": "Kim Shaw",
       "profile_path": "/6btY7SQuDKD2xXSBZRJolPErdeL.jpg",
-      "popularity": 8.511,
+      "popularity": 7.353,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 83122,
       "name": "Moon So-ri",
       "profile_path": "/iXfIsmrzohNAAf2gyPCE06rJM1N.jpg",
-      "popularity": 8.511,
+      "popularity": 9.753,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 49812,
       "name": "Kirsty Mitchell",
       "profile_path": "/sZmpltTVexFkHlvFHgQkfWSafnZ.jpg",
-      "popularity": 8.511,
+      "popularity": 7.753,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 12991,
       "name": "Pat Proft",
       "profile_path": "",
-      "popularity": 8.511,
+      "popularity": 6.953,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -71,7 +79,7 @@
       "id": 10776,
       "name": "Elizabeth Wilson",
       "profile_path": "/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg",
-      "popularity": 8.511,
+      "popularity": 6.553,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 534,
       "name": "Mark Boone Junior",
       "profile_path": "/rcncVr356hpfKX9qOrKL3SJlEO7.jpg",
-      "popularity": 8.511,
+      "popularity": 11.915,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 4734,
       "name": "Jenny O'Hara",
       "profile_path": "/cNEu7MMpO2dAtZazIbxjo45oH3j.jpg",
-      "popularity": 8.507,
+      "popularity": 5.104,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 506085,
       "name": "Sami Gayle",
       "profile_path": "/qdzSYk6tKvM9optzABPkfOcxFZ2.jpg",
-      "popularity": 8.504,
+      "popularity": 11.906,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 214556,
       "name": "Indiana Evans",
       "profile_path": "/rZHqKjXYPFndiri2rVTzHfYSVBc.jpg",
-      "popularity": 8.504,
+      "popularity": 11.351,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 147733,
       "name": "Pamela Tola",
       "profile_path": "/a10JePW5wRxkEtlS1WnpcmlwOuJ.jpg",
-      "popularity": 8.504,
+      "popularity": 7.751,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 82540,
       "name": "Arata Iura",
       "profile_path": "/bAy6l57xMfD1qD3cB0g7446qvdT.jpg",
-      "popularity": 8.502,
+      "popularity": 11.903,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 70839,
       "name": "Emilia Schüle",
       "profile_path": "/em77YMVTapnvCSq44Bs99OcDdLv.jpg",
-      "popularity": 8.502,
+      "popularity": 10.551,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1146050,
       "name": "Zayn Malik",
       "profile_path": "/nzCk09tN15NOMpKPoCwegcJnx3j.jpg",
-      "popularity": 8.501,
+      "popularity": 7.75,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 7087,
       "name": "Brad Bird",
       "profile_path": "/ZX1hAfWK1zslpB6ifwgDP2uBqn.jpg",
-      "popularity": 8.501,
+      "popularity": 8.15,
       "adult": false,
       "known_for_department": "Directing"
-    },
-    {
-      "id": 1230173,
-      "name": "Nancy Carell",
-      "profile_path": "/uKVHd9dhyBtJtRYMkpRTeeh55oh.jpg",
-      "popularity": 8.497,
-      "adult": false,
-      "known_for_department": "Acting"
     }
   ]
 }

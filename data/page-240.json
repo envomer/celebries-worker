@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 52259,
+      "name": "Peter Safran",
+      "profile_path": "/fi7kdDDUdNrn5K6vmLkLrLarQQs.jpg",
+      "popularity": 12.018,
+      "adult": false,
+      "known_for_department": "Production"
+    },
+    {
       "id": 118243,
       "name": "Sprague Grayden",
       "profile_path": "/dhWyIHiG9fYMkcd3pUK3Q7kFm37.jpg",
-      "popularity": 8.581,
+      "popularity": 12.013,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 13636,
       "name": "Jane Krakowski",
       "profile_path": "/hT9IGSgsE8VoWllOTtxR9JAoiK.jpg",
-      "popularity": 8.58,
+      "popularity": 12.012,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1564,
       "name": "Sofie Gråbøl",
       "profile_path": "/7DifVlFFCNcO9S8K5Hu8ZyVoW20.jpg",
-      "popularity": 8.579,
+      "popularity": 8.974,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 113505,
       "name": "Kodi Smit-McPhee",
       "profile_path": "/bMg2GipFRXnbk1dKGy1yxr3OeP0.jpg",
-      "popularity": 8.578,
+      "popularity": 12.009,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 1145520,
       "name": "Ari Aster",
       "profile_path": "/7ycICw9yVpk6bzTKLRiPd9eSfHA.jpg",
-      "popularity": 8.576,
+      "popularity": 8.973,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -71,7 +79,7 @@
       "id": 96279,
       "name": "Con O'Neill",
       "profile_path": "/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg",
-      "popularity": 8.575,
+      "popularity": 12.005,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 8452,
       "name": "Andrei Tarkovsky",
       "profile_path": "/j0toVLrgLNuyGnUxGPnSfnPiSf5.jpg",
-      "popularity": 8.575,
+      "popularity": 10.973,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -87,7 +95,7 @@
       "id": 70785,
       "name": "Anita Briem",
       "profile_path": "/8M6MkLKpAXKRoYlhOH5LzBhBGFv.jpg",
-      "popularity": 8.574,
+      "popularity": 8.572,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 11868,
       "name": "Sean Patrick Thomas",
       "profile_path": "/59Mqg13DVutKEN4ZmkG8O814uKg.jpg",
-      "popularity": 8.574,
+      "popularity": 12.004,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1039695,
       "name": "Aracely Arámbula",
       "profile_path": "/dYvgcWCMq3efXcPjN1vW1RKRGh8.jpg",
-      "popularity": 8.568,
+      "popularity": 11.995,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 238523,
       "name": "Katerina Shpitsa",
       "profile_path": "/5sYYILMhn6pLYbnaPQMy7s8RPDk.jpg",
-      "popularity": 8.568,
+      "popularity": 11.995,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 63231,
       "name": "Niecy Nash",
       "profile_path": "/zdYe2nOiO0mH66Cowt73cHYH5oO.jpg",
-      "popularity": 8.568,
+      "popularity": 9.77,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 19977,
       "name": "Liam Aiken",
       "profile_path": "/1kP7FOJgd5rZZlrVXuN57IZXtNK.jpg",
-      "popularity": 8.567,
+      "popularity": 10.17,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1180346,
       "name": "Anthony Carrigan",
       "profile_path": "/6YtczDvE4eI8lkU6KXE6pkXaTIi.jpg",
-      "popularity": 8.565,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 57686,
-      "name": "Hill Harper",
-      "profile_path": "/bUzVvgD066zYGJ9amJzgoGivlqD.jpg",
-      "popularity": 8.565,
+      "popularity": 11.991,
       "adult": false,
       "known_for_department": "Acting"
     }

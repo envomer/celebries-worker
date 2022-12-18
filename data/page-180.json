@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1215525,
+      "name": "Jorge Garcia",
+      "profile_path": "/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg",
+      "popularity": 8.224,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 84405,
+      "name": "Bill Owen",
+      "profile_path": "/y84nSLhqtvF50SjJL5czvrdcri5.jpg",
+      "popularity": 9.024,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1021805,
       "name": "Neil Breen",
       "profile_path": "/2AjIYHBOXhU58gMuT5i4CQz8aHc.jpg",
-      "popularity": 10.078,
+      "popularity": 11.823,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -23,7 +39,7 @@
       "id": 2506,
       "name": "Alice Krige",
       "profile_path": "/gwkI4FAYnhkp9NWV3meATzQql0v.jpg",
-      "popularity": 10.068,
+      "popularity": 14.095,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 1010157,
       "name": "Diane Guerrero",
       "profile_path": "/5LXvRYdxKLWROAD2KDSXzRNNSdE.jpg",
-      "popularity": 10.067,
+      "popularity": 10.22,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 129298,
       "name": "Brendan Penny",
       "profile_path": "/zxT6AiVGlWpVuRx4VcaoJ8X0tk7.jpg",
-      "popularity": 10.067,
+      "popularity": 10.62,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 56825,
       "name": "Sarah Carter",
       "profile_path": "/hjH8vNv9LSZPmo56ikNbIX5UAKu.jpg",
-      "popularity": 10.066,
+      "popularity": 14.092,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 24695,
       "name": "Olivia Hussey",
       "profile_path": "/n5j2kzrktNoTzyn3TiHvrHgW0g3.jpg",
-      "popularity": 10.063,
+      "popularity": 13.819,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 26996,
       "name": "Patricia Heaton",
       "profile_path": "/1iQoh3R98mC16WzMMZCru9ZcssK.jpg",
-      "popularity": 10.062,
+      "popularity": 14.087,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 19303,
       "name": "Kevin Smith",
       "profile_path": "/uxDQ0NTZMnOuAaPa0tQzMFV9dx4.jpg",
-      "popularity": 10.059,
+      "popularity": 9.418,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -103,7 +119,7 @@
       "id": 141956,
       "name": "Marc Evan Jackson",
       "profile_path": "/4TWP0nlhkxkZ5XzzZuz3RCoZjFX.jpg",
-      "popularity": 10.051,
+      "popularity": 9.415,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 142115,
       "name": "Kiana Madeira",
       "profile_path": "/HgCI95xnSZJaE18d15n7PykOU7.jpg",
-      "popularity": 10.049,
+      "popularity": 11.415,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 16856,
       "name": "Gabriel Macht",
       "profile_path": "/mc0zlgOviaVnfrIQ0igHDg4sHH0.jpg",
-      "popularity": 10.048,
+      "popularity": 12.214,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 1244197,
       "name": "Angelique Boyer",
       "profile_path": "/1jFWvoO4NHzPD7m4S5bD6h7xO0f.jpg",
-      "popularity": 10.047,
+      "popularity": 14.066,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 12670,
       "name": "Takuya Kimura",
       "profile_path": "/rafirRSsSsZrSVV3znCUwwSGIGr.jpg",
-      "popularity": 10.046,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2208,
-      "name": "Kathryn Morris",
-      "profile_path": "/yRgAOZ0pdvKhIGmKBbrHLLUkS2Z.jpg",
-      "popularity": 10.044,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1102453,
-      "name": "Ryan Cooper",
-      "profile_path": "/mcwDwDirh8YzkMvWKZNZttMQ3fp.jpg",
-      "popularity": 10.042,
+      "popularity": 10.214,
       "adult": false,
       "known_for_department": "Acting"
     }

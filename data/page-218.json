@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "profile_path": "/busoEz4khUJ0hOoKHexjXwGrsit.jpg",
+      "popularity": 10.32,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 34985,
+      "name": "Cree Summer",
+      "profile_path": "/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg",
+      "popularity": 9.52,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 550863,
       "name": "Shari Solanis",
       "profile_path": "/bEl8gNwtqyQDvFmhybqpLqnjnHX.jpg",
-      "popularity": 9.066,
+      "popularity": 7.92,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 53925,
       "name": "Jared Hess",
       "profile_path": "/AlZGAfdgo6PL0ZOooHf0kxk1wHG.jpg",
-      "popularity": 9.066,
+      "popularity": 12.692,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -23,7 +39,7 @@
       "id": 5826,
       "name": "Glynis Johns",
       "profile_path": "/st4IdzYEfXActXFbVnR3DLptpTw.jpg",
-      "popularity": 9.066,
+      "popularity": 12.32,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 39185,
       "name": "Kevin Eldon",
       "profile_path": "/1S3ft0f71Hho9QlHUnuyJVHrfKH.jpg",
-      "popularity": 9.064,
+      "popularity": 12.69,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 221773,
       "name": "Saori Hayami",
       "profile_path": "/idFQBETcsRV7Uy7InV2x9e2iFWq.jpg",
-      "popularity": 9.061,
+      "popularity": 12.685,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 992366,
       "name": "Maia Mitchell",
       "profile_path": "/5HBlwtytt4H9ApS75K3ZZzw8NDi.jpg",
-      "popularity": 9.055,
+      "popularity": 9.117,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 74375,
       "name": "Cynthia Rothrock",
       "profile_path": "/beYPJbNlN3zHC54Ii6WWS5U4B4R.jpg",
-      "popularity": 9.052,
+      "popularity": 7.516,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 957,
       "name": "Matthew Vaughn",
       "profile_path": "/Dnbz3B7yy4u0abixuD5LakZgsy.jpg",
-      "popularity": 9.052,
+      "popularity": 9.116,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -103,7 +119,7 @@
       "id": 17039,
       "name": "Nick Offerman",
       "profile_path": "/zhmWZEJkzqgkIbSqZmFtUm0AwUV.jpg",
-      "popularity": 9.049,
+      "popularity": 8.715,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 515875,
       "name": "Lesley-Ann Brandt",
       "profile_path": "/fW2ITcpENpNnHf4wuNltf3PSQTk.jpg",
-      "popularity": 9.048,
+      "popularity": 10.714,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 12831,
       "name": "Betsy Brantley",
       "profile_path": "/dL5rJJCXk2op07wa8UI3Vkpb65b.jpg",
-      "popularity": 9.048,
+      "popularity": 7.114,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 52760,
       "name": "Alan Dale",
       "profile_path": "/3BcpSoKBOwHX0wxaPZpOJ5buO89.jpg",
-      "popularity": 9.045,
+      "popularity": 12.663,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 107734,
       "name": "Orla Brady",
       "profile_path": "/9qgDEuoAzblmIxE8mFdE91wJsNr.jpg",
-      "popularity": 9.044,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1488785,
-      "name": "Nora Fatehi",
-      "profile_path": "/fa3aJZHc2ikfJTNctf5fQu8rO1s.jpg",
-      "popularity": 9.041,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 74377,
-      "name": "Takayuki Yamada",
-      "profile_path": "/7AoFehLxQcNNWGULHz0U8GkW846.jpg",
-      "popularity": 9.041,
+      "popularity": 9.513,
       "adult": false,
       "known_for_department": "Acting"
     }

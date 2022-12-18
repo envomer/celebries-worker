@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2364949,
+      "name": "Melanie Martinez",
+      "profile_path": "/qqqCO1jF2pkTkohPCwOW8IpZtaH.jpg",
+      "popularity": 5.727,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1600651,
       "name": "Niv Sultan",
       "profile_path": "/lT90dWjQvptKueYj6Ms1dutTqRU.jpg",
@@ -23,7 +31,7 @@
       "id": 146392,
       "name": "Jacqueline Pinol",
       "profile_path": "/cqGFRdObF3UkMc3aTTA8fYSHQez.jpg",
-      "popularity": 5.727,
+      "popularity": 3.718,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 59358,
       "name": "Eli Fucile",
       "profile_path": "/pcNfD0mIB9KrQMaXP0rN82VbiHY.jpg",
-      "popularity": 5.727,
+      "popularity": 5.318,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 198133,
       "name": "Thomas Craig",
       "profile_path": "/dfhAe68dMV4NK38gOfKnBg07kgM.jpg",
-      "popularity": 5.726,
+      "popularity": 3.718,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 21503,
       "name": "Tatsuya Fuji",
       "profile_path": "/vfQBWOKFztXYexzNmKmaFJ8hT0E.jpg",
-      "popularity": 5.726,
+      "popularity": 5.318,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 11395,
       "name": "Victor Wong",
       "profile_path": "/3XvU2mK3i5V8Un7HyZn5pVnp4qw.jpg",
-      "popularity": 5.726,
+      "popularity": 8.016,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1111852,
       "name": "Jenny Cooper",
       "profile_path": "/uX34h9O74G7iZNXgV6cxMbxElXR.jpg",
-      "popularity": 5.725,
+      "popularity": 8.015,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 33108,
       "name": "Clive Swift",
       "profile_path": "/sPd0mGH6NPvlTuRsHre0schakjz.jpg",
-      "popularity": 5.725,
+      "popularity": 8.015,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 4442,
       "name": "Ryan Donowho",
       "profile_path": "/sjn58aHcY9LEUDpr4cSHh6i9vzX.jpg",
-      "popularity": 5.725,
+      "popularity": 4.118,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 224183,
       "name": "Ben Rappaport",
       "profile_path": "/dsnRZIHKRitKYkiJMyGurcswBe3.jpg",
-      "popularity": 5.723,
+      "popularity": 4.517,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 112861,
       "name": "Tetta Sugimoto",
       "profile_path": "/4WGNuD20loGjbKzR5kYYWR2M2fr.jpg",
-      "popularity": 5.723,
+      "popularity": 8.012,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 70673,
       "name": "Lo Lieh",
       "profile_path": "/cUZZlI9m1JnxmCvOWDtDu5hqO3p.jpg",
-      "popularity": 5.723,
+      "popularity": 8.012,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 36900,
       "name": "John Sharian",
       "profile_path": "/kyt5wb9ID7G4Kz07ikvduBDH5QB.jpg",
-      "popularity": 5.723,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2045734,
-      "name": "Katie McGuinness",
-      "profile_path": "/nvRDT3k2rwk3pjfzVlDqlPHDpog.jpg",
-      "popularity": 5.722,
+      "popularity": 8.012,
       "adult": false,
       "known_for_department": "Acting"
     }

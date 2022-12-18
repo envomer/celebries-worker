@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 49706,
+      "name": "Adam Rodríguez",
+      "profile_path": "/bItjbs27qfBslaZ5mUkIKKQvacj.jpg",
+      "popularity": 14.307,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1527087,
+      "name": "Sergio Malheiros",
+      "profile_path": "/3ID2DCcxkV9U9NUuGvADEuN6ZlD.jpg",
+      "popularity": 10.353,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 54738,
       "name": "Jack Huston",
       "profile_path": "/s1lxyHBTpavcHMpeV03NTh7o6bd.jpg",
-      "popularity": 10.353,
+      "popularity": 11.906,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 65829,
       "name": "Wood Harris",
       "profile_path": "/9gvwUEu1fZTSTkykaCx2fSdSDWK.jpg",
-      "popularity": 10.351,
+      "popularity": 9.505,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 109434,
       "name": "Huang Xiaoming",
       "profile_path": "/eIC3tenhlbFtaGnFXhta7e25avQ.jpg",
-      "popularity": 10.35,
+      "popularity": 6.21,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 57854,
       "name": "Cheryl Hines",
       "profile_path": "/aOp8EZEKrY9Fz3GhOyJYlLOcfxg.jpg",
-      "popularity": 10.346,
+      "popularity": 14.484,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,15 +55,15 @@
       "id": 74036,
       "name": "Tom Arnold",
       "profile_path": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg",
-      "popularity": 10.345,
+      "popularity": 6.304,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 12446,
       "name": "Peter Sellers",
-      "profile_path": "/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg",
-      "popularity": 10.345,
+      "profile_path": "/k68WsOAixUuzaTCLFLy5JsODdKL.jpg",
+      "popularity": 14.483,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 146516,
       "name": "Josie Loren",
       "profile_path": "/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg",
-      "popularity": 10.336,
+      "popularity": 11.901,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 16847,
       "name": "Eli Roth",
       "profile_path": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg",
-      "popularity": 10.335,
+      "popularity": 14.301,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 37046,
       "name": "Dania Ramirez",
       "profile_path": "/zb5IEBWEh693PAtiqo2vzT3eng9.jpg",
-      "popularity": 10.332,
+      "popularity": 14.465,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 49915,
       "name": "Jesse McCartney",
       "profile_path": "/95f7jVXUwkHUUfj3AjvTJYx3pei.jpg",
-      "popularity": 10.331,
+      "popularity": 14.463,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 123807,
       "name": "Lee Da-hee",
       "profile_path": "/gLb1p9Et2e4BKl8GD74vZLmaIz2.jpg",
-      "popularity": 10.329,
+      "popularity": 14.461,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 49918,
       "name": "Charlie Tahan",
       "profile_path": "/isCdDBAxrSOjugK3HjgESi6rXcn.jpg",
-      "popularity": 10.327,
+      "popularity": 14.298,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 134180,
       "name": "Alyssa Diaz",
       "profile_path": "/nUWjDdSvhcTX25CuheDFhCGEWqk.jpg",
-      "popularity": 10.326,
+      "popularity": 8.698,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 209038,
       "name": "Alessandra Torresani",
       "profile_path": "/jR6VlKofhJhukFcSLQKXGO6kcls.jpg",
-      "popularity": 10.325,
+      "popularity": 11.498,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 104894,
       "name": "Jamie Luner",
       "profile_path": "/oNlfauLLlRJ3lgSPiF3BepDkr6A.jpg",
-      "popularity": 10.325,
+      "popularity": 6.195,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Kiersey Clemons",
       "profile_path": "/yVLsn0m3QXIqpJmA8RGNgkp8PP4.jpg",
       "popularity": 10.322,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 12122,
-      "name": "Ron Rifkin",
-      "profile_path": "/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg",
-      "popularity": 10.322,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1572354,
-      "name": "Lee Jung-eun",
-      "profile_path": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg",
-      "popularity": 10.32,
       "adult": false,
       "known_for_department": "Acting"
     }

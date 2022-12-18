@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1926630,
+      "name": "Stephanie Bennett",
+      "profile_path": "/7R0gGXuxVbW5Em0Eij78GIFhltw.jpg",
+      "popularity": 10.85,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1496392,
+      "name": "Joe Alwyn",
+      "profile_path": "/npvlAf0f2zciFdB6uwPx9j8xJHj.jpg",
+      "popularity": 10.85,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1855279,
       "name": "Stormi Maya",
       "profile_path": "/fCcUEuRGhlUEswYoHC6AHcTU8ts.jpg",
@@ -23,7 +39,7 @@
       "id": 987572,
       "name": "Zane Holtz",
       "profile_path": "/z5sXU2zOR59A3kfJTgwPObgrPhf.jpg",
-      "popularity": 10.841,
+      "popularity": 12.052,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 10866,
       "name": "Eric Bogosian",
       "profile_path": "/lUtLCWoLh18UFVOHBFr1VpUpoYJ.jpg",
-      "popularity": 10.841,
+      "popularity": 12.852,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 70903,
       "name": "Marc Warren",
       "profile_path": "/sIsnids6kyarj8QjMrlA1j9p08n.jpg",
-      "popularity": 10.838,
+      "popularity": 10.451,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 14702,
       "name": "Cathy Moriarty",
       "profile_path": "/g5pXUDGH30egsCq9eTDrsikFAYk.jpg",
-      "popularity": 10.835,
+      "popularity": 8.851,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 559280,
       "name": "David Haydn-Jones",
       "profile_path": "/6ozF5cpWaFwlt124yz66NOGhu5t.jpg",
-      "popularity": 10.831,
+      "popularity": 15.163,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 93407,
       "name": "Aleksei Kravchenko",
       "profile_path": "/o7UD6o30iJ29dTHPCbtOScv9s5E.jpg",
-      "popularity": 10.829,
+      "popularity": 15.161,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 42279,
       "name": "Laura Fraser",
       "profile_path": "/4aD3xDLA22CIf6jdK0IAs75h8pp.jpg",
-      "popularity": 10.829,
+      "popularity": 15.161,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 142294,
       "name": "Jason Butler Harner",
       "profile_path": "/wPvcdfh4RCjplX0zPLvxXdwgwQf.jpg",
-      "popularity": 10.826,
+      "popularity": 8.848,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 4012,
       "name": "Spencer Treat Clark",
       "profile_path": "/bvq0KXSIc5PE6yHnpEDM8PR44Fe.jpg",
-      "popularity": 10.826,
+      "popularity": 15.156,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 53917,
       "name": "Danny Webb",
       "profile_path": "/e7OhVUIsfGWYIrYxwD1KEWF7afP.jpg",
-      "popularity": 10.823,
+      "popularity": 9.247,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 142113,
       "name": "Vanessa Morgan",
       "profile_path": "/jTCOwpHG8tUaMZW0nO8G2P586O3.jpg",
-      "popularity": 10.819,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 585211,
-      "name": "Masaki Suda",
-      "profile_path": "/g7gXu0bE9jZ5LHjSqn1zHdNtiA1.jpg",
-      "popularity": 10.818,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 135347,
-      "name": "JeeJa Yanin",
-      "profile_path": "/73xhAKFbeNSlJTwUCsQCAtryLYS.jpg",
-      "popularity": 10.817,
+      "popularity": 9.646,
       "adult": false,
       "known_for_department": "Acting"
     }

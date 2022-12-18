@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 495384,
+      "name": "Jeany Spark",
+      "profile_path": "/bPCssX8FURXC4IzZKa4mnnELYBH.jpg",
+      "popularity": 3.442,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 13420,
       "name": "Ellen Greene",
       "profile_path": "/nJzE8dS38hxbALr5LZ88BYt8dm0.jpg",
-      "popularity": 5.736,
+      "popularity": 7.721,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 42000,
       "name": "Jane Carr",
       "profile_path": "/oD7rwFAsPSxrH18AKA32UBzkR0T.jpg",
-      "popularity": 5.735,
+      "popularity": 3.721,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 18878,
       "name": "Rob Cohen",
       "profile_path": "/kVbB8Q0g8eXsn8l81flyC6TgMPW.jpg",
-      "popularity": 5.735,
+      "popularity": 6.121,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +63,7 @@
       "id": 1108117,
       "name": "Sidharth Malhotra",
       "profile_path": "/ms0za8rU7SwBOboUc0G9jRLC1VW.jpg",
-      "popularity": 5.734,
+      "popularity": 8.028,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 973853,
       "name": "Alejandro Nones",
       "profile_path": "/rPVuMhBGeYTFyvu81p2omjDoud9.jpg",
-      "popularity": 5.734,
+      "popularity": 8.028,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 124820,
       "name": "Hiroshi Fujioka",
       "profile_path": "/nI1HftP1byNGKU0KRhyH3eVPXeQ.jpg",
-      "popularity": 5.734,
+      "popularity": 4.12,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 222330,
       "name": "Brit Marling",
       "profile_path": "/mbo8OoMmdC0o67g922oXpxewKPQ.jpg",
-      "popularity": 5.733,
+      "popularity": 4.92,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 62976,
       "name": "Eleanor Matsuura",
       "profile_path": "/8PTKH2LHXVxoxPm4kULlQ0OdwTg.jpg",
-      "popularity": 5.733,
+      "popularity": 7.32,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 39681,
       "name": "Stephen Walters",
       "profile_path": "/zhtty4sSjw7vqKXeptF9odqkx5e.jpg",
-      "popularity": 5.733,
+      "popularity": 6.92,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 989498,
       "name": "Ireneusz Czop",
       "profile_path": "/uY3CFB4TGljADavxeTBVKc0HNb9.jpg",
-      "popularity": 5.73,
+      "popularity": 4.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 225387,
       "name": "Nani",
       "profile_path": "/4hk5PkN3YHrkIxme0bdrGhNslpn.jpg",
-      "popularity": 5.73,
+      "popularity": 4.919,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 111196,
       "name": "David O'Donnell",
       "profile_path": "/3sHDghttGGBdJdTVE7z4EBSmz8S.jpg",
-      "popularity": 5.728,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2364949,
-      "name": "Melanie Martinez",
-      "profile_path": "/qqqCO1jF2pkTkohPCwOW8IpZtaH.jpg",
-      "popularity": 5.727,
+      "popularity": 7.318,
       "adult": false,
       "known_for_department": "Acting"
     }

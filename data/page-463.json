@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 8904,
+      "name": "Susan Buckner",
+      "profile_path": "/khF0CVXWmYKRFI80Cg5WWnYZp9h.jpg",
+      "popularity": 5.353,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 43996,
       "name": "Jean-Baptiste Maunier",
       "profile_path": "/7MFns6ANxxkG55n75z4omK5voat.jpg",
-      "popularity": 5.843,
+      "popularity": 5.753,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 120109,
       "name": "Paola Onofri",
       "profile_path": "/5hA3jNf9hsFuTxRa6CWrWdRsWVL.jpg",
-      "popularity": 5.842,
+      "popularity": 4.553,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 111692,
       "name": "Hannah Fierman",
       "profile_path": "/uxirz12ObedQWAXFcehjggNcqBI.jpg",
-      "popularity": 5.841,
+      "popularity": 4.152,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 141974,
       "name": "Saadet Işıl Aksoy",
       "profile_path": "/iteNzdG3N3WR1wBQPFwNw6AxzK9.jpg",
-      "popularity": 5.84,
+      "popularity": 5.352,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 84206,
       "name": "Keshia Knight Pulliam",
       "profile_path": "/e7v7V0jYgtYFuVKlLgsv27SKOi5.jpg",
-      "popularity": 5.84,
+      "popularity": 7.752,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 164208,
       "name": "Hemky Madera",
       "profile_path": "/net1kEEpSrr9QC9be6YRhLGuM0k.jpg",
-      "popularity": 5.839,
+      "popularity": 5.352,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 124760,
       "name": "Sara Lazzaro",
       "profile_path": "/5IdjMMBUWxaQPTNIGM3andOMP44.jpg",
-      "popularity": 5.839,
+      "popularity": 4.952,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 110129,
       "name": "Jose Coronado",
       "profile_path": "/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg",
-      "popularity": 5.838,
+      "popularity": 8.173,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 98579,
       "name": "Tiny Ron Taylor",
       "profile_path": "/z70iHJLvnqHRS9Ti9rm6ee8FXCJ.jpg",
-      "popularity": 5.838,
+      "popularity": 8.173,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 60851,
       "name": "François Chau",
       "profile_path": "/li7iZkdHmZkCsVVlABBu3fzTfeX.jpg",
-      "popularity": 5.838,
+      "popularity": 7.351,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 229,
       "name": "Peter MacNeill",
       "profile_path": "/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg",
-      "popularity": 5.838,
+      "popularity": 5.751,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 36820,
       "name": "Jenny Seagrove",
       "profile_path": "/ihbxiN3aWehDcF5RZB3gGVsiTjN.jpg",
-      "popularity": 5.837,
+      "popularity": 7.351,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 571282,
       "name": "Sakrat Ruekthamrong",
       "profile_path": "/nSoK7SckthDkR2huzCh3wOyszW5.jpg",
-      "popularity": 5.836,
+      "popularity": 7.351,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 1240868,
       "name": "Chelsea Peretti",
       "profile_path": "/4sy7TD87DEbGm0Tgv1ZgYumexqj.jpg",
-      "popularity": 5.835,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 188347,
-      "name": "Jorge Diaz",
-      "profile_path": "/gt6c8DRRnAJyHECoVZwEy6x9rpd.jpg",
-      "popularity": 5.834,
+      "popularity": 8.169,
       "adult": false,
       "known_for_department": "Acting"
     }

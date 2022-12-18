@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1381361,
+      "name": "Pili Groyne",
+      "profile_path": "/hfZAmrx2zPGwTrc0w6iqMFcpTY.jpg",
+      "popularity": 6.486,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 113236,
       "name": "Mia McKenna-Bruce",
       "profile_path": "/3CbwQW082wmd8C0IpmgDvxJUjog.jpg",
-      "popularity": 6.486,
+      "popularity": 5.546,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 87472,
       "name": "James Whitmore Jr.",
       "profile_path": "/g57k2R5KmUhmmTuCloNRBw38a0g.jpg",
-      "popularity": 6.486,
+      "popularity": 7.946,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -23,7 +31,7 @@
       "id": 78749,
       "name": "Hrithik Roshan",
       "profile_path": "/upKrdABAMK7jZevWAoPYI24iKlR.jpg",
-      "popularity": 6.486,
+      "popularity": 9.08,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 15197,
       "name": "Sarah Miles",
       "profile_path": "/va5ybem5OhVCbiXRcdD8Qm4zVR1.jpg",
-      "popularity": 6.486,
+      "popularity": 7.546,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 152823,
       "name": "Carmen Moore",
       "profile_path": "/cPUNFyRPEbgNpBfEVYKWNZtoGML.jpg",
-      "popularity": 6.485,
+      "popularity": 5.546,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 85209,
       "name": "Meredith Giangrande",
       "profile_path": "/xubqLRIXjaZqN8xFOnOZtDikalr.jpg",
-      "popularity": 6.485,
+      "popularity": 6.346,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1255570,
       "name": "Julia Goldani Telles",
       "profile_path": "/m5R44HlzFp03BvPGIBlwEbEZqSB.jpg",
-      "popularity": 6.483,
+      "popularity": 4.745,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 136963,
       "name": "Mark Wiebe",
       "profile_path": "/aInAEZsYrIQ8NiT4gt7vkZGPm4J.jpg",
-      "popularity": 6.483,
+      "popularity": 9.076,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 27448,
       "name": "Rocky Carroll",
       "profile_path": "/pqjqmRChGqhDXXY7Etka3bmOatN.jpg",
-      "popularity": 6.483,
+      "popularity": 9.076,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 13594,
       "name": "Joseph Barbera",
       "profile_path": "/lpjg99DpaK0RDbbe6mqk1Z7YIke.jpg",
-      "popularity": 6.483,
+      "popularity": 3.89,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -111,7 +119,7 @@
       "id": 44818,
       "name": "Mark Holton",
       "profile_path": "/2NleIh4ohQcw9M5i8mNYzq5qqwE.jpg",
-      "popularity": 6.482,
+      "popularity": 7.145,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 38232,
       "name": "Hugh Beaumont",
       "profile_path": "/evE8f3kyy5NPN8Zijm16wxU9tSr.jpg",
-      "popularity": 6.482,
+      "popularity": 3.945,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 70517,
       "name": "Thomas Turgoose",
       "profile_path": "/3PsCUvclNzVrjDGg69Q3blw83ei.jpg",
-      "popularity": 6.481,
+      "popularity": 6.344,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 54168,
       "name": "Anne Marivin",
       "profile_path": "/us62bYupp3pRzFsmdb4dxOTpVQl.jpg",
-      "popularity": 6.481,
+      "popularity": 6.744,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 4581,
       "name": "Steve Coogan",
       "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg",
-      "popularity": 6.481,
+      "popularity": 9.073,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 47742,
       "name": "Clare Holman",
       "profile_path": "/mVpH5xGx0ezmqE12GmbtaG3wjLv.jpg",
-      "popularity": 6.48,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3096028,
-      "name": "Nikita Uggla",
-      "profile_path": "/ydnVNKjGNh8OL7TX6Owtv1dlLBQ.jpg",
-      "popularity": 6.479,
+      "popularity": 9.072,
       "adult": false,
       "known_for_department": "Acting"
     }

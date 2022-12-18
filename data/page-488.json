@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 8499,
+      "name": "William Windom",
+      "profile_path": "/jLKGf2gQR4cBDnUWFOsXY2y5Pui.jpg",
+      "popularity": 7.297,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2648396,
       "name": "Rosy McEwen",
       "profile_path": "/zJqY4dIvlqDC7mMmGd678cuJ0Ok.jpg",
@@ -23,7 +31,7 @@
       "id": 94421,
       "name": "Bobby Campo",
       "profile_path": "/6ART3lx7kJEC3vNJBKqILCKKOuM.jpg",
-      "popularity": 5.657,
+      "popularity": 7.92,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 31512,
       "name": "Robert John Burke",
       "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg",
-      "popularity": 5.657,
+      "popularity": 7.92,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1254216,
       "name": "Kent Tong",
       "profile_path": "/u81UifJOJLHNhzNTUgTqKLmDvSD.jpg",
-      "popularity": 5.656,
+      "popularity": 4.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 1043938,
       "name": "María Elena Velasco",
       "profile_path": "/oQ9IBfB38EepJZcuvsdNXSOHexg.jpg",
-      "popularity": 5.656,
+      "popularity": 5.297,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 145925,
       "name": "Rio Matsumoto",
       "profile_path": "/4PYEAcRcDNNZUaS6Zee2A50vhac.jpg",
-      "popularity": 5.656,
+      "popularity": 5.297,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 110928,
       "name": "Nancy Linehan Charles",
       "profile_path": "/v6VF5CPLzcLBzmEFZbZOpA4fb1D.jpg",
-      "popularity": 5.656,
+      "popularity": 7.918,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 55983,
       "name": "Jim Henson",
       "profile_path": "/93vzGW2kWwmAJ8HpbErzKMHXDME.jpg",
-      "popularity": 5.656,
+      "popularity": 7.918,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -87,7 +95,7 @@
       "id": 32041,
       "name": "William Russell",
       "profile_path": "/dBCAIZefcZWSuu0aCYd2mJsievi.jpg",
-      "popularity": 5.656,
+      "popularity": 7.918,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 1146850,
       "name": "Emma Bading",
       "profile_path": "/7moZRs3HAe80zgeXh3Eh7KZBNhB.jpg",
-      "popularity": 5.655,
+      "popularity": 5.297,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 964792,
       "name": "Jacob Anderson",
       "profile_path": "/i8dkNHSK3hok2VyvZwaVwFtcePh.jpg",
-      "popularity": 5.655,
+      "popularity": 7.917,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 210275,
       "name": "Cariba Heine",
       "profile_path": "/wWDsMLEFEM4W4iUqiKzonIOeKkU.jpg",
-      "popularity": 5.655,
+      "popularity": 4.897,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 68764,
       "name": "Rachel Hayward",
       "profile_path": "/6zwYB5Z1IwmrLc7XBY3HABPAHmK.jpg",
-      "popularity": 5.655,
+      "popularity": 7.297,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 2109360,
       "name": "Nana Mori",
       "profile_path": "/kmvxKEhUeolX4frX2ws4NnfIdf3.jpg",
-      "popularity": 5.653,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 225863,
-      "name": "Zach Callison",
-      "profile_path": "/gGvcqBYFa0WNyx72FOEMfpSFpKS.jpg",
       "popularity": 5.653,
       "adult": false,
       "known_for_department": "Acting"

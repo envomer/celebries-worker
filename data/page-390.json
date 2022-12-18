@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2319,
+      "name": "Maria de Medeiros",
+      "profile_path": "/xDo5mRSKXUZRmcZjUn42ICiyyI8.jpg",
+      "popularity": 8.74,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1602420,
       "name": "Em Haine",
       "profile_path": "/cvEqSThTuVBo5jPQPl1MKlaANUf.jpg",
@@ -15,7 +23,7 @@
       "id": 38333,
       "name": "Ana Ortiz",
       "profile_path": "/qkOrJNR5TA3uZqj0lF2hfNuHP4R.jpg",
-      "popularity": 6.463,
+      "popularity": 8.739,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 103593,
       "name": "Renee Griffin",
       "profile_path": "/bFlDuUo3spSlI4NZWFzmFfPkuBP.jpg",
-      "popularity": 6.462,
+      "popularity": 4.739,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 105875,
       "name": "Tongayi Chirisa",
       "profile_path": "/iNUnPz0fcz2kGYZ5lhkXo042iAl.jpg",
-      "popularity": 6.461,
+      "popularity": 7.538,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 44185,
       "name": "Judith Scott",
       "profile_path": "/h1oDVb4GuihdB1hgrr8Zqm9kagm.jpg",
-      "popularity": 6.461,
+      "popularity": 9.045,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1255936,
       "name": "Gupse Özay",
       "profile_path": "/sxxO9l62XXA4EwKZ28LQFr6GJ58.jpg",
-      "popularity": 6.458,
+      "popularity": 4.737,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 584878,
       "name": "Babloo Prithiveeraj",
       "profile_path": "/lnRXcRebSmfJaSaRqTt91o1vkhE.jpg",
-      "popularity": 6.458,
+      "popularity": 5.937,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 2264,
       "name": "Patrick Magee",
       "profile_path": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg",
-      "popularity": 6.458,
+      "popularity": 6.337,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 60349,
       "name": "Ryan Gage",
       "profile_path": "/rPeYxW5QrgI68TTaoP2iK8NfCW7.jpg",
-      "popularity": 6.457,
+      "popularity": 6.737,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 17693,
       "name": "Sarah Parish",
       "profile_path": "/5GmD0kvvZH6TOEoIxkzj0U1ItUP.jpg",
-      "popularity": 6.457,
+      "popularity": 8.337,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 15557,
       "name": "Bill Condon",
       "profile_path": "/zgqg8ZS1JN2WJq141dbgTwtPbyx.jpg",
-      "popularity": 6.457,
+      "popularity": 4.337,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -111,7 +119,7 @@
       "id": 1210485,
       "name": "Alyson Bath",
       "profile_path": "/b0W87Tlaj7w4Gz66XUfSQKCkQ51.jpg",
-      "popularity": 6.456,
+      "popularity": 9.038,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 115792,
       "name": "Masako Katsuki",
       "profile_path": "/szBdXm77jVvvHLaDoxEs9Nl9dtF.jpg",
-      "popularity": 6.456,
+      "popularity": 9.038,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 4307,
       "name": "Claude Akins",
       "profile_path": "/oBoSdz6meVMFrXN8vfaXGQAQsEa.jpg",
-      "popularity": 6.456,
+      "popularity": 5.937,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1134883,
       "name": "Aislinn Derbez",
       "profile_path": "/y3aA1x3JpBOZHhZzTPBpDyhcra1.jpg",
-      "popularity": 6.455,
+      "popularity": 8.337,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 202806,
       "name": "Yui Horie",
       "profile_path": "/73yQlMWaiOMrhvPCNyOCbbCkILZ.jpg",
-      "popularity": 6.455,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 11671,
-      "name": "Bijou Phillips",
-      "profile_path": "/wOFAgw3TRG0uA5ziEIB2qqxB8El.jpg",
-      "popularity": 6.455,
+      "popularity": 6.737,
       "adult": false,
       "known_for_department": "Acting"
     }

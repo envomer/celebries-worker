@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 58019,
+      "name": "Ethan Embry",
+      "profile_path": "/oC5m2pfIcfAD6jrPTNhR77Uldm9.jpg",
+      "popularity": 16.95,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1159,
+      "name": "Steven Bauer",
+      "profile_path": "/wWIgfXMRyGFKBWhV9yc8CObNqfh.jpg",
+      "popularity": 11.23,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 6355,
       "name": "Roy Scheider",
       "profile_path": "/yyZ0DwUz3qAelJIUGVoOktGgMIh.jpg",
-      "popularity": 12.099,
+      "popularity": 13.23,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 1223726,
       "name": "Robbie Amell",
       "profile_path": "/qRDwwBVJmYk7yhlo8VwRMook4yd.jpg",
-      "popularity": 12.098,
+      "popularity": 16.029,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 113861,
       "name": "Luisa d'Oliveira",
       "profile_path": "/AqqrE7zKHBxtxeEvYHcwSzIgWlc.jpg",
-      "popularity": 12.097,
+      "popularity": 12.429,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 3897,
       "name": "Katie Holmes",
       "profile_path": "/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg",
-      "popularity": 12.093,
+      "popularity": 14.028,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 1112244,
       "name": "Susan Radder",
       "profile_path": "/n3Bwzcdz57nXBtBtrry0XzPS01v.jpg",
-      "popularity": 12.091,
+      "popularity": 12.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 7058,
       "name": "Kris Marshall",
       "profile_path": "/gBq5B3HETUfgdK3vyXXLT7d4oXs.jpg",
-      "popularity": 12.09,
+      "popularity": 12.027,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 58430,
       "name": "Ruth Bradley",
       "profile_path": "/pnrFYG3Ij8Op6XTpbFw2vdltDwR.jpg",
-      "popularity": 12.085,
+      "popularity": 9.226,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 63234,
       "name": "Wendi McLendon-Covey",
       "profile_path": "/2soHGwyGIGEWEwEjy6iW6NX2UKT.jpg",
-      "popularity": 12.084,
+      "popularity": 11.225,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 21911,
       "name": "Shu Qi",
       "profile_path": "/jNaUWRClE4aFnguPZKQeVqfugPd.jpg",
-      "popularity": 12.082,
+      "popularity": 11.497,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 10964,
       "name": "Laz Alonso",
       "profile_path": "/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg",
-      "popularity": 12.074,
+      "popularity": 14.822,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 12688,
       "name": "Peter MacNicol",
       "profile_path": "/xo09hN0cqYh1V7z986yFOTdaKhU.jpg",
-      "popularity": 12.061,
+      "popularity": 11.618,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 231909,
       "name": "Amy Yip",
       "profile_path": "/8fIn0Sy9tPFmGBzyzKA5EzPrrjQ.jpg",
-      "popularity": 12.057,
+      "popularity": 12.817,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 45391,
       "name": "Beth Broderick",
       "profile_path": "/9vzc9HkvbAw0RDXrSEPcoazTb9.jpg",
-      "popularity": 12.054,
+      "popularity": 15.616,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 8516,
       "name": "John Carradine",
       "profile_path": "/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg",
-      "popularity": 12.054,
+      "popularity": 12.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 57409,
       "name": "Ana de la Reguera",
       "profile_path": "/nEacV1wuUHV6eUyErGBhniJ85JY.jpg",
-      "popularity": 12.053,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 68,
-      "name": "Fritz Lang",
-      "profile_path": "/9YT60DvkqsSPxoS4b8ezIv76ses.jpg",
-      "popularity": 12.052,
-      "adult": false,
-      "known_for_department": "Directing"
-    },
-    {
-      "id": 52935,
-      "name": "John Francis Daley",
-      "profile_path": "/rKZL3e8gI2tQD6Kv0QojXK5sG4u.jpg",
-      "popularity": 12.051,
+      "popularity": 10.016,
       "adult": false,
       "known_for_department": "Acting"
     }

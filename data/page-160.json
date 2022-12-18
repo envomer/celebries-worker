@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 57449,
+      "name": "Jodhi May",
+      "profile_path": "/iqVk4bZyBkIOOWxaYxiezcApwRG.jpg",
+      "popularity": 13.217,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 10018,
+      "name": "Jack Hawkins",
+      "profile_path": "/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg",
+      "popularity": 11.617,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 73937,
       "name": "Judith Godrèche",
       "profile_path": "/ApmxzclZTpUwsZInw4OND8Id5uc.jpg",
-      "popularity": 10.723,
+      "popularity": 14.417,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 466505,
       "name": "Kumail Nanjiani",
       "profile_path": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg",
-      "popularity": 10.721,
+      "popularity": 15.009,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 66442,
       "name": "Tamsin Egerton",
       "profile_path": "/n7iso71As9F3H5LtESDjiqJ6e7s.jpg",
-      "popularity": 10.721,
+      "popularity": 11.616,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 13579,
       "name": "Virginia Mayo",
       "profile_path": "/81Dl7wPr9wAxYvA5dgTIAxIRK87.jpg",
-      "popularity": 10.721,
+      "popularity": 8.016,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 83948,
       "name": "Rukiya Bernard",
       "profile_path": "/1xnSniYd3y84qt6lqLvDIzGT4x0.jpg",
-      "popularity": 10.72,
+      "popularity": 9.216,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 206905,
       "name": "Jeremy Allen White",
       "profile_path": "/zKk4vmDeUexdevtt6wm8WdMQ1TG.jpg",
-      "popularity": 10.712,
+      "popularity": 13.614,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 152416,
       "name": "Murray Bartlett",
       "profile_path": "/aGEZmgR3QItf57uUBQVD6fVNDWm.jpg",
-      "popularity": 10.711,
+      "popularity": 9.613,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 4765,
       "name": "Jason Robards",
       "profile_path": "/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg",
-      "popularity": 10.71,
+      "popularity": 13.213,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 1153813,
       "name": "Ida Engvoll",
       "profile_path": "/oCaDgQcdJ7jmAgFhhas65HTwOBZ.jpg",
-      "popularity": 10.708,
+      "popularity": 10.812,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 127907,
       "name": "Elena Satine",
       "profile_path": "/3JiORHKKP1ZqsCC10hGBHL44yiG.jpg",
-      "popularity": 10.706,
+      "popularity": 13.212,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 28109,
       "name": "Alexa Davalos",
       "profile_path": "/a0ySMTCDQCBOam4XW7Kvtt2ZhDd.jpg",
-      "popularity": 10.699,
+      "popularity": 14.979,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 15274,
       "name": "Elizabeth Daily",
       "profile_path": "/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg",
-      "popularity": 10.699,
+      "popularity": 12.41,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 15789,
       "name": "Alex D. Linz",
       "profile_path": "/pem026eNKMUMnCEVXZf5T5yjH64.jpg",
-      "popularity": 10.693,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1474965,
-      "name": "Lindsey Gort",
-      "profile_path": "/pwZIFiSPltZbspDWEAtSB14Pcae.jpg",
-      "popularity": 10.692,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 65986,
-      "name": "David Chiang",
-      "profile_path": "/8Px2kQf2KTCeSfch6RJaljEPgc.jpg",
-      "popularity": 10.692,
+      "popularity": 12.808,
       "adult": false,
       "known_for_department": "Acting"
     }

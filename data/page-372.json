@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 12226,
+      "name": "Michael B. Silver",
+      "profile_path": "/tY1KvBL5J0ehtGoRYLzAh9WwSVy.jpg",
+      "popularity": 4.394,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 37982,
       "name": "Agata Buzek",
       "profile_path": "/5hDbyoCdPKyA2fmw17wYfjWxR2y.jpg",
-      "popularity": 6.647,
+      "popularity": 6.394,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 12658,
       "name": "Patricia Hayes",
       "profile_path": "/6XFwNMFX81TJOvY5k5V0rUANQL.jpg",
-      "popularity": 6.647,
+      "popularity": 7.194,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 587677,
       "name": "Kim Joo-ryoung",
       "profile_path": "/fzAQghaykG5841cvSMogl1Xaafw.jpg",
-      "popularity": 6.645,
+      "popularity": 7.594,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 10995,
       "name": "David Hayter",
       "profile_path": "/zj0knrkaYOHbBEf6WyfGU30hjgx.jpg",
-      "popularity": 6.645,
+      "popularity": 3.994,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 51764,
       "name": "Kent Smith",
       "profile_path": "/2GHATvR422EaWU7BkSoj9kbgzt0.jpg",
-      "popularity": 6.644,
+      "popularity": 7.993,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 15746,
       "name": "Barbara Babcock",
       "profile_path": "/wOB6OSPgFlyI3V1PtCTg7q8vrdW.jpg",
-      "popularity": 6.644,
+      "popularity": 6.793,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 157085,
       "name": "Vernee Watson-Johnson",
       "profile_path": "/rUMtF1F6wrUHHfRkFlLz27xRoxd.jpg",
-      "popularity": 6.643,
+      "popularity": 6.393,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 20404,
       "name": "Vanessa Lachey",
       "profile_path": "/oz7ezPnVTUypsYUtQnaXNtzvNiR.jpg",
-      "popularity": 6.643,
+      "popularity": 5.593,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 20258,
       "name": "Thure Lindhardt",
       "profile_path": "/lDkRe6dlQoiehjay8pEP2WLU4qG.jpg",
-      "popularity": 6.643,
+      "popularity": 7.593,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 2041,
       "name": "Dr. Dre",
       "profile_path": "/xm2pYFBggiXSkFBV2I612i3fDd3.jpg",
-      "popularity": 6.643,
+      "popularity": 7.193,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 210826,
       "name": "Andrea Navedo",
       "profile_path": "/jTEuBC4T3lQiN0Uc8SOxc9rcxvo.jpg",
-      "popularity": 6.642,
+      "popularity": 4.393,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 544779,
       "name": "Moon Lee",
       "profile_path": "/2wTS5wK0tlbtHvNYm8AwiAG5PNf.jpg",
-      "popularity": 6.64,
+      "popularity": 7.992,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 41773,
       "name": "Susanna Simon",
       "profile_path": "/jzDVdd1OlsgSSz1RQOD3VnkmqPM.jpg",
-      "popularity": 6.64,
+      "popularity": 6.392,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 34581,
       "name": "Patrick Dewaere",
       "profile_path": "/7Gois9O80H2A7meR0y5ONbc3CJk.jpg",
-      "popularity": 6.64,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 14108,
-      "name": "Joyce Van Patten",
-      "profile_path": "/vbt3LzgBiQ7UhL5tDwn1wV4ndBd.jpg",
-      "popularity": 6.64,
+      "popularity": 4.792,
       "adult": false,
       "known_for_department": "Acting"
     }

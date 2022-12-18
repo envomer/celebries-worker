@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1323109,
+      "name": "Aisling Franciosi",
+      "profile_path": "/g6qewxM4EEg02HUTLUw9KGkLdNj.jpg",
+      "popularity": 6.497,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 93801,
       "name": "Hiroshi Kamiya",
       "profile_path": "/u2r0u8tOa0cyh7nawcEOPpcEZr1.jpg",
-      "popularity": 6.497,
+      "popularity": 9.096,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 1251567,
       "name": "Drew Van Acker",
       "profile_path": "/ptlxB8H3M9c4EjUEkvXDF9XWRqE.jpg",
-      "popularity": 6.495,
+      "popularity": 4.749,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 5247,
       "name": "John Fiedler",
       "profile_path": "/6vfLLGeGuO6Ko0VRnyhgE2v6RUu.jpg",
-      "popularity": 6.495,
+      "popularity": 5.949,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 39568,
       "name": "Dey Young",
       "profile_path": "/wHgYRlGBk5tiwM6r7ZSkdkc8H7f.jpg",
-      "popularity": 6.492,
+      "popularity": 9.089,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 78229,
       "name": "Lindsey Haun",
       "profile_path": "/9okzhMg5PMtmJtZWDyfkOKLyOuD.jpg",
-      "popularity": 6.491,
+      "popularity": 4.347,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1230692,
       "name": "Andee Frizzell",
       "profile_path": "/dF8roZOxElK0T49lgkranhtcRB2.jpg",
-      "popularity": 6.49,
+      "popularity": 9.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1142261,
       "name": "Airon Armstrong",
       "profile_path": "/cVOMBcU6qFsT7tpo4QjKrCRJ7oW.jpg",
-      "popularity": 6.49,
+      "popularity": 5.547,
       "adult": false,
       "known_for_department": "Crew"
     },
@@ -103,7 +111,7 @@
       "id": 936282,
       "name": "Dori Sakurada",
       "profile_path": "/tiNYIOkQCZDq1vCwP5A5wc5mRFA.jpg",
-      "popularity": 6.49,
+      "popularity": 9.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 11089,
       "name": "Whip Hubley",
       "profile_path": "/lqwleuUWQhLWMJ4ZvAdRGrXgvjT.jpg",
-      "popularity": 6.49,
+      "popularity": 9.086,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 53655,
       "name": "Eva Cobo",
       "profile_path": "/5fgkLGwnhy08xyw2CvmtVwG63Bg.jpg",
-      "popularity": 6.489,
+      "popularity": 7.147,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 558135,
       "name": "Mina Fujii",
       "profile_path": "/9QHv6oposrnFb0w0ibscpoAT0Vk.jpg",
-      "popularity": 6.488,
+      "popularity": 9.083,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 587506,
       "name": "Shameik Moore",
       "profile_path": "/uJNaSTsfBOvtFWsPP23zNthknsB.jpg",
-      "popularity": 6.487,
+      "popularity": 6.346,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 174906,
       "name": "Shelly Desai",
       "profile_path": "/kavOPFlsUf1l5HRa1OJ8ugYFebT.jpg",
-      "popularity": 6.487,
+      "popularity": 3.892,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 15972,
       "name": "Reggie Nalder",
       "profile_path": "/qoBbcBYcH07KrnJ4p7CIe9BKuFM.jpg",
-      "popularity": 6.487,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1381361,
-      "name": "Pili Groyne",
-      "profile_path": "/hfZAmrx2zPGwTrc0w6iqMFcpTY.jpg",
-      "popularity": 6.486,
+      "popularity": 3.892,
       "adult": false,
       "known_for_department": "Acting"
     }

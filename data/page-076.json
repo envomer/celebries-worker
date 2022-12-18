@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 12791,
+      "name": "Hugh Dancy",
+      "profile_path": "/sNdeWUm0aHUW4YMARuvZTLzpWwY.jpg",
+      "popularity": 12.245,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1213613,
       "name": "Jeri Ryan",
       "profile_path": "/d1FaZumY8fWbYTUuPokYUYx8x5G.jpg",
-      "popularity": 15.474,
+      "popularity": 12.242,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 212225,
       "name": "Kim Kardashian",
       "profile_path": "/9rrdnBnHv8iyblG2x2NIoQtkLor.jpg",
-      "popularity": 15.471,
+      "popularity": 15.841,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 1350,
       "name": "Irène Jacob",
       "profile_path": "/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg",
-      "popularity": 15.463,
+      "popularity": 10.239,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 1462,
       "name": "Tim Blake Nelson",
       "profile_path": "/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg",
-      "popularity": 15.461,
+      "popularity": 13.838,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 933271,
       "name": "Eve Hewson",
       "profile_path": "/Dj3osDr5zSP7uMtBBbbUeIgRMu.jpg",
-      "popularity": 15.457,
+      "popularity": 21.64,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 3623,
       "name": "Elena Anaya",
       "profile_path": "/hSkjzOfvRQ8DUJdhWveIKgRlyXb.jpg",
-      "popularity": 15.457,
+      "popularity": 18.237,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 2712,
       "name": "Michael Biehn",
       "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg",
-      "popularity": 15.457,
+      "popularity": 21.64,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 81217,
       "name": "Sarah Lancaster",
       "profile_path": "/hHSlXjohcTtjT8rjEhYMZQplZ08.jpg",
-      "popularity": 15.452,
+      "popularity": 15.036,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 292250,
       "name": "S. J. Suryah",
       "profile_path": "/fRd4pnSnds4MR75x0cxlnSijwPD.jpg",
-      "popularity": 15.451,
+      "popularity": 14.635,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 58370,
       "name": "Amanda Crew",
       "profile_path": "/diGTfFDOAjtfpClK3pJHkQIYhNc.jpg",
-      "popularity": 15.446,
+      "popularity": 20.634,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 11826,
       "name": "Selma Blair",
       "profile_path": "/lH7IEcv9aXcpt61uKf3ri4iWnfi.jpg",
-      "popularity": 15.446,
+      "popularity": 21.624,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 453272,
       "name": "Nora Arnezeder",
       "profile_path": "/6I1x7HVeUtHKXNSLikIOhBWqViG.jpg",
-      "popularity": 15.443,
+      "popularity": 19.833,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 19274,
       "name": "Seth Rogen",
       "profile_path": "/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg",
-      "popularity": 15.442,
+      "popularity": 13.033,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 21624,
       "name": "Judd Nelson",
       "profile_path": "/7kRf8vE0ZjMuunh8BaD50B3EhS5.jpg",
-      "popularity": 15.441,
+      "popularity": 14.232,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 563643,
       "name": "Kaitlyn Leeb",
       "profile_path": "/cvvRNlbgFlEvorYDoVqBXGcQFaC.jpg",
-      "popularity": 15.436,
+      "popularity": 21.61,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 74537,
       "name": "Maggie Siff",
       "profile_path": "/ufiWZMq4z5yra0At3NlYvyZ72ws.jpg",
-      "popularity": 15.435,
+      "popularity": 15.831,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 4512,
       "name": "James Woods",
       "profile_path": "/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg",
-      "popularity": 15.432,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 8487,
-      "name": "Gregory Peck",
-      "profile_path": "/1inRvnNChyobOnEpIdCUZsNStRW.jpg",
-      "popularity": 15.431,
+      "popularity": 21.605,
       "adult": false,
       "known_for_department": "Acting"
     }

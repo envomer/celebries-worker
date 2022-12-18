@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1274210,
+      "name": "Millie Davis",
+      "profile_path": "/hmrTAVR6CrsmX20AGmVGrGJag8Z.jpg",
+      "popularity": 7.778,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 164554,
       "name": "Jennifer Kent",
       "profile_path": "/neV1Pc9Ed051WmQ4jahjEHuIbRg.jpg",
-      "popularity": 5.927,
+      "popularity": 5.378,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -15,7 +23,7 @@
       "id": 175756,
       "name": "Helene Joy",
       "profile_path": "/23Qzyov88pRq8BRGTOcIVc7BeQa.jpg",
-      "popularity": 5.926,
+      "popularity": 6.978,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 31991,
       "name": "Gabriele Tinti",
       "profile_path": "/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg",
-      "popularity": 5.926,
+      "popularity": 7.378,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1254169,
       "name": "Yoo In-na",
       "profile_path": "/zkw2hJv40No9ugqzr818e1Y8iDL.jpg",
-      "popularity": 5.925,
+      "popularity": 7.378,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1212171,
       "name": "Josephine Tewson",
       "profile_path": "/tDy57q0NkQKvR76SKaa9ICNBqhI.jpg",
-      "popularity": 5.925,
+      "popularity": 7.778,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 971726,
       "name": "Ana Ularu",
       "profile_path": "/oWMWDIZbiQWkIlxkhEM3RVzZclc.jpg",
-      "popularity": 5.925,
+      "popularity": 8.178,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 72754,
       "name": "Elissa Knight",
       "profile_path": "/vrgL992F6hQYTyNeJWDKRsrolaP.jpg",
-      "popularity": 5.925,
+      "popularity": 8.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 68816,
       "name": "Adèle Haenel",
       "profile_path": "/uf2BVprWBZB7hxv0lj1RO48EDEZ.jpg",
-      "popularity": 5.925,
+      "popularity": 6.578,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 290,
       "name": "Christopher Plummer",
       "profile_path": "/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg",
-      "popularity": 5.925,
+      "popularity": 8.295,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 123808,
       "name": "Na Moon-hee",
       "profile_path": "/ly5hCJSjgCM0i2JQ0xeWqJZSliR.jpg",
-      "popularity": 5.923,
+      "popularity": 6.577,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 56393,
       "name": "Anki Lidén",
       "profile_path": "/oVTXH33SgZGvSamiPh53UMRyvRS.jpg",
-      "popularity": 5.922,
+      "popularity": 8.291,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 52361,
       "name": "Cinco Paul",
       "profile_path": "/phZeM2oJ8jclBfCWzxgE6y9RiR6.jpg",
-      "popularity": 5.922,
+      "popularity": 4.977,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -127,7 +135,7 @@
       "id": 35257,
       "name": "Timothy West",
       "profile_path": "/33jpCMYzJoQ9RXQzzzNhocfIAez.jpg",
-      "popularity": 5.922,
+      "popularity": 8.291,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 29445,
       "name": "Ethan Phillips",
       "profile_path": "/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg",
-      "popularity": 5.922,
+      "popularity": 8.291,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 1368519,
       "name": "Matreya Scarrwener",
       "profile_path": "/fBgjT3cMSxszVipy163O1u6Yf5A.jpg",
-      "popularity": 5.921,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 127564,
-      "name": "Jo In-sung",
-      "profile_path": "/69gbyFI0ET0l0dyjKChlx1Zx269.jpg",
       "popularity": 5.921,
       "adult": false,
       "known_for_department": "Acting"

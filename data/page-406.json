@@ -4,6 +4,14 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1907999,
+      "name": "Yoo Ri",
+      "profile_path": "",
+      "popularity": 6.307,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1584273,
       "name": "Dilan Çiçek Deniz",
       "profile_path": "/wj7il56BPBRXtaFVj7cejXpg578.jpg",
@@ -15,7 +23,7 @@
       "id": 187857,
       "name": "Toby Leonard Moore",
       "profile_path": "/hR3vkEjSymdt23NYfcO2axUFMe1.jpg",
-      "popularity": 6.306,
+      "popularity": 3.892,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 28010,
       "name": "David Ogden Stiers",
       "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg",
-      "popularity": 6.306,
+      "popularity": 8.828,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 25258,
       "name": "Rossy de Palma",
       "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg",
-      "popularity": 6.306,
+      "popularity": 8.828,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1156183,
       "name": "Ashly Burch",
       "profile_path": "/iINzNKiIGbjoee6tJKb8xMWog45.jpg",
-      "popularity": 6.305,
+      "popularity": 8.827,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 205179,
       "name": "Danny Pudi",
       "profile_path": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
-      "popularity": 6.304,
+      "popularity": 7.891,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 134699,
       "name": "Stella Gonet",
       "profile_path": "/cUmDfX4fNvtAl5199HUc29ZDsAc.jpg",
-      "popularity": 6.304,
+      "popularity": 7.091,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 66606,
       "name": "George Wendt",
       "profile_path": "/noQKS06TbuPJQ9o91CzKbEvTwZR.jpg",
-      "popularity": 6.304,
+      "popularity": 8.826,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1251100,
       "name": "Shion Takeuchi",
       "profile_path": "/4l87QnF5Fdm7iUk3CJHt5aKBljw.jpg",
-      "popularity": 6.303,
+      "popularity": 8.824,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -87,7 +95,7 @@
       "id": 3785,
       "name": "Jack Palance",
       "profile_path": "/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg",
-      "popularity": 6.303,
+      "popularity": 8.824,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1077805,
       "name": "Ana Ayora",
       "profile_path": "/6mo946WfFCeCvHFjglr00nDI4KD.jpg",
-      "popularity": 6.302,
+      "popularity": 5.091,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 163930,
       "name": "Martha Millan",
       "profile_path": "/ed6mq0swtBx99HU9mpl5TnyZEUA.jpg",
-      "popularity": 6.301,
+      "popularity": 4.69,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 86905,
       "name": "Caroline Rhea",
       "profile_path": "/o3qlndBREZLOUrX9s0KEyjspBEJ.jpg",
-      "popularity": 6.301,
+      "popularity": 8.821,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 64731,
       "name": "Tiffany Paulsen",
       "profile_path": "/8xJqAYlky3Fht5OuJP802i2TYGB.jpg",
-      "popularity": 6.301,
+      "popularity": 5.89,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -127,7 +135,7 @@
       "id": 766,
       "name": "Ashraf Barhom",
       "profile_path": "/nLEExmNJZsFCT29AyUSAFSSZ5gb.jpg",
-      "popularity": 6.301,
+      "popularity": 5.89,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 1041347,
       "name": "Kimi Katkar",
       "profile_path": "/qImIXtXDkx8MjCakQlk7mvOsucy.jpg",
-      "popularity": 6.3,
+      "popularity": 5.89,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 151432,
       "name": "Boris McGiver",
       "profile_path": "/mwVp5Pt7gMhEHPsijU8niPRljiW.jpg",
-      "popularity": 6.3,
+      "popularity": 5.89,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 135944,
       "name": "Alexandre Willaume",
       "profile_path": "/9idbbstYInVyKSpbDaLMjwwRFns.jpg",
-      "popularity": 6.298,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 94765,
-      "name": "Diane Brewster",
-      "profile_path": "/t7gRA5LwID5uMkTBRP4hcqGEXYn.jpg",
-      "popularity": 6.297,
+      "popularity": 6.689,
       "adult": false,
       "known_for_department": "Acting"
     }

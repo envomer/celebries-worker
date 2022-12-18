@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 343,
+      "name": "Taryn Manning",
+      "profile_path": "/obE0w8SVx7Hq773KY2DCxK1j2GF.jpg",
+      "popularity": 15.45,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 7664,
+      "name": "Joseph Cotten",
+      "profile_path": "/djfCB0jPOgmq3w7RD3BMLzWsAu8.jpg",
+      "popularity": 15.449,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 12640,
       "name": "David Duchovny",
       "profile_path": "/kFuB7QQ35SwMwWdiTGSDQdkxnsT.jpg",
-      "popularity": 11.034,
+      "popularity": 11.31,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 21214,
       "name": "Jill Teed",
       "profile_path": "/pRu4qqDcb8ze3RKgoKxPwzW9SRP.jpg",
-      "popularity": 11.032,
+      "popularity": 12.91,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 37995,
       "name": "Bo Derek",
       "profile_path": "/u5wjZ2SJ9Im6mtQz6xlCUbQBJ0D.jpg",
-      "popularity": 11.029,
+      "popularity": 15.441,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 14668,
       "name": "Daphne Zuniga",
       "profile_path": "/jzxXGApvXYqYJKFpSH1WUnr8qCa.jpg",
-      "popularity": 11.029,
+      "popularity": 8.109,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 169778,
       "name": "Mercedes de la Zerda",
       "profile_path": "/Au3oFUvhdbktvDP76MbPwhSsIa1.jpg",
-      "popularity": 11.026,
+      "popularity": 12.508,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 4286,
       "name": "Emma de Caunes",
       "profile_path": "/4SGij5jBQNznmVxBHDBtc8gUD2v.jpg",
-      "popularity": 11.026,
+      "popularity": 10.508,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 1979,
       "name": "Kevin Spacey",
       "profile_path": "/dlVRkUYKyZdJ39AN55cY1LoyXAP.jpg",
-      "popularity": 11.025,
+      "popularity": 8.108,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 1909,
       "name": "Conchata Ferrell",
       "profile_path": "/1CuSudlDbvrhFSpXPckzlMfzLiJ.jpg",
-      "popularity": 11.022,
+      "popularity": 12.907,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 223901,
       "name": "Jay Ryan",
       "profile_path": "/An5KTgfrfLrV4cZJvVtfM902voh.jpg",
-      "popularity": 11.018,
+      "popularity": 13.305,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 41561,
       "name": "Kenneth Choi",
       "profile_path": "/ycHOQV42jsYXoWMaobKTzGXy9g4.jpg",
-      "popularity": 11.015,
+      "popularity": 11.305,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 1089873,
       "name": "Rita Ora",
       "profile_path": "/o1DMrW8vsTYnCcvVTZy6hEvlk4f.jpg",
-      "popularity": 11.004,
+      "popularity": 8.501,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 9464,
       "name": "Harry Lennix",
       "profile_path": "/kNGiizWpetf4pyAkINkjkWacmCL.jpg",
-      "popularity": 11.003,
+      "popularity": 15.404,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 59696,
       "name": "Trieste Kelly Dunn",
       "profile_path": "/1aDD3hUKkWStw5pugBdRQ2vQ4QG.jpg",
-      "popularity": 11.001,
+      "popularity": 15.401,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 121769,
       "name": "Eva LaRue",
       "profile_path": "/y5ixiPFhB5tl38AQt7baqjOn6a7.jpg",
-      "popularity": 10.999,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1064,
-      "name": "Crispin Glover",
-      "profile_path": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg",
-      "popularity": 10.998,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 15336,
-      "name": "Dougray Scott",
-      "profile_path": "/zeZmtK4EKK9R2r6bp2nTxMs3ByS.jpg",
-      "popularity": 10.997,
+      "popularity": 10.5,
       "adult": false,
       "known_for_department": "Acting"
     }

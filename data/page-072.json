@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 5025,
+      "name": "Vinessa Shaw",
+      "profile_path": "/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg",
+      "popularity": 9.572,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 827,
       "name": "Elliott Gould",
       "profile_path": "/kHy72DxcYuaXvOGfHiWG8LOqDfX.jpg",
-      "popularity": 15.902,
+      "popularity": 19.971,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 2314,
       "name": "Peter Falk",
       "profile_path": "/5HhzU8ErKK5tUSRMUAE8P4n26C0.jpg",
-      "popularity": 15.893,
+      "popularity": 22.25,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 7055,
       "name": "Sienna Guillory",
       "profile_path": "/rpnWJT1d61GwnG9bQoGSxWbIaL4.jpg",
-      "popularity": 15.889,
+      "popularity": 21.167,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,15 +39,15 @@
       "id": 11067,
       "name": "Terry Kinney",
       "profile_path": "/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg",
-      "popularity": 15.884,
+      "popularity": 15.965,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 37153,
       "name": "Zoë Kravitz",
-      "profile_path": "/4uOfGQSKCz2I7HVV5vPwhvTD61y.jpg",
-      "popularity": 15.883,
+      "profile_path": "/tiQ3TBSvU4YAyrWMmVk6MTrKBAi.jpg",
+      "popularity": 22.236,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 6383,
       "name": "Aaron Eckhart",
       "profile_path": "/5EFQvRHlpP1Iaw2e6vjOaBny6DV.jpg",
-      "popularity": 15.871,
+      "popularity": 21.961,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 52018,
       "name": "Britt Robertson",
       "profile_path": "/q71fwT1kdjqQma6aQo2yzTBSJ7Q.jpg",
-      "popularity": 15.87,
+      "popularity": 22.218,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 1381,
       "name": "John Noble",
       "profile_path": "/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg",
-      "popularity": 15.855,
+      "popularity": 15.557,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 53755,
       "name": "Elizabeth Reaser",
       "profile_path": "/tx2shpuofbAmmIoUXpXxqQ9exZM.jpg",
-      "popularity": 15.839,
+      "popularity": 20.752,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 11108,
       "name": "Simon Pegg",
       "profile_path": "/nOWKXxgADG98RjKyfQ7oSDfns6J.jpg",
-      "popularity": 15.807,
+      "popularity": 22.13,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 9657,
       "name": "Patrick Warburton",
       "profile_path": "/eLqDtbFYmlTxov9vT9Dwldn839v.jpg",
-      "popularity": 15.799,
+      "popularity": 22.119,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 107905,
       "name": "Birce Akalay",
       "profile_path": "/ijnCe9IhbHvnYWds9G0QwwApTO.jpg",
-      "popularity": 15.789,
+      "popularity": 17.137,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 58123,
       "name": "Bolo Yeung",
       "profile_path": "/daaIoalkkF9BSxIQ7BZvqAYa7h3.jpg",
-      "popularity": 15.782,
+      "popularity": 15.535,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 93564,
       "name": "Pihla Viitala",
       "profile_path": "/4arJbR42gQfEdWOrnZKIJTuLCLF.jpg",
-      "popularity": 15.775,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 47720,
-      "name": "Ruth Wilson",
-      "profile_path": "/dKJA3nMTlueNK0sAmKM6P9WKJnB.jpg",
-      "popularity": 15.775,
+      "popularity": 16.333,
       "adult": false,
       "known_for_department": "Acting"
     }

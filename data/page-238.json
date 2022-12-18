@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 87305,
+      "name": "Ahsaas Channa",
+      "profile_path": "/kuKH1dG8XpqguFvdggukTpnyN33.jpg",
+      "popularity": 6.989,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 26258,
       "name": "Kenneth Cranham",
       "profile_path": "/9lzTbNgaoArlxpEkYtWQfOyiYwu.jpg",
-      "popularity": 8.63,
+      "popularity": 10.589,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 180986,
       "name": "Cassie Steele",
       "profile_path": "/2QEVPBwgpKr2Iu7SXR6ywjNqn0x.jpg",
-      "popularity": 8.629,
+      "popularity": 5.389,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 75036,
       "name": "Natalya Rudakova",
       "profile_path": "/7439tb7LAfZGRtZq2GyMts8RKDn.jpg",
-      "popularity": 8.629,
+      "popularity": 5.389,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 232499,
       "name": "Harry Shum Jr.",
       "profile_path": "/vtKeIKJHQAnGsjbFuXrBQI3RxeQ.jpg",
-      "popularity": 8.624,
+      "popularity": 12.074,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 50,
       "name": "Catherine Deneuve",
       "profile_path": "/pZ1GpsaK2aBQ8jHQen0h3RB3TNP.jpg",
-      "popularity": 8.623,
+      "popularity": 12.072,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 39847,
       "name": "Halina Reijn",
       "profile_path": "/ypsQjJrnuL1QyxHmYFnVAokpO5h.jpg",
-      "popularity": 8.622,
+      "popularity": 12.071,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 56322,
       "name": "Amy Poehler",
       "profile_path": "/k62oL10bNtPShjtHuLlKllwxva9.jpg",
-      "popularity": 8.619,
+      "popularity": 12.067,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 237756,
       "name": "Atticus Mitchell",
       "profile_path": "/7LOKQtrqdjkzujhpzq21HMnVq6D.jpg",
-      "popularity": 8.618,
+      "popularity": 10.185,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 9126,
       "name": "Edward Fox",
       "profile_path": "/mRAgZvRscftn6roAKdLQwrrrWrS.jpg",
-      "popularity": 8.618,
+      "popularity": 12.065,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 54470,
       "name": "Lauren Ambrose",
       "profile_path": "/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg",
-      "popularity": 8.616,
+      "popularity": 12.062,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 9909,
       "name": "Shirley Eaton",
       "profile_path": "/xhQLtZO9E8jtJ1yPzMCFMknBDm8.jpg",
-      "popularity": 8.616,
+      "popularity": 9.785,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 59449,
       "name": "Paula Marshall",
       "profile_path": "/rBmk7DDOYHempHWrPnijRvPDFaW.jpg",
-      "popularity": 8.609,
+      "popularity": 5.383,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 1156197,
       "name": "Park Shin-hye",
       "profile_path": "/wyTVX7GIfxCIHqWzTrOJ3AgO6bM.jpg",
-      "popularity": 8.607,
+      "popularity": 10.582,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 80607,
       "name": "Yoko Shimada",
       "profile_path": "/n4TCVSXaweXn2YbFXYAKTyOH7EO.jpg",
-      "popularity": 8.607,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 106611,
-      "name": "Paul Brinegar",
-      "profile_path": "/6GarNdMHXLKSnt9BAVYa5jtoYi0.jpg",
-      "popularity": 8.606,
+      "popularity": 5.164,
       "adult": false,
       "known_for_department": "Acting"
     }

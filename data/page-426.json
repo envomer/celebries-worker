@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1963404,
+      "name": "Julia Franz Richter",
+      "profile_path": "/1fMKdcSuAFX5eGall2bj3Uc5r11.jpg",
+      "popularity": 6.145,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 173849,
       "name": "Eric Szmanda",
       "profile_path": "/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg",
-      "popularity": 6.145,
+      "popularity": 4.643,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 15319,
       "name": "Henry Czerny",
       "profile_path": "/zOWZzRmliKf9032IOOq0a3jXhVv.jpg",
-      "popularity": 6.145,
+      "popularity": 4.643,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 983749,
       "name": "Nancy Carroll",
       "profile_path": "/lXTNopDRBsDLTlXTREvuBT3KMIt.jpg",
-      "popularity": 6.144,
+      "popularity": 5.043,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 42993,
       "name": "Martin Donovan",
       "profile_path": "/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg",
-      "popularity": 6.143,
+      "popularity": 8.6,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 146447,
       "name": "Murat Ünalmış",
       "profile_path": "/7KJk7ifddfJTa9ZXNhbGXhL0G38.jpg",
-      "popularity": 6.142,
+      "popularity": 7.843,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 125493,
       "name": "Antonella Costa",
       "profile_path": "/qHavnYejcgM1qhRjFIZdtYCqy1S.jpg",
-      "popularity": 6.142,
+      "popularity": 7.043,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 86627,
       "name": "Dave England",
       "profile_path": "/32OIQ5UTMGVCjsWoa6FNfnDeLtE.jpg",
-      "popularity": 6.142,
+      "popularity": 6.643,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 58119,
       "name": "Austin O'Brien",
       "profile_path": "/xwi3aavC7lkWRVuihWr6tHHL7oW.jpg",
-      "popularity": 6.142,
+      "popularity": 5.443,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 5795,
       "name": "Leon Askin",
       "profile_path": "/dL0IbSOA77EW4khTTnalpKb6hkG.jpg",
-      "popularity": 6.141,
+      "popularity": 8.597,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 53998,
       "name": "Nora-Jane Noone",
       "profile_path": "/vfnsODHKvZ9j8KnbCmkEyxuJWS8.jpg",
-      "popularity": 6.14,
+      "popularity": 5.442,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 56585,
       "name": "Steve-O",
       "profile_path": "/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg",
-      "popularity": 6.139,
+      "popularity": 6.642,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 5174,
       "name": "Barry Sonnenfeld",
       "profile_path": "/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg",
-      "popularity": 6.139,
+      "popularity": 8.595,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -151,17 +159,9 @@
       "id": 1208426,
       "name": "Hiroyuki Sawano",
       "profile_path": "/egKyVXXlJ2u3oI0tVxgGK5qeIO6.jpg",
-      "popularity": 6.138,
+      "popularity": 5.041,
       "adult": false,
       "known_for_department": "Sound"
-    },
-    {
-      "id": 589027,
-      "name": "Marie Hammer Boda",
-      "profile_path": "/qJfPkYam5b2RoyCe592qeroizBL.jpg",
-      "popularity": 6.137,
-      "adult": false,
-      "known_for_department": "Acting"
     }
   ]
 }

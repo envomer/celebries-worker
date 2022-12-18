@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 20458,
+      "name": "Dede Gardner",
+      "profile_path": "/miYzjRkwcHWI8h1CPODj3bW6Q7W.jpg",
+      "popularity": 8.269,
+      "adult": false,
+      "known_for_department": "Production"
+    },
+    {
+      "id": 5,
+      "name": "Peter Cushing",
+      "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg",
+      "popularity": 11.469,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 201665,
       "name": "Eve Best",
       "profile_path": "/wCHFBoaVIQsGSyEerFacCSYhdMl.jpg",
-      "popularity": 8.896,
+      "popularity": 12.269,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 18197,
       "name": "Anna Karina",
       "profile_path": "/aKOamm8rUA4zWGud5CwM6szCHoo.jpg",
-      "popularity": 8.896,
+      "popularity": 9.469,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 33321,
       "name": "Sam J. Jones",
       "profile_path": "/x2xX7Az0nlAD5C2WEnnr2ZNj1np.jpg",
-      "popularity": 8.893,
+      "popularity": 7.868,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 1115068,
       "name": "Mei Nagano",
       "profile_path": "/zI30FzyetpAENTcADmswChoKZlz.jpg",
-      "popularity": 8.89,
+      "popularity": 12.446,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 159431,
       "name": "Annie Wersching",
       "profile_path": "/xOTYKQp0pn7Q1XBgtbzo2yj6uWd.jpg",
-      "popularity": 8.89,
+      "popularity": 6.267,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 41419,
       "name": "Hugh Laurie",
       "profile_path": "/akArncggHnusP5jxzMBKmJDRrMo.jpg",
-      "popularity": 8.887,
+      "popularity": 12.442,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 1236,
       "name": "Mark Pellegrino",
       "profile_path": "/r0XnI7sUWzShVwnHw3ncSPxw0Tv.jpg",
-      "popularity": 8.886,
+      "popularity": 12.44,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 136530,
       "name": "Mark Valley",
       "profile_path": "/ffHfLKffDbh2BzGUE0KM88TvoYF.jpg",
-      "popularity": 8.883,
+      "popularity": 5.33,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 69010,
       "name": "Brad Davis",
       "profile_path": "/2AMxog90ng7gHyw1DOwI4HPpppw.jpg",
-      "popularity": 8.883,
+      "popularity": 10.665,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 65309,
       "name": "Omri Katz",
       "profile_path": "/wY3NxTyXhzJ8BkmBZcQuSE7WtoC.jpg",
-      "popularity": 8.883,
+      "popularity": 7.865,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 41043,
       "name": "Tim McInnerny",
       "profile_path": "/nOLjLixEDo1xFhBmAfRLMKwB9Fv.jpg",
-      "popularity": 8.882,
+      "popularity": 6.265,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 939564,
       "name": "Paul Greene",
       "profile_path": "/irVtc0p4aL545YbfmXtdgBZ5ebs.jpg",
-      "popularity": 8.88,
+      "popularity": 6.264,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 97171,
       "name": "Robin Askwith",
       "profile_path": "/hkIGBrc4WPbsso0nRdQpDnnYiyW.jpg",
-      "popularity": 8.88,
+      "popularity": 7.864,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 47468,
       "name": "Frances de la Tour",
       "profile_path": "/aDSge7DWhUyMyA0rEXEZpGiZzGO.jpg",
-      "popularity": 8.88,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 18916,
-      "name": "Kevin J. O'Connor",
-      "profile_path": "/1q5MnllB6jbwCgMaGistJ917RQL.jpg",
-      "popularity": 8.88,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 6726,
-      "name": "Sheryl Lee",
-      "profile_path": "/ixrpWWjjtHokOyMa0V3EDQB7DVR.jpg",
-      "popularity": 8.879,
+      "popularity": 12.432,
       "adult": false,
       "known_for_department": "Acting"
     }

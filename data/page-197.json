@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 40279,
+      "name": "Jenna Elfman",
+      "profile_path": "/3w7iKOJnsKnxC0up8JpAmMHBlWR.jpg",
+      "popularity": 9.673,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 3149,
+      "name": "Marilyn Monroe",
+      "profile_path": "/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg",
+      "popularity": 13.402,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 56551,
       "name": "Ashley Laurence",
       "profile_path": "/cmvfP4abA5wQ6a7GUJNAWuaDcK0.jpg",
-      "popularity": 9.568,
+      "popularity": 7.67,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 1108805,
       "name": "Huma Qureshi",
       "profile_path": "/j4RI7eoSqbWTK6hkCNO9wN78dMM.jpg",
-      "popularity": 9.566,
+      "popularity": 9.27,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 138781,
       "name": "Robert Eggers",
       "profile_path": "/8Mbq0G8FguELKC8zNFunapPpkt5.jpg",
-      "popularity": 9.566,
+      "popularity": 12.87,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -31,7 +47,7 @@
       "id": 51392,
       "name": "Justin Berfield",
       "profile_path": "/1FRN8DKGUcCSLwQlZaIpwJkk5jT.jpg",
-      "popularity": 9.566,
+      "popularity": 12.87,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 34983,
       "name": "Tress MacNeille",
       "profile_path": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg",
-      "popularity": 9.564,
+      "popularity": 13.39,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 3124,
       "name": "Valeria Golino",
       "profile_path": "/k7LQlRNI2YU3u6QGlvAMNbhq3AA.jpg",
-      "popularity": 9.562,
+      "popularity": 13.387,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 112917,
       "name": "Stepfanie Kramer",
       "profile_path": "/1FvhYlcBt8aCmkoiAF3dVKy0U1a.jpg",
-      "popularity": 9.561,
+      "popularity": 5.737,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 3201,
       "name": "Pruitt Taylor Vince",
       "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg",
-      "popularity": 9.561,
+      "popularity": 13.385,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 80117,
       "name": "Billy Idol",
       "profile_path": "/8bnFu9ixUJsoxMewv24vgmSTFso.jpg",
-      "popularity": 9.559,
+      "popularity": 12.868,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 12657,
       "name": "Jean Marsh",
       "profile_path": "/x4ZPhTWCn0BTLiTz2YnXUSRJJxT.jpg",
-      "popularity": 9.555,
+      "popularity": 6.067,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 29384,
       "name": "Sheila McCarthy",
       "profile_path": "/wIe1srcx1lllkE66Jx5j9mV2BEc.jpg",
-      "popularity": 9.554,
+      "popularity": 13.376,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 1055230,
       "name": "Raffey Cassidy",
       "profile_path": "/iIPH3YHFOz8wXfj4uLQnzOX2Kpa.jpg",
-      "popularity": 9.549,
+      "popularity": 11.665,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 3208,
       "name": "Maria Pitillo",
       "profile_path": "/flyIimpItY1RmYYXsHxw74uWfcX.jpg",
-      "popularity": 9.549,
+      "popularity": 13.369,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 13725,
       "name": "Meredith Baxter",
       "profile_path": "/yFjsVolO3q5uoqUwXtxsLdBtjFi.jpg",
-      "popularity": 9.548,
+      "popularity": 9.664,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -144,22 +160,6 @@
       "name": "Jack Dylan Grazer",
       "profile_path": "/7O3XOIcfZlfiTNxVZ9Kx54F3U5b.jpg",
       "popularity": 9.547,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1390948,
-      "name": "Kris Wu",
-      "profile_path": "/ht8RrzYbOEB3K2vheg51X33zmxt.jpg",
-      "popularity": 9.543,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 56895,
-      "name": "Amy Jo Johnson",
-      "profile_path": "/mgMtXlgOjEIvpndGFQo5TuuFKjC.jpg",
-      "popularity": 9.541,
       "adult": false,
       "known_for_department": "Acting"
     }

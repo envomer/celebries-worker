@@ -4,6 +4,22 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 2004086,
+      "name": "Tomori Kusunoki",
+      "profile_path": "/t5aBzyYiJZDE6DWeTcGMrcQpiI5.jpg",
+      "popularity": 11.415,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 13784,
+      "name": "Burt Lancaster",
+      "profile_path": "/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg",
+      "popularity": 11.024,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1309253,
       "name": "Tomoyo Kurosawa",
       "profile_path": "/rBbnk9Hg7iXMaRPtDU2HuUZSr6k.jpg",
@@ -15,7 +31,7 @@
       "id": 1224072,
       "name": "Emy Coligado",
       "profile_path": "/fwbuK9EevdeUxwuL0QGf3MUdZZt.jpg",
-      "popularity": 11.412,
+      "popularity": 15.977,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 204468,
       "name": "Fiona Dourif",
       "profile_path": "/owqTDaSwInm74iB0FOCSDzpSwNC.jpg",
-      "popularity": 11.409,
+      "popularity": 8.623,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 95517,
       "name": "Justina Machado",
       "profile_path": "/wAEFYr8rQEoSRm99tLPDiwzuIwU.jpg",
-      "popularity": 11.408,
+      "popularity": 15.971,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 51670,
       "name": "Johnathon Schaech",
       "profile_path": "/13hf3VhszBoykxF7lNER2ur4Z9B.jpg",
-      "popularity": 11.406,
+      "popularity": 12.222,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 6818,
       "name": "Werner Herzog",
       "profile_path": "/vokqteY91Pda0L13pTqTzTCo7vV.jpg",
-      "popularity": 11.406,
+      "popularity": 15.822,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -79,7 +95,7 @@
       "id": 54691,
       "name": "Christopher Mintz-Plasse",
       "profile_path": "/czCHVafGczmreg11h22aBh8dHa8.jpg",
-      "popularity": 11.404,
+      "popularity": 15.966,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 2310,
       "name": "Bruno Ganz",
       "profile_path": "/8bhS1PObqe8OOVcyIRxV5Rcdufd.jpg",
-      "popularity": 11.403,
+      "popularity": 8.621,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +111,7 @@
       "id": 1187068,
       "name": "Charlbi Dean",
       "profile_path": "/bdWguLfrKPfRVIFvEOsVNMdeqw9.jpg",
-      "popularity": 11.399,
+      "popularity": 15.959,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +119,7 @@
       "id": 932821,
       "name": "So Ji-sub",
       "profile_path": "/oEdXNo3ohtldtIW6DMFPpvMYW4g.jpg",
-      "popularity": 11.399,
+      "popularity": 13.82,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +127,7 @@
       "id": 4941,
       "name": "Alessandro Nivola",
       "profile_path": "/6simAB2dFVjjaNqx2qhSBRQpfmA.jpg",
-      "popularity": 11.397,
+      "popularity": 15.956,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +135,7 @@
       "id": 74158,
       "name": "Katherine Parkinson",
       "profile_path": "/8broF5f3gZsySdtdbpbyiVtCn6n.jpg",
-      "popularity": 11.396,
+      "popularity": 10.619,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 59919,
       "name": "Russell Brand",
       "profile_path": "/fJ9oOcEeBzDT4hHFh0GNogV6l7l.jpg",
-      "popularity": 11.39,
+      "popularity": 15.946,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 2956,
       "name": "Amanda Peet",
       "profile_path": "/ahuC3ksBIJ6A6lgzPnMuyVzx74K.jpg",
-      "popularity": 11.39,
+      "popularity": 15.946,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 998412,
       "name": "Oh Jung-se",
       "profile_path": "/oIqRAdI5e777odhOJl6e4Jc9ADj.jpg",
-      "popularity": 11.388,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 66441,
-      "name": "Talulah Riley",
-      "profile_path": "/wIfzSnKvvREEi8lJ6cbuX04HiNG.jpg",
-      "popularity": 11.388,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 14518,
-      "name": "Ray Collins",
-      "profile_path": "/aafy1UvizCKmf8is7gTfAJc43wP.jpg",
-      "popularity": 11.388,
+      "popularity": 15.943,
       "adult": false,
       "known_for_department": "Acting"
     }

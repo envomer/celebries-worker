@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 24898,
+      "name": "Nathan Jones",
+      "profile_path": "/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg",
+      "popularity": 9.253,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 68989,
       "name": "Hitoshi Ozawa",
       "profile_path": "/qWasfFsKvvnQUKO3j0C3QioZX6k.jpg",
-      "popularity": 6.608,
+      "popularity": 4.382,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 1243600,
       "name": "Sung Hyun-ah",
       "profile_path": "/7D7iiRnraKfcxs7A7p4cYsubGVr.jpg",
-      "popularity": 6.606,
+      "popularity": 6.382,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 5741,
       "name": "Matt Groening",
       "profile_path": "/2HmAw3AN93DGESPi3ibLZgBa8cT.jpg",
-      "popularity": 6.606,
+      "popularity": 6.382,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -39,7 +47,7 @@
       "id": 1241939,
       "name": "Wasabi Mizuta",
       "profile_path": "/sJ4kytbg2XiERgch3k2k82FXK2B.jpg",
-      "popularity": 6.605,
+      "popularity": 6.382,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 1134885,
       "name": "Omar Chaparro",
       "profile_path": "/eucXVp57mAsea5t3oJFD3KPpqKq.jpg",
-      "popularity": 6.605,
+      "popularity": 5.182,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 97065,
       "name": "Richard Kline",
       "profile_path": "/erIjCE1eC2OyM9mO2PxtxsYeQXD.jpg",
-      "popularity": 6.604,
+      "popularity": 9.181,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 94972,
       "name": "Elliot Ngok",
       "profile_path": "/5yOPmbZfqQ3uHtQsLY5fgksz5I7.jpg",
-      "popularity": 6.604,
+      "popularity": 5.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 55547,
       "name": "Matt Czuchry",
       "profile_path": "/cGCDS57LYFi3z2taneq0w4qAscp.jpg",
-      "popularity": 6.604,
+      "popularity": 9.181,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1219552,
       "name": "Iris Quinn",
       "profile_path": "/rajESK5oqBRX5F0YA8T78Ticg95.jpg",
-      "popularity": 6.602,
+      "popularity": 4.781,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 1182598,
       "name": "Hayley Squires",
       "profile_path": "/ezkiqInQHZVlOnwOka8gE9wEtDI.jpg",
-      "popularity": 6.602,
+      "popularity": 9.181,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 62332,
       "name": "Choi Sung-kook",
       "profile_path": "/cJABnA1fl25MkDtKro5ZyWIjurY.jpg",
-      "popularity": 6.602,
+      "popularity": 5.981,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 30778,
       "name": "Tom Tryon",
       "profile_path": "/tG1sOLsMfMe0OdMWLH4fj9C6SX8.jpg",
-      "popularity": 6.601,
+      "popularity": 7.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1059109,
       "name": "Funda Eryiğit",
       "profile_path": "/vf4JlhTWgCRfXw2kklJsLhxMioi.jpg",
-      "popularity": 6.6,
+      "popularity": 7.58,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 187565,
       "name": "Audra McDonald",
       "profile_path": "/3YpPMKnhljAJwgcaFfHGNkL0rcv.jpg",
-      "popularity": 6.6,
+      "popularity": 6.38,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 109046,
       "name": "Tiya Sircar",
       "profile_path": "/ySOwYAheNWApnu9TBJkziNthMA6.jpg",
-      "popularity": 6.599,
+      "popularity": 7.58,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,14 +159,6 @@
       "id": 2207666,
       "name": "Federico Cesari",
       "profile_path": "/1OBQUyuIZqyWYpAl4FBuNSSn7KC.jpg",
-      "popularity": 6.598,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 7241,
-      "name": "Rena Owen",
-      "profile_path": "/8s0ePZ1ifvE7NlvtLOAWNXLjdx4.jpg",
       "popularity": 6.598,
       "adult": false,
       "known_for_department": "Acting"

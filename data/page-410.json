@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 52698,
+      "name": "Nika Futterman",
+      "profile_path": "/6zfuSfLGtLXtFxXBUftMQbgfH6q.jpg",
+      "popularity": 8.771,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 2128,
       "name": "Leigh Whannell",
       "profile_path": "/wvoTbsROOHfCqJ3Voe9zpal429L.jpg",
-      "popularity": 6.265,
+      "popularity": 6.28,
       "adult": false,
       "known_for_department": "Writing"
     },
@@ -15,7 +23,7 @@
       "id": 1090027,
       "name": "Bruce Bundy",
       "profile_path": "/6QXJN3GzvriIUIpx3McYZpbxSW0.jpg",
-      "popularity": 6.264,
+      "popularity": 7.079,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,15 +31,15 @@
       "id": 983707,
       "name": "Elise Eberle",
       "profile_path": "/a7WryvVIkfvdne82GrI7hZQ0tcP.jpg",
-      "popularity": 6.264,
+      "popularity": 5.479,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
       "id": 27782,
       "name": "Yutaka Matsushige",
-      "profile_path": "/fsMHdOFlrkrPEUWDtXftYnBXMqN.jpg",
-      "popularity": 6.264,
+      "profile_path": "/wTszXaD9njqahwxmZW74u3C5UE8.jpg",
+      "popularity": 8.77,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 2179,
       "name": "Suzy Amis",
       "profile_path": "/zmxGcr3RkqX7AWizlTefWtMfjKe.jpg",
-      "popularity": 6.264,
+      "popularity": 6.679,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 134855,
       "name": "Winnie Leung",
       "profile_path": "/e50AywEbl09LkMHtcLGvU7tnOwG.jpg",
-      "popularity": 6.263,
+      "popularity": 5.079,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 7031,
       "name": "Julian Rhind-Tutt",
       "profile_path": "/jvwtFc8XFpTb7NX1XRJX8TOfH5.jpg",
-      "popularity": 6.263,
+      "popularity": 8.768,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 41256,
       "name": "Art Hindle",
       "profile_path": "/lhoh2KGtDfSjiIJSKT9ymTypPCf.jpg",
-      "popularity": 6.262,
+      "popularity": 8.767,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 1251581,
       "name": "Kim Soo-hyun",
       "profile_path": "/vJYpQOD8Kb4TjPwcCXYlTyr80Hz.jpg",
-      "popularity": 6.261,
+      "popularity": 6.678,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 550167,
       "name": "Taapsee Pannu",
       "profile_path": "/u9Gwg3J0bdczTPunP8qoWK2Vhu4.jpg",
-      "popularity": 6.261,
+      "popularity": 4.278,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 18998,
       "name": "Rosemary Harris",
       "profile_path": "/rpSsXg0tB7wWQMffvvMqLzrvZAj.jpg",
-      "popularity": 6.261,
+      "popularity": 5.078,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 240155,
       "name": "Lo Meng",
       "profile_path": "/gNedk2BfzTARZcP15y2w4alXyUs.jpg",
-      "popularity": 6.259,
+      "popularity": 5.078,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 54675,
       "name": "Zabou Breitman",
       "profile_path": "/tPHpgD3ssDrHt6VgcajH2pD61cv.jpg",
-      "popularity": 6.259,
+      "popularity": 8.763,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,17 +159,9 @@
       "id": 8858,
       "name": "Ivan Reitman",
       "profile_path": "/qMyAjmRVihGFbJPhMTsqvpeOKfX.jpg",
-      "popularity": 6.259,
+      "popularity": 7.878,
       "adult": false,
       "known_for_department": "Production"
-    },
-    {
-      "id": 2432213,
-      "name": "Raylene Harewood",
-      "profile_path": "/zJA93w4fkGBHm4B6DLPhjpUJom3.jpg",
-      "popularity": 6.258,
-      "adult": false,
-      "known_for_department": "Acting"
     }
   ]
 }

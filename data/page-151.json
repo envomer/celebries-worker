@@ -4,10 +4,26 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1064,
+      "name": "Crispin Glover",
+      "profile_path": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg",
+      "popularity": 15.397,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 15336,
+      "name": "Dougray Scott",
+      "profile_path": "/zeZmtK4EKK9R2r6bp2nTxMs3ByS.jpg",
+      "popularity": 9.299,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 1245104,
       "name": "Lee Min-ho ",
       "profile_path": "/iqopuz6cKuRZRUPZQrj7lFZcWWb.jpg",
-      "popularity": 10.996,
+      "popularity": 15.299,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +31,7 @@
       "id": 5586,
       "name": "Yeardley Smith",
       "profile_path": "/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg",
-      "popularity": 10.994,
+      "popularity": 15.392,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +39,7 @@
       "id": 53761,
       "name": "Christopher Gorham",
       "profile_path": "/u3D21bfXweqiGWalFxMq2jONcYi.jpg",
-      "popularity": 10.993,
+      "popularity": 13.698,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +47,7 @@
       "id": 18471,
       "name": "Anthony Anderson",
       "profile_path": "/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg",
-      "popularity": 10.993,
+      "popularity": 6.596,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +55,7 @@
       "id": 3052,
       "name": "Rachel Griffiths",
       "profile_path": "/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg",
-      "popularity": 10.993,
+      "popularity": 8.498,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +63,7 @@
       "id": 8437,
       "name": "Teri Garr",
       "profile_path": "/uZxP7WryjLbqq2FZpfkoKNkI0RW.jpg",
-      "popularity": 10.991,
+      "popularity": 13.697,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +71,7 @@
       "id": 89599,
       "name": "Eric Bauza",
       "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
-      "popularity": 10.99,
+      "popularity": 11.697,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +79,7 @@
       "id": 9309,
       "name": "Richard Pryor",
       "profile_path": "/2tRCmTnKBRLVv9f6JKYtTANjSpu.jpg",
-      "popularity": 10.99,
+      "popularity": 14.097,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +87,7 @@
       "id": 530618,
       "name": "Jane Levy",
       "profile_path": "/tRcoWflBT1ozZpWwOIPbOvmvgy6.jpg",
-      "popularity": 10.989,
+      "popularity": 15.385,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +95,7 @@
       "id": 7486,
       "name": "Michael Wincott",
       "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg",
-      "popularity": 10.984,
+      "popularity": 15.378,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +103,7 @@
       "id": 782,
       "name": "Steven Berkoff",
       "profile_path": "/v15QPmGSTM5PGGZIhZd1KweFK5E.jpg",
-      "popularity": 10.984,
+      "popularity": 11.695,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +143,7 @@
       "id": 1078568,
       "name": "Emma Rigby",
       "profile_path": "/8SE2b9U9JFCDSKjehCkP0qVKdI5.jpg",
-      "popularity": 10.977,
+      "popularity": 14.893,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +151,7 @@
       "id": 113905,
       "name": "Ann Jillian",
       "profile_path": "/p1UxgvAatZUDhy6DQZBB8SbqDYZ.jpg",
-      "popularity": 10.977,
+      "popularity": 7.293,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,23 +159,7 @@
       "id": 87553,
       "name": "Kim Yeo-jin",
       "profile_path": "/ijRex60fv0k4neHuvWxi94qHSU1.jpg",
-      "popularity": 10.975,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 57399,
-      "name": "Lesley-Anne Down",
-      "profile_path": "/wOVUqUYVzlXNeLnMD55EKYO9xVP.jpg",
-      "popularity": 10.975,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1284,
-      "name": "Noah Taylor",
-      "profile_path": "/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg",
-      "popularity": 10.975,
+      "popularity": 14.093,
       "adult": false,
       "known_for_department": "Acting"
     }

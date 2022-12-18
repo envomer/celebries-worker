@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 229400,
+      "name": "Gina Stiebitz",
+      "profile_path": "/frH4Vvnf1GN8Uf2J7xpsGuTXIwd.jpg",
+      "popularity": 6.077,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 82945,
       "name": "Charles Baker",
       "profile_path": "/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg",
-      "popularity": 5.589,
+      "popularity": 7.825,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 65362,
       "name": "Holliston Coleman",
       "profile_path": "/iXDt1vDoAmIQbox6kmN0z21P05q.jpg",
-      "popularity": 5.589,
+      "popularity": 5.677,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 64135,
       "name": "Charlie McDermott",
       "profile_path": "/7kQgcZkQ88cZOQBpjFzzqheoGT9.jpg",
-      "popularity": 5.589,
+      "popularity": 6.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 12453,
       "name": "Wong Kar-wai",
       "profile_path": "/gWfo3lseDx5h9YzsfnaVblG3S6c.jpg",
-      "popularity": 5.589,
+      "popularity": 7.825,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -55,7 +63,7 @@
       "id": 95732,
       "name": "Robert Alda",
       "profile_path": "/ePUJyLbZzumGbBZjJ5MiU1D7C5e.jpg",
-      "popularity": 5.587,
+      "popularity": 7.822,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 76546,
       "name": "Ricky Schroder",
       "profile_path": "/g1PRiuBhWPE4Yn9BynfoPFb4tKD.jpg",
-      "popularity": 5.587,
+      "popularity": 7.822,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 7639,
       "name": "Joan Bennett",
       "profile_path": "/c5Gpyh9nypnfjxD3anncDhKEPv5.jpg",
-      "popularity": 5.587,
+      "popularity": 6.876,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 1257073,
       "name": "Yuki Furukawa",
       "profile_path": "/tLPm45dwSLKdkstBMtAXvvFgljn.jpg",
-      "popularity": 5.586,
+      "popularity": 6.876,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 135420,
       "name": "Deborah Findlay",
       "profile_path": "/4FbdygLj08dfo63hNCZNc36FEr1.jpg",
-      "popularity": 5.586,
+      "popularity": 4.476,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 111690,
       "name": "Takako Matsu",
       "profile_path": "/9AMpsOM4cAUUmOnrz8ucX4ZHXOJ.jpg",
-      "popularity": 5.586,
+      "popularity": 7.82,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 70690,
       "name": "Ken Lo",
       "profile_path": "/aecWmrSbnZTTnBJ8vgyNAaphOLp.jpg",
-      "popularity": 5.586,
+      "popularity": 7.676,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 583333,
       "name": "Liv Lisa Fries",
       "profile_path": "/xkoleCmeMr1GBfCry0GEvkXV9XN.jpg",
-      "popularity": 5.585,
+      "popularity": 7.819,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 57250,
       "name": "Robin Shou",
       "profile_path": "/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg",
-      "popularity": 5.585,
+      "popularity": 7.676,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 19489,
       "name": "Peter McRobbie",
       "profile_path": "/dzqI3wITKVTrnFBxYGFswDxALjf.jpg",
-      "popularity": 5.584,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3493,
-      "name": "Evan Parke",
-      "profile_path": "/hg0bSMu1S28t7VLH9jZfZdcVnax.jpg",
-      "popularity": 5.584,
+      "popularity": 4.075,
       "adult": false,
       "known_for_department": "Acting"
     }

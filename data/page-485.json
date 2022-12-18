@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 20425,
+      "name": "Donald Sumpter",
+      "profile_path": "/jCxD84Vr9TTM5am0Ij3pCsNcted.jpg",
+      "popularity": 3.407,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 3172,
       "name": "Michael V. Gazzo",
       "profile_path": "/cTY2Hlf6sIR9xLI95bBir7eI0N.jpg",
-      "popularity": 5.679,
+      "popularity": 7.704,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 173,
       "name": "Andrew Eaton",
       "profile_path": "/8NLEP2n3lvdvXCeWqeuopjPix9B.jpg",
-      "popularity": 5.679,
+      "popularity": 3.704,
       "adult": false,
       "known_for_department": "Production"
     },
@@ -23,7 +31,7 @@
       "id": 913196,
       "name": "Kim Hyun-soo",
       "profile_path": "/xxkyF7qkLpkuoiknH7mPAVnd7BG.jpg",
-      "popularity": 5.678,
+      "popularity": 7.949,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 90654,
       "name": "Pam Dawber",
       "profile_path": "/e4X7ARwNubiheEABd4jieTDphMW.jpg",
-      "popularity": 5.678,
+      "popularity": 6.503,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 60255,
       "name": "Jake T. Austin",
       "profile_path": "/x1TG5XyknrwdO7HGnVsRlzNOIqx.jpg",
-      "popularity": 5.678,
+      "popularity": 4.503,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 930581,
       "name": "Malin Buska",
       "profile_path": "/fRqdBIs7WL3Ip2xRSDm5ePQjB0R.jpg",
-      "popularity": 5.677,
+      "popularity": 4.103,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,7 +71,7 @@
       "id": 209511,
       "name": "Natalie Hall",
       "profile_path": "/9CFwxWceTBgsLxkYsaHdejLnDie.jpg",
-      "popularity": 5.677,
+      "popularity": 7.948,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 92574,
       "name": "Marc Wootton",
       "profile_path": "/oURzHJ95OZlwZ7eiZl24yex5Pri.jpg",
-      "popularity": 5.677,
+      "popularity": 7.948,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 37158,
       "name": "Carmen Ejogo",
       "profile_path": "/pJkBfxuifYtuigcjM8qnvNklZNX.jpg",
-      "popularity": 5.677,
+      "popularity": 7.948,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -87,7 +95,7 @@
       "id": 19877,
       "name": "Dick York",
       "profile_path": "/jLN1mMJUEwuEKTkVuAptNhPMp6R.jpg",
-      "popularity": 5.677,
+      "popularity": 4.103,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -95,7 +103,7 @@
       "id": 10458,
       "name": "Barbara Bach",
       "profile_path": "/vatmATSQfdi1JFu6g2VImlS7GQb.jpg",
-      "popularity": 5.677,
+      "popularity": 7.948,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 77295,
       "name": "Jesse V. Johnson",
       "profile_path": "/8LqBbiV21OHfyYqnnxCICdKMWU4.jpg",
-      "popularity": 5.676,
+      "popularity": 6.503,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -119,7 +127,7 @@
       "id": 56436,
       "name": "Tory Mussett",
       "profile_path": "/iHpKABZhIZccTgb6QmBk0L0aEvG.jpg",
-      "popularity": 5.676,
+      "popularity": 7.703,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 1221066,
       "name": "Daniel Ryan",
       "profile_path": "/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg",
-      "popularity": 5.674,
+      "popularity": 5.702,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -135,7 +143,7 @@
       "id": 181465,
       "name": "Caitlyn Jenner",
       "profile_path": "/fERCVjeW2vF462jbiBONNX4o7IY.jpg",
-      "popularity": 5.674,
+      "popularity": 7.944,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,7 +151,7 @@
       "id": 142766,
       "name": "Tarık Akan",
       "profile_path": "/e5tcJG72gjKRMbxXniKlHGw5EQF.jpg",
-      "popularity": 5.674,
+      "popularity": 3.404,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 76982,
       "name": "Jeff Dunham",
       "profile_path": "/rjaetaJr8Utudd8FOK1avSmJFwo.jpg",
-      "popularity": 5.674,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 55755,
-      "name": "Richard T. Jones",
-      "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg",
-      "popularity": 5.674,
+      "popularity": 3.702,
       "adult": false,
       "known_for_department": "Acting"
     }

@@ -4,10 +4,18 @@
   "total_pages": 500,
   "results": [
     {
+      "id": 1293341,
+      "name": "You Sa-Ra",
+      "profile_path": "/89u8KHO9GJmgv7llKcvrwB4BZlC.jpg",
+      "popularity": 4.618,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
       "id": 117856,
       "name": "Robert J. Anderson",
       "profile_path": "/dQfQxxfJMkVliMS2XqZUIiPJprG.jpg",
-      "popularity": 6.061,
+      "popularity": 6.618,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +23,7 @@
       "id": 83813,
       "name": "Thierry Neuvic",
       "profile_path": "/e0CvOz6q1hqunt57lrIzY4mtWnT.jpg",
-      "popularity": 6.061,
+      "popularity": 6.618,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,7 +31,7 @@
       "id": 10584,
       "name": "Heidi Klum",
       "profile_path": "/UZiPxAUSkXJsXaHTJDnlW9lqnX.jpg",
-      "popularity": 6.061,
+      "popularity": 8.485,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -31,7 +39,7 @@
       "id": 7124,
       "name": "Ray Milland",
       "profile_path": "/sZC5spEiMippbhMhm2p4ISJTIhu.jpg",
-      "popularity": 6.06,
+      "popularity": 7.018,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -39,7 +47,7 @@
       "id": 1181049,
       "name": "Kumi Takiuchi",
       "profile_path": "/bQTkkGpy9CIAw5AKx9IkpBu0na4.jpg",
-      "popularity": 6.059,
+      "popularity": 8.483,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -47,7 +55,7 @@
       "id": 100602,
       "name": "Julia Duffy",
       "profile_path": "/mROYemMqxBKkKRjcH09pnrGNThw.jpg",
-      "popularity": 6.059,
+      "popularity": 8.483,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -55,7 +63,7 @@
       "id": 23679,
       "name": "Billy West",
       "profile_path": "/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg",
-      "popularity": 6.059,
+      "popularity": 5.418,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -71,7 +79,7 @@
       "id": 1210306,
       "name": "Murielle Telio",
       "profile_path": "/f7eCGh7gc6ARQIxfDYpWx0DgIZE.jpg",
-      "popularity": 6.058,
+      "popularity": 8.481,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,7 +87,7 @@
       "id": 47439,
       "name": "Helen Hayes",
       "profile_path": "/i1mqaJOQG9TBVBZjn8No70GeGhE.jpg",
-      "popularity": 6.058,
+      "popularity": 8.481,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,7 +111,7 @@
       "id": 93805,
       "name": "Greer Garson",
       "profile_path": "/6jpbH6x6r8IfOT0f3hqC7xFpQuV.jpg",
-      "popularity": 6.056,
+      "popularity": 4.617,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -111,7 +119,7 @@
       "id": 127171,
       "name": "Marcia Cross",
       "profile_path": "/3oHmZ7aoW2uQPcdLbi0i9BhKssI.jpg",
-      "popularity": 6.055,
+      "popularity": 3.816,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +127,7 @@
       "id": 33286,
       "name": "Matthew Settle",
       "profile_path": "/69D3JqJslcqJ1lqwcet2zGRAr7n.jpg",
-      "popularity": 6.055,
+      "popularity": 8.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,7 +135,7 @@
       "id": 3146,
       "name": "Billy Wilder",
       "profile_path": "/tfVte6h2dlLn59Q0Mi6AvWAyRLP.jpg",
-      "popularity": 6.054,
+      "popularity": 8.476,
       "adult": false,
       "known_for_department": "Directing"
     },
@@ -135,7 +143,7 @@
       "id": 69011,
       "name": "Irene Miracle",
       "profile_path": "/sFVr7QAti5t9VhLsLB9d4ve4vsM.jpg",
-      "popularity": 6.053,
+      "popularity": 7.016,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -151,15 +159,7 @@
       "id": 135374,
       "name": "Nene Otsuka",
       "profile_path": "/48TFOrOB7oZOJ0LXbYQb7p5PE1z.jpg",
-      "popularity": 6.052,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 44615,
-      "name": "Raven De La Croix",
-      "profile_path": "/pMi57qhyTFdtOE6vAHsyecjf9Os.jpg",
-      "popularity": 6.052,
+      "popularity": 4.616,
       "adult": false,
       "known_for_department": "Acting"
     }
