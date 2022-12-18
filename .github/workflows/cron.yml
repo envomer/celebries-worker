@@ -1,0 +1,20 @@
+name: Cron
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run every day at midnight
+#  [workflow_dispatch] # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.TOKEN }}
+      - name: Update
+        run: |
+          make setup-git
+          make update
+          
