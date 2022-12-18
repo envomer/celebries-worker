@@ -2,7 +2,7 @@ name: Main
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run every day at midnight
+    - cron: '33 2 * * *' # Run every day at midnight
 
 jobs:
   update:
@@ -14,4 +14,10 @@ jobs:
           token: ${{ secrets.TOKEN }}
       - name: Update
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global push.default simple
+          git config --global pull.rebase false
+          git config --global pull.ff only
           make update
+          
