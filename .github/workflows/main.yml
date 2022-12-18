@@ -1,8 +1,9 @@
 name: Main
 
 on:
-  schedule:
-    - cron: '39 2 * * *' # Run every day at midnight
+#  schedule:
+#    - cron: '0 0 * * *' # Run every day at midnight
+  [workflow_dispatch] # Allow manual trigger
 
 jobs:
   update:
