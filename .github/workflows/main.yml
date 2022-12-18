@@ -2,7 +2,7 @@ name: Main
 
 on:
   schedule:
-    - cron: '36 2 * * *' # Run every day at midnight
+    - cron: '39 2 * * *' # Run every day at midnight
 
 jobs:
   update:
