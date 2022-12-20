@@ -7,7 +7,7 @@
       "id": 974169,
       "name": "Jenna Ortega",
       "profile_path": "/q1NRzyZQlYkxLY07GO9NVPkQnu8.jpg",
-      "popularity": 393.852,
+      "popularity": 471.356,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -15,7 +15,7 @@
       "id": 65731,
       "name": "Sam Worthington",
       "profile_path": "/blKKsHlJIL9PmUQZB8f3YmMBW5Y.jpg",
-      "popularity": 201.254,
+      "popularity": 200.376,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -23,55 +23,7 @@
       "id": 1911865,
       "name": "Hunter Doohan",
       "profile_path": "/79qnxlyxfRiKhN7BJoCPR9jDrfT.jpg",
-      "popularity": 182.255,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 8691,
-      "name": "Zoe Saldaña",
-      "profile_path": "/iOVbUH20il632nj2v01NCtYYeSg.jpg",
-      "popularity": 148.226,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 6886,
-      "name": "Christina Ricci",
-      "profile_path": "/m2cY5Er1loPgHkZYdFMEz6YeiwG.jpg",
-      "popularity": 139.282,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 976,
-      "name": "Jason Statham",
-      "profile_path": "/lldeQ91GwIVff43JBrpdbAAeYWj.jpg",
-      "popularity": 132.287,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 6614,
-      "name": "Cole Hauser",
-      "profile_path": "/kJyUtNZREd7mes21OrWiCtOugPL.jpg",
-      "popularity": 125.804,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2604515,
-      "name": "Emma Myers",
-      "profile_path": "/e5eTDKstLsUKKfmwgiJsDakcvly.jpg",
-      "popularity": 120.399,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1011904,
-      "name": "Gwendoline Christie",
-      "profile_path": "/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg",
-      "popularity": 114.051,
+      "popularity": 163.477,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,39 +31,23 @@
       "id": 6161,
       "name": "Jennifer Connelly",
       "profile_path": "/opBts8lC3ZhK4BQwl8ztczehsFQ.jpg",
-      "popularity": 112.308,
+      "popularity": 157.231,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1136406,
-      "name": "Tom Holland",
-      "profile_path": "/bBRlrpJm9XkNSg0YT5LCaxqoFMX.jpg",
-      "popularity": 108.262,
+      "id": 6886,
+      "name": "Christina Ricci",
+      "profile_path": "/m2cY5Er1loPgHkZYdFMEz6YeiwG.jpg",
+      "popularity": 156.985,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 224513,
-      "name": "Ana de Armas",
-      "profile_path": "/vkoSSVrGxFYvtr2uUdz99ENXF1v.jpg",
-      "popularity": 107.332,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1907997,
-      "name": "Min Do-yoon",
-      "profile_path": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
-      "popularity": 105.936,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 31,
-      "name": "Tom Hanks",
-      "profile_path": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg",
-      "popularity": 101.222,
+      "id": 8691,
+      "name": "Zoe Saldaña",
+      "profile_path": "/iOVbUH20il632nj2v01NCtYYeSg.jpg",
+      "popularity": 155.668,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +55,55 @@
       "id": 1538900,
       "name": "Anthony Walters",
       "profile_path": "/alYRY3PezVLvltKqg7VkoQVqYkd.jpg",
-      "popularity": 95.249,
+      "popularity": 133.349,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2604515,
+      "name": "Emma Myers",
+      "profile_path": "/e5eTDKstLsUKKfmwgiJsDakcvly.jpg",
+      "popularity": 133.32,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 976,
+      "name": "Jason Statham",
+      "profile_path": "/lldeQ91GwIVff43JBrpdbAAeYWj.jpg",
+      "popularity": 130.886,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1907997,
+      "name": "Min Do-yoon",
+      "profile_path": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "popularity": 129.381,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 6614,
+      "name": "Cole Hauser",
+      "profile_path": "/kJyUtNZREd7mes21OrWiCtOugPL.jpg",
+      "popularity": 124.541,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2099810,
+      "name": "Gregory Mann",
+      "profile_path": "/bGPUEFO6lCpxTvWn43fPSep4dtS.jpg",
+      "popularity": 115.421,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1190668,
+      "name": "Timothée Chalamet",
+      "profile_path": "/7ejM0s3hMZSnfibIX7OWXeQmRo.jpg",
+      "popularity": 106.624,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,31 +111,15 @@
       "id": 56734,
       "name": "Chloë Grace Moretz",
       "profile_path": "/u08QwcFnJpMtsDEYSlbUkMuE7bP.jpg",
-      "popularity": 92.04,
+      "popularity": 104.812,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 2524,
-      "name": "Tom Hardy",
-      "profile_path": "/sGMA6pA2D6X0gun49igJT3piHs3.jpg",
-      "popularity": 91.234,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1549899,
-      "name": "Ji Eun-seo",
-      "profile_path": "/2sc0qXUnBFCpAj7UfubDR3Gub9L.jpg",
-      "popularity": 90.245,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 32747,
-      "name": "Stephen Lang",
-      "profile_path": "/xEBuFWrCKDQD6r6CZK71GYIc4UW.jpg",
-      "popularity": 90.137,
+      "id": 1011904,
+      "name": "Gwendoline Christie",
+      "profile_path": "/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg",
+      "popularity": 103.015,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -159,7 +127,39 @@
       "id": 2131391,
       "name": "Violet McGraw",
       "profile_path": "/8Nu8Z6FFEmsO5nZgJZDKHvzYUb0.jpg",
-      "popularity": 88.437,
+      "popularity": 102.931,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 224513,
+      "name": "Ana de Armas",
+      "profile_path": "/vkoSSVrGxFYvtr2uUdz99ENXF1v.jpg",
+      "popularity": 101.8,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1136406,
+      "name": "Tom Holland",
+      "profile_path": "/bBRlrpJm9XkNSg0YT5LCaxqoFMX.jpg",
+      "popularity": 101.279,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 31,
+      "name": "Tom Hanks",
+      "profile_path": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg",
+      "popularity": 101.167,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1269,
+      "name": "Kevin Costner",
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg",
+      "popularity": 95.669,
       "adult": false,
       "known_for_department": "Acting"
     }
