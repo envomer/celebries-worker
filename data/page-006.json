@@ -4,122 +4,10 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 18277,
-      "name": "Sandra Bullock",
-      "profile_path": "/u2tnZ0L2dwrzFKevVANYT5Pb1nE.jpg",
-      "popularity": 57.008,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 54812,
-      "name": "Chevy Chase",
-      "profile_path": "/A1X2BvR8vEXvwXdJa5uYAYVCO2k.jpg",
-      "popularity": 56.777,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 66107,
-      "name": "John Murray",
-      "profile_path": "/iWNLOuEkxCHzp9PPYQBLXrFDvtV.jpg",
-      "popularity": 56.65,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 8784,
-      "name": "Daniel Craig",
-      "profile_path": "/akdV5Z4VTO4j8GBwOrO5W4xzrUJ.jpg",
-      "popularity": 56.585,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2189049,
-      "name": "Joy Sunday",
-      "profile_path": "/fTajkqbVGMU4O2LMteuYlffhfJI.jpg",
-      "popularity": 56.486,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2461,
-      "name": "Mel Gibson",
-      "profile_path": "/oSOYCghY3XcXBYqMA0fsEi8WKaa.jpg",
-      "popularity": 56.162,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 190,
-      "name": "Clint Eastwood",
-      "profile_path": "/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-      "popularity": 56.127,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 169337,
-      "name": "Katherine LaNasa",
-      "profile_path": "/a1T5Smn7sCEtV8NHvTa5WaxgOML.jpg",
-      "popularity": 55.919,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3371804,
-      "name": "Christine Bermas",
-      "profile_path": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
-      "popularity": 55.852,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2590519,
-      "name": "Han Yi-seul",
-      "profile_path": "/3VeE7R9ism39ZSftTeQ3hJdNI7F.jpg",
-      "popularity": 55.708,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 55089,
-      "name": "Evan Peters",
-      "profile_path": "/zqbdd5pLDD8DJ4TXr3HDNmFXrYn.jpg",
-      "popularity": 55.464,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 112561,
-      "name": "Lily Collins",
-      "profile_path": "/aFSZkMNjmDR07JtkvhcbLAbDAMx.jpg",
-      "popularity": 55.462,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3895,
-      "name": "Michael Caine",
-      "profile_path": "/hZruclwEPCKw3e83rnFSIH5sRFZ.jpg",
-      "popularity": 55.008,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 17276,
-      "name": "Gerard Butler",
-      "profile_path": "/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg",
-      "popularity": 54.939,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 23532,
-      "name": "Jason Bateman",
-      "profile_path": "/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg",
-      "popularity": 54.697,
+      "id": 1158,
+      "name": "Al Pacino",
+      "profile_path": "/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg",
+      "popularity": 59.545,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,39 +15,151 @@
       "id": 234352,
       "name": "Margot Robbie",
       "profile_path": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
-      "popularity": 54.583,
+      "popularity": 59.175,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1229,
-      "name": "Jeff Bridges",
-      "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg",
-      "popularity": 54.432,
+      "id": 8784,
+      "name": "Daniel Craig",
+      "profile_path": "/akdV5Z4VTO4j8GBwOrO5W4xzrUJ.jpg",
+      "popularity": 58.976,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1253353,
-      "name": "Noah Centineo",
-      "profile_path": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
-      "popularity": 54.111,
+      "id": 57607,
+      "name": "Stephen Chow",
+      "profile_path": "/qPGmIuQ3DKzzpZy5Y12WeoOUijV.jpg",
+      "popularity": 58.91,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 4690,
-      "name": "Christopher Walken",
-      "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg",
-      "popularity": 54.055,
+      "id": 62,
+      "name": "Bruce Willis",
+      "profile_path": "/caX3KtMU42EP3VLRFFBwqIIrch5.jpg",
+      "popularity": 58.764,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1892,
-      "name": "Matt Damon",
-      "profile_path": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
-      "popularity": 53.905,
+      "id": 2231,
+      "name": "Samuel L. Jackson",
+      "profile_path": "/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg",
+      "popularity": 58.418,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 55089,
+      "name": "Evan Peters",
+      "profile_path": "/zqbdd5pLDD8DJ4TXr3HDNmFXrYn.jpg",
+      "popularity": 58.239,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1384976,
+      "name": "Thea Næss",
+      "profile_path": "/agzeNU5w5toU1A9yUJ0ljKp7ai6.jpg",
+      "popularity": 57.55,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1059597,
+      "name": "Zoey Deutch",
+      "profile_path": "/csmSAm3vpJj9lB5vb5fTbRqOw9C.jpg",
+      "popularity": 57.372,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 139,
+      "name": "Uma Thurman",
+      "profile_path": "/pGyACejvvLI6tB0gFQ2rCjwqKvd.jpg",
+      "popularity": 56.706,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 6384,
+      "name": "Keanu Reeves",
+      "profile_path": "/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg",
+      "popularity": 56.464,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 18277,
+      "name": "Sandra Bullock",
+      "profile_path": "/u2tnZ0L2dwrzFKevVANYT5Pb1nE.jpg",
+      "popularity": 56.302,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 3223,
+      "name": "Robert Downey Jr.",
+      "profile_path": "/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg",
+      "popularity": 56.117,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 72466,
+      "name": "Colin Farrell",
+      "profile_path": "/vVqrAhZpojAtp874wBaaFt5T4dN.jpg",
+      "popularity": 56.053,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 118545,
+      "name": "Dakota Johnson",
+      "profile_path": "/qRPULEOXibPEmSljRRvnYHxXGBq.jpg",
+      "popularity": 55.78,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 28782,
+      "name": "Monica Bellucci",
+      "profile_path": "/poJIxde589fEgdsvpDuANC9gU7I.jpg",
+      "popularity": 55.584,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 439765,
+      "name": "Christina Moore",
+      "profile_path": "/t3pceZxbDAiBL4nxTZ6kQLjt9Wz.jpg",
+      "popularity": 55.244,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 59620,
+      "name": "Gemma Arterton",
+      "profile_path": "/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg",
+      "popularity": 55.243,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 63,
+      "name": "Milla Jovovich",
+      "profile_path": "/usWnHCzbADijULREZYSJ0qfM00y.jpg",
+      "popularity": 55.243,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1019,
+      "name": "Mads Mikkelsen",
+      "profile_path": "/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg",
+      "popularity": 55.169,
       "adult": false,
       "known_for_department": "Acting"
     }
