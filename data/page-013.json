@@ -4,122 +4,82 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 19537,
-      "name": "Megan Fox",
-      "profile_path": "/bJeD8b5dSbH8jzlYSOjRpxxUmcb.jpg",
-      "popularity": 43.35,
+      "id": 3,
+      "name": "Harrison Ford",
+      "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg",
+      "popularity": 37.203,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 151383,
-      "name": "John Ducey",
-      "profile_path": "/iAWEzIuVHOcvVdBdI3uAbvxUlTT.jpg",
-      "popularity": 43.182,
+      "id": 1954,
+      "name": "Billy Zane",
+      "profile_path": "/7CBwxqE00aZAAEBaRkapylgdi15.jpg",
+      "popularity": 37.191,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1231,
-      "name": "Julianne Moore",
-      "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg",
-      "popularity": 43.092,
+      "id": 2983,
+      "name": "Mark Strong",
+      "profile_path": "/3cNmatYsoifytg7TfQhI1EHow3v.jpg",
+      "popularity": 37.178,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 62064,
-      "name": "Chris Pine",
-      "profile_path": "/7mHvPL2TsfMBEeEmO0Iww8hpQXZ.jpg",
-      "popularity": 43.076,
+      "id": 1312450,
+      "name": "Melanie Zanetti",
+      "profile_path": "/lbUQ7ilvBtWMU23reKsHg3jRmsf.jpg",
+      "popularity": 37.119,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 17743,
-      "name": "Miranda Cosgrove",
-      "profile_path": "/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg",
-      "popularity": 43.046,
+      "id": 1229,
+      "name": "Jeff Bridges",
+      "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg",
+      "popularity": 37.078,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 2039,
-      "name": "Brendan Gleeson",
-      "profile_path": "/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg",
-      "popularity": 43.031,
+      "id": 17419,
+      "name": "Bryan Cranston",
+      "profile_path": "/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg",
+      "popularity": 37.018,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 82809,
-      "name": "Annabelle Wallis",
-      "profile_path": "/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg",
-      "popularity": 42.958,
+      "id": 130640,
+      "name": "Hailee Steinfeld",
+      "profile_path": "/q4UpZMEuvNCN5lL5L6xa3ICpheJ.jpg",
+      "popularity": 36.915,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1100,
-      "name": "Arnold Schwarzenegger",
-      "profile_path": "/zEMhugsgXIpnQqO31GpAJYMUZZ1.jpg",
-      "popularity": 42.933,
+      "id": 2230991,
+      "name": "Daisy Edgar-Jones",
+      "profile_path": "/uhrgWinc0W2Q1K0ynUmyTaWd8dv.jpg",
+      "popularity": 36.84,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 84223,
-      "name": "Anna Kendrick",
-      "profile_path": "/zxYcN7MG1rifJNFIDCJUPKLSAnw.jpg",
-      "popularity": 42.921,
+      "id": 14405,
+      "name": "Courteney Cox",
+      "profile_path": "/3bTVQH9vBXAiwGVHXKLylStz4RT.jpg",
+      "popularity": 36.829,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1920,
-      "name": "Winona Ryder",
-      "profile_path": "/f7cJ1MQeXep19jlzvyJOstnkHMV.jpg",
-      "popularity": 42.747,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 16644,
-      "name": "Dolph Lundgren",
-      "profile_path": "/t3hMzibYVUS1KBXFgtxuNnax8qX.jpg",
-      "popularity": 42.664,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 18702,
-      "name": "Mark Dacascos",
-      "profile_path": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg",
-      "popularity": 42.516,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1205,
-      "name": "Richard Gere",
-      "profile_path": "/r7KO9hhivKVeH5XzxcoplUPjlwu.jpg",
-      "popularity": 42.498,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 17735,
-      "name": "Mike White",
-      "profile_path": "/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg",
-      "popularity": 42.488,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 13241,
-      "name": "Estella Warren",
-      "profile_path": "/aFodbZpSEsz6lz8T3ehkeb8y44a.jpg",
-      "popularity": 42.482,
+      "id": 569,
+      "name": "Ethan Hawke",
+      "profile_path": "/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg",
+      "popularity": 36.806,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,39 +87,79 @@
       "id": 1442069,
       "name": "Finn Wolfhard",
       "profile_path": "/5OVmquAk0W5BIsRlVKslEP497JD.jpg",
-      "popularity": 42.468,
+      "popularity": 36.74,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 15135,
-      "name": "Alain Delon",
-      "profile_path": "/3QGWfT4saSHiTJdhLD4IyuRbYDF.jpg",
-      "popularity": 42.367,
+      "id": 19278,
+      "name": "Bill Hader",
+      "profile_path": "/vqrxoIPMHskZQfNTZdTmwDCAznJ.jpg",
+      "popularity": 36.683,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 17696,
-      "name": "Kathryn Hahn",
-      "profile_path": "/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg",
-      "popularity": 42.353,
+      "id": 2189049,
+      "name": "Joy Sunday",
+      "profile_path": "/fTajkqbVGMU4O2LMteuYlffhfJI.jpg",
+      "popularity": 36.569,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 54812,
-      "name": "Chevy Chase",
-      "profile_path": "/A1X2BvR8vEXvwXdJa5uYAYVCO2k.jpg",
-      "popularity": 42.31,
+      "id": 973667,
+      "name": "Rosa Salazar",
+      "profile_path": "/hrU1Kg1SH03x0RRmWEzmnWEonuU.jpg",
+      "popularity": 36.568,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 8210,
-      "name": "Wes Bentley",
-      "profile_path": "/oDjtxTiEuCdyrcAtlCOEWUjhsaT.jpg",
-      "popularity": 42.261,
+      "id": 2878,
+      "name": "C. Thomas Howell",
+      "profile_path": "/739YbFWpAYyo9neHvBGThgmT4YH.jpg",
+      "popularity": 36.557,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 35029,
+      "name": "David Harbour",
+      "profile_path": "/chPekukMF5SNnW6b22NbYPqAStr.jpg",
+      "popularity": 36.36,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 935,
+      "name": "Connie Nielsen",
+      "profile_path": "/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg",
+      "popularity": 36.276,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 16851,
+      "name": "Josh Brolin",
+      "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+      "popularity": 36.228,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 17288,
+      "name": "Michael Fassbender",
+      "profile_path": "/e7SxBHtAxTyNE4GdOrHD7kqkukm.jpg",
+      "popularity": 36.166,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 62220,
+      "name": "Lauren Cohan",
+      "profile_path": "/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg",
+      "popularity": 36.14,
       "adult": false,
       "known_for_department": "Acting"
     }
