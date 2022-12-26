@@ -4,98 +4,10 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 2387,
-      "name": "Patrick Stewart",
-      "profile_path": "/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg",
-      "popularity": 30.253,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 14415,
-      "name": "Julie Hagerty",
-      "profile_path": "/bQZ0bcFNyE4a3GDNfYMmfO7eWMl.jpg",
-      "popularity": 30.243,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 221018,
-      "name": "Dan Stevens",
-      "profile_path": "/fFsgginZKH527o38ZfdDxuzx7Ew.jpg",
-      "popularity": 30.146,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 9824,
-      "name": "Diane Kruger",
-      "profile_path": "/aScr0aXsTzLIO6bkB82YUuYj4PT.jpg",
-      "popularity": 30.134,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 17832,
-      "name": "Carla Gugino",
-      "profile_path": "/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg",
-      "popularity": 30.131,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1379277,
-      "name": "Alex Lawther",
-      "profile_path": "/q5QMUDGYSN82QmMyiOYhLuB8ISB.jpg",
-      "popularity": 30.085,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 587020,
-      "name": "Theo James",
-      "profile_path": "/ejUHDsEsERj2kEujoB4QEqG8Shr.jpg",
-      "popularity": 30.07,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2227,
-      "name": "Nicole Kidman",
-      "profile_path": "/jTtiPqW6VlNE9nTf4BuUzuIqzlR.jpg",
-      "popularity": 30.04,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 20189,
-      "name": "Amy Smart",
-      "profile_path": "/byLbVH8smwtJ5L6S7VoWmNf9yxn.jpg",
-      "popularity": 30.023,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 11664,
-      "name": "Zooey Deschanel",
-      "profile_path": "/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg",
-      "popularity": 29.993,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 16478,
-      "name": "Johnny Galecki",
-      "profile_path": "/kwMOVJvWDkiXEuKiyNJMaoFnhkj.jpg",
-      "popularity": 29.992,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 18269,
-      "name": "Brendan Fraser",
-      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg",
-      "popularity": 29.979,
+      "id": 15277,
+      "name": "Jon Favreau",
+      "profile_path": "/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg",
+      "popularity": 30.219,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,55 +15,15 @@
       "id": 17606,
       "name": "Imogen Poots",
       "profile_path": "/kJOUQP0I5HzyenTLWUTCdx6mIAk.jpg",
-      "popularity": 29.924,
+      "popularity": 30.177,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 28641,
-      "name": "Terence Stamp",
-      "profile_path": "/8pW8uvDUP6iqSaAe7QUKoc18yh7.jpg",
-      "popularity": 29.908,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1076363,
-      "name": "Tao Tsuchiya",
-      "profile_path": "/oJ69iu4WbgMhbm0VmGHNiBC9lNd.jpg",
-      "popularity": 29.855,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 7062,
-      "name": "Andrew Lincoln",
-      "profile_path": "/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg",
-      "popularity": 29.793,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1716493,
-      "name": "Harris Dickinson",
-      "profile_path": "/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg",
-      "popularity": 29.756,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2331879,
-      "name": "Kim Soo-ji",
-      "profile_path": "/2bVTxtF5kwLMzOXoyzo8ZHZGiCP.jpg",
-      "popularity": 29.741,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1922,
-      "name": "Catherine Zeta-Jones",
-      "profile_path": "/8S3F1zdbQolPG6W0AW4u70F6xj9.jpg",
-      "popularity": 29.729,
+      "id": 18892,
+      "name": "Goldie Hawn",
+      "profile_path": "/u2g5VUylAJoXGWhoxFTLUmaX6O7.jpg",
+      "popularity": 30.176,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -159,7 +31,135 @@
       "id": 110014,
       "name": "Christina Hendricks",
       "profile_path": "/vO59Bd8881Iz2DjfbTvq1vHTpW8.jpg",
-      "popularity": 29.681,
+      "popularity": 30.104,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 93491,
+      "name": "Will Poulter",
+      "profile_path": "/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg",
+      "popularity": 30.092,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 194,
+      "name": "Richard Harris",
+      "profile_path": "/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg",
+      "popularity": 30.004,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 9640,
+      "name": "Haley Joel Osment",
+      "profile_path": "/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg",
+      "popularity": 29.998,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2405,
+      "name": "Audrey Tautou",
+      "profile_path": "/k66PCmlqbduszP4nFUDBdwrDr6r.jpg",
+      "popularity": 29.951,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 92416,
+      "name": "Alexandra Rapaport",
+      "profile_path": "/s1YiDSnSdXbX4HhbMC8588kWY15.jpg",
+      "popularity": 29.9,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 44735,
+      "name": "Jesse Eisenberg",
+      "profile_path": "/iA3ha8OZU7fULwQvmg2f1ipscCN.jpg",
+      "popularity": 29.843,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 36190,
+      "name": "Edie Falco",
+      "profile_path": "/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg",
+      "popularity": 29.836,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 707,
+      "name": "Dan Aykroyd",
+      "profile_path": "/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg",
+      "popularity": 29.781,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1522345,
+      "name": "Jocelyn Hudon",
+      "profile_path": "/fbMO8F57cO2k0a46oFajQuR4jvY.jpg",
+      "popularity": 29.778,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 4494,
+      "name": "Lisa Ann Walter",
+      "profile_path": "/3xeMzT5zOC0UM9DgHne3oGZmf1R.jpg",
+      "popularity": 29.75,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 5049,
+      "name": "John Hurt",
+      "profile_path": "/wGDGhBOggA8I2ktgc1QoHABEF0m.jpg",
+      "popularity": 29.721,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 135524,
+      "name": "Kenjiro Tsuda",
+      "profile_path": "/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg",
+      "popularity": 29.615,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1955840,
+      "name": "Afra Saraçoğlu",
+      "profile_path": "/qxYuc8I8q9PyxU1LsHNLpRJBQGo.jpg",
+      "popularity": 29.578,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1253391,
+      "name": "Ji Chang-wook",
+      "profile_path": "/nlReEkp65LAhIVVNcxdIfSco0kn.jpg",
+      "popularity": 29.528,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 64295,
+      "name": "Alan Ritchson",
+      "profile_path": "/iV4XpUEsvnncbRv1SJKasRY05cK.jpg",
+      "popularity": 29.506,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 25933,
+      "name": "Emily Deschanel",
+      "profile_path": "/bS4F39NlQAURKtO5r1CD3ivSf62.jpg",
+      "popularity": 29.457,
       "adult": false,
       "known_for_department": "Acting"
     }
