@@ -4,154 +4,50 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 2131391,
-      "name": "Violet McGraw",
-      "profile_path": "/8Nu8Z6FFEmsO5nZgJZDKHvzYUb0.jpg",
-      "popularity": 61.695,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 15737,
-      "name": "Helen McCrory",
-      "profile_path": "/3FyO7Z8WigeCQsUpW4B1x3qfmFx.jpg",
-      "popularity": 61.495,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
       "id": 1095818,
       "name": "Lee Jong-suk",
       "profile_path": "/eW73DbmKQrqb6xDC52oMbVehw6G.jpg",
-      "popularity": 61.481,
+      "popularity": 64.444,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1015824,
-      "name": "Ayame Misaki",
-      "profile_path": "/7ViHWgrPifqwjMTGrzS7XI32VZs.jpg",
-      "popularity": 61.411,
+      "id": 2590519,
+      "name": "Han Yi-seul",
+      "profile_path": "/3VeE7R9ism39ZSftTeQ3hJdNI7F.jpg",
+      "popularity": 64.259,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 11510,
-      "name": "Macaulay Culkin",
-      "profile_path": "/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg",
-      "popularity": 61.378,
+      "id": 27428,
+      "name": "Aaron Taylor-Johnson",
+      "profile_path": "/vkph4FcqFrOnVbrIQD7MbJXz4Uf.jpg",
+      "popularity": 64.012,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 109513,
-      "name": "Alexandra Daddario",
-      "profile_path": "/lh5zibQXYH1MNqkuX8TmxyNYHhK.jpg",
-      "popularity": 61.289,
+      "id": 64,
+      "name": "Gary Oldman",
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg",
+      "popularity": 63.948,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 74568,
-      "name": "Chris Hemsworth",
-      "profile_path": "/jpurJ9jAcLCYjgHHfYF32m3zJYm.jpg",
-      "popularity": 61.196,
+      "id": 524,
+      "name": "Natalie Portman",
+      "profile_path": "/zE90yInhhU8fLz1HgWpB9KPvGnE.jpg",
+      "popularity": 63.834,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 190,
-      "name": "Clint Eastwood",
-      "profile_path": "/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-      "popularity": 61.047,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 131,
-      "name": "Jake Gyllenhaal",
-      "profile_path": "/gWYwL7xmRqjWsH3AtYERQOh0V80.jpg",
-      "popularity": 60.958,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1134734,
-      "name": "Pauline Chan",
-      "profile_path": "/lwEjTPAOCWJCftIQ3H1kvt1d5cd.jpg",
-      "popularity": 60.48,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1892,
-      "name": "Matt Damon",
-      "profile_path": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
-      "popularity": 60.266,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1919403,
-      "name": "Thea Green Lundberg",
-      "profile_path": "/ypq8DaSJF9DNF1bLmKkRO9kuJSH.jpg",
-      "popularity": 60.234,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 287,
-      "name": "Brad Pitt",
-      "profile_path": "/oTB9vGIBacH5aQNS0pUM74QSWuf.jpg",
-      "popularity": 59.736,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3063,
-      "name": "Tilda Swinton",
-      "profile_path": "/gWbX3a7V2MgRMRzekfITNcb27xV.jpg",
-      "popularity": 59.627,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3371804,
-      "name": "Christine Bermas",
-      "profile_path": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
-      "popularity": 59.439,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 34847,
-      "name": "Emma Roberts",
-      "profile_path": "/87w6fTvmJTQScgKKJFS91hYJ33a.jpg",
-      "popularity": 59.132,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 5576,
-      "name": "Val Kilmer",
-      "profile_path": "/asscfTVTglxMBEeJiDYxUXM4bm9.jpg",
-      "popularity": 58.979,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3131,
-      "name": "Antonio Banderas",
-      "profile_path": "/iWIUEwgn2KW50MssR7tdPeFoRGW.jpg",
-      "popularity": 58.838,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1195939,
-      "name": "Ayaka Miyoshi",
-      "profile_path": "/62oahK2mc58X5sNrxyhCVXKryIx.jpg",
-      "popularity": 58.726,
+      "id": 67837,
+      "name": "Jacki Weaver",
+      "profile_path": "/Apt5KSRAJENVw3IrTidzyrGv9PE.jpg",
+      "popularity": 63.764,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -159,7 +55,111 @@
       "id": 10205,
       "name": "Sigourney Weaver",
       "profile_path": "/flfhep27iBxseZIlxOMHt6zJFX1.jpg",
-      "popularity": 58.628,
+      "popularity": 63.188,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1620,
+      "name": "Michelle Yeoh",
+      "profile_path": "/wPI2wn6WJEtJr1oAMTLBLh92Ryc.jpg",
+      "popularity": 62.191,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1371263,
+      "name": "Devan Long",
+      "profile_path": "/qPZeVZqH1z7n5LVKVdzwXbAHe6s.jpg",
+      "popularity": 62.126,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2131391,
+      "name": "Violet McGraw",
+      "profile_path": "/8Nu8Z6FFEmsO5nZgJZDKHvzYUb0.jpg",
+      "popularity": 62.109,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1195939,
+      "name": "Ayaka Miyoshi",
+      "profile_path": "/62oahK2mc58X5sNrxyhCVXKryIx.jpg",
+      "popularity": 62.018,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 10990,
+      "name": "Emma Watson",
+      "profile_path": "/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg",
+      "popularity": 61.475,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 92614,
+      "name": "Dawn Olivieri",
+      "profile_path": "/tet7ZVbzhLWwT44m9j94folyl5N.jpg",
+      "popularity": 61.415,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1333809,
+      "name": "Forrie J. Smith",
+      "profile_path": "/A3JvvFVzfF5M7Pvi2csISkoqxDC.jpg",
+      "popularity": 60.965,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 543530,
+      "name": "Dave Bautista",
+      "profile_path": "/sAeWLLUFEVggkLjrnkI6NiUMtLO.jpg",
+      "popularity": 60.633,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 192,
+      "name": "Morgan Freeman",
+      "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg",
+      "popularity": 60.592,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 34847,
+      "name": "Emma Roberts",
+      "profile_path": "/87w6fTvmJTQScgKKJFS91hYJ33a.jpg",
+      "popularity": 60.54,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 115440,
+      "name": "Sydney Sweeney",
+      "profile_path": "/afr2eoktU4lFYtmtfKo05EbQdXo.jpg",
+      "popularity": 60.288,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "profile_path": "/jpurJ9jAcLCYjgHHfYF32m3zJYm.jpg",
+      "popularity": 59.959,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 3894,
+      "name": "Christian Bale",
+      "profile_path": "/qCpZn2e3dimwbryLnqxZuI88PTi.jpg",
+      "popularity": 59.937,
       "adult": false,
       "known_for_department": "Acting"
     }
