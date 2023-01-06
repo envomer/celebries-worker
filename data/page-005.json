@@ -4,154 +4,82 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 3713,
-      "name": "Frances Fisher",
-      "profile_path": "/tsyGcoXGRNM8KGLpLG3OuxAyxx2.jpg",
-      "popularity": 60.715,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 10205,
-      "name": "Sigourney Weaver",
-      "profile_path": "/flfhep27iBxseZIlxOMHt6zJFX1.jpg",
-      "popularity": 60.556,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2405,
-      "name": "Audrey Tautou",
-      "profile_path": "/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg",
-      "popularity": 60.449,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 41901,
-      "name": "Roselyn Sánchez",
-      "profile_path": "/t1xPA67A2VoQwjEC43hmOzEKNP3.jpg",
-      "popularity": 60.37,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1620,
-      "name": "Michelle Yeoh",
-      "profile_path": "/wPI2wn6WJEtJr1oAMTLBLh92Ryc.jpg",
-      "popularity": 60.257,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1892,
-      "name": "Matt Damon",
-      "profile_path": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
-      "popularity": 59.984,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2131391,
-      "name": "Violet McGraw",
-      "profile_path": "/8Nu8Z6FFEmsO5nZgJZDKHvzYUb0.jpg",
-      "popularity": 59.833,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1015824,
-      "name": "Ayame Misaki",
-      "profile_path": "/7ViHWgrPifqwjMTGrzS7XI32VZs.jpg",
-      "popularity": 59.687,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
       "id": 4808,
       "name": "Giancarlo Esposito",
       "profile_path": "/lBvDQZjxhIGMbH61iHnqerpbqHc.jpg",
-      "popularity": 59.666,
+      "popularity": 60.3,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 5469,
-      "name": "Ralph Fiennes",
-      "profile_path": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
-      "popularity": 58.887,
+      "id": 77700,
+      "name": "Travis Fimmel",
+      "profile_path": "/i6wEoE9P6PgYe75g6QT8Y7JjX6n.jpg",
+      "popularity": 59.964,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1195939,
-      "name": "Ayaka Miyoshi",
-      "profile_path": "/62oahK2mc58X5sNrxyhCVXKryIx.jpg",
-      "popularity": 58.605,
+      "id": 17276,
+      "name": "Gerard Butler",
+      "profile_path": "/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg",
+      "popularity": 59.873,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 2590519,
-      "name": "Han Yi-seul",
-      "profile_path": "/3VeE7R9ism39ZSftTeQ3hJdNI7F.jpg",
-      "popularity": 58.478,
+      "id": 3627,
+      "name": "Paz Vega",
+      "profile_path": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg",
+      "popularity": 59.581,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1859934,
-      "name": "Tati Gabrielle",
-      "profile_path": "/zDtHNX7vXfhRmN2U5Ffmd9mLlo0.jpg",
-      "popularity": 58.173,
+      "id": 1501573,
+      "name": "Park Sun-ho",
+      "profile_path": "/c6mlezwClOIxNmqe58Z4PckLTWv.jpg",
+      "popularity": 59.263,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 517,
-      "name": "Pierce Brosnan",
-      "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg",
-      "popularity": 57.977,
+      "id": 1011904,
+      "name": "Gwendoline Christie",
+      "profile_path": "/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg",
+      "popularity": 58.764,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 934,
-      "name": "Russell Crowe",
-      "profile_path": "/mGTtPuwE8OR00tkJGmVLJmt8KpW.jpg",
-      "popularity": 57.943,
+      "id": 1301092,
+      "name": "Tanaya Beatty",
+      "profile_path": "/nQQd9rpMxYM2MshYlOSV0PfffPP.jpg",
+      "popularity": 58.58,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1371263,
-      "name": "Devan Long",
-      "profile_path": "/qPZeVZqH1z7n5LVKVdzwXbAHe6s.jpg",
-      "popularity": 57.838,
+      "id": 1230,
+      "name": "John Goodman",
+      "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+      "popularity": 58.559,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 2963,
-      "name": "Nicolas Cage",
-      "profile_path": "/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg",
-      "popularity": 57.792,
+      "id": 26723,
+      "name": "Katheryn Winnick",
+      "profile_path": "/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg",
+      "popularity": 58.529,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 190,
-      "name": "Clint Eastwood",
-      "profile_path": "/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg",
-      "popularity": 57.534,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 13240,
-      "name": "Mark Wahlberg",
-      "profile_path": "/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg",
-      "popularity": 57.057,
+      "id": 1177942,
+      "name": "Kento Yamazaki",
+      "profile_path": "/wKVMmoQrE4ZWPMy1nGXIDZ8CmZb.jpg",
+      "popularity": 58.407,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -159,7 +87,79 @@
       "id": 119592,
       "name": "Aubrey Plaza",
       "profile_path": "/4pPvrQmrzQCYpgLo8WM1AW8myoe.jpg",
-      "popularity": 56.863,
+      "popularity": 58.259,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1119117,
+      "name": "Katsuhiko Fujii",
+      "profile_path": "",
+      "popularity": 57.825,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
+      "id": 3713,
+      "name": "Frances Fisher",
+      "profile_path": "/tsyGcoXGRNM8KGLpLG3OuxAyxx2.jpg",
+      "popularity": 57.815,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 8210,
+      "name": "Wes Bentley",
+      "profile_path": "/oDjtxTiEuCdyrcAtlCOEWUjhsaT.jpg",
+      "popularity": 57.668,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1015824,
+      "name": "Ayame Misaki",
+      "profile_path": "/7ViHWgrPifqwjMTGrzS7XI32VZs.jpg",
+      "popularity": 57.506,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 11661,
+      "name": "Kate Hudson",
+      "profile_path": "/vCSuPFndH3sbCYZdi1pMiKvzRIp.jpg",
+      "popularity": 57.49,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1202689,
+      "name": "Jessica Henwick",
+      "profile_path": "/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg",
+      "popularity": 56.988,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 58021,
+      "name": "Tinto Brass",
+      "profile_path": "/80Uuq79rcYL1FgBPHAEHzAACQFa.jpg",
+      "popularity": 56.949,
+      "adult": false,
+      "known_for_department": "Directing"
+    },
+    {
+      "id": 92614,
+      "name": "Dawn Olivieri",
+      "profile_path": "/tet7ZVbzhLWwT44m9j94folyl5N.jpg",
+      "popularity": 56.888,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1195939,
+      "name": "Ayaka Miyoshi",
+      "profile_path": "/62oahK2mc58X5sNrxyhCVXKryIx.jpg",
+      "popularity": 56.382,
       "adult": false,
       "known_for_department": "Acting"
     }
