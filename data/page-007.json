@@ -4,58 +4,66 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 169337,
-      "name": "Katherine LaNasa",
-      "profile_path": "/a1T5Smn7sCEtV8NHvTa5WaxgOML.jpg",
-      "popularity": 51.858,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 9273,
-      "name": "Amy Adams",
-      "profile_path": "/bp7PLjL2fHVuLRFsw6ccpGrGjrA.jpg",
-      "popularity": 51.544,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
       "id": 10912,
       "name": "Eva Green",
       "profile_path": "/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg",
-      "popularity": 51.493,
+      "popularity": 48.248,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 934,
-      "name": "Russell Crowe",
-      "profile_path": "/mGTtPuwE8OR00tkJGmVLJmt8KpW.jpg",
-      "popularity": 51.383,
+      "id": 228,
+      "name": "Ed Harris",
+      "profile_path": "/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg",
+      "popularity": 48.11,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 2227,
-      "name": "Nicole Kidman",
-      "profile_path": "/jTtiPqW6VlNE9nTf4BuUzuIqzlR.jpg",
-      "popularity": 51.344,
+      "id": 2099810,
+      "name": "Gregory Mann",
+      "profile_path": "/bGPUEFO6lCpxTvWn43fPSep4dtS.jpg",
+      "popularity": 47.888,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1190668,
-      "name": "Timothée Chalamet",
-      "profile_path": "/fWcf1b3CEybhnE53xLpeAEl6WYJ.jpg",
-      "popularity": 51.198,
+      "id": 524,
+      "name": "Natalie Portman",
+      "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg",
+      "popularity": 47.008,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 17328,
-      "name": "Rufus Sewell",
-      "profile_path": "/yc2EWyg45GO03YqDttaEhjvegiE.jpg",
-      "popularity": 51.099,
+      "id": 512991,
+      "name": "Richard Madden",
+      "profile_path": "/zP1QxxjhtnnjMutuYKtlOnvYD7P.jpg",
+      "popularity": 46.911,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 5292,
+      "name": "Denzel Washington",
+      "profile_path": "/AHUnhGbnWnjin4M2sNdZYAei9h.jpg",
+      "popularity": 46.891,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1015824,
+      "name": "Ayame Misaki",
+      "profile_path": "/7ViHWgrPifqwjMTGrzS7XI32VZs.jpg",
+      "popularity": 46.852,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 17697,
+      "name": "John Krasinski",
+      "profile_path": "/kFAUNOlV25OjZGm2vYnvxc6rSUK.jpg",
+      "popularity": 46.708,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -63,39 +71,71 @@
       "id": 74568,
       "name": "Chris Hemsworth",
       "profile_path": "/jpurJ9jAcLCYjgHHfYF32m3zJYm.jpg",
-      "popularity": 51.076,
+      "popularity": 46.523,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1205,
-      "name": "Richard Gere",
-      "profile_path": "/r7KO9hhivKVeH5XzxcoplUPjlwu.jpg",
-      "popularity": 50.96,
+      "id": 1437564,
+      "name": "Peter Mark Kendall",
+      "profile_path": "/9Cj5ySZ6znkNcASB5CZeibuDGsd.jpg",
+      "popularity": 46.346,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 16828,
-      "name": "Chris Evans",
-      "profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
-      "popularity": 50.709,
+      "id": 1177942,
+      "name": "Kento Yamazaki",
+      "profile_path": "/wKVMmoQrE4ZWPMy1nGXIDZ8CmZb.jpg",
+      "popularity": 46.322,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1371263,
-      "name": "Devan Long",
-      "profile_path": "/qPZeVZqH1z7n5LVKVdzwXbAHe6s.jpg",
-      "popularity": 50.551,
+      "id": 1019,
+      "name": "Mads Mikkelsen",
+      "profile_path": "/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg",
+      "popularity": 46.207,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 3,
-      "name": "Harrison Ford",
-      "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg",
-      "popularity": 50.242,
+      "id": 5293,
+      "name": "Willem Dafoe",
+      "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+      "popularity": 46.145,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 5576,
+      "name": "Val Kilmer",
+      "profile_path": "/asscfTVTglxMBEeJiDYxUXM4bm9.jpg",
+      "popularity": 46.117,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1230,
+      "name": "John Goodman",
+      "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+      "popularity": 45.968,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 71070,
+      "name": "Amanda Seyfried",
+      "profile_path": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg",
+      "popularity": 45.955,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 37625,
+      "name": "Andrew Garfield",
+      "profile_path": "/9hJ59ogLxgcZDkvfGcjLHqbB5Pl.jpg",
+      "popularity": 45.767,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -103,63 +143,23 @@
       "id": 517,
       "name": "Pierce Brosnan",
       "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg",
-      "popularity": 50.193,
+      "popularity": 45.458,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1919403,
-      "name": "Thea Green Lundberg",
-      "profile_path": "/ypq8DaSJF9DNF1bLmKkRO9kuJSH.jpg",
-      "popularity": 50.149,
+      "id": 2231,
+      "name": "Samuel L. Jackson",
+      "profile_path": "/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg",
+      "popularity": 45.079,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 41901,
-      "name": "Roselyn Sánchez",
-      "profile_path": "/t1xPA67A2VoQwjEC43hmOzEKNP3.jpg",
-      "popularity": 50.111,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1273309,
-      "name": "Alexander Dreymon",
-      "profile_path": "/b8mqV41suJw9Siye2V1h1utjMkB.jpg",
-      "popularity": 50.105,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 13240,
-      "name": "Mark Wahlberg",
-      "profile_path": "/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg",
-      "popularity": 49.917,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 234352,
-      "name": "Margot Robbie",
-      "profile_path": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
-      "popularity": 49.747,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 287,
-      "name": "Brad Pitt",
-      "profile_path": "/oTB9vGIBacH5aQNS0pUM74QSWuf.jpg",
-      "popularity": 49.561,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 3063,
-      "name": "Tilda Swinton",
-      "profile_path": "/gWbX3a7V2MgRMRzekfITNcb27xV.jpg",
-      "popularity": 49.018,
+      "id": 67837,
+      "name": "Jacki Weaver",
+      "profile_path": "/Apt5KSRAJENVw3IrTidzyrGv9PE.jpg",
+      "popularity": 44.958,
       "adult": false,
       "known_for_department": "Acting"
     }
