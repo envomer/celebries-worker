@@ -4,74 +4,10 @@
   "total_pages": 500,
   "results": [
     {
-      "id": 887,
-      "name": "Owen Wilson",
-      "profile_path": "/op8sGD20k3EQZLR92XtaHoIbW0o.jpg",
-      "popularity": 105.198,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1136406,
-      "name": "Tom Holland",
-      "profile_path": "/bBRlrpJm9XkNSg0YT5LCaxqoFMX.jpg",
-      "popularity": 104.227,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
       "id": 2963,
       "name": "Nicolas Cage",
       "profile_path": "/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg",
-      "popularity": 102.692,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1215399,
-      "name": "Taylor Sheridan",
-      "profile_path": "/enrOQII7bCIf7U0WbdxiuXGfzrs.jpg",
-      "popularity": 102.606,
-      "adult": false,
-      "known_for_department": "Writing"
-    },
-    {
-      "id": 1499908,
-      "name": "Hassie Harrison",
-      "profile_path": "/cUu16UFtcmAJwyge5g5sbMstZCc.jpg",
-      "popularity": 102.558,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1310719,
-      "name": "Nijiro Murakami",
-      "profile_path": "/cl0PnyIo5X1hN0eDpnYbT6qWNo0.jpg",
-      "popularity": 97.955,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 8784,
-      "name": "Daniel Craig",
-      "profile_path": "/6j9Hu3gZsMEl6vZHNTko9yqp0Y6.jpg",
-      "popularity": 97.933,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 15555,
-      "name": "Piper Perabo",
-      "profile_path": "/aP9QqLm4JZxLwp2CiUbEh5zrpVI.jpg",
-      "popularity": 96.467,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 2948828,
-      "name": "AJ Raval",
-      "profile_path": "/2JMxcjkUc5SPrj8P9GCFQev4pbm.jpg",
-      "popularity": 95.739,
+      "popularity": 108.008,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -79,39 +15,15 @@
       "id": 1134734,
       "name": "Pauline Chan",
       "profile_path": "/lwEjTPAOCWJCftIQ3H1kvt1d5cd.jpg",
-      "popularity": 94.058,
+      "popularity": 107.017,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 3292,
-      "name": "Nicholas Hoult",
-      "profile_path": "/h1gXgpuXERZTVhxMdjT7uvXIyq6.jpg",
-      "popularity": 92.682,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 31,
-      "name": "Tom Hanks",
-      "profile_path": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg",
-      "popularity": 92.122,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 65731,
-      "name": "Sam Worthington",
-      "profile_path": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
-      "popularity": 91.673,
-      "adult": false,
-      "known_for_department": "Acting"
-    },
-    {
-      "id": 1373737,
-      "name": "Florence Pugh",
-      "profile_path": "/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg",
-      "popularity": 91.159,
+      "id": 10859,
+      "name": "Ryan Reynolds",
+      "profile_path": "/52GxBTYdLLc3x3UVSplZdHqj4RR.jpg",
+      "popularity": 105.595,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -119,7 +31,23 @@
       "id": 2710789,
       "name": "Seung Ha",
       "profile_path": "/8dCFK8FDFQbYFZvzAE9IIeaDMKo.jpg",
-      "popularity": 88.895,
+      "popularity": 104.669,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1499908,
+      "name": "Hassie Harrison",
+      "profile_path": "/cUu16UFtcmAJwyge5g5sbMstZCc.jpg",
+      "popularity": 100.367,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 169337,
+      "name": "Katherine LaNasa",
+      "profile_path": "/a1T5Smn7sCEtV8NHvTa5WaxgOML.jpg",
+      "popularity": 99.886,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -127,15 +55,63 @@
       "id": 6886,
       "name": "Christina Ricci",
       "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg",
-      "popularity": 88.731,
+      "popularity": 99.819,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 2131391,
-      "name": "Violet McGraw",
-      "profile_path": "/8Nu8Z6FFEmsO5nZgJZDKHvzYUb0.jpg",
-      "popularity": 87.836,
+      "id": 15555,
+      "name": "Piper Perabo",
+      "profile_path": "/aP9QqLm4JZxLwp2CiUbEh5zrpVI.jpg",
+      "popularity": 99.34,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 5469,
+      "name": "Ralph Fiennes",
+      "profile_path": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
+      "popularity": 96.94,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 1310719,
+      "name": "Nijiro Murakami",
+      "profile_path": "/cl0PnyIo5X1hN0eDpnYbT6qWNo0.jpg",
+      "popularity": 96.587,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 3292,
+      "name": "Nicholas Hoult",
+      "profile_path": "/rbyi6sOw0dGV3wJzKXDopm2h0NO.jpg",
+      "popularity": 96.205,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2948828,
+      "name": "AJ Raval",
+      "profile_path": "/2JMxcjkUc5SPrj8P9GCFQev4pbm.jpg",
+      "popularity": 94.322,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 543530,
+      "name": "Dave Bautista",
+      "profile_path": "/sAeWLLUFEVggkLjrnkI6NiUMtLO.jpg",
+      "popularity": 93.768,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 8784,
+      "name": "Daniel Craig",
+      "profile_path": "/6j9Hu3gZsMEl6vZHNTko9yqp0Y6.jpg",
+      "popularity": 92.98,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -143,15 +119,23 @@
       "id": 142636,
       "name": "Josh Holloway",
       "profile_path": "/biuhUJn5BDhXpfKvVW4dVUxvB44.jpg",
-      "popularity": 87.765,
+      "popularity": 91.13,
       "adult": false,
       "known_for_department": "Acting"
     },
     {
-      "id": 1356210,
-      "name": "Millie Bobby Brown",
-      "profile_path": "/2685xGmq68G6tmnUbfgSR6rywEV.jpg",
-      "popularity": 87.266,
+      "id": 65731,
+      "name": "Sam Worthington",
+      "profile_path": "/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg",
+      "popularity": 89.502,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 887,
+      "name": "Owen Wilson",
+      "profile_path": "/op8sGD20k3EQZLR92XtaHoIbW0o.jpg",
+      "popularity": 88.359,
       "adult": false,
       "known_for_department": "Acting"
     },
@@ -159,7 +143,23 @@
       "id": 2524,
       "name": "Tom Hardy",
       "profile_path": "/yVGF9FvDxTDPhGimTbZNfghpllA.jpg",
-      "popularity": 81.72,
+      "popularity": 86.116,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2037,
+      "name": "Cillian Murphy",
+      "profile_path": "/dm6V24NjjvjMiCtbMkc8Y2WPm2e.jpg",
+      "popularity": 85.657,
+      "adult": false,
+      "known_for_department": "Acting"
+    },
+    {
+      "id": 2472212,
+      "name": "Sae Bom",
+      "profile_path": "/6q8WnNGmI9aB05rFW7AQQcqyWGq.jpg",
+      "popularity": 84.704,
       "adult": false,
       "known_for_department": "Acting"
     }
